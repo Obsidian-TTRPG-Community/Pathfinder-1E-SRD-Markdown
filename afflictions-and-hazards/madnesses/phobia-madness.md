@@ -1,0 +1,11 @@
+# Phobia
+
+**Source** [_Horror Adventures pg. 185_](http://paizo.com/products/btpy9n5a?Pathfinder-Roleplaying-Game-Horror-Adventures), [_GameMastery Guide pg. 250_](http://paizo.com/pathfinderRPG/v5748btpy8ffn)  
+**Type** lesser madness (fear); **Save** DC 14  
+**Onset** 1 day  
+**Effect** Each round an afflicted character is within 30 feet and can see the object of her phobia, she must succeed at a Will saving throw or become shaken. The next round, the afflicted character can choose to attempt another saving throw to end the effect, but if she fails, she becomes scared (see page 10) instead. A scared character can choose to attempt another saving throw to become shaken again, but if she fails, she becomes frightened for 1d6 rounds instead.  
+**Dormancy Effect** Each round an afflicted character is within 30 feet and can see the object of her phobia, she must succeed at a Will saving throw or become shaken for 1 round. If the afflicted character succeeds at this saving throw by 5 or more, that particular stimulus can’t cause her to become shaken for 24 hours before having to attempt the saving throw again (for instance, if a character has a phobia of spiders and succeeds at her saving throw by 5 or more after seeing the wizard’s spider familiar, she doesn’t need to attempt another saving throw against the familiar for 24 hours, but she would still need to attempt a saving throw if she saw a different spider).  
+
+### Description
+
+A phobia is an irrational fear of an object or activity. Nearly any object or activity can become the focus of a phobia, but often the object is either very specific (like all spiders, no matter how big or small, or clowns) or something that could be hazardous in some situations (like heights or water) but could be made relativity safe with magical or mundane precautions. The GM determines the exact nature of the phobia, but it should have some connection to the madness’s impetus and be respectful to the narrative sensibilities and maturity of the player and the group.
