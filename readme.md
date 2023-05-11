@@ -1,6 +1,6 @@
 # TTRPGShare Pathfinder 1E Vault
 
-This community vault is currently a work in progress. However, we have two of the major components done: Bestiary, and Spells. 
+This community vault is currently a work in progress. However, we have three of the major components done: Afflictions & Hazards, Bestiary, and Spells. 
 
 Enjoy!
 
