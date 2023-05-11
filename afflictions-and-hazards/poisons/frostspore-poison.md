@@ -1,3 +1,7 @@
+---
+alias: Frostspore
+---
+
 # [[PFS-Legal]] Frostspore
 
 **Source** [_Pathfinder #61: Shards of Sin pg. 64_](http://paizo.com/products/btpy8rcj?Pathfinder-Adventure-Path-61-Shards-of-Sin)  

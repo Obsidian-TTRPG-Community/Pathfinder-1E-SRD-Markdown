@@ -1,3 +1,7 @@
+---
+alias: Demonplague
+---
+
 # Demonplague
 
 **Source** [_The Worldwound pg. 29_](http://paizo.com/products/btpy8yvk?Pathfinder-Campaign-Setting-The-Worldwound)  

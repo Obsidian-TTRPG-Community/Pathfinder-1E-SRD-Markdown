@@ -1,3 +1,7 @@
+---
+alias: Servants of the Book
+---
+
 # Servants of the Book
 
 **Source** [_Book of the Damned pg. 167_](http://paizo.com/products/btpy9tok)  

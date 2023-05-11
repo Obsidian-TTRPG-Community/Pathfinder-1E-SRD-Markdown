@@ -1,3 +1,7 @@
+---
+alias: Halo mushroom toxin
+---
+
 # Halo mushroom toxin
 
 **Source** [_Adventurer's Armory 2 pg. 18_](http://paizo.com/products/btpy9q01?Pathfinder-Player-Companion-Adventurers-Armory-2)  

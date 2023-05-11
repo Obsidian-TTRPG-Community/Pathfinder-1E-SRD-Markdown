@@ -1,4 +1,8 @@
-# Blue Whinnis
+---
+alias: Blue Whinnis (CRB)
+---
+
+# Blue Whinnis (CRB)
 
 **Source** [_PRPG Core Rulebook pg. 558_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  
 **Price** 120 gp; **Weight** —  

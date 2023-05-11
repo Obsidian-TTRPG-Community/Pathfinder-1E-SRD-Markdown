@@ -1,3 +1,7 @@
+---
+alias: Scarlet Leprosy
+---
+
 # Scarlet Leprosy
 
 **Source** [_Undead Unleashed pg. 15_](http://paizo.com/products/btpy991t?Pathfinder-Campaign-Setting-Undead-Unleashed)  

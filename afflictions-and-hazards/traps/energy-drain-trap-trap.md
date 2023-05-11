@@ -1,3 +1,7 @@
+---
+alias: Energy Drain Trap
+---
+
 ## Energy Drain Trap
 
 **Source** [_PRPG Core Rulebook pg. 421_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  

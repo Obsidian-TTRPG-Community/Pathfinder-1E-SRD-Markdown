@@ -1,3 +1,7 @@
+---
+alias: Rainbow jellyfish toxin
+---
+
 # [[PFS-Legal]] Rainbow jellyfish toxin
 
 **Source** [_Rival Guide pg. 53_](http://paizo.com/store/games/roleplayingGames/p/pathfinderRPG/paizo/pathfinderChronicles/v5748btpy8kc2)  

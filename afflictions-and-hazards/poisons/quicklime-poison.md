@@ -1,3 +1,7 @@
+---
+alias: Quicklime
+---
+
 # Quicklime
 
 **Source** [_Pathfinder #95: Anvil of Fire pg. 29_](http://paizo.com/products/btpy9et7?Pathfinder-Adventure-Path-95-Anvil-of-Fire)  

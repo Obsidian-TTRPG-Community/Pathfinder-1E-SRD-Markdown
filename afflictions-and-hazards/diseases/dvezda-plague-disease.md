@@ -1,3 +1,7 @@
+---
+alias: Dvezda Plague
+---
+
 # Dvezda Plague
 
 **Source** [_Pathfinder #69: Maiden, Mother, Crone pg. 71_](http://paizo.com/products/btpy8xbz?Pathfinder-Adventure-Path-69-Maiden-Mother-Crone)  

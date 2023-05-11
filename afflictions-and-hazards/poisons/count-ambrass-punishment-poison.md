@@ -1,3 +1,7 @@
+---
+alias: Count Ambras's punishment
+---
+
 # [[PFS-Legal]] Count Ambras's punishment
 
 **Source** [_Alchemy Manual pg. 9_](http://paizo.com/products/btpy959n?Pathfinder-Player-Companion-Alchemy-Manual)  

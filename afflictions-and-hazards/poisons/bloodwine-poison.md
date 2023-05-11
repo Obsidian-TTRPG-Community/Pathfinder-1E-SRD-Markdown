@@ -1,3 +1,7 @@
+---
+alias: Bloodwine
+---
+
 # Bloodwine
 
 **Source** [_Pathfinder #41: The Thousand Fangs Below pg. 42_](http://paizo.com/store/games/roleplayingGames/p/pathfinderRPG/paizo/pathfinderAdventurePath/serpentsSkull/v5748btpy8i8r)  

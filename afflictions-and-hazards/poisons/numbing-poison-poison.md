@@ -1,3 +1,7 @@
+---
+alias: Numbing poison
+---
+
 # [[3.5]] Numbing poison
 
 **Source** [_Pathfinder #7: Edge of Anarchy pg. 89_](http://paizo.com/pathfinder/adventurePath/curseOfTheCrimsonThrone/v5748btpy81xw)  

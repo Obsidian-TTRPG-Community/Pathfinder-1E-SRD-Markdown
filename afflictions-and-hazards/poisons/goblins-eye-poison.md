@@ -1,3 +1,7 @@
+---
+alias: Goblin's eye
+---
+
 # [[PFS-Legal]] Goblin's eye
 
 **Source** [_Ultimate Wilderness pg. 144_](http://paizo.com/products/btpy9ujo)  

@@ -1,3 +1,7 @@
+---
+alias: Bloodbrain Venom
+---
+
 # Bloodbrain Venom
 
 **Source** [_Pathfinder #118: Siege of Stone pg. 16_](http://paizo.com/products/btpy9pn4)  

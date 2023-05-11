@@ -1,3 +1,7 @@
+---
+alias: Witch-hunter's sword
+---
+
 # [[PFS-Legal]] Witch-hunter's sword
 
 **Source** [_Ultimate Wilderness pg. 145_](http://paizo.com/products/btpy9ujo)  

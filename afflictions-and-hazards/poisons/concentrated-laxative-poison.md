@@ -1,3 +1,7 @@
+---
+alias: Concentrated laxative
+---
+
 # [[PFS-Legal]] Concentrated laxative
 
 **Source** [_Antihero's Handbook pg. 28_](http://paizo.com/products/btpy9s2i?Pathfinder-Player-Companion-Antiheros-Handbook)  

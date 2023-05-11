@@ -1,3 +1,7 @@
+---
+alias: Tears of perfection
+---
+
 # Tears of perfection
 
 **Source** [_Faction Guide pg. 55_](http://paizo.com/store/downloads/pathfinder/pathfinderChronicles/pathfinderRPG/v5748btpy8emo)  

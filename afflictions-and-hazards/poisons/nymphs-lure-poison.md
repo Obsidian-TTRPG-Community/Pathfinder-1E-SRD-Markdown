@@ -1,3 +1,7 @@
+---
+alias: Nymph's lure
+---
+
 # [[PFS-Legal]] Nymph's lure
 
 **Source** [_Ultimate Wilderness pg. 144_](http://paizo.com/products/btpy9ujo)  

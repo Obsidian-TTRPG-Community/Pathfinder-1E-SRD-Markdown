@@ -1,3 +1,7 @@
+---
+alias: Breath of the mantis god
+---
+
 # Breath of the mantis god
 
 **Source** [_Adventurer's Guide pg. 158_](http://paizo.com/products/btpy9sjo?Pathfinder-Roleplaying-Game-Adventurers-Guide), [_Inner Sea Intrigue pg. 50_](http://paizo.com/products/btpy9l37/discuss&page=5?Pathfinder-Campaign-Setting-Inner-Sea-Intrigue)  

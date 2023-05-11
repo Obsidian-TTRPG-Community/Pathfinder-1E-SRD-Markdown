@@ -1,3 +1,7 @@
+---
+alias: Spawn of the Abyss
+---
+
 # Spawn of the Abyss
 
 **Source** [_Horror Adventures pg. 172_](http://paizo.com/products/btpy9n5a?Pathfinder-Roleplaying-Game-Horror-Adventures)  

@@ -1,3 +1,7 @@
+---
+alias: Lethe water
+---
+
 # Lethe water
 
 **Source** [_Feast of Dust pg. 42_](http://paizo.com/products/btpy9grq?Pathfinder-Module-Feast-of-Dust)  

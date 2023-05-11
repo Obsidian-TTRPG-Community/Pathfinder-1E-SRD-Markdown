@@ -1,3 +1,7 @@
+---
+alias: Glacier Plague
+---
+
 # Glacier Plague
 
 **Source** [_Irrisen - Land of Eternal Winter pg. 48_](http://paizo.com/products/btpy8w7f?Pathfinder-Campaign-Setting-Irrisen-Land-of-Eternal-Winter)  

@@ -1,4 +1,8 @@
-# Large Scorpion Venom
+---
+alias: Large Scorpion Venom (CRB)
+---
+
+# Large Scorpion Venom (CRB)
 
 **Source** [_PRPG Core Rulebook pg. 560_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  
 **Price** 200 gp; **Weight** —  

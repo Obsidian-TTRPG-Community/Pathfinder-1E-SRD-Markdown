@@ -1,3 +1,7 @@
+---
+alias: Deadfall
+---
+
 ## Deadfall
 
 **Source** [_Ultimate Wilderness pg. 173_](http://paizo.com/products/btpy9ujo)  

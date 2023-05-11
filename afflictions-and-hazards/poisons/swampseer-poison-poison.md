@@ -1,3 +1,7 @@
+---
+alias: Swampseer poison
+---
+
 # Swampseer poison
 
 **Source** [_Ultimate Equipment pg. 111_](http://paizo.com/products/btpy8tmc?Pathfinder-Roleplaying-Game-Ultimate-Equipment), [_Pathfinder #34: Blood for Blood pg. 63_](http://paizo.com/pathfinder/adventurePath/kingmaker/v5748btpy8b7w)  

@@ -1,3 +1,7 @@
+---
+alias: Black whinnis
+---
+
 # [[PFS-Legal]] Black whinnis
 
 **Source** [_Pathfinder #105: The Inferno Gate pg. 18_](http://paizo.com/products/btpy9jb9?Pathfinder-Adventure-Path-105-The-Inferno-Gate)  

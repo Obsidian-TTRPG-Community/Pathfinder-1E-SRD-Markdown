@@ -1,3 +1,7 @@
+---
+alias: Muddling heresy
+---
+
 # [[PFS-Boons-Only]] Muddling heresy
 
 **Source** [_Pathfinder #107: Scourge of the Godclaw pg. 73_](http://paizo.com/products/btpy9n0j?Pathfinder-Adventure-Path-107-Scourge-of-the-Godclaw)  

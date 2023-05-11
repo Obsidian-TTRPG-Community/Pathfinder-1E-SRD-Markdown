@@ -1,3 +1,7 @@
+---
+alias: Third eye
+---
+
 # [[PFS-Legal]] Third eye
 
 **Source** [_Ultimate Wilderness pg. 145_](http://paizo.com/products/btpy9ujo)  

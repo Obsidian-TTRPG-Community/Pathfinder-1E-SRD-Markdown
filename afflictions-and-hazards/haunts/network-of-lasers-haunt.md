@@ -1,3 +1,7 @@
+---
+alias: Network of Lasers
+---
+
 # Network of Lasers
 
 **Source** [_Horror Realms pg. 63_](http://paizo.com/products/btpy9op8?Pathfinder-Campaign-Setting-Horror-Realms)  

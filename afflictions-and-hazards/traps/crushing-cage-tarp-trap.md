@@ -1,3 +1,7 @@
+---
+alias: Crushing Cage Tarp
+---
+
 ## Crushing Cage Tarp
 
 **Source** [_Horror Adventures pg. 161_](http://paizo.com/products/btpy9n5a?Pathfinder-Roleplaying-Game-Horror-Adventures)  

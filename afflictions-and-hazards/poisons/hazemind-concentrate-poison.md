@@ -1,3 +1,7 @@
+---
+alias: Hazemind concentrate
+---
+
 # Hazemind concentrate
 
 **Source** [_Familiar Folio pg. 20_](http://paizo.com/products/btpy98d3?Pathfinder-Player-Companion-Familiar-Folio)  

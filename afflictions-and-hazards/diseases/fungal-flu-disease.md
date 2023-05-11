@@ -1,3 +1,7 @@
+---
+alias: Fungal Flu
+---
+
 # [[3.5]] Fungal Flu
 
 **Source** [_Pathfinder #13: Shadow in the Sky pg. 81_](http://paizo.com/pathfinder/adventurePath/secondDarkness/v5748btpy84em)  

@@ -1,3 +1,7 @@
+---
+alias: Dreaming death
+---
+
 # Dreaming death
 
 **Source** [_Agents of Evil pg. 22_](http://paizo.com/products/btpy9he0?Pathfinder-Player-Companion-Agents-of-Evil)  

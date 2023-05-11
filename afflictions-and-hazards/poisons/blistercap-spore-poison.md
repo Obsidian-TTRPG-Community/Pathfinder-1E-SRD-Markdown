@@ -1,3 +1,7 @@
+---
+alias: Blistercap spore
+---
+
 # [[PFS-Legal]] Blistercap spore
 
 **Source** [_Ultimate Wilderness pg. 143_](http://paizo.com/products/btpy9ujo)  

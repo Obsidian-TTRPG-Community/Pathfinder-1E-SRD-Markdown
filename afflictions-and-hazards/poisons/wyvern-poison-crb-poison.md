@@ -1,4 +1,8 @@
-# Wyvern Poison
+---
+alias: Wyvern Poison (CRB)
+---
+
+# Wyvern Poison (CRB)
 
 **Source** [_PRPG Core Rulebook pg. 560_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  
 **Price** N/A; **Weight** —  

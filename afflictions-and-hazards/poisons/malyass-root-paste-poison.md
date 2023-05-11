@@ -1,3 +1,7 @@
+---
+alias: Malyass Root Paste
+---
+
 # [[PFS-Legal]] Malyass Root Paste
 
 **Source** [_PRPG Core Rulebook pg. 560_](http://paizo.com/pathfinderRPG/v5748btpy88yj), [_Ultimate Equipment pg. 111_](http://paizo.com/products/btpy8tmc?Pathfinder-Roleplaying-Game-Ultimate-Equipment)  

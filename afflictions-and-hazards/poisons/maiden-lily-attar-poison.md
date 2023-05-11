@@ -1,3 +1,7 @@
+---
+alias: Maiden lily attar
+---
+
 # Maiden lily attar
 
 **Source** [_Murder's Mark pg. 26_](http://paizo.com/products/btpy8tj9?Pathfinder-Module-Murders-Mark)  

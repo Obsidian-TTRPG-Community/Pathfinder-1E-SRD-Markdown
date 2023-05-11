@@ -1,3 +1,7 @@
+---
+alias: Adyton
+---
+
 # Adyton
 
 **Source** [_Book of the Damned pg. 183_](http://paizo.com/products/btpy9tok)  

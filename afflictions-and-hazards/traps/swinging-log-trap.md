@@ -1,3 +1,7 @@
+---
+alias: Swinging Log
+---
+
 ## Swinging Log
 
 **Source** [_Ultimate Wilderness pg. 172_](http://paizo.com/products/btpy9ujo)  

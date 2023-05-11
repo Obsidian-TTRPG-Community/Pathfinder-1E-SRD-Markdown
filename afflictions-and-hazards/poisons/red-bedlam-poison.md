@@ -1,3 +1,7 @@
+---
+alias: Red bedlam
+---
+
 # [[PFS-Legal]] Red bedlam
 
 **Source** [_Ultimate Wilderness pg. 145_](http://paizo.com/products/btpy9ujo), [_Heroes of the Wild pg. 20_](http://paizo.com/products/btpy9cro?Pathfinder-Player-Companion-Heroes-of-the-Wild)  

@@ -1,3 +1,7 @@
+---
+alias: Vampire's kiss
+---
+
 # [[PFS-Legal]] Vampire's kiss
 
 **Source** [_Alchemy Manual pg. 9_](http://paizo.com/products/btpy959n?Pathfinder-Player-Companion-Alchemy-Manual)  

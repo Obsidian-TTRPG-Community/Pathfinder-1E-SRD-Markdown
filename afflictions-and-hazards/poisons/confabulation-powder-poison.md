@@ -1,3 +1,7 @@
+---
+alias: Confabulation powder
+---
+
 # [[PFS-Legal]] Confabulation powder
 
 **Source** [_Alchemy Manual pg. 11_](http://paizo.com/products/btpy959n?Pathfinder-Player-Companion-Alchemy-Manual)  

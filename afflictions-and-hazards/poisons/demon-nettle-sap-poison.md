@@ -1,3 +1,7 @@
+---
+alias: Demon nettle sap
+---
+
 # Demon nettle sap
 
 **Source** [_The Moonscar pg. 7_](http://paizo.com/products/btpy8ssi?Pathfinder-Module-The-Moonscar)  

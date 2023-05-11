@@ -1,3 +1,7 @@
+---
+alias: Styx sap
+---
+
 # [[PFS-Legal]] Styx sap
 
 **Source** [_Ultimate Wilderness pg. 145_](http://paizo.com/products/btpy9ujo)  

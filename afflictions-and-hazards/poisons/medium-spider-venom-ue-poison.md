@@ -1,3 +1,7 @@
+---
+alias: Medium spider venom
+---
+
 # [[PFS-Legal]] Medium spider venom
 
 **Source** [_Ultimate Equipment pg. 111_](http://paizo.com/products/btpy8tmc?Pathfinder-Roleplaying-Game-Ultimate-Equipment)  

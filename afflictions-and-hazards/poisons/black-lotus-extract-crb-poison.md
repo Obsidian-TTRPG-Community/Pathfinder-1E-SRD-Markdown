@@ -1,4 +1,8 @@
-# Black Lotus Extract
+---
+alias: Black Lotus Extract (CRB)
+---
+
+# Black Lotus Extract (CRB)
 
 **Source** [_PRPG Core Rulebook pg. 558_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  
 **Price** N/A; **Weight** —  

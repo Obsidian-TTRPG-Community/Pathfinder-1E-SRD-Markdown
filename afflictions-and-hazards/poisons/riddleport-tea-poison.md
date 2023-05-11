@@ -1,3 +1,7 @@
+---
+alias: Riddleport tea
+---
+
 # [[3.5]] Riddleport tea
 
 **Source** [_Second Darkness Player's Guide pg. 21_](http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/35E/v5748btpy84en)  

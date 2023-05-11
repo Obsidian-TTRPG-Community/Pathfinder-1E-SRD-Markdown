@@ -1,3 +1,7 @@
+---
+alias: Numerian Fluids
+---
+
 # Numerian Fluids
 
 **Source** [_Numeria, Land of Fallen Stars pg. 28_](http://paizo.com/products/btpy978l?Pathfinder-Campaign-Setting-Numeria-Land-of-Fallen-Stars)  

@@ -1,3 +1,7 @@
+---
+alias: Cytillesh extract
+---
+
 # Cytillesh extract
 
 **Source** [_Alchemy Manual pg. 11_](http://paizo.com/products/btpy959n?Pathfinder-Player-Companion-Alchemy-Manual), [_Classic Horrors Revisited pg. 8_](http://paizo.com/store/downloads/pathfinder/pathfinderChronicles/pathfinderRPG/v5748btpy8ban), [_Pathfinder #61: Shards of Sin pg. 64_](http://paizo.com/products/btpy8rcj?Pathfinder-Adventure-Path-61-Shards-of-Sin), [_No Response from Deepmar pg. 21_](http://paizo.com/products/btpy8rgl?Pathfinder-Module-No-Response-from-Deepmar)  

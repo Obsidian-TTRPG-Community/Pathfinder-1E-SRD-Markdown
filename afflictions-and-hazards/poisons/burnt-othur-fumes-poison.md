@@ -1,3 +1,7 @@
+---
+alias: Burnt othur fumes
+---
+
 # Burnt othur fumes
 
 **Source** [_Ultimate Equipment pg. 111_](http://paizo.com/products/btpy8tmc?Pathfinder-Roleplaying-Game-Ultimate-Equipment)  

@@ -1,3 +1,7 @@
+---
+alias: Calistria's revenge
+---
+
 # [[PFS-Legal]] Calistria's revenge
 
 **Source** [_Inner Sea Intrigue pg. 50_](http://paizo.com/products/btpy9l37/discuss&page=5?Pathfinder-Campaign-Setting-Inner-Sea-Intrigue)  

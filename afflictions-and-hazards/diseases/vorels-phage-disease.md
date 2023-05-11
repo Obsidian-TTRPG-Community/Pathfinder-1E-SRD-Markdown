@@ -1,3 +1,7 @@
+---
+alias: Vorel's Phage
+---
+
 # [[3.5]] Vorel's Phage
 
 **Source** [_Pathfinder #2: The Skinsaw Murders pg. 27_](http://paizo.com/pathfinder/adventurePath/riseOfTheRunelords/v5748btpy8029)  

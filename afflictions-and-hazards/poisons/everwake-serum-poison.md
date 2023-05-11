@@ -1,3 +1,7 @@
+---
+alias: Everwake serum
+---
+
 # Everwake serum
 
 **Source** [_Champions of Corruption pg. 27_](http://paizo.com/products/btpy991x?Pathfinder-Player-Companion-Champions-of-Corruption)  

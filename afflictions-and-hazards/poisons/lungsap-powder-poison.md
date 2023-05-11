@@ -1,3 +1,7 @@
+---
+alias: Lungsap powder
+---
+
 # [[PFS-Legal]] Lungsap powder
 
 **Source** [_Antihero's Handbook pg. 29_](http://paizo.com/products/btpy9s2i?Pathfinder-Player-Companion-Antiheros-Handbook)  

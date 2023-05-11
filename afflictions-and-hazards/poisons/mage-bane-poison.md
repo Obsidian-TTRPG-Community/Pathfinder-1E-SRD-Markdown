@@ -1,3 +1,7 @@
+---
+alias: Mage bane
+---
+
 # [[3.5]] Mage bane
 
 **Source** [_Dark Markets - A Guide to Katapesh pg. 40_](http://paizo.com/store/downloads/pathfinder/pathfinderChronicles/35E/v5748btpy87ut)  

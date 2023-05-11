@@ -1,3 +1,7 @@
+---
+alias: Breakaway Log
+---
+
 ## Breakaway Log
 
 **Source** [_Ultimate Wilderness pg. 173_](http://paizo.com/products/btpy9ujo)  

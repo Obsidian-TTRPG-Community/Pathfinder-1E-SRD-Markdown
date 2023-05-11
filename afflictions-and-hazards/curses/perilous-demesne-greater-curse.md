@@ -1,3 +1,7 @@
+---
+alias: Perilous Demesne, Greater
+---
+
 # Perilous Demesne, Greater
 
 **Source** [_Horror Adventures pg. 145_](http://paizo.com/products/btpy9n5a?Pathfinder-Roleplaying-Game-Horror-Adventures)  

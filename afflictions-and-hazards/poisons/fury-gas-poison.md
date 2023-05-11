@@ -1,3 +1,7 @@
+---
+alias: Fury gas
+---
+
 # [[PFS-Legal]] Fury gas
 
 **Source** [_Alchemy Manual pg. 7_](http://paizo.com/products/btpy959n?Pathfinder-Player-Companion-Alchemy-Manual)  

@@ -1,3 +1,7 @@
+---
+alias: Smell of fear
+---
+
 # [[PFS-Legal]] Smell of fear
 
 **Source** [_Alchemy Manual pg. 7_](http://paizo.com/products/btpy959n?Pathfinder-Player-Companion-Alchemy-Manual)  

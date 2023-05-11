@@ -1,3 +1,7 @@
+---
+alias: Bleeding Walls
+---
+
 # Bleeding Walls
 
 **Source** [_GameMastery Guide pg. 243_](http://paizo.com/pathfinderRPG/v5748btpy8ffn)  

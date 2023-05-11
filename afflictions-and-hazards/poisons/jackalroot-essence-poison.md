@@ -1,3 +1,7 @@
+---
+alias: Jackalroot essence
+---
+
 # [[PFS-Legal]] Jackalroot essence
 
 **Source** [_Ultimate Wilderness pg. 144_](http://paizo.com/products/btpy9ujo), [_Heroes of the Wild pg. 20_](http://paizo.com/products/btpy9cro?Pathfinder-Player-Companion-Heroes-of-the-Wild)  

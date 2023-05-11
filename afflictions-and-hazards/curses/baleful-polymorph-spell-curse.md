@@ -1,3 +1,7 @@
+---
+alias: Baleful Polymorph Spell
+---
+
 # Baleful Polymorph Spell
 
 **Source** [_PRPG Core Rulebook pg. 556_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  

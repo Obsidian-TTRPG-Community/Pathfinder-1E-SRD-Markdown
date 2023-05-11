@@ -1,3 +1,7 @@
+---
+alias: Crypt Fever
+---
+
 # Crypt Fever
 
 **Source** [_Tomb of the Iron Medusa pg. 13_](http://paizo.com/store/games/roleplayingGames/p/pathfinderRPG/paizo/pathfinderModules/v5748btpy8j5y)  

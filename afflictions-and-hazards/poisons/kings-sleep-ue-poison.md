@@ -1,4 +1,8 @@
-# King's sleep
+---
+alias: King's sleep (Ultimate Equipment)
+---
+
+# King's sleep (Ultimate Equipment)
 
 **Source** [_Ultimate Equipment pg. 111_](http://paizo.com/products/btpy8tmc?Pathfinder-Roleplaying-Game-Ultimate-Equipment)  
 **Price** 5,000 gp; **Weight** —  

@@ -1,4 +1,8 @@
-## [Spring-arm Spike](https://www.aonprd.com/Traps.aspx?ItemName=Spring-arm%20Spike)
+---
+alias: Spring-arm Spike
+---
+
+## Spring-arm Spike
 
 **Source** [_Ultimate Wilderness pg. 173_](http://paizo.com/products/btpy9ujo)  
 **Associated Terrain** any forests, jungles, or swamps  

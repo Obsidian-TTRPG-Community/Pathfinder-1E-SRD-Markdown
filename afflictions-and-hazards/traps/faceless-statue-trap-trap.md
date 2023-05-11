@@ -1,3 +1,7 @@
+---
+alias: Faceless Statue Trap
+---
+
 ## Faceless Statue Trap
 
 **Source** [_Horror Adventures pg. 162_](http://paizo.com/products/btpy9n5a?Pathfinder-Roleplaying-Game-Horror-Adventures)  

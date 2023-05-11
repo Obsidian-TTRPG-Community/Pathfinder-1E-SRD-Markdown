@@ -1,3 +1,7 @@
+---
+alias: Blood Veil
+---
+
 # Blood Veil
 
 **Source** [_Curse of the Crimson Throne (PFRPG) pg. 431_](http://paizo.com/products/btpy9nme?Pathfinder-Adventure-Path-Curse-of-the-Crimson-Throne), [_Pathfinder #8: Seven Days to the Grave pg. 9_](http://paizo.com/pathfinder/adventurePath/curseOfTheCrimsonThrone/v5748btpy82qy)  

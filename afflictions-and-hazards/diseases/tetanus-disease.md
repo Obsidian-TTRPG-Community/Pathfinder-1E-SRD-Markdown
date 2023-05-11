@@ -1,3 +1,7 @@
+---
+alias: Tetanus
+---
+
 # [[3.5]] Tetanus
 
 **Source** [_Pathfinder #1: Burnt Offerings pg. 43_](http://paizo.com/pathfinder/adventurePath/riseOfTheRunelords/v5748btpy7zkq)  

@@ -1,3 +1,7 @@
+---
+alias: Breach to the Quickening
+---
+
 # Breach to the Quickening
 
 **Source** [_Horror Realms pg. 60_](http://paizo.com/products/btpy9op8?Pathfinder-Campaign-Setting-Horror-Realms)  

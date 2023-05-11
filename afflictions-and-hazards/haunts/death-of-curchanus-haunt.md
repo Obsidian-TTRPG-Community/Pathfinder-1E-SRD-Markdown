@@ -1,3 +1,7 @@
+---
+alias: Death of Curchanus
+---
+
 # Death of Curchanus
 
 **Source** [_Horror Realms pg. 62_](http://paizo.com/products/btpy9op8?Pathfinder-Campaign-Setting-Horror-Realms)  

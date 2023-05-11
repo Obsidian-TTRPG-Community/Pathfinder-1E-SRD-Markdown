@@ -1,3 +1,7 @@
+---
+alias: Nightmare Vapor
+---
+
 # Nightmare Vapor
 
 **Source** [_PRPG Core Rulebook pg. 560_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  

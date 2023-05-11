@@ -1,3 +1,7 @@
+---
+alias: Filth Fever
+---
+
 # Filth Fever
 
 **Source** [_PRPG Core Rulebook pg. 557_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  

@@ -1,4 +1,8 @@
-## [Breakaway Vine](https://www.aonprd.com/Traps.aspx?ItemName=Breakaway%20Vine)
+---
+alias: Breakaway Vine
+---
+
+## Breakaway Vine
 
 **Source** [_Ultimate Wilderness pg. 172_](http://paizo.com/products/btpy9ujo)  
 **Associated Terrain** any forests, jungles, or swamps  

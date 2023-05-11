@@ -1,4 +1,8 @@
-# Insanity mist
+---
+alias: Insanity mist (Ultimate Equipment)
+---
+
+# Insanity mist (Ultimate Equipment)
 
 **Source** [_Ultimate Equipment pg. 111_](http://paizo.com/products/btpy8tmc?Pathfinder-Roleplaying-Game-Ultimate-Equipment)  
 **Price** 1,500 gp; **Weight** —  

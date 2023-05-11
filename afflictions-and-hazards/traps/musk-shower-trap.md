@@ -1,3 +1,7 @@
+---
+alias: Musk Shower
+---
+
 ## Musk Shower
 
 **Source** [_Ultimate Wilderness pg. 172_](http://paizo.com/products/btpy9ujo)  

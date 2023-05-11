@@ -1,3 +1,7 @@
+---
+alias: Drow Poison
+---
+
 # Drow Poison
 
 **Source** [_Ultimate Equipment pg. 111_](http://paizo.com/products/btpy8tmc?Pathfinder-Roleplaying-Game-Ultimate-Equipment), [_PRPG Core Rulebook pg. 559_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  

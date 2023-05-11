@@ -1,3 +1,7 @@
+---
+alias: Might blight
+---
+
 # Might blight
 
 **Source** [_Merchant's Manifest pg. 11_](http://paizo.com/products/btpy9vn1?Pathfinder-Player-Companion-Merchants-Manifest)  

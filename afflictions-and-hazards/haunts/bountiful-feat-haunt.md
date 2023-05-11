@@ -1,3 +1,7 @@
+---
+alias: Bountiful Feat
+---
+
 # Bountiful Feat
 
 **Source** [_Pathfinder #144: Midwives to Death pg. 65_](https://paizo.com/products/btq01zno)  

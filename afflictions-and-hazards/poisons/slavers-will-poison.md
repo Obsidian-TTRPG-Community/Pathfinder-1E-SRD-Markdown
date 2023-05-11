@@ -1,3 +1,7 @@
+---
+alias: Slaver's will
+---
+
 # Slaver's will
 
 **Source** [_Heroes of the Darklands pg. 31_](http://paizo.com/products/btpy9sjq)  

@@ -1,3 +1,7 @@
+---
+alias: Mumia
+---
+
 # Mumia
 
 **Source** [_Lost Kingdoms pg. 22_](http://paizo.com/products/btpy8sa5?Pathfinder-Campaign-Setting-Lost-Kingdoms)  

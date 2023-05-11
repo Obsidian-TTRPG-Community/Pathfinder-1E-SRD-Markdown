@@ -1,4 +1,8 @@
-# Black lotus extract
+---
+alias: Black lotus extract (Ultimate Equipment)
+---
+
+# Black lotus extract (Ultimate Equipment)
 
 **Source** [_Ultimate Equipment pg. 111_](http://paizo.com/products/btpy8tmc?Pathfinder-Roleplaying-Game-Ultimate-Equipment)  
 **Price** 4,500 gp; **Weight** —  

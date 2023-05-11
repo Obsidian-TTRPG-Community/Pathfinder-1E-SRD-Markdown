@@ -1,3 +1,7 @@
+---
+alias: Sealed Fate
+---
+
 # Sealed Fate
 
 **Source** [_Horror Adventures pg. 139_](http://paizo.com/products/btpy9n5a?Pathfinder-Roleplaying-Game-Horror-Adventures)  

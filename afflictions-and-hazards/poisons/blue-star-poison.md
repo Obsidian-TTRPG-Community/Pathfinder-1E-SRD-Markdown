@@ -1,3 +1,7 @@
+---
+alias: Blue star
+---
+
 # [[PFS-Legal]] Blue star
 
 **Source** [_Ultimate Wilderness pg. 143_](http://paizo.com/products/btpy9ujo)  

@@ -1,3 +1,7 @@
+---
+alias: The Tainted Plague
+---
+
 # [[3.5]] The Tainted Plague
 
 **Source** [_Pathfinder Campaign Setting pg. 149_](http://paizo.com/store/downloads/pathfinder/pathfinderChronicles/35E/v5748btpy84eo)  

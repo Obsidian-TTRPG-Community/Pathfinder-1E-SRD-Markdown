@@ -1,3 +1,7 @@
+---
+alias: Wall Scythe Trap
+---
+
 ## Wall Scythe Trap
 
 **Source** [_PRPG Core Rulebook pg. 420_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  

@@ -1,3 +1,7 @@
+---
+alias: Opium
+---
+
 # Opium
 
 **Source** [_GameMastery Guide pg. 237_](http://paizo.com/pathfinderRPG/v5748btpy8ffn)  

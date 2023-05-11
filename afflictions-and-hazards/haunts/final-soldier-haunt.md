@@ -1,3 +1,7 @@
+---
+alias: Final Soldier
+---
+
 # Final Soldier
 
 **Source** [_Horror Adventures pg. 179_](http://paizo.com/products/btpy9n5a?Pathfinder-Roleplaying-Game-Horror-Adventures)  

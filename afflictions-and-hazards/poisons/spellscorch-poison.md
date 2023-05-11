@@ -1,3 +1,7 @@
+---
+alias: Spellscorch
+---
+
 # Spellscorch
 
 **Source** [_Advanced Race Guide pg. 1_](http://paizo.com/products/btpy8rv2?Pathfinder-Roleplaying-Game-Advanced-Race-Guide)  

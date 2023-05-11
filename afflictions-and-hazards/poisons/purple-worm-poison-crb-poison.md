@@ -1,4 +1,8 @@
-# Purple Worm Poison
+---
+alias: Purple Worm Poison (CRB)
+---
+
+# Purple Worm Poison (CRB)
 
 **Source** [_PRPG Core Rulebook pg. 560_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  
 **Price** 700 gp; **Weight** —  

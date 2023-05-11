@@ -1,3 +1,7 @@
+---
+alias: Woundweal
+---
+
 # [[PFS-Legal]] Woundweal
 
 **Source** [_Adventurer's Armory pg. 19_](http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/pathfinderRPG/v5748btpy8dmf)  

@@ -1,3 +1,7 @@
+---
+alias: Tongue twist
+---
+
 # [[PFS-Legal]] Tongue twist
 
 **Source** [_Potions and Poisons pg. 25_](http://paizo.com/products/btpy9xa4?Pathfinder-Player-Companion-Potions-Poisons)  

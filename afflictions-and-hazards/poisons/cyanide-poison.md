@@ -1,3 +1,7 @@
+---
+alias: Cyanide
+---
+
 # [[PFS-Legal]] Cyanide
 
 **Source** [_Heroes of the Darklands pg. 31_](http://paizo.com/products/btpy9sjq)  

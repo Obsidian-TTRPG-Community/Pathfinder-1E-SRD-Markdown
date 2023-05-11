@@ -1,3 +1,7 @@
+---
+alias: Bear Trap
+---
+
 ## Bear Trap
 
 **Source** [_Advanced Player's Guide pg. 184_](http://paizo.com/pathfinderRPG/v5748btpy8fo1)  

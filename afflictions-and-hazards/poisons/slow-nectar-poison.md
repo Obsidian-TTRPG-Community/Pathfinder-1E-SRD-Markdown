@@ -1,3 +1,7 @@
+---
+alias: Slow nectar
+---
+
 # Slow nectar
 
 **Source** [_Pathfinder #93: Forge of the Giant God pg. 8_](http://paizo.com/products/btpy9c1x?Pathfinder-Adventure-Path-93-Forge-of-the-Giant-God)  

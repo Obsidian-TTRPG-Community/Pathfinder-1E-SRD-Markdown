@@ -1,3 +1,7 @@
+---
+alias: Whisperwound
+---
+
 # [[PFS-Legal]] Whisperwound
 
 **Source** [_Dirty Tactics Toolbox pg. 9_](http://paizo.com/products/btpy9g23?Pathfinder-Player-Companion-Dirty-Tactics-Toolbox)  

@@ -1,3 +1,7 @@
+---
+alias: Crushing Stone Trap
+---
+
 ## Crushing Stone Trap
 
 **Source** [_PRPG Core Rulebook pg. 422_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  

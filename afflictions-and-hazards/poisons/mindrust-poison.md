@@ -1,3 +1,7 @@
+---
+alias: Mindrust
+---
+
 # [[PFS-Legal]] Mindrust
 
 **Source** [_Path of the Hellknight pg. 45_](http://paizo.com/products/btpy9l39?Pathfinder-Campaign-Setting-Path-of-the-Hellknight)  

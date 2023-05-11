@@ -1,3 +1,7 @@
+---
+alias: Spidervine poison
+---
+
 # Spidervine poison
 
 **Source** [_Heart of the Jungle pg. 6_](http://paizo.com/store/downloads/pathfinder/pathfinderChronicles/pathfinderRPG/v5748btpy8evh)  

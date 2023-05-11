@@ -1,3 +1,7 @@
+---
+alias: Daemonic Wasting
+---
+
 # Daemonic Wasting
 
 **Source** [_Pathfinder #54: The Empty Throne pg. 28_](http://paizo.com/pathfinder/v5748btpy8mh1)  

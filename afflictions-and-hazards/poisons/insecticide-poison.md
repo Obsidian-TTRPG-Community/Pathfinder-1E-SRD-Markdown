@@ -1,3 +1,7 @@
+---
+alias: Insecticide
+---
+
 # [[PFS-Legal]] Insecticide
 
 **Source** [_Potions and Poisons pg. 24_](http://paizo.com/products/btpy9xa4?Pathfinder-Player-Companion-Potions-Poisons)  

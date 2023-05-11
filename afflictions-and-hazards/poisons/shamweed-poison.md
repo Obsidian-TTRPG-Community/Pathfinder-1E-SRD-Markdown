@@ -1,3 +1,7 @@
+---
+alias: Shamweed
+---
+
 # Shamweed
 
 **Source** [_Guide to the River Kingdoms pg. 14_](http://paizo.com/store/downloads/pathfinder/pathfinderChronicles/pathfinderRPG/v5748btpy8d50)  

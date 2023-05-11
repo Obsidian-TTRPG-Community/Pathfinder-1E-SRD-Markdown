@@ -1,3 +1,7 @@
+---
+alias: Malaria (Jungle Fever)
+---
+
 # Malaria (Jungle Fever)
 
 **Source** [_Heart of the Jungle pg. 7_](http://paizo.com/store/downloads/pathfinder/pathfinderChronicles/pathfinderRPG/v5748btpy8evh)  

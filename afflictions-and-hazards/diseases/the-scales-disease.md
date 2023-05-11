@@ -1,3 +1,7 @@
+---
+alias: The Scales
+---
+
 # The Scales
 
 **Source** [_Lost Cities of Golarion pg. 8_](http://paizo.com/store/games/roleplayingGames/p/pathfinderRPG/paizo/pathfinderChronicles/v5748btpy8i8t)  

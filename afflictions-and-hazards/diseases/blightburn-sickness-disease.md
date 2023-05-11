@@ -1,3 +1,7 @@
+---
+alias: Sickness
+---
+
 # Blightburn Sickness
 
 **Source** [_Undead Unleashed pg. 15_](http://paizo.com/products/btpy991t?Pathfinder-Campaign-Setting-Undead-Unleashed), [_Mythic Realms pg. 21_](http://paizo.com/products/btpy90q7?Pathfinder-Campaign-Setting-Mythic-Realms)  

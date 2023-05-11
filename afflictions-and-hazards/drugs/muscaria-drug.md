@@ -1,3 +1,7 @@
+---
+alias: Muscaria
+---
+
 # Muscaria
 
 **Source** [_Pathfinder #110: The Thrushmoor Terror pg. 14_](http://paizo.com/products/btpy9l3g)  

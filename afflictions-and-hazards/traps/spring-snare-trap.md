@@ -1,3 +1,7 @@
+---
+alias: Spring Snare
+---
+
 ## Spring Snare
 
 **Source** [_Ultimate Wilderness pg. 172_](http://paizo.com/products/btpy9ujo)  

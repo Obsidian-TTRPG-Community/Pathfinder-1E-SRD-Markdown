@@ -1,3 +1,7 @@
+---
+alias: Dream crystal toxin
+---
+
 # Dream crystal toxin
 
 **Source** [_Doom Comes to Dustpawn pg. 18_](http://paizo.com/products/btpy8xc5?Pathfinder-Module-Doom-Comes-to-Dustpawn)  

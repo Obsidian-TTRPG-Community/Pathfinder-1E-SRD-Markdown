@@ -1,3 +1,7 @@
+---
+alias: Fallen from the Sky
+---
+
 # Fallen from the Sky
 
 **Source** [_Horror Adventures pg. 179_](http://paizo.com/products/btpy9n5a?Pathfinder-Roleplaying-Game-Horror-Adventures)  

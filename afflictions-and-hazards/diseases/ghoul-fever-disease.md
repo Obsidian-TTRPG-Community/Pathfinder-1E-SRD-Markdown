@@ -1,3 +1,7 @@
+---
+alias: Ghoul Fever
+---
+
 # Ghoul Fever
 
 **Source** [_Pathfinder RPG Bestiary pg. 146_](http://paizo.com/products/btpy8auu?Pathfinder-Roleplaying-Game-Bestiary)  

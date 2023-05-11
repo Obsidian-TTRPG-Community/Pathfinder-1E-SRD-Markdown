@@ -1,3 +1,7 @@
+---
+alias: Leng's tears
+---
+
 # Leng's tears
 
 **Source** [_Adventurer's Armory 2 pg. 18_](http://paizo.com/products/btpy9q01?Pathfinder-Player-Companion-Adventurers-Armory-2)  

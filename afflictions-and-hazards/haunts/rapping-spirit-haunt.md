@@ -1,3 +1,7 @@
+---
+alias: Rapping Spirit
+---
+
 # Rapping Spirit
 
 **Source** [_Occult Adventures pg. 230_](http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures)  

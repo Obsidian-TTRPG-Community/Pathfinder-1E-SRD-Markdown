@@ -1,3 +1,7 @@
+---
+alias: Lungtaker
+---
+
 # Lungtaker
 
 **Source** [_Magnimar, City of Monuments pg. 45_](http://paizo.com/products/btpy8slp?Pathfinder-Campaign-Setting-Magnimar-City-of-Monuments)  

@@ -1,3 +1,7 @@
+---
+alias: Insanity Mist Trap
+---
+
 ## Insanity Mist Trap
 
 **Source** [_PRPG Core Rulebook pg. 421_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  

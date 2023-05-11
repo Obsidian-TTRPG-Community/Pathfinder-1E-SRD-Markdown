@@ -1,4 +1,8 @@
-# Lich Dust
+---
+alias: Lich Dust (CRB)
+---
+
+# Lich Dust (CRB)
 
 **Source** [_PRPG Core Rulebook pg. 560_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  
 **Price** 400 gp; **Weight** —  

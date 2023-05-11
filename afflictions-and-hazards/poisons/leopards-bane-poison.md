@@ -1,3 +1,7 @@
+---
+alias: Leopard's bane
+---
+
 # [[PFS-Legal]] Leopard's bane
 
 **Source** [_Antihero's Handbook pg. 29_](http://paizo.com/products/btpy9s2i?Pathfinder-Player-Companion-Antiheros-Handbook)  

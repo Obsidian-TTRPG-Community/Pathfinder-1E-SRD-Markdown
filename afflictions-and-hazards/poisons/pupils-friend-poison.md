@@ -1,3 +1,7 @@
+---
+alias: Pupil's friend
+---
+
 # Pupil's friend
 
 **Source** [_Potions and Poisons pg. 25_](http://paizo.com/products/btpy9xa4?Pathfinder-Player-Companion-Potions-Poisons)  

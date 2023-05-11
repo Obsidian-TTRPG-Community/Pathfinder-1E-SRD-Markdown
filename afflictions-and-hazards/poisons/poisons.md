@@ -70,7 +70,7 @@ Some triggered poisons have initial and secondary effects. The first time after 
 | [[indigo-dreams-poison\|Indigo dreams]] | ingested | Fort DC 13 | 10 minutes | 1/min. for 6 mins. | 1d3 Wis | 150 gp |
 |  [[PFS-Legal]] [[marvelous-fear-gas-poison\|Marvelous fear gas]] | inhaled | Fort DC 17 | injury or affected by any fear condition or effect | 1/min. for 4 mins. | shaken for... / 1d2 Wisdom... | 150 gp |
 |  [[PFS-Legal]] [[medium-spider-venom-ue-poison\|Medium spider venom]] | injury | Fort DC 14 | — | 1/rd. for 4 rds. | 1d2 Str | 150 gp |
-| [[medium-spider-venom-crb-poison\|Medium Spider Venom]] | injury | Fort DC 14 | — | 1/rd. for 4 rds. | 1d2 Str da... | 150 gp |
+| [[medium-spider-venom-crb-poison\|Medium Spider Venom (CRB)]] | injury | Fort DC 14 | — | 1/rd. for 4 rds. | 1d2 Str da... | 150 gp |
 | [[rainbow-scarab-shell-poison\|Rainbow scarab shell]] | injury | Fort DC 14 | 1 round | 1/rd. for 4 rds. | 1d4 Streng... | 150 gp |
 |  [[PFS-Legal]] [[alchemical-isolation-poison\|Alchemical isolation]] | inhaled | Fort DC 13 | — | 1/min. for 2 mins. | deafened f... / blinded fo... | 175 gp |
 |  [[PFS-Legal]] [[insecticide-poison\|Insecticide]] | inhaled | Fort DC 10 (see text) | — | 1/rd. for 3 rds. | 1 Str dama... | 175 gp |
@@ -79,7 +79,7 @@ Some triggered poisons have initial and secondary effects. The first time after 
 |  [[PFS-Legal]] [[chelish-deathapple-poison\|Chelish deathapple]] | ingested | Fort DC 23 | 1 minute | 1/min. for 2 mins. | enter a de... / remain in ... | 200 gp |
 | [[hazemind-concentrate-poison\|Hazemind concentrate]] | injury | Fort DC 16 | 1 round | 1/rd. for 6 rds. | The subjec... | 200 gp |
 |  [[PFS-Legal]] [[large-scorpion-venom-ue-poison\|Large scorpion venom]] | injury | Fort DC 17 | — | 1/rd. for 6 rds. | 1d2 Str | 200 gp |
-| [[large-scorpion-venom-crb-poison\|Large Scorpion Venom]] | injury | Fort DC 17 | — | 1/rd. for 6 rds. | 1d2 Str da... | 200 gp |
+| [[large-scorpion-venom-crb-poison\|Large Scorpion Venom (CRB)]] | injury | Fort DC 17 | — | 1/rd. for 6 rds. | 1d2 Str da... | 200 gp |
 | [[3.5]] [[purple-pesh-poison\|Purple pesh]] | ingested | Fort DC 18 | — | — | 1d2 Con an... / unconsciou... | 200 gp |
 | [[spellscorch-poison\|Spellscorch]] | injury | Fort DC 14 | — | 1/rd. for 4 rds. | Refined fr... | 200 gp |
 | [[giant-wasp-poison-poison\|Giant Wasp Poison]] | injury | Fort DC 18 | — | 1/rd. for 6 rds. | 1d2 Dex da... | 210 gp |

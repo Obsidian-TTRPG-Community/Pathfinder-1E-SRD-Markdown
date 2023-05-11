@@ -1,3 +1,7 @@
+---
+alias: Giant Wasp Poison
+---
+
 # Giant Wasp Poison
 
 **Source** [_PRPG Core Rulebook pg. 559_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  

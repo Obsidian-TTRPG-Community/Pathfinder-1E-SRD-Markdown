@@ -1,3 +1,7 @@
+---
+alias: Spellscar Fever
+---
+
 # Spellscar Fever
 
 **Source** [_Pathfinder #119: Prisoners of the Blight pg. 63_](http://paizo.com/products/btpy9npn)  

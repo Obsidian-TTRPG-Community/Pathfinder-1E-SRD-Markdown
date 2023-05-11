@@ -1,3 +1,7 @@
+---
+alias: Twisted Wish
+---
+
 # Twisted Wish
 
 **Source** [_Horror Adventures pg. 181_](http://paizo.com/products/btpy9n5a?Pathfinder-Roleplaying-Game-Horror-Adventures)  

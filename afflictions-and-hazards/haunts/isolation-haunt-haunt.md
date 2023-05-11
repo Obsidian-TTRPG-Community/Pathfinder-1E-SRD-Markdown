@@ -1,3 +1,7 @@
+---
+alias: Isolation Haunt
+---
+
 # Isolation Haunt
 
 **Source** [_Construct Handbook pg. 49_](https://paizo.com/products/btq01vam)  

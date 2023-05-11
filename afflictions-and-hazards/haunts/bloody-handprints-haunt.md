@@ -1,3 +1,7 @@
+---
+alias: Bloody Handprints
+---
+
 # Bloody Handprints
 
 **Source** [_Horror Adventures pg. 174_](http://paizo.com/products/btpy9n5a?Pathfinder-Roleplaying-Game-Horror-Adventures)  

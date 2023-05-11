@@ -1,3 +1,7 @@
+---
+alias: Moxix's Delectation
+---
+
 # Moxix's Delectation
 
 **Source** [_Pathfinder #58: Island of Empty Eyes pg. 67_](http://paizo.com/pathfinder/adventurePath/skullAndShackles/v5748btpy8mog)  

@@ -1,3 +1,7 @@
+---
+alias: Draughtcap fungus
+---
+
 # [[PFS-Legal]] Draughtcap fungus
 
 **Source** [_Ultimate Wilderness pg. 144_](http://paizo.com/products/btpy9ujo)  

@@ -1,3 +1,7 @@
+---
+alias: Heart Explosion
+---
+
 # Heart Explosion
 
 **Source** [_Horror Adventures pg. 178_](http://paizo.com/products/btpy9n5a?Pathfinder-Roleplaying-Game-Horror-Adventures)  

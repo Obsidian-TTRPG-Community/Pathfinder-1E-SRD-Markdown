@@ -1,4 +1,8 @@
-# Medium Spider Venom
+---
+alias: Medium Spider Venom (CRB)
+---
+
+# Medium Spider Venom (CRB)
 
 **Source** [_PRPG Core Rulebook pg. 560_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  
 **Price** 150 gp; **Weight** —  

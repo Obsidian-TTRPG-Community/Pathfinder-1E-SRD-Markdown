@@ -1,3 +1,7 @@
+---
+alias: Red tears
+---
+
 # [[3.5]] Red tears
 
 **Source** [_Dirty Tactics Toolbox pg. 7_](http://paizo.com/products/btpy9g23?Pathfinder-Player-Companion-Dirty-Tactics-Toolbox)  

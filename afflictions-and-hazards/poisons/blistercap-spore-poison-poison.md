@@ -1,3 +1,7 @@
+---
+alias: Blistercap spore poison
+---
+
 # [[PFS-Legal]] Blistercap spore poison
 
 **Source** [_Heroes of the Wild pg. 20_](http://paizo.com/products/btpy9cro?Pathfinder-Player-Companion-Heroes-of-the-Wild)  

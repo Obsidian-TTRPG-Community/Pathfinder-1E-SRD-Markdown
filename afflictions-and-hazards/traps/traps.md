@@ -1,3 +1,7 @@
+---
+alias: Traps
+---
+
 # Traps
 
 The following sample traps represent just some of the possibilities when constructing traps to challenge the player characters.

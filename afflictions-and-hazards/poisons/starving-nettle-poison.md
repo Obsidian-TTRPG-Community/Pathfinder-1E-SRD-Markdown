@@ -1,3 +1,7 @@
+---
+alias: Starving nettle
+---
+
 # Starving nettle
 
 **Source** [_Ultimate Wilderness pg. 145_](http://paizo.com/products/btpy9ujo)  

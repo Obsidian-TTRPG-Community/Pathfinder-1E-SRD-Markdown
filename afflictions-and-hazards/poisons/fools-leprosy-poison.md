@@ -1,3 +1,7 @@
+---
+alias: Fool's Leprosy
+---
+
 # Fool's Leprosy
 
 **Source** [_Curse of the Crimson Throne (PFRPG) pg. 432_](http://paizo.com/products/btpy9nme?Pathfinder-Adventure-Path-Curse-of-the-Crimson-Throne)  

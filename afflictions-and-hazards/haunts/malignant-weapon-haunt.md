@@ -1,3 +1,7 @@
+---
+alias: Malignant Weapon
+---
+
 # Malignant Weapon
 
 **Source** [_Occult Adventures pg. 231_](http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures)  

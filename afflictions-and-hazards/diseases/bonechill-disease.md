@@ -1,3 +1,7 @@
+---
+alias: Bonechill
+---
+
 # Bonechill
 
 **Source** [_Pathfinder #51: The Hungry Storm pg. 67_](http://paizo.com/pathfinder/v5748btpy8kgv)  

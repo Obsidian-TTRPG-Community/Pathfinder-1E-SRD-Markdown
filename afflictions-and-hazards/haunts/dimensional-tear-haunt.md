@@ -1,3 +1,7 @@
+---
+alias: Dimensional Tear
+---
+
 # Dimensional Tear
 
 **Source** [_Ultimate Wilderness pg. 133_](http://paizo.com/products/btpy9ujo)  
