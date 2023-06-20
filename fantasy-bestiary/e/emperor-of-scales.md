@@ -22,7 +22,7 @@ aura: frightful presence, maddening hiss
 AC: 30, touch 15, flat-footed 23 (dex +7, natural +15, size -2)
 HP: 225
 HP_extra: regeneration 5; regeneration weakness electricity
-HD: 18d10+126
+hit_dice: 18d10+126
 saves: Fort +19, Ref +13, Will +15
 immune: acid, fire, mind-affecting effects, paralysis, poison, vorpal weapons
 DR: 15/good and silver

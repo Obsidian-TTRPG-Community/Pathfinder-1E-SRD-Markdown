@@ -23,7 +23,7 @@ senses: darkvision
 AC: 19, touch 15, flat-footed 14 (armor +4, dex +3, dodge +2)
 HP: 55
 HP_extra: HD 6
-HD: 2d6+4d10+22
+hit_dice: 2d6+4d10+22
 saves: Fort +4, Ref +7, Will +4
 defensive_abilities: charmed life 3/day, emotional push (+3, 1/day), nimble +1
 SR: 14

@@ -22,7 +22,7 @@ aura: dimensional lock
 AC: 50, touch 30, flat-footed 42 (deflection +20, dex +8, natural +20, size -8)
 HP: 740
 HP_extra: regeneration 35; regeneration weakness acid from a mythic spell or item
-HD: 40d10+520
+hit_dice: 40d10+520
 saves: Fort +37, Ref +21, Will +27
 immune: ability damage, disease, energy drain, paralysis, petrification, poison, polymorph
 DR: 20/epic

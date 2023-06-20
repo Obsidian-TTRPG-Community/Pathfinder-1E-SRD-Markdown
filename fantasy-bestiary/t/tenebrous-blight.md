@@ -20,7 +20,7 @@ aura: tenebrous aura
 AC: 20, touch 8, flat-footed 20 (natural +12, size -2)
 HP: 76
 HP_extra: regeneration 5; regeneration weakness acid
-HD: 9d8+36
+hit_dice: 9d8+36
 saves: Fort +10, Ref +3, Will +5
 immune: fire, plant traits
 speed: 20 ft.

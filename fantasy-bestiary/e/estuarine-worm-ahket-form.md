@@ -20,7 +20,7 @@ perception: +11
 senses: darkvision, low-light vision, tremorsense
 AC: 22, touch 11, flat-footed 19 (dex +3, natural +11, size -2)
 HP: 126
-HD: 11d10+66
+hit_dice: 11d10+66
 saves: Fort +13, Ref +10, Will +6
 saves_other: +4 vs. enchantment
 resist: acid 10, fire 10

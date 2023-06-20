@@ -22,7 +22,7 @@ aura: unholy aura (DC 31),
 AC: 42, touch 35, flat-footed 31 (deflection +4, dex +11, natural +7, profane +10)
 HP: 553
 HP_extra: regeneration 15; regeneration weakness good
-HD: 27d10+405
+hit_dice: 27d10+405
 saves: Fort +28, Ref +30, Will +26
 immune: charm and compulsion effects, death effects, disease, fire, electricity, poison
 resist: acid 30, cold 30

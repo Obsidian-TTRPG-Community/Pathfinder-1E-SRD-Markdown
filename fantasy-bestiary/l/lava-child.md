@@ -20,7 +20,7 @@ perception: +8
 senses: darkvision, tremorsense
 AC: 16, touch 11, flat-footed 15 (dex +1, natural +5)
 HP: 30
-HD: 4d10+8
+hit_dice: 4d10+8
 saves: Fort +5, Ref +5, Will +5
 immune: earth magic, fire, metal
 weak: vulnerability to cold and water

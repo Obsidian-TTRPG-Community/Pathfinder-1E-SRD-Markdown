@@ -19,7 +19,7 @@ INI: +1
 perception: +2
 AC: 14, touch 12, flat-footed 13 (dex +1, natural +2, size +1)
 HP: 15
-HD: 2d8+6
+hit_dice: 2d8+6
 saves: Fort +3, Ref +1, Will +5
 immune: undead traits
 speed: 10 ft., swim 20 ft.

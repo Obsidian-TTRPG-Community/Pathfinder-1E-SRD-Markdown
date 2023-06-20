@@ -20,7 +20,7 @@ senses: low-light vision, tremorsense
 aura: choking chaff
 AC: 12, touch 8, flat-footed 12 (dex -1, natural +4, size -1)
 HP: 57
-HD: 6d8+30
+hit_dice: 6d8+30
 saves: Fort +10, Ref +1, Will -3
 immune: plant traits
 DR: 5/-

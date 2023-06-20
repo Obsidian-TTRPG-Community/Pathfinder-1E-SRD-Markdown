@@ -21,7 +21,7 @@ INI: +0
 perception: +14
 AC: 14, touch 10, flat-footed 14 (armor +4)
 HP: 49
-HD: 9d6+18
+hit_dice: 9d6+18
 saves: Fort +5, Ref +4, Will +6
 speed: 30 ft.
 melee: +1 spear +8 (1d8+4/×3)

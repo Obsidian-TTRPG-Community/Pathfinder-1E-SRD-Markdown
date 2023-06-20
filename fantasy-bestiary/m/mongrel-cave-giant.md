@@ -20,7 +20,7 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 19, touch 9, flat-footed 19 (armor +4, natural +6, size -1)
 HP: 67
-HD: 9d8+27
+hit_dice: 9d8+27
 saves: Fort +9, Ref +3, Will +3
 defensive_abilities: ferocity, improved rock catching
 weak: light sensitivity

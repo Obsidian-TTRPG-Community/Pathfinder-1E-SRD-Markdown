@@ -22,7 +22,7 @@ perception: +8
 aura: courage, resolve
 AC: 17, touch 10, flat-footed 17 (armor +7, deflection +1, dex -1)
 HP: 64
-HD: 8d10+16
+hit_dice: 8d10+16
 saves: Fort +10, Ref +4, Will +11
 immune: charm, disease, fear
 speed: 20 ft.

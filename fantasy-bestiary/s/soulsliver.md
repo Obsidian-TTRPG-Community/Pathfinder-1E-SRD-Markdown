@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 AC: 15, touch 14, flat-footed 11 (dex +3, dodge +1, natural +1)
 HP: 19
 HP_extra: fast healing 1
-HD: 3d10+3
+hit_dice: 3d10+3
 saves: Fort +4, Ref +6, Will +2
 resist: acid 5, fire 5
 weak: vulnerable to sonic

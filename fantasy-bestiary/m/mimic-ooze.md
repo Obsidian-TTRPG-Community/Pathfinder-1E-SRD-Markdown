@@ -19,7 +19,7 @@ perception: -5
 senses: blindsight
 AC: 18, touch 18, flat-footed 10 (dex +7, dodge +1)
 HP: 105
-HD: 14d8+42
+hit_dice: 14d8+42
 saves: Fort +7, Ref +11, Will -1
 immune: acid, mind-affecting effects, ooze traits, piercing damage
 speed: 30 ft., climb 10 ft.

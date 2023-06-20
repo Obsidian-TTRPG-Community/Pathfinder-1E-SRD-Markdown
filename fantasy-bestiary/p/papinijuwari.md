@@ -20,7 +20,7 @@ perception: +4
 senses: darkvision, low-light vision, sense decay
 AC: 28, touch 11, flat-footed 25 (armor +8, dex +3, natural +9, size -2)
 HP: 187
-HD: 15d8+120
+hit_dice: 15d8+120
 saves: Fort +17, Ref +11, Will +11
 immune: disease, poison
 speed: 20 ft., fly 60 ft. (average), other ['shooting star'] ft.

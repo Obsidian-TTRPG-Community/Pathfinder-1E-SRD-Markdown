@@ -20,7 +20,7 @@ senses: low-light vision
 aura: protective aura
 AC: 26, touch 18, flat-footed 23 (armor +8, deflection +5, dex +3)
 HP: 170
-HD: 20d6+100
+hit_dice: 20d6+100
 saves: Fort +15, Ref +20, Will +20
 immune: charm, fear
 defensive_abilities: unearthly grace

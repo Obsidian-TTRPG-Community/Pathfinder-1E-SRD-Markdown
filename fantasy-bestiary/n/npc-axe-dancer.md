@@ -22,7 +22,7 @@ perception: +13
 senses: darkvision
 AC: 18, touch 17, flat-footed 16 (dex +1, dodge +1, monk +2, natural +1, wis +3)
 HP: 60
-HD: 8d8+21
+hit_dice: 8d8+21
 saves: Fort +9, Ref +8, Will +10
 saves_other: +2 vs. enchantments
 immune: disease

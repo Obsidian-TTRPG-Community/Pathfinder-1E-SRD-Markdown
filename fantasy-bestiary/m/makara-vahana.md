@@ -20,7 +20,7 @@ perception: +22
 senses: darkvision, low-light vision, scent
 AC: 22, touch 10, flat-footed 20 (dex +2, natural +12, size -2)
 HP: 115
-HD: 11d8+66
+hit_dice: 11d8+66
 saves: Fort +15, Ref +9, Will +7
 saves_other: +4 on Will saves vs. enchantment
 resist: acid 10, cold 10, electricity 10, fire 10

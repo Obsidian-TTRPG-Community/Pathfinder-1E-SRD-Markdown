@@ -21,7 +21,7 @@ senses: darkvision, deathwatch, true seeing
 AC: 30, touch 20, flat-footed 22 (dex +6, dodge +2, insight +2, natural +10)
 HP: 210
 HP_extra: fast healing 10
-HD: 20d10+100
+hit_dice: 20d10+100
 saves: Fort +11, Ref +23, Will +16
 immune: bleed, mind-affecting effects, petrification, polymorph
 resist: acid 10, electricity 10, fire 10

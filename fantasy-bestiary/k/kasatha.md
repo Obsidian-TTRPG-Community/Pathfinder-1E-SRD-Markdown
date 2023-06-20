@@ -21,7 +21,7 @@ INI: +3
 perception: +3
 AC: 18, touch 18, flat-footed 13 (dex +3, dodge +2, wis +3)
 HP: 10
-HD: 1d8+2
+hit_dice: 1d8+2
 saves: Fort +3, Ref +5, Will +5
 speed: 30 ft.
 melee: sai +3 (1d4+1)

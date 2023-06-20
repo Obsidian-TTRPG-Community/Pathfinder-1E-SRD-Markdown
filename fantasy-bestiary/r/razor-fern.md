@@ -18,7 +18,7 @@ INI: +2
 senses: low-light vision, tremorsense
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 4
-HD: 1d8
+hit_dice: 1d8
 saves: Fort +2, Ref +2, Will +0
 immune: plant traits
 defensive_abilities: shielding frond

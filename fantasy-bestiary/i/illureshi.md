@@ -21,7 +21,7 @@ senses: blindsense, darkvision, arcane sight, detect law
 aura: spellwarp aura
 AC: 23, touch 14, flat-footed 19 (dex +4, natural +9)
 HP: 114
-HD: 12d10+48
+hit_dice: 12d10+48
 saves: Fort +8, Ref +12, Will +13
 immune: acid, polymorph
 resist: electricity 10, sonic 10

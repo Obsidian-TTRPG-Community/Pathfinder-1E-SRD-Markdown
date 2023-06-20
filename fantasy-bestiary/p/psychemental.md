@@ -21,7 +21,7 @@ senses: darkvision, thoughtsense
 aura: mental static
 AC: 19, touch 19, flat-footed 14 (deflection +3, dex +4, dodge +1, size +1)
 HP: 82
-HD: 11d10+22
+hit_dice: 11d10+22
 saves: Fort +7, Ref +11, Will +11
 defensive_abilities: incorporeal
 SR: 19

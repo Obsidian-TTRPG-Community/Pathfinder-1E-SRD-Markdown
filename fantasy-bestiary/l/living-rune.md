@@ -19,7 +19,7 @@ perception: +27
 senses: blindsight, tremorsense
 AC: 28, touch 28, flat-footed 16 (deflection +6, dex +11, dodge +1)
 HP: 153
-HD: 18d8+72
+hit_dice: 18d8+72
 saves: Fort +10, Ref +17, Will +15
 immune: bleed, disease, magic, paralysis, poison, stunning
 defensive_abilities: amorphous

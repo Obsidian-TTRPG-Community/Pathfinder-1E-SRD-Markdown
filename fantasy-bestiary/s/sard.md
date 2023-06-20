@@ -20,7 +20,7 @@ senses: blindsight, darkvision, low-light vision, tremorsense
 AC: 34, touch 10, flat-footed 26 (dex +8, natural +24, size -8)
 HP: 333
 HP_extra: fast healing 10
-HD: 23d8+230
+hit_dice: 23d8+230
 saves: Fort +23, Ref +17, Will +13
 immune: electricity, plant traits
 resist: cold 30, fire 30

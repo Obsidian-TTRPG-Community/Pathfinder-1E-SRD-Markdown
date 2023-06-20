@@ -20,7 +20,7 @@ senses: arcane sight, darkvision, low-light vision, scent
 aura: hallowed lights
 AC: 29, touch 17, flat-footed 23 (dex +5, dodge +1, natural +12, size +1)
 HP: 241
-HD: 23d10+115
+hit_dice: 23d10+115
 saves: Fort +17, Ref +20, Will +14
 immune: blindness, fire, light effects
 speed: 40 ft., climb 20 ft.

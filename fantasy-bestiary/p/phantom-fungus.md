@@ -19,7 +19,7 @@ perception: +10
 senses: blindsight, low-light vision, tremorsense
 AC: 15, touch 10, flat-footed 15 (natural +5)
 HP: 30
-HD: 4d8+12
+hit_dice: 4d8+12
 saves: Fort +7, Ref +1, Will +1
 immune: plant traits
 defensive_abilities: phantom flesh

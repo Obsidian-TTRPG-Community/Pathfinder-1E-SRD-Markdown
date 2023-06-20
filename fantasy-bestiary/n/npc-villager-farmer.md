@@ -20,7 +20,7 @@ INI: +0
 perception: +1
 AC: 10, touch 10, flat-footed 10
 HP: 10
-HD: 2 HD, 1d6+1d8+2
+hit_dice: 2 HD, 1d6+1d8+2
 saves: Fort +1, Ref +0, Will +3
 speed: 30 ft.
 melee: club +0 (1d6)

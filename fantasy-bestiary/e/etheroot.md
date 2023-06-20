@@ -20,7 +20,7 @@ perception: +17
 senses: darkvision, low-light vision, see invisibility
 AC: 21, touch 15, flat-footed 15 (dex +6, natural +6, size -1)
 HP: 95
-HD: 10d8+50
+hit_dice: 10d8+50
 saves: Fort +12, Ref +11, Will +7
 immune: plant traits
 speed: 20 ft.

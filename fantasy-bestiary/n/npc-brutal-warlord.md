@@ -22,7 +22,7 @@ perception: +1
 senses: darkvision
 AC: 27, touch 12, flat-footed 25 (armor +10, dex +2, shield +5)
 HP: 141
-HD: 13d10+65
+hit_dice: 13d10+65
 saves: Fort +15, Ref +9, Will +8
 saves_other: +3 vs. fear
 defensive_abilities: bravery +3, orc ferocity

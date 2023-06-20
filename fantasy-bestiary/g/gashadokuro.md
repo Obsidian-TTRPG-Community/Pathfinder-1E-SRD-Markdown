@@ -20,7 +20,7 @@ senses: darkvision
 aura: starvation
 AC: 28, touch 8, flat-footed 28 (natural +20, size -2)
 HP: 180
-HD: 19d8+95
+hit_dice: 19d8+95
 saves: Fort +11, Ref +6, Will +14
 immune: undead traits
 DR: 10/bludgeoning

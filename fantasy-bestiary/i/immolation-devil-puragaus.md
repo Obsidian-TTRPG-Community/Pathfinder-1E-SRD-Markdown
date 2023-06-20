@@ -21,7 +21,7 @@ senses: darkvision, true seeing
 AC: 36, touch 17, flat-footed 28 (dex +8, natural +19, size -1)
 HP: 315
 HP_extra: regeneration 5; regeneration weakness good weapons or good spells
-HD: 18d10+216
+hit_dice: 18d10+216
 saves: Fort +23, Ref +19, Will +14
 immune: fire, poison
 resist: acid 10, cold 10

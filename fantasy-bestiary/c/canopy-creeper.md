@@ -20,7 +20,7 @@ senses: low-light vision, scent
 AC: 23, touch 11, flat-footed 20 (dex +3, natural +12, size -2)
 HP: 150
 HP_extra: fast healing 2
-HD: 12d8+96
+hit_dice: 12d8+96
 saves: Fort +12, Ref +9, Will +8
 immune: electricity, plant traits
 resist: fire 10

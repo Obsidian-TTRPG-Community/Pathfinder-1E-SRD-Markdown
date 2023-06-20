@@ -21,7 +21,7 @@ senses: darkvision
 aura: reaper’s curse
 AC: 29, touch 15, flat-footed 23 (dex +6, natural +14, size -1)
 HP: 195
-HD: 17d10+102
+hit_dice: 17d10+102
 saves: Fort +16, Ref +13, Will +17
 immune: acid, death effects, disease, poison
 resist: cold 10, electricity 10, fire 10

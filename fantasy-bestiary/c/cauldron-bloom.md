@@ -19,7 +19,7 @@ perception: +33
 senses: blindsight, low-light vision, tremorsense 1 mi., true seeing
 AC: 28, touch 4, flat-footed 26 (dex +2, natural +24, size -8)
 HP: 231
-HD: 22d8+132
+hit_dice: 22d8+132
 saves: Fort +21, Ref +11, Will +11
 immune: plant traits
 SR: 26

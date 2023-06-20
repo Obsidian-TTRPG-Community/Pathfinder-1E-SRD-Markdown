@@ -20,7 +20,7 @@ perception: +12
 senses: dragon senses
 AC: 20, touch 11, flat-footed 19 (dex +1, natural +9)
 HP: 68
-HD: 8d12+16
+hit_dice: 8d12+16
 saves: Fort +8, Ref +7, Will +7
 immune: acid, paralysis, sleep
 speed: 60 ft., fly 150 ft. (average), swim 60 ft.

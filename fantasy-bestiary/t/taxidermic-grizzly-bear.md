@@ -19,7 +19,7 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 12, touch 9, flat-footed 12 (natural +3, size -1)
 HP: 63
-HD: 6d10+30
+hit_dice: 6d10+30
 saves: Fort +2, Ref +2, Will +2
 immune: construct traits
 weak: defect (crude stitching), vulnerable to slashing

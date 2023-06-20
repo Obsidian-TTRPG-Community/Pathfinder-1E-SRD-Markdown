@@ -20,7 +20,7 @@ perception: +26
 senses: darkvision
 AC: 29, touch 13, flat-footed 29 (dex +4, natural +16, size -1)
 HP: 232
-HD: 15d10+150
+hit_dice: 15d10+150
 saves: Fort +19, Ref +9, Will +17
 resist: fire 20
 defensive_abilities: natural cunning

@@ -21,7 +21,7 @@ senses: blindsight
 AC: 32, touch 21, flat-footed 21 (dex +10, dodge +1, natural +11)
 HP: 243
 HP_extra: fast healing 15
-HD: 18d8+162
+hit_dice: 18d8+162
 saves: Fort +15, Ref +18, Will +14
 immune: acid, cold, ooze traits
 defensive_abilities: rejuvenation

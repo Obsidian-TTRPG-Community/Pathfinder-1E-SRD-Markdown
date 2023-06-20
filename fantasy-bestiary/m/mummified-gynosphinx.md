@@ -21,7 +21,7 @@ senses: darkvision, detect magic, low-light vision, see invisibility
 aura: frightful presence
 AC: 25, touch 10, flat-footed 24 (dex +1, natural +15, size -1)
 HP: 114
-HD: 12d8+60
+hit_dice: 12d8+60
 saves: Fort +12, Ref +9, Will +10
 immune: undead traits
 DR: 5/-

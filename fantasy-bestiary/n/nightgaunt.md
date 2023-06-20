@@ -20,7 +20,7 @@ perception: +6
 senses: all-around vision, blindsight, darkvision
 AC: 18, touch 13, flat-footed 15 (dex +2, dodge +1, natural +5)
 HP: 37
-HD: 5d10+10
+hit_dice: 5d10+10
 saves: Fort +3, Ref +8, Will +6
 immune: cold, gaze attacks, inhaled poison, scent-based attacks
 defensive_abilities: faceless

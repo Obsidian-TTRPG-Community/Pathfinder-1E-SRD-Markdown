@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: stony mind
 AC: 17, touch 13, flat-footed 17 (dex -1, natural +4, size +4)
 HP: 19
-HD: 3d10+3
+hit_dice: 3d10+3
 saves: Fort +1, Ref +0, Will +3
 immune: cold, electricity, fire, sonic
 DR: 5/-

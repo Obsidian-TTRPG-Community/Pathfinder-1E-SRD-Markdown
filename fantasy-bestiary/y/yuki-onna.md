@@ -21,7 +21,7 @@ senses: darkvision
 aura: snowstorm
 AC: 21, touch 21, flat-footed 16 (deflection +6, dex +4, dodge +1)
 HP: 94
-HD: 9d8+54
+hit_dice: 9d8+54
 saves: Fort +9, Ref +7, Will +11
 immune: cold, undead traits
 defensive_abilities: incorporeal

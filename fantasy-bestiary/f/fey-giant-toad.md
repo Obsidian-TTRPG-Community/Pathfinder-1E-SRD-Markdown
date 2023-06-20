@@ -19,7 +19,7 @@ perception: +7
 senses: low-light vision, scent
 AC: 15, touch 12, flat-footed 12 (dex +3, natural +3, size -1)
 HP: 22
-HD: 3d8+9
+hit_dice: 3d8+9
 saves: Fort +6, Ref +8, Will +0
 saves_other: +4 vs. mind-affecting effects
 resist: cold 10, electricity 10

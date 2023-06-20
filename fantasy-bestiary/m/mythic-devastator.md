@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, mythic sight (2)
 aura: corruption, unholy aura
 AC: 44, touch 20, flat-footed 38 (deflection +4, dex +6, natural +24, profane +4, size -4)
 HP: 365
-HD: 30d10+200
+hit_dice: 30d10+200
 saves: Fort +14, Ref +20, Will +18
 immune: acid, cold, construct traits, electricity, fire
 DR: 15/adamantine and epic

@@ -20,7 +20,7 @@ perception: +18
 senses: darkvision, low-light vision, superior optics
 AC: 27, touch 15, flat-footed 22 (dex +5, natural +12)
 HP: 158
-HD: 16d10+20 plus 50 hp force field
+hit_dice: 16d10+20 plus 50 hp force field
 saves: Fort +5, Ref +10, Will +10
 immune: construct traits
 defensive_abilities: hardness 10

@@ -23,7 +23,7 @@ aura: aura of law
 AC: 21, touch 11, flat-footed 20 (armor +10, dex +1)
 HP: 51
 HP_extra: HD 7
-HD: 6d6+1d8+24
+hit_dice: 6d6+1d8+24
 saves: Fort +4, Ref +3, Will +7
 saves_other: +2 vs. poison, +2 vs. visual effects
 resist: fire 5

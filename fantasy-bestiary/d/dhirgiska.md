@@ -22,7 +22,7 @@ senses: darkvision, low-light vision, scent
 AC: 22, touch 10, flat-footed 20 (dex +2, natural +12, size -2)
 HP: 138
 HP_extra: fast healing 12
-HD: 12d10+72
+hit_dice: 12d10+72
 saves: Fort +15, Ref +12, Will +7
 immune: disease, poison
 DR: 10/cold iron

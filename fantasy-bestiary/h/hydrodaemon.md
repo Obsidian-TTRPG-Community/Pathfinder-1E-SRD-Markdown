@@ -20,7 +20,7 @@ perception: +15
 senses: darkvision, detect magic
 AC: 20, touch 11, flat-footed 18 (dex +2, natural +9, size -1)
 HP: 95
-HD: 10d10+40
+hit_dice: 10d10+40
 saves: Fort +11, Ref +9, Will +3
 immune: acid, death effects, disease, poison, waters of the River Styx
 resist: cold 10, electricity 10, fire 10

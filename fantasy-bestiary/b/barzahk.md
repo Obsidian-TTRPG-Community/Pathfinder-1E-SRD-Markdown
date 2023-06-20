@@ -22,7 +22,7 @@ aura: frightful presence, loneliness unbroken
 AC: 46, touch 26, flat-footed 35 (armor +4, deflection +5, dex +10, dodge +1, natural +16)
 HP: 676
 HP_extra: regeneration 30; regeneration weakness deific or mythic
-HD: 33d10+495
+hit_dice: 33d10+495
 saves: Fort +33, Ref +23, Will +31
 immune: ability damage, ability drain, acid, charm, compulsion, death effects, disease, energy drain, necromancy effects, petrification, poison
 resist: cold 30, electricity 30

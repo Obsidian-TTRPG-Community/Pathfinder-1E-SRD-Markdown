@@ -19,7 +19,7 @@ perception: +6
 senses: darkvision
 AC: 16, touch 16, flat-footed 11 (dex +5, size +1)
 HP: 26
-HD: 4d8+8
+hit_dice: 4d8+8
 saves: Fort +3, Ref +6, Will +5
 immune: mind-affecting effects, paralysis, poison, polymorph effects, sleep, stunning
 defensive_abilities: plant defenses

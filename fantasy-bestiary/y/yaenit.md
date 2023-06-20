@@ -21,7 +21,7 @@ senses: darkvision, see invisibility
 aura: hallucinatory aura
 AC: 19, touch 13, flat-footed 16 (dex +2, dodge +1, natural +6)
 HP: 76
-HD: 8d10+32
+hit_dice: 8d10+32
 saves: Fort +10, Ref +8, Will +5
 immune: electricity, poison
 resist: acid 10, cold 10, fire 10

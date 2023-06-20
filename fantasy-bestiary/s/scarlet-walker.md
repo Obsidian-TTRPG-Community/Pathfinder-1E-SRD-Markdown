@@ -21,7 +21,7 @@ senses: bloodsense, darkvision, detect thoughts
 AC: 28, touch 18, flat-footed 18 (dex +9, dodge +1, natural +10, size -2)
 HP: 168
 HP_extra: fast healing 10
-HD: 16d10+80
+hit_dice: 16d10+80
 saves: Fort +10, Ref +19, Will +15
 immune: acid, cold, poison
 defensive_abilities: evasion

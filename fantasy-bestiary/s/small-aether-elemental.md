@@ -20,7 +20,7 @@ perception: +5
 senses: blindsense, darkvision
 AC: 14, touch 14, flat-footed 12 (deflection +1, dex +2, size +1)
 HP: 13
-HD: 2d10+2
+hit_dice: 2d10+2
 saves: Fort +4, Ref +5, Will +0
 immune: elemental traits, force
 defensive_abilities: telekinetic deflection

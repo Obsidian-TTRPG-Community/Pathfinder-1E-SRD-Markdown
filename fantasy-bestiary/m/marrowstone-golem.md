@@ -19,7 +19,7 @@ senses: darkvision, low-light vision
 aura: necrotic field
 AC: 21, touch 9, flat-footed 21 (natural +12, size -1)
 HP: 85
-HD: 10d10+30
+hit_dice: 10d10+30
 saves: Fort +3, Ref +3, Will +3
 immune: construct traits, magic
 DR: 10/adamantine

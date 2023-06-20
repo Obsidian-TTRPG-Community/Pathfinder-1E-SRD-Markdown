@@ -20,7 +20,7 @@ senses: appraising sight, dragon senses
 aura: protective aura
 AC: 21, touch 12, flat-footed 19 (dex +2, natural +9)
 HP: 57
-HD: 6d12+18
+hit_dice: 6d12+18
 saves: Fort +8, Ref +7, Will +7
 immune: paralysis, sleep
 SR: 17

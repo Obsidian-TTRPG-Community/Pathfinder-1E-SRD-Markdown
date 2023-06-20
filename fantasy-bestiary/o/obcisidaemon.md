@@ -21,7 +21,7 @@ senses: darkvision, deathwatch, true seeing
 aura: scorched earth, unholy aura
 AC: 34, touch 14, flat-footed 30 (deflection +4, dex +4, natural +20, size -4)
 HP: 319
-HD: 22d10+198
+hit_dice: 22d10+198
 saves: Fort +26, Ref +15, Will +22
 immune: acid, death effects, disease, poison
 resist: cold 30, electricity 30, fire 30

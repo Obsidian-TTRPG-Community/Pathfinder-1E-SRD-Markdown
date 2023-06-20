@@ -20,7 +20,7 @@ perception: +8
 senses: low-light vision
 AC: 17, touch 10, flat-footed 17 (armor +2, dex +1, natural +5, size -1)
 HP: 39
-HD: 6d8+12
+hit_dice: 6d8+12
 saves: Fort +4, Ref +5, Will +6
 speed: 40 ft.
 melee: Huge greataxe +8 (3d8+7/×3)

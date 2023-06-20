@@ -21,7 +21,7 @@ senses: blindsight
 AC: 23, touch 4, flat-footed 23 (dex -5, natural +29, size -1)
 HP: 129
 HP_extra: fast healing 5
-HD: 10d8+84
+hit_dice: 10d8+84
 saves: Fort +11, Ref -2, Will +6
 immune: electricity, ooze traits, piercing damage, slashing damage
 DR: 5/epic

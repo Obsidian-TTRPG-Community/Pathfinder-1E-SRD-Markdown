@@ -21,7 +21,7 @@ INI: +4
 perception: +9
 AC: 22, touch 15, flat-footed 18 (armor +5, dex +4, shield +2, size +1)
 HP: 40
-HD: 6d8+10
+hit_dice: 6d8+10
 saves: Fort +7, Ref +7, Will +8
 saves_other: +2 vs. fear, +4 vs. fey and plant-targeted effects
 resist: electricity 10

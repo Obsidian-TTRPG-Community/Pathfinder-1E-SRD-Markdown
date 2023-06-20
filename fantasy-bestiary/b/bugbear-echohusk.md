@@ -18,7 +18,7 @@ INI: +1
 senses: darkvision
 AC: 15, touch 11, flat-footed 14 (armor +2, dex +1, natural +1, shield +1)
 HP: 19
-HD: 3d8+6
+hit_dice: 3d8+6
 saves: Fort +3, Ref +2, Will +3
 saves_other: -4 against psychic spells and effects
 immune: undead traits

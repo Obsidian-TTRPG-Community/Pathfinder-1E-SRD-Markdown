@@ -20,7 +20,7 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 19, touch 8, flat-footed 19 (armor +5, dex -1, natural +6, size -1)
 HP: 50
-HD: 5d8+28
+hit_dice: 5d8+28
 saves: Fort +7, Ref +0, Will +3
 DR: 5/epic
 defensive_abilities: iron resilience

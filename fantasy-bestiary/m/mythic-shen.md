@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, mistsight, scent, see invisibility, true s
 aura: frightful presence
 AC: 44, touch 8, flat-footed 44 (dex +2, natural +38, size -4)
 HP: 568
-HD: 29d12+380
+hit_dice: 29d12+380
 saves: Fort +26, Ref +20, Will +24
 immune: paralysis, sleep
 DR: 10/epic

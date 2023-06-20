@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 AC: 14, touch 14, flat-footed 10 (dex +4)
 HP: 22
 HP_extra: other rain regeneration 5 (acid or fire)
-HD: 3d8+9
+hit_dice: 3d8+9
 saves: Fort +6, Ref +5, Will +1
 defensive_abilities: absorbent hide
 speed: 30 ft., swim 10 ft.

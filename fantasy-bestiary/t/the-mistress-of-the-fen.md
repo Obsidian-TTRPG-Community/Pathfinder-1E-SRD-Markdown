@@ -23,7 +23,7 @@ senses: darkvision, low-light vision
 AC: 26, touch 12, flat-footed 22 (dex +4, natural +14, size -2)
 HP: 157
 HP_extra: other swamp healing 5
-HD: 15d10+75
+hit_dice: 15d10+75
 saves: Fort +14, Ref +13, Will +8
 immune: cold, poison
 resist: electricity 20, fire 20

@@ -21,7 +21,7 @@ senses: blindsight, darkvision
 aura: stench
 AC: 24, touch 11, flat-footed 22 (dex +2, natural +13, size -1)
 HP: 133
-HD: 14d8+70
+hit_dice: 14d8+70
 saves: Fort +9, Ref +8, Will +12
 immune: cold, fire
 resist: sonic 10

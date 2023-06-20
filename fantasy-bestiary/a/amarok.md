@@ -19,7 +19,7 @@ perception: +28
 senses: darkvision, low-light vision, scent, see in darkness, true seeing
 AC: 28, touch 13, flat-footed 23 (dex +5, natural +15, size -2)
 HP: 172
-HD: 15d10+90
+hit_dice: 15d10+90
 saves: Fort +15, Ref +14, Will +13
 speed: 50 ft.
 melee: bite +23 (4d6+15/19-20 plus grab and trip)

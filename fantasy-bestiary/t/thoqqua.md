@@ -21,7 +21,7 @@ senses: darkvision, tremorsense
 aura: molten body
 AC: 15, touch 11, flat-footed 14 (dex +1, natural +4)
 HP: 22
-HD: 3d10+6
+hit_dice: 3d10+6
 saves: Fort +5, Ref +4, Will +2
 immune: fire, elemental
 weak: vulnerable to cold

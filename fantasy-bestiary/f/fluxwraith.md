@@ -21,7 +21,7 @@ senses: darkvision, lifesense
 aura: slow aura
 AC: 26, touch 26, flat-footed 16 (deflection +6, dex +9, dodge +1)
 HP: 273
-HD: 26d8+156
+hit_dice: 26d8+156
 saves: Fort +14, Ref +17, Will +20
 immune: undead traits
 defensive_abilities: channel resistance +4, incorporeal

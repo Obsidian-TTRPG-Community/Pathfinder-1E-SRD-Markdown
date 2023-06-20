@@ -21,7 +21,7 @@ senses: low-light vision
 aura: fear aura
 AC: 15, touch 14, flat-footed 12 (dex +3, natural +1, size +1)
 HP: 19
-HD: 3d6+9
+hit_dice: 3d6+9
 saves: Fort +1, Ref +6, Will +5
 speed: 20 ft., fly 60 ft. (clumsy), climb 20 ft.
 melee: claw +5 (1d3+3)

@@ -20,7 +20,7 @@ perception: +8
 senses: blindsense, darkvision, low-light vision
 AC: 31, touch 13, flat-footed 26 (dex +5, natural +18, size -2)
 HP: 161
-HD: 22d10+40
+hit_dice: 22d10+40
 saves: Fort +7, Ref +14, Will +7
 immune: cold, construct traits
 DR: 10/adamantine and blugeoning

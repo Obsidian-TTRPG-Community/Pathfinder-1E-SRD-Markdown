@@ -20,7 +20,7 @@ perception: +17
 senses: darkvision, low-light vision
 AC: 27, touch 23, flat-footed 22 (armor +4, deflection +7, dex +4, dodge +1, size +1)
 HP: 112
-HD: 15d8+45
+hit_dice: 15d8+45
 saves: Fort +12, Ref +10, Will +9
 defensive_abilities: ectoplasmic shield, negative energy affinity
 speed: 20 ft.

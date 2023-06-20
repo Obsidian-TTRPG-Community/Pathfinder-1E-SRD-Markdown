@@ -19,7 +19,7 @@ INI: +4
 senses: blindsight
 AC: 23, touch 10, flat-footed 19 (dex +4, natural +13, size -4)
 HP: 119
-HD: 14d8+56
+hit_dice: 14d8+56
 saves: Fort +13, Ref +8, Will +5
 immune: gaze attacks, mind-affecting effects, poison, sonic, vision-based attacks
 defensive_abilities: amorphous

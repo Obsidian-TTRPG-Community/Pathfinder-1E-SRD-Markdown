@@ -21,7 +21,7 @@ senses: blindsight, darkvision, deathwatch, low-light vision, scent
 AC: 39, touch 20, flat-footed 32 (dex +6, dodge +1, insight +5, natural +19, size -2)
 HP: 423
 HP_extra: regeneration 15; regeneration weakness epic weapons
-HD: 22d10+302
+hit_dice: 22d10+302
 saves: Fort +26, Ref +13, Will +24
 immune: electricity
 resist: acid 30, cold 30, fire 30

@@ -19,7 +19,7 @@ perception: +0
 senses: low-light vision, tremorsense
 AC: 14, touch 14, flat-footed 14 (size +4)
 HP: 6
-HD: 1d8+2
+hit_dice: 1d8+2
 saves: Fort +4, Ref +2, Will +0
 speed: 20 ft., burrow 5 ft.
 melee: 2 claws +0 (1-4)

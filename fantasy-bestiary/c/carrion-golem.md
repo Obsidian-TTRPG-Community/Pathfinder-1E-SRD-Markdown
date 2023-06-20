@@ -19,7 +19,7 @@ senses: blindsense, darkvision, low-light vision
 aura: foul stench
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 42
-HD: 4d10+20
+hit_dice: 4d10+20
 saves: Fort +1, Ref +2, Will +1
 immune: construct traits, magic
 DR: 5/bludgeoning or slashing

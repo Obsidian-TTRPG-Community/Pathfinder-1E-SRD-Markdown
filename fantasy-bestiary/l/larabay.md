@@ -20,7 +20,7 @@ perception: +27
 senses: low-light vision
 AC: 25, touch 17, flat-footed 18 (dex +6, dodge +1, natural +8)
 HP: 144
-HD: 17d6+85
+hit_dice: 17d6+85
 saves: Fort +10, Ref +16, Will +13
 resist: cold 10, electricity 10, fire 10
 speed: 30 ft., fly 50 ft. (good)

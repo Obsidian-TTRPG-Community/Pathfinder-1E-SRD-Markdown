@@ -22,7 +22,7 @@ aura: courage
 AC: 23, touch 11, flat-footed 22 (armor +10, dex +1, shield +2)
 HP: 61
 HP_extra: HD 8
-HD: 2d8+6d10+19
+hit_dice: 2d8+6d10+19
 saves: Fort +9, Ref +5, Will +9
 immune: disease, fear
 defensive_abilities: divine grace +2

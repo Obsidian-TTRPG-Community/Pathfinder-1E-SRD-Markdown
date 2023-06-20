@@ -22,7 +22,7 @@ aura: fear
 AC: 38, touch 18, flat-footed 29 (dex +9, natural +20, size -1)
 HP: 350
 HP_extra: regeneration 5; regeneration weakness good weapons, good spells
-HD: 20d10+240
+hit_dice: 20d10+240
 saves: Fort +24, Ref +21, Will +18
 immune: fire, poison
 resist: acid 10, cold 10

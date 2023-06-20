@@ -20,7 +20,7 @@ senses: darkvision
 aura: despair
 AC: 20, touch 10, flat-footed 20 (natural +10)
 HP: 60
-HD: 8d8+24
+hit_dice: 8d8+24
 saves: Fort +4, Ref +2, Will +8
 immune: undead traits
 DR: 5/-

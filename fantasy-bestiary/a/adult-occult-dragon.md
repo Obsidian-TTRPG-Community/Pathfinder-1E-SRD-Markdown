@@ -20,7 +20,7 @@ senses: appraising sight, dragon senses
 aura: frightful presence, protective aura
 AC: 28, touch 10, flat-footed 27 (dex +1, natural +18, size -1)
 HP: 138
-HD: 12d12+60
+hit_dice: 12d12+60
 saves: Fort +13, Ref +9, Will +14
 immune: paralysis, sleep
 DR: 5/magic

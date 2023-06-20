@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: consecration
 AC: 23, touch 13, flat-footed 20 (dex +3, natural +10)
 HP: 111
-HD: 14d10+34
+hit_dice: 14d10+34
 saves: Fort +4, Ref +7, Will +5
 immune: construct traits
 DR: 10/adamantine

@@ -20,7 +20,7 @@ perception: +21
 senses: blindsight, scent
 AC: 24, touch 15, flat-footed 19 (dex +5, natural +9)
 HP: 175
-HD: 14d10+84
+hit_dice: 14d10+84
 saves: Fort +12, Ref +14, Will +13
 immune: cold, acid, charm, fear, gaze attacks, sleep
 DR: 10/cold iron and magic

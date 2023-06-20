@@ -19,7 +19,7 @@ perception: +14
 senses: child-scent, darkvision
 AC: 21, touch 13, flat-footed 18 (dex +2, dodge +1, natural +8)
 HP: 85
-HD: 10d10+30
+hit_dice: 10d10+30
 saves: Fort +6, Ref +9, Will +8
 immune: electricity
 SR: 18

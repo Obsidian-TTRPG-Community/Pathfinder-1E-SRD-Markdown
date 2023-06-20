@@ -20,7 +20,7 @@ senses: darkvision, low-light vision, scent
 AC: 31, touch 11, flat-footed 28 (dex +2, dodge +1, natural +20, size -2)
 HP: 230
 HP_extra: fast healing 10
-HD: 20d10+120
+hit_dice: 20d10+120
 saves: Fort +18, Ref +14, Will +11
 immune: acid
 defensive_abilities: adaptive defense

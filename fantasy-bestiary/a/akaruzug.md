@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: unhallow
 AC: 30, touch 16, flat-footed 27 (deflection +4, dex +3, natural +14, size -1)
 HP: 220
-HD: 20d10+110
+hit_dice: 20d10+110
 saves: Fort +8, Ref +11, Will +10
 immune: construct traits
 DR: 15/bludgeoning and good

@@ -23,7 +23,7 @@ senses: darkvision
 aura: cowardice, despair
 AC: 25, touch 11, flat-footed 24 (armor +10, dex +1, shield +4)
 HP: 79
-HD: 10d10+20
+hit_dice: 10d10+20
 saves: Fort +11, Ref +7, Will +9
 saves_other: +2 vs. enchantments
 immune: sleep, disease

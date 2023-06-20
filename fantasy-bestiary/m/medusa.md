@@ -19,7 +19,7 @@ perception: +16
 senses: all-around vision, darkvision
 AC: 15, touch 12, flat-footed 13 (dex +2, natural +3)
 HP: 76
-HD: 8d10+32
+hit_dice: 8d10+32
 saves: Fort +6, Ref +8, Will +7
 speed: 30 ft.
 melee: dagger +10/+5 (1d4/19-20), snake bite +5 (1d4 plus poison)

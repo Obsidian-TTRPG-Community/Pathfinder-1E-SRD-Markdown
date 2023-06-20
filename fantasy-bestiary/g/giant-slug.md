@@ -18,7 +18,7 @@ INI: -4
 senses: blindsight
 AC: 20, touch 4, flat-footed 20 (dex -4, natural +16, size -2)
 HP: 102
-HD: 12d8+48
+hit_dice: 12d8+48
 saves: Fort +12, Ref +0, Will +4
 immune: acid, mind-affecting effects
 DR: 10/slashing or piercing

@@ -19,7 +19,7 @@ perception: -5
 senses: blindsight, low-light vision
 AC: 5, touch 5, flat-footed 5 (dex -5)
 HP: 103
-HD: 9d8+63
+hit_dice: 9d8+63
 saves: Fort +10, Ref -2, Will -2
 immune: bludgeoning damage, mind-affecting effects, ooze traits
 speed: 20 ft., climb 20 ft.

@@ -19,7 +19,7 @@ perception: +11
 senses: darkvision
 AC: 17, touch 13, flat-footed 14 (dex +2, dodge +1, natural +4)
 HP: 39
-HD: 6d10+6
+hit_dice: 6d10+6
 saves: Fort +3, Ref +7, Will +7
 immune: deafness, electricity, sonic
 weak: wind dependence

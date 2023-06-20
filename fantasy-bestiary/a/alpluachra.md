@@ -20,7 +20,7 @@ perception: +4
 senses: low-light vision
 AC: 15, touch 15, flat-footed 14 (dex +1, size +4)
 HP: 5
-HD: 1d6+2
+hit_dice: 1d6+2
 saves: Fort +2, Ref +3, Will +2
 defensive_abilities: numbing slime
 weak: vulnerable to salt

@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, scent
 AC: 18, touch 11, flat-footed 16 (dex +2, natural +7, size -1)
 HP: 79
 HP_extra: regeneration 5; regeneration weakness acid or fire, see primal vigor
-HD: 6d8+52
+hit_dice: 6d8+52
 saves: Fort +11, Ref +4, Will +3
 DR: 5/epic
 defensive_abilities: primal vigor

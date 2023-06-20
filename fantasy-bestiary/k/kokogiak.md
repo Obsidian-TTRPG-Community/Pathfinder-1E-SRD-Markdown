@@ -19,7 +19,7 @@ perception: +18
 senses: darkvision, low-light vision
 AC: 25, touch 9, flat-footed 24 (dex +1, natural +16, size -2)
 HP: 172
-HD: 15d10+90
+hit_dice: 15d10+90
 saves: Fort +15, Ref +10, Will +9
 immune: cold, illusions
 speed: 40 ft., burrow 20 ft., climb 20 ft., swim 20 ft.

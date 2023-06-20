@@ -19,7 +19,7 @@ perception: +13
 senses: darkvision, detect evil
 AC: 20, touch 13, flat-footed 17 (dex +2, dodge +1, natural +7)
 HP: 74
-HD: 9d8+32
+hit_dice: 9d8+32
 saves: Fort +5, Ref +7, Will +9
 immune: undead traits
 weak: aversion to sun and moon, compulsive hunger, vulnerable to cold and fire

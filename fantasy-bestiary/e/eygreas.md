@@ -22,7 +22,7 @@ senses: all-around vision, darkvision
 AC: 29, touch 14, flat-footed 24 (armor +6, dex +4, dodge +1, natural +9, size -1)
 HP: 141
 HP_extra: HD 13
-HD: 8d10+5d10+70
+hit_dice: 8d10+5d10+70
 saves: Fort +11, Ref +16, Will +8
 immune: poison
 DR: 5/adamantine and magic

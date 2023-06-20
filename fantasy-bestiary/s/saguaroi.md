@@ -20,7 +20,7 @@ senses: low-light vision
 AC: 18, touch 14, flat-footed 14 (dex +4, natural +4)
 HP: 59
 HP_extra: regeneration 5; regeneration weakness fire
-HD: 7d8+28
+hit_dice: 7d8+28
 saves: Fort +9, Ref +8, Will +4
 immune: plant traits
 defensive_abilities: needle hide

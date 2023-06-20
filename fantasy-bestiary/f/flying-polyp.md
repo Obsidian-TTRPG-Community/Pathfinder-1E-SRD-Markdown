@@ -21,7 +21,7 @@ senses: darkvision
 aura: frightful presence
 AC: 29, touch 16, flat-footed 26 (deflection +5, dex +2, dodge +1, natural +13, size -2)
 HP: 207
-HD: 18d8+126
+hit_dice: 18d8+126
 saves: Fort +13, Ref +12, Will +16
 immune: acid, cold, sonic
 DR: 10/magic and slashing

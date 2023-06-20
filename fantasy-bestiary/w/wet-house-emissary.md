@@ -21,7 +21,7 @@ INI: -1
 perception: +12
 AC: 12, touch 9, flat-footed 12 (armor +3, dex -1)
 HP: 56
-HD: 9d8+16
+hit_dice: 9d8+16
 saves: Fort +4, Ref +5, Will +11
 saves_other: +4 bonus vs. poison, +2 vs. non-aboleth enchantments, -2 vs. aboleth enchantments
 defensive_abilities: enchantment resistance, poison resistance

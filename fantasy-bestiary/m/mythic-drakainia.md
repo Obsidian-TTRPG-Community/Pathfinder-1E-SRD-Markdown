@@ -22,7 +22,7 @@ aura: gestation
 AC: 48, touch 13, flat-footed 43 (dex +5, natural +35, size -2)
 HP: 642
 HP_extra: regeneration 10; regeneration weakness negative energy
-HD: 25d8+530
+hit_dice: 25d8+530
 saves: Fort +28, Ref +15, Will +21
 immune: bleed, disease, poison, polymorph effects
 DR: 10/epic

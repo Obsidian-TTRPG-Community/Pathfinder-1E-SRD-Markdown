@@ -20,7 +20,7 @@ perception: +17
 senses: darkvision
 AC: 20, touch 15, flat-footed 19 (dex +1, insight +4, natural +5)
 HP: 85
-HD: 9d10+36
+hit_dice: 9d10+36
 saves: Fort +9, Ref +7, Will +9
 immune: confusion, fear, insanity
 defensive_abilities: ferocity, lunatic insight

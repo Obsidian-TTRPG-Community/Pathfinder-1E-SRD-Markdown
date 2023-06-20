@@ -19,7 +19,7 @@ perception: +14
 senses: greensight, low-light vision
 AC: 19, touch 15, flat-footed 15 (dex +4, natural +4, size +1)
 HP: 65
-HD: 10d6+30
+hit_dice: 10d6+30
 saves: Fort +5, Ref +11, Will +8
 defensive_abilities: plant form
 speed: 30 ft.

@@ -18,7 +18,7 @@ INI: +0
 senses: darkvision
 AC: 12, touch 10, flat-footed 12 (natural +2)
 HP: 7
-HD: 1d8+3
+hit_dice: 1d8+3
 saves: Fort +0, Ref +0, Will +2
 immune: undead traits
 DR: 5/slashing

@@ -22,7 +22,7 @@ perception: +27
 senses: darkvision
 AC: 31, touch 21, flat-footed 24 (armor +7, deflection +3, dex +6, dodge +1, natural +3, size +1)
 HP: 143
-HD: 10d8+10d8+50
+hit_dice: 10d8+10d8+50
 saves: Fort +13, Ref +25, Will +15
 saves_other: +2 vs. fear
 defensive_abilities: defensive roll, improved evasion, improved uncanny dodge, slippery mind, trap sense +3

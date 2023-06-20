@@ -22,7 +22,7 @@ aura: despair
 AC: 23, touch 10, flat-footed 23 (natural +13)
 HP: 92
 HP_extra: fast healing 5
-HD: 8d8+56
+hit_dice: 8d8+56
 saves: Fort +4, Ref +2, Will +8
 immune: undead traits
 DR: 5/-

@@ -19,7 +19,7 @@ perception: -1
 senses: darkvision, low-light vision
 AC: 16, touch 13, flat-footed 13 (dex +3, natural +3)
 HP: 26
-HD: 4d8+8
+hit_dice: 4d8+8
 saves: Fort +6, Ref +4, Will +0
 immune: electricity, plant traits
 DR: 5/slashing or bludgeoning

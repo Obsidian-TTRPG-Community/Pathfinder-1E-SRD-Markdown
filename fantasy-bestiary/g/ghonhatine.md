@@ -20,7 +20,7 @@ senses: darkvision, scent
 aura: powerful stench
 AC: 24, touch 7, flat-footed 24 (dex -2, natural +17, size -1)
 HP: 162
-HD: 12d8+108
+hit_dice: 12d8+108
 saves: Fort +13, Ref +2, Will +6
 immune: acid, critical hits, disease, poison
 speed: 40 ft.

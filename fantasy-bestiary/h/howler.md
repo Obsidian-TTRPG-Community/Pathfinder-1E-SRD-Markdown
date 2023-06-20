@@ -20,7 +20,7 @@ perception: +13
 senses: darkvision
 AC: 15, touch 11, flat-footed 13 (dex +2, natural +4, size -1)
 HP: 37
-HD: 5d10+10
+hit_dice: 5d10+10
 saves: Fort +6, Ref +6, Will +3
 defensive_abilities: quill defense
 speed: 60 ft.

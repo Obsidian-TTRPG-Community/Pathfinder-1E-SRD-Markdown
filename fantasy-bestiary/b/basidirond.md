@@ -18,7 +18,7 @@ INI: +1
 senses: low-light vision, tremorsense
 AC: 18, touch 11, flat-footed 17 (dex +1, natural +7)
 HP: 52
-HD: 7d8+21
+hit_dice: 7d8+21
 saves: Fort +8, Ref +3, Will +2
 immune: cold, plant traits
 weak: cold lethargy

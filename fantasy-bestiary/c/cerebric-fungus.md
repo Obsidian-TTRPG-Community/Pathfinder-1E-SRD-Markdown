@@ -21,7 +21,7 @@ aura: unsettling appearance
 AC: 15, touch 10, flat-footed 15 (natural +5)
 HP: 30
 HP_extra: fast healing 2
-HD: 4d8+12
+hit_dice: 4d8+12
 saves: Fort +7, Ref +1, Will +6
 immune: plant traits
 resist: cold 5

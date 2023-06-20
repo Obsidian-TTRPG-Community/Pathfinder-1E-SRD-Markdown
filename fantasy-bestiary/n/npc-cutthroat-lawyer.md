@@ -22,7 +22,7 @@ perception: +12
 senses: low-light vision
 AC: 9, touch 9, flat-footed 9 (dex -1)
 HP: 40
-HD: 9d8
+hit_dice: 9d8
 saves: Fort +3, Ref +2, Will +9
 saves_other: +2 vs. enchantments
 speed: 30 ft.

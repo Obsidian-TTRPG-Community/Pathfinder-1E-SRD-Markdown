@@ -23,7 +23,7 @@ senses: blindsight, darkvision
 AC: 23, touch 17, flat-footed 18 (armor +6, dex +4, dodge +1, insight +2)
 HP: 113
 HP_extra: fast healing 14
-HD: 13d6+65
+hit_dice: 13d6+65
 saves: Fort +11, Ref +12, Will +13
 immune: critical hits, disease, paralysis, poison, sleep
 DR: 15/-

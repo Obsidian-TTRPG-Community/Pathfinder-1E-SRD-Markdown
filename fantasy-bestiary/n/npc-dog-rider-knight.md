@@ -22,7 +22,7 @@ perception: +5
 aura: courage
 AC: 23, touch 13, flat-footed 21 (armor +7, dex +2, shield +3, size +1)
 HP: 60
-HD: 7d10+17
+hit_dice: 7d10+17
 saves: Fort +10, Ref +8, Will +8
 saves_other: +2 vs. fear
 immune: disease, fear

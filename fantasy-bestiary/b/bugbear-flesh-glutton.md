@@ -23,7 +23,7 @@ senses: darkvision, scent
 AC: 23, touch 10, flat-footed 19 (armor +7, dex +3, natural +6, rage -2, size -1)
 HP: 99
 HP_extra: HD 8
-HD: 3d8+5d12+48
+hit_dice: 3d8+5d12+48
 saves: Fort +12, Ref +8, Will +5
 defensive_abilities: improved uncanny dodge, trap sense +1
 speed: 30 ft.

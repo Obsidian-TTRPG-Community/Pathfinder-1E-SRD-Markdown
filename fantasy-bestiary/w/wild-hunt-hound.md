@@ -20,7 +20,7 @@ perception: +22
 senses: blindsense, blindsight, greater arcane sight, greensight, low-light vision, scent, see in darkness, see invisibility
 AC: 24, touch 17, flat-footed 20 (deflection +3, dex +4, natural +7)
 HP: 133
-HD: 14d6+84
+hit_dice: 14d6+84
 saves: Fort +12, Ref +13, Will +14
 immune: cold
 resist: electricity 10, fire 10

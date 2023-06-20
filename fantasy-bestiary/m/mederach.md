@@ -20,7 +20,7 @@ perception: +22
 senses: darkvision, detect evil
 AC: 23, touch 9, flat-footed 23 (natural +14, size -1)
 HP: 114
-HD: 12d10+48
+hit_dice: 12d10+48
 saves: Fort +12, Ref +6, Will +11
 DR: 10/evil
 SR: 20

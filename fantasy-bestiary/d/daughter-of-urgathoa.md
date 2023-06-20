@@ -20,7 +20,7 @@ senses: darkvision
 aura: desecrate
 AC: 21, touch 12, flat-footed 18 (dex +3, natural +9, size -1)
 HP: 115
-HD: 11d8+66
+hit_dice: 11d8+66
 saves: Fort +9, Ref +7, Will +11
 immune: undead traits
 defensive_abilities: channel resistance +4

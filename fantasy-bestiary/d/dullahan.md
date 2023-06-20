@@ -21,7 +21,7 @@ aura: frightful presence
 AC: 21, touch 11, flat-footed 20 (armor +10, dex +1)
 HP: 85
 HP_extra: fast healing 5
-HD: 10d8+40
+hit_dice: 10d8+40
 saves: Fort +7, Ref +5, Will +12
 immune: undead traits
 defensive_abilities: channel resistance +4

@@ -20,7 +20,7 @@ senses: blindsight, true seeing
 aura: madness
 AC: 24, touch 16, flat-footed 18 (dex +5, dodge +1, natural +8)
 HP: 195
-HD: 17d8+119
+hit_dice: 17d8+119
 saves: Fort +14, Ref +12, Will +9
 immune: cold, ooze traits
 DR: 10/aligned

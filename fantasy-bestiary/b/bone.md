@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: feverish fortitude
 AC: 16, touch 15, flat-footed 15 (armor +1, dex +1, size +4)
 HP: 16
-HD: 3d10
+hit_dice: 3d10
 saves: Fort +1, Ref +2, Will +2
 immune: construct traits
 resist: cold 5, electricity 5, fire 5

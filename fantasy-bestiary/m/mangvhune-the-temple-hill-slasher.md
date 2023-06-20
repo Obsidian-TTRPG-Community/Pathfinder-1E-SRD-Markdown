@@ -23,7 +23,7 @@ senses: darkvision, see invisibility
 AC: 31, touch 15, flat-footed 27 (armor +8, dex +3, dodge +1, insight +1, natural +8)
 HP: 236
 HP_extra: HD 17
-HD: 7d10+10d8+153
+hit_dice: 7d10+10d8+153
 saves: Fort +16, Ref +14, Will +8
 saves_other: +5 vs. poison
 immune: electricity, poison

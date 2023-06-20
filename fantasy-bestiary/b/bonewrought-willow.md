@@ -20,7 +20,7 @@ perception: +8
 senses: low-light vision, spiritsense
 AC: 15, touch 9, flat-footed 15 (natural +6, size -1)
 HP: 32
-HD: 5d8+10
+hit_dice: 5d8+10
 saves: Fort +6, Ref +1, Will +2
 immune: death effects, disease, energy drain, exhaustion, fatigue, nonlethal damage, plant traits
 resist: cold 10, electricity 10

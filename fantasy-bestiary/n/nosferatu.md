@@ -23,7 +23,7 @@ senses: darkvision, low-light vision, scent
 AC: 30, touch 18, flat-footed 23 (armor +4, deflection +1, dex +6, dodge +1, natural +8)
 HP: 71
 HP_extra: fast healing 5
-HD: 9d8+27
+hit_dice: 9d8+27
 saves: Fort +7, Ref +16, Will +7
 saves_other: +3 vs. traps
 immune: undead traits

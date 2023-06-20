@@ -20,7 +20,7 @@ perception: +18
 senses: darkvision, low-light vision, scent
 AC: 22, touch 10, flat-footed 21 (dex +1, natural +12, size -1)
 HP: 103
-HD: 7d12+58
+hit_dice: 7d12+58
 saves: Fort +9, Ref +6, Will +8
 immune: dragon traits, paralysis, sleep
 resist: acid 10, cold 10, electricity 10, fire 10

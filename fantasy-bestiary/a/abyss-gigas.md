@@ -20,7 +20,7 @@ perception: +27
 senses: blindsight
 AC: 31, touch 7, flat-footed 30 (armor +9, dex +1, natural +15, size -4)
 HP: 283
-HD: 21d8+189
+hit_dice: 21d8+189
 saves: Fort +21, Ref +8, Will +10
 immune: electricity
 resist: acid 10, cold 10, fire 10, sonic 10

@@ -23,7 +23,7 @@ senses: low-light vision
 aura: courage, justice, resolve
 AC: 22, touch 15, flat-footed 18 (armor +6, deflection +1, dex +3, dodge +1, natural +1)
 HP: 76
-HD: 11d10+11
+hit_dice: 11d10+11
 saves: Fort +10, Ref +9, Will +9
 saves_other: +2 vs. enchantments
 immune: charm, disease, fear, poison, sleep

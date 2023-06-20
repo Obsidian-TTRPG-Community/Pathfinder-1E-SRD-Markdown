@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 aura: radiance
 AC: 17, touch 15, flat-footed 14 (dex +3, natural +2, size +2)
 HP: 39
-HD: 6d10+6
+hit_dice: 6d10+6
 saves: Fort +6, Ref +8, Will +6
 immune: fire
 weak: vulnerable to cold

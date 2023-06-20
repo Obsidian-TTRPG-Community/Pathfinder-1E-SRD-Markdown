@@ -21,7 +21,7 @@ INI: +0
 perception: +3
 AC: 13, touch 11, flat-footed 13 (deflection +1, natural +2)
 HP: 38
-HD: 7d6+14
+hit_dice: 7d6+14
 saves: Fort +6, Ref +3, Will +9
 speed: 30 ft.
 melee: quarterstaff +2 (1d6-1)

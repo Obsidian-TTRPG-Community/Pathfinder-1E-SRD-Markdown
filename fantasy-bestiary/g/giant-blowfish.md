@@ -20,7 +20,7 @@ perception: +5
 senses: low-light vision
 AC: 18, touch 10, flat-footed 17 (armor +8, dex +1, size -1)
 HP: 52
-HD: 7d8+21
+hit_dice: 7d8+21
 saves: Fort +10, Ref +6, Will +4
 defensive_abilities: quills
 speed: 30 ft., swim 30 ft.

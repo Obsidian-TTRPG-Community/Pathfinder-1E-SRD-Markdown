@@ -22,7 +22,7 @@ aura: spatial riptide
 AC: 32, touch 14, flat-footed 27 (dex +5, natural +18, size -1)
 HP: 287
 HP_extra: fast healing 10
-HD: 23d10+161
+hit_dice: 23d10+161
 saves: Fort +22, Ref +14, Will +22
 immune: acid, polymorph
 resist: electricity 10, sonic 10

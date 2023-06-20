@@ -22,7 +22,7 @@ aura: cloak of chaos, unspeakable presence
 AC: 49, touch 37, flat-footed 35 (deflection +4, dex +13, dodge +1, insight +10, natural +12, size -1)
 HP: 752
 HP_extra: fast healing 30
-HD: 35d10+560
+hit_dice: 35d10+560
 saves: Fort +31, Ref +36, Will +34
 immune: ability damage, ability drain, aging, cold, death effects, disease, energy drain, mind-affecting effects, paralysis, petrification, sonic
 resist: acid 30, electricity 30, fire 30

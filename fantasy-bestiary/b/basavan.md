@@ -19,7 +19,7 @@ perception: +27
 senses: darkvision, harmony with the land
 AC: 30, touch 12, flat-footed 26 (dex +4, natural +18, size -2)
 HP: 230
-HD: 20d10+120
+hit_dice: 20d10+120
 saves: Fort +14, Ref +16, Will +18
 resist: cold 20, fire 20
 defensive_abilities: rock catching

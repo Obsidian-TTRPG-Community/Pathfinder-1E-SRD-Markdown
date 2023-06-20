@@ -18,7 +18,7 @@ INI: +0
 perception: -5
 AC: 9, touch 9, flat-footed 9 (size -1)
 HP: 230
-HD: 20d8+140
+hit_dice: 20d8+140
 saves: Fort +13, Ref +6, Will +1
 immune: cold, ooze traits
 defensive_abilities: split (slashing or fire, 46 hp)

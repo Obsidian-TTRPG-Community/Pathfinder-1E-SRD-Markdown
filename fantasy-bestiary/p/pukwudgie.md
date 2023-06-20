@@ -20,7 +20,7 @@ perception: +13
 senses: darkvision, deathwatch, detect good, detect magic
 AC: 20, touch 16, flat-footed 15 (dex +4, dodge +1, natural +4, size +1)
 HP: 85
-HD: 9d10+36
+hit_dice: 9d10+36
 saves: Fort +7, Ref +10, Will +10
 immune: poison
 speed: 30 ft.

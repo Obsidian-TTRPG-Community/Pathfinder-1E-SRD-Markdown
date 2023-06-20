@@ -22,7 +22,7 @@ aura: corrosive aura
 AC: 27, touch 15, flat-footed 20 (dex +6, dodge +1, natural +12, size -2)
 HP: 149
 HP_extra: fast healing 5
-HD: 13d10+78
+hit_dice: 13d10+78
 saves: Fort +14, Ref +14, Will +7
 immune: acid, polymorph
 resist: electricity 10, sonic 10

@@ -19,7 +19,7 @@ perception: +12
 senses: low-light vision
 AC: 23, touch 7, flat-footed 23 (dex -1, natural +16, size -2)
 HP: 133
-HD: 14d8+70
+hit_dice: 14d8+70
 saves: Fort +14, Ref +8, Will +7
 defensive_abilities: sweat
 speed: 50 ft.

@@ -19,7 +19,7 @@ perception: +11
 senses: low-light vision
 AC: 17, touch 14, flat-footed 13 (dex +4, natural +3)
 HP: 27
-HD: 6d6+6
+hit_dice: 6d6+6
 saves: Fort +5, Ref +9, Will +7
 DR: 5/cold iron
 weak: tree dependent

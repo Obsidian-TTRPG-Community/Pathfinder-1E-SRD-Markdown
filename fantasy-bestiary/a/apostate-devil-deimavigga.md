@@ -21,7 +21,7 @@ senses: darkvision, see in darkness
 AC: 46, touch 20, flat-footed 36 (armor +14, dex +10, natural +12)
 HP: 261
 HP_extra: regeneration 5
-HD: 18d10+162
+hit_dice: 18d10+162
 saves: Fort +20, Ref +16, Will +20
 immune: fire, poison
 resist: acid 10, cold 10

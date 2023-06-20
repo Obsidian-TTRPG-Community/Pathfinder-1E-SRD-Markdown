@@ -22,7 +22,7 @@ aura: rage
 AC: 30, touch 10, flat-footed 29 (armor +20, dex +1, size -1)
 HP: 261
 HP_extra: regeneration 5; regeneration weakness adamantine
-HD: 18d10+162
+hit_dice: 18d10+162
 saves: Fort +20, Ref +12, Will +8
 immune: magic, poison
 resist: cold 10, sonic 10

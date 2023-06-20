@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, scent
 AC: 19, touch 14, flat-footed 15 (dex +4, natural +5)
 HP: 68
 HP_extra: fast healing 5
-HD: 8d10+24
+hit_dice: 8d10+24
 saves: Fort +9, Ref +10, Will +7
 immune: ability damage, ability drain, death effects, disease, energy drain, fear, negative energy
 speed: 50 ft.

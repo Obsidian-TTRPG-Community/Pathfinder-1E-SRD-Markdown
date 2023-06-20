@@ -19,7 +19,7 @@ perception: +27
 senses: low-light vision
 AC: 31, touch 11, flat-footed 26 (dex +5, natural +20, size -4)
 HP: 253
-HD: 22d8+154
+hit_dice: 22d8+154
 saves: Fort +20, Ref +12, Will +11
 immune: electricity, plant traits
 speed: 40 ft.

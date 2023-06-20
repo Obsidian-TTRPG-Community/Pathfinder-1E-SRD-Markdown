@@ -22,7 +22,7 @@ perception: +13
 AC: 27, touch 10, flat-footed 27 (armor +9, natural +5, shield +3)
 HP: 100
 HP_extra: HD 11
-HD: 2d8+9d10+42
+hit_dice: 2d8+9d10+42
 saves: Fort +12, Ref +3, Will +4
 speed: 20 ft., swim 15 ft.
 melee: +1 lance +17/+12 (1d8+8/19-20/×3)

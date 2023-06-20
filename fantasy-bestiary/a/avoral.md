@@ -21,7 +21,7 @@ senses: darkvision, detect magic, low-light vision, see invisibility, true seein
 aura: fear aura
 AC: 25, touch 17, flat-footed 18 (dex +6, dodge +1, natural +8)
 HP: 94
-HD: 9d10+45
+hit_dice: 9d10+45
 saves: Fort +11, Ref +12, Will +6
 saves_other: +4 vs. poison
 immune: electricity, petrification

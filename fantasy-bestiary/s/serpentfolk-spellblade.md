@@ -22,7 +22,7 @@ senses: darkvision, scent
 AC: 26, touch 15, flat-footed 22 (armor +7, deflection +1, dex +3, dodge +1, natural +4)
 HP: 160
 HP_extra: HD 14
-HD: 5d10+9d8+93
+hit_dice: 5d10+9d8+93
 saves: Fort +15, Ref +14, Will +12
 immune: mind-affecting effects, paralysis, poison
 SR: 24

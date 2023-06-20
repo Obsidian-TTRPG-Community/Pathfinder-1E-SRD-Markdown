@@ -20,7 +20,7 @@ perception: +8
 senses: darkvision
 AC: 16, touch 16, flat-footed 12 (dex +4, size +2)
 HP: 18
-HD: 4d8
+hit_dice: 4d8
 saves: Fort +1, Ref +5, Will +5
 defensive_abilities: ethereal body
 speed: 10 ft., fly 30 ft. (perfect)

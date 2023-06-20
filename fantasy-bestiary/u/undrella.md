@@ -22,7 +22,7 @@ senses: darkvision
 AC: 24, touch 17, flat-footed 18 (armor +6, deflection +1, dex +5, dodge +1, natural +1)
 HP: 118
 HP_extra: HD 14
-HD: 7d10+7d10+42
+hit_dice: 7d10+7d10+42
 saves: Fort +12, Ref +15, Will +9
 speed: 30 ft., fly 80 ft. (average)
 melee: mwk morningstar +15/+10/+5 (1d8)

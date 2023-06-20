@@ -22,7 +22,7 @@ aura: fascination
 AC: 38, touch 5, flat-footed 37 (dex +1, insight +2, natural +33, size -8)
 HP: 399
 HP_extra: fast healing 10
-HD: 22d10+278
+hit_dice: 22d10+278
 saves: Fort +22, Ref +18, Will +14
 immune: acid, cold, electricity, poison
 resist: fire 10

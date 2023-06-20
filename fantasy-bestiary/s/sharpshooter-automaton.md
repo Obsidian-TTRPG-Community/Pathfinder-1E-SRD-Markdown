@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, see invisibility
 AC: 29, touch 14, flat-footed 25 (dex +4, natural +15)
 HP: 130
 HP_extra: fast healing 10
-HD: 20d10+20
+hit_dice: 20d10+20
 saves: Fort +6, Ref +14, Will +10
 immune: construct traits, electricity
 resist: cold 10, sonic 10

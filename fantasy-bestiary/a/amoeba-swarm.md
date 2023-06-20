@@ -20,7 +20,7 @@ perception: -5
 senses: blindsight
 AC: 13, touch 13, flat-footed 13 (dex -5, size +8)
 HP: 9
-HD: 2d8
+hit_dice: 2d8
 saves: Fort +0, Ref -5, Will -5
 immune: weapon damage
 defensive_abilities: ooze and swarm traits

@@ -22,7 +22,7 @@ senses: low-light vision
 AC: 26, touch 14, flat-footed 22 (armor +2, dex +4, natural +10)
 HP: 147
 HP_extra: fast healing 5
-HD: 14d6+98
+hit_dice: 14d6+98
 saves: Fort +10, Ref +13, Will +9
 DR: 10/cold iron
 weak: irreligious

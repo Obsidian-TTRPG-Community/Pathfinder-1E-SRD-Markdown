@@ -22,7 +22,7 @@ aura: positive energy
 AC: 29, touch 18, flat-footed 22 (deflection +3, dex +6, dodge +1, natural +11, size -2)
 HP: 237
 HP_extra: fast healing 5
-HD: 19d10+133
+hit_dice: 19d10+133
 saves: Fort +18, Ref +12, Will +17
 immune: acid, cold
 resist: electricity 30, fire 30

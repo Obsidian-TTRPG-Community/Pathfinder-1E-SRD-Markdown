@@ -20,7 +20,7 @@ senses: darkvision
 aura: disquieting aura
 AC: 17, touch 12, flat-footed 15 (dex +2, natural +5)
 HP: 66
-HD: 7d8+35
+hit_dice: 7d8+35
 saves: Fort +8, Ref +4, Will +5
 immune: undead traits
 DR: 5/magic or silver

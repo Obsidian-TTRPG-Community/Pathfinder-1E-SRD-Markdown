@@ -23,7 +23,7 @@ senses: darkvision
 AC: 18, touch 14, flat-footed 14 (dex +4, natural +4)
 HP: 66
 HP_extra: HD 7
-HD: 5d10+2d10+28
+hit_dice: 5d10+2d10+28
 saves: Fort +8, Ref +10, Will +3
 saves_other: +1 vs. fear
 DR: 10/magic

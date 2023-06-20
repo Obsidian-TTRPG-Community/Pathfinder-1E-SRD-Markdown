@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, scent
 AC: 19, touch 10, flat-footed 18 (dex +1, natural +9, size -1)
 HP: 80
 HP_extra: regeneration 5; regeneration weakness acid or sonic
-HD: 7d8+49
+hit_dice: 7d8+49
 saves: Fort +12, Ref +3, Will +3
 weak: sunlight petrification
 speed: 30 ft.

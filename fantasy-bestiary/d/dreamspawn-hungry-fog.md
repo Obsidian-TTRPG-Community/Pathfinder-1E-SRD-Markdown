@@ -21,7 +21,7 @@ senses: blindsight, darkvision, thoughtsense
 aura: bewitching brume, discordant feedback
 AC: 7, touch 7, flat-footed 7 (dex -1, size -2)
 HP: 59
-HD: 7d8+28
+hit_dice: 7d8+28
 saves: Fort +6, Ref +1, Will -3
 immune: acid, electricity, mind-affecting effects, sonic
 resist: cold 10

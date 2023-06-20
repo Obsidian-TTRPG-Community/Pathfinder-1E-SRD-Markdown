@@ -20,7 +20,7 @@ perception: +4
 senses: low-light vision, scent
 AC: 14, touch 12, flat-footed 11 (dex +3, natural +2, size -1)
 HP: 19
-HD: 3d8+6
+hit_dice: 3d8+6
 saves: Fort +5, Ref +4, Will +1
 resist: fire 10
 weak: wicked blood

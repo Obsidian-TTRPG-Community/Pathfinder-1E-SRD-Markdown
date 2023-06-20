@@ -23,7 +23,7 @@ senses: darkvision, silver scent
 AC: 24, touch 14, flat-footed 20 (armor +5, dex +4, natural +5)
 HP: 88
 HP_extra: fast healing 10
-HD: 10d8+40
+hit_dice: 10d8+40
 saves: Fort +3, Ref +11, Will +13
 saves_other: +4 vs. mind-affecting
 immune: cold, construct traits (except mind-affecting effects), electricity

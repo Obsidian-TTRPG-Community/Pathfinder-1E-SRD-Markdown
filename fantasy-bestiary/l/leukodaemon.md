@@ -21,7 +21,7 @@ senses: darkvision, deathwatch, detect good
 aura: infectious aura
 AC: 23, touch 16, flat-footed 16 (dex +7, natural +7, size -1)
 HP: 115
-HD: 10d10+60
+hit_dice: 10d10+60
 saves: Fort +9, Ref +14, Will +12
 immune: acid, death effects, disease, poison
 resist: cold 10, electricity 10, fire 10

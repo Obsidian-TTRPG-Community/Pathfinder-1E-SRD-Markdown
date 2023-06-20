@@ -21,7 +21,7 @@ senses: darkvision
 aura: frightful presence, hoarfrost halo
 AC: 22, touch 16, flat-footed 16 (dex +6, natural +6)
 HP: 114
-HD: 12d10+48
+hit_dice: 12d10+48
 saves: Fort +12, Ref +10, Will +12
 immune: cold
 SR: 20

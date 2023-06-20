@@ -18,7 +18,7 @@ INI: -1
 senses: blindsight
 AC: 15, touch 13, flat-footed 15 (dex -1, natural +2, size +4)
 HP: 5
-HD: 1d8+1
+hit_dice: 1d8+1
 saves: Fort +3, Ref -1, Will -2
 immune: plant traits
 defensive_abilities: self-petrification, toxic secretion

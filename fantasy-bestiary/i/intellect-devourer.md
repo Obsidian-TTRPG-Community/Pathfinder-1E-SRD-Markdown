@@ -19,7 +19,7 @@ perception: +19
 senses: blindsight, detect magic
 AC: 22, touch 17, flat-footed 16 (dex +6, natural +5, size +1)
 HP: 84
-HD: 8d8+48
+hit_dice: 8d8+48
 saves: Fort +7, Ref +8, Will +8
 immune: fire, mind-affecting effects
 resist: cold 20, electricity 20, sonic 20

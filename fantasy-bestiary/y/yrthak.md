@@ -19,7 +19,7 @@ perception: +18
 senses: blindsight
 AC: 23, touch 11, flat-footed 20 (dex +2, dodge +1, natural +12, size -2)
 HP: 114
-HD: 12d10+48
+hit_dice: 12d10+48
 saves: Fort +12, Ref +12, Will +8
 immune: gaze attacks, visual effects and illusions, sight-based attacks, sonic
 weak: blind

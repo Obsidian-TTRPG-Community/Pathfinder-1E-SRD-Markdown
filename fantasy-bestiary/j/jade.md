@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: tainted air
 AC: 20, touch 17, flat-footed 16 (armor +2, dex +3, size +4)
 HP: 22
-HD: 4d10
+hit_dice: 4d10
 saves: Fort +1, Ref +6, Will +2
 immune: cold, construct traits, electricity, fire
 DR: 5/bludgeoning and magic

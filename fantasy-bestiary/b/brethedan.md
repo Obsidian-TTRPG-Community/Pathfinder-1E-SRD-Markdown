@@ -20,7 +20,7 @@ senses: blindsense, darkvision
 AC: 17, touch 9, flat-footed 17 (natural +8, size -1)
 HP: 66
 HP_extra: regeneration 2; regeneration weakness acid
-HD: 7d8+35
+hit_dice: 7d8+35
 saves: Fort +7, Ref +2, Will +9
 defensive_abilities: amorphous
 speed: 0 ft., fly 30 ft. (good)

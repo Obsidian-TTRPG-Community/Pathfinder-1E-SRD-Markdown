@@ -22,7 +22,7 @@ perception: +6
 senses: low-light vision
 AC: 12, touch 9, flat-footed 12 (armor +3, dex -1)
 HP: 10
-HD: 1d8+2
+hit_dice: 1d8+2
 saves: Fort +3, Ref +1, Will +4
 weak: aura transparency
 speed: 30 ft.

@@ -20,7 +20,7 @@ senses: darkvision, low-light vision, see in darkness
 aura: shadow
 AC: 29, touch 19, flat-footed 25 (deflection +6, dex +4, natural +10, size -1)
 HP: 151
-HD: 22d10+30
+hit_dice: 22d10+30
 saves: Fort +7, Ref +11, Will +7
 immune: cold, construct traits
 DR: 15/adamantine and slashing

@@ -20,7 +20,7 @@ perception: +12
 senses: darkvision, tremorsense
 AC: 19, touch 13, flat-footed 16 (dex +3, natural +6)
 HP: 85
-HD: 9d10+36
+hit_dice: 9d10+36
 saves: Fort +10, Ref +9, Will +6
 DR: 10/adamantine and magic
 SR: 18

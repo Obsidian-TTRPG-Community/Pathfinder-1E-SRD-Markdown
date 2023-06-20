@@ -22,7 +22,7 @@ perception: +3
 senses: low-light vision
 AC: 13, touch 11, flat-footed 12 (dex +1, natural +2)
 HP: 7
-HD: 1d10+2
+hit_dice: 1d10+2
 saves: Fort +4, Ref +1, Will -1
 speed: 5 ft., swim 50 ft.
 melee: trident +2 (1d8+1)

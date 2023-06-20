@@ -22,7 +22,7 @@ perception: +32
 senses: darkvision, tremorsense
 AC: 27, touch 11, flat-footed 27 (armor +6, deflection +2, dex -1, natural +10)
 HP: 178
-HD: 14d8+112
+hit_dice: 14d8+112
 saves: Fort +15, Ref +5, Will +16
 saves_other: +4 vs. fey and plant-targeted effects
 immune: fire, poison, undead traits

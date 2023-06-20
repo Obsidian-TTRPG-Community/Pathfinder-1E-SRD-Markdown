@@ -20,7 +20,7 @@ perception: +8
 senses: darkvision, low-light vision, deathwatch
 AC: 19, touch 15, flat-footed 16 (dex +3, natural +4, size +2)
 HP: 34
-HD: 4d10+12
+hit_dice: 4d10+12
 saves: Fort +6, Ref +7, Will +5
 immune: disease
 resist: acid 10, cold 10

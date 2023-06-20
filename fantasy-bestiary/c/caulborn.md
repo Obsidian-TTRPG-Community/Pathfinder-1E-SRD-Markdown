@@ -20,7 +20,7 @@ perception: +15
 senses: blindsense, darkvision, thoughtsense
 AC: 19, touch 18, flat-footed 15 (deflection +4, dex +4, natural +1)
 HP: 76
-HD: 9d10+27
+hit_dice: 9d10+27
 saves: Fort +6, Ref +8, Will +13
 immune: visual effects
 defensive_abilities: premonition, psychic deflection

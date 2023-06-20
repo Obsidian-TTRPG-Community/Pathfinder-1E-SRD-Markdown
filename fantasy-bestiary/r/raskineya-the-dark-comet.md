@@ -23,7 +23,7 @@ senses: dragon senses, see in darkness
 aura: alien presence
 AC: 35, touch 9, flat-footed 34 (dex +1, natural +26, size -2)
 HP: 260
-HD: 16d12+156
+hit_dice: 16d12+156
 saves: Fort +16, Ref +11, Will +15
 immune: cold, confusion, dragon traits, insanity effects, paralysis, sleep
 defensive_abilities: dragon blood (1d8 cold), DR 10/epic and magic

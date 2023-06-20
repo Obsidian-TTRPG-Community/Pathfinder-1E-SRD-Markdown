@@ -22,7 +22,7 @@ senses: darkvision
 AC: 26, touch 12, flat-footed 23 (dex +3, natural +14, size -1)
 HP: 150
 HP_extra: HD 17
-HD: 15d8+2d12+70
+hit_dice: 15d8+2d12+70
 saves: Fort +12, Ref +8, Will +14
 immune: disease, poison
 defensive_abilities: uncanny dodge

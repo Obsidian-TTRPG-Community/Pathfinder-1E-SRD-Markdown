@@ -20,7 +20,7 @@ perception: +2
 senses: blindsense, low-light vision, keen scent
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 36
-HD: 3d10+15
+hit_dice: 3d10+15
 saves: Fort +6, Ref +2, Will +3
 DR: 10/silver
 defensive_abilities: bravery +1

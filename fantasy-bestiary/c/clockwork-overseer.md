@@ -21,7 +21,7 @@ senses: all-around vision, darkvision, low-light vision
 aura: aura of command
 AC: 21, touch 14, flat-footed 17 (dex +2, dodge +2, natural +7)
 HP: 75
-HD: 10d10+20
+hit_dice: 10d10+20
 saves: Fort +4, Ref +8, Will +5
 immune: construct traits
 DR: 5/adamantine

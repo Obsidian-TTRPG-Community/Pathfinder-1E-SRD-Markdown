@@ -20,7 +20,7 @@ senses: darkvision, see in darkness
 AC: 18, touch 14, flat-footed 15 (armor +4, dex +3, size +1)
 HP: 68
 HP_extra: fast healing 2
-HD: 8d8+32
+hit_dice: 8d8+32
 saves: Fort +6, Ref +5, Will +8
 immune: cold, disease
 defensive_abilities: all-around vision

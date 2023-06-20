@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: mental static
 AC: 16, touch 15, flat-footed 12 (dex +4, natural +1, size +1)
 HP: 16
-HD: 3d6+6
+hit_dice: 3d6+6
 saves: Fort +2, Ref +7, Will +5
 DR: 5/cold iron
 speed: 30 ft.

@@ -21,7 +21,7 @@ senses: darkvision, detect good, detect magic, see invisibility
 aura: stench
 AC: 30, touch 13, flat-footed 27 (armor +6, dex +3, natural +11)
 HP: 241
-HD: 21d10+126
+hit_dice: 21d10+126
 saves: Fort +18, Ref +13, Will +14
 saves_other: +4 vs. divine spells
 immune: acid, poison

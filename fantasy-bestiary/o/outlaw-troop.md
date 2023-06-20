@@ -19,7 +19,7 @@ INI: +8
 perception: +12
 AC: 19, touch 15, flat-footed 14 (armor +4, dex +4, dodge +1)
 HP: 82
-HD: 11d8+33
+hit_dice: 11d8+33
 saves: Fort +6, Ref +13, Will +6
 defensive_abilities: evasion, troop traits
 speed: 30 ft.

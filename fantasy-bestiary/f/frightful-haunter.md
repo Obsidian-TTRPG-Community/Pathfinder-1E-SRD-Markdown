@@ -22,7 +22,7 @@ aura: cowardice
 AC: 16, touch 15, flat-footed 12 (deflection +3, dex +3)
 HP: 60
 HP_extra: fast healing 0; fast healing weakness see special abilities
-HD: 8d8+24
+hit_dice: 8d8+24
 saves: Fort +5, Ref +5, Will +9
 immune: haunts
 defensive_abilities: channel resistance +3, incorporeal

@@ -19,7 +19,7 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 20, touch 14, flat-footed 17 (dex +3, natural +6, size +1)
 HP: 43
-HD: 6d10+10
+hit_dice: 6d10+10
 saves: Fort +2, Ref +5, Will +2
 immune: acid, construct traits, magic
 speed: 40 ft., climb 20 ft.

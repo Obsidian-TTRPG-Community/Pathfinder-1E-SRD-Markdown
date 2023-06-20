@@ -20,7 +20,7 @@ perception: +26
 senses: darkvision, mistsight
 AC: 27, touch 12, flat-footed 24 (dex +3, natural +15, size -1)
 HP: 161
-HD: 17d8+85
+hit_dice: 17d8+85
 saves: Fort +10, Ref +8, Will +12
 immune: undead traits
 DR: 10/magic

@@ -21,7 +21,7 @@ INI: -1
 perception: +13
 AC: 10, touch 9, flat-footed 10 (armor +1, dex -1)
 HP: 31
-HD: 7d8
+hit_dice: 7d8
 saves: Fort +3, Ref +2, Will +9
 speed: 30 ft.
 melee: mwk silver dagger +5 (1d4-1/19-20)

@@ -23,7 +23,7 @@ senses: darkvision
 aura: stench
 AC: 19, touch 9, flat-footed 19 (armor +4, dex -1, natural +6)
 HP: 30
-HD: 5d8+8
+hit_dice: 5d8+8
 saves: Fort +7, Ref +0, Will +5
 speed: 20 ft.
 melee: +1 obsidian spiked gauntlet +10 (1d4+6), bite +3 (1d4+5), claw +3 (1d4+5)

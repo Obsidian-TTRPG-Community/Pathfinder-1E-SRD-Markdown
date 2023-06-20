@@ -19,7 +19,7 @@ perception: +12
 senses: darkvision, low-light vision, scent
 AC: 29, touch 7, flat-footed 29 (dex -1, natural +22, size -2)
 HP: 253
-HD: 22d10+132
+hit_dice: 22d10+132
 saves: Fort +21, Ref +12, Will +9
 saves_other: +6 vs. charms and compulsions
 DR: 5/-

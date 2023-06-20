@@ -21,7 +21,7 @@ INI: +3
 perception: +24
 AC: 28, touch 19, flat-footed 24 (armor +4, deflection +3, dex +3, dodge +1, insight +1, shield +5, size +1)
 HP: 156
-HD: 18d8+72
+hit_dice: 18d8+72
 saves: Fort +18, Ref +13, Will +20
 saves_other: +2 vs. fear, +4 vs. fey and plant-targeted effects
 immune: poison

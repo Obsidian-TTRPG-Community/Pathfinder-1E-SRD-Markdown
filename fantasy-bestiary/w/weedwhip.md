@@ -19,7 +19,7 @@ senses: blindsight, low-light vision
 aura: stench
 AC: 14, touch 13, flat-footed 11 (dex +3, natural +1)
 HP: 16
-HD: 3d8+3
+hit_dice: 3d8+3
 saves: Fort +4, Ref +4, Will +2
 immune: plant traits
 defensive_abilities: dig in, poisonous

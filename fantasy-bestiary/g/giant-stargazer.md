@@ -20,7 +20,7 @@ perception: +5
 senses: low-light vision
 AC: 17, touch 14, flat-footed 13 (dex +4, natural +3)
 HP: 37
-HD: 5d8+15
+hit_dice: 5d8+15
 saves: Fort +7, Ref +8, Will +2
 resist: electricity 10
 defensive_abilities: venomous spines

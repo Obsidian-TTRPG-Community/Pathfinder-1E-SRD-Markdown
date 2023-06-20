@@ -21,7 +21,7 @@ senses: blindsense
 AC: 32, touch 32, flat-footed 28 (dex +3, dodge +1, profane +28)
 HP: 270
 HP_extra: regeneration 10; regeneration weakness good spells, good weapons
-HD: 20d8+180
+hit_dice: 20d8+180
 saves: Fort +16, Ref +9, Will +11
 immune: acid, bludgeoning damage, electricity, mind-affecting effects, ooze traits, piercing damage
 resist: cold 30

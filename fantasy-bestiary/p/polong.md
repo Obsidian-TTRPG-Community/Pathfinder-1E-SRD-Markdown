@@ -21,7 +21,7 @@ senses: darkvision
 aura: murderous intent
 AC: 19, touch 19, flat-footed 15 (deflection +5, dex +4)
 HP: 95
-HD: 10d8+50
+hit_dice: 10d8+50
 saves: Fort +8, Ref +7, Will +11
 immune: undead traits
 defensive_abilities: incorporeal; channel resistance +2

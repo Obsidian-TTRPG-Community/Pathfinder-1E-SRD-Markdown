@@ -20,7 +20,7 @@ senses: low-light vision
 AC: 23, touch 11, flat-footed 21 (dex +2, natural +12, size -1)
 HP: 105
 HP_extra: regeneration 10; regeneration weakness acid or fire
-HD: 14d8+42
+hit_dice: 14d8+42
 saves: Fort +12, Ref +8, Will +8
 immune: plant traits
 speed: 30 ft.

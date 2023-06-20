@@ -20,7 +20,7 @@ senses: low-light vision
 AC: 34, touch 15, flat-footed 29 (armor +7, dex +4, dodge +1, natural +12, deflection vs. evil or law +2)
 HP: 270
 HP_extra: fast healing 10
-HD: 20d6+200
+hit_dice: 20d6+200
 saves: Fort +15, Ref +20, Will +17
 immune: poison
 resist: acid 30, cold 30, electricity 30

@@ -21,7 +21,7 @@ aura: mental static
 AC: 27, touch 13, flat-footed 23 (armor +4, dex +3, dodge +1, natural +6, shield +4, size -1)
 HP: 123
 HP_extra: fast healing 5
-HD: 13d8+65
+hit_dice: 13d8+65
 saves: Fort +10, Ref +9, Will +15
 DR: 5/-
 defensive_abilities: amorphous

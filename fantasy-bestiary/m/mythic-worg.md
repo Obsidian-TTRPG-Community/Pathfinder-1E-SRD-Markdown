@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, scent
 aura: darkness
 AC: 15, touch 12, flat-footed 13 (dex +2, natural +3)
 HP: 36
-HD: 4d10+14
+hit_dice: 4d10+14
 saves: Fort +5, Ref +6, Will +3
 speed: 50 ft.
 melee: bite +7 (1d8+4 plus trip)

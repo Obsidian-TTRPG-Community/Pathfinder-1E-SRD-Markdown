@@ -21,7 +21,7 @@ senses: low-light vision
 aura: stench
 AC: 22, touch 8, flat-footed 22 (armor +3, dex -1, natural +11, size -1)
 HP: 89
-HD: 10d8+44
+hit_dice: 10d8+44
 saves: Fort +9, Ref +2, Will +5
 DR: 5/epic
 defensive_abilities: two brains

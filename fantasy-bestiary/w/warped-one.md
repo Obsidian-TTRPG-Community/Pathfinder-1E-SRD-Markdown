@@ -21,7 +21,7 @@ senses: darkvision
 aura: warp field
 AC: 21, touch 14, flat-footed 17 (dex +4, natural +7)
 HP: 105
-HD: 10d10+50
+hit_dice: 10d10+50
 saves: Fort +12, Ref +9, Will +9
 immune: mind-affecting effects, petrification, polymorph effects
 resist: electricity 10

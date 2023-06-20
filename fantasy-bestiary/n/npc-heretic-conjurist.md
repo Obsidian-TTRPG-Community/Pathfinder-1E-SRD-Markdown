@@ -20,7 +20,7 @@ INI: +5
 perception: +5
 AC: 15, touch 11, flat-footed 14 (armor +4, dex +1)
 HP: 45
-HD: 7d6+21
+hit_dice: 7d6+21
 saves: Fort +5, Ref +4, Will +6
 speed: 30 ft.
 melee: cold iron or alchemical silver dagger +2 (1d4-1/19-20)

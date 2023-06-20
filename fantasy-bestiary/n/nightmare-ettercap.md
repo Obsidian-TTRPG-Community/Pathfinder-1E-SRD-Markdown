@@ -21,7 +21,7 @@ aura: fear, frightful presence
 AC: 17, touch 15, flat-footed 12 (dex +5, natural +2)
 HP: 30
 HP_extra: regeneration 5; regeneration weakness good spells and weapons, silver
-HD: 4d8+12
+hit_dice: 4d8+12
 saves: Fort +6, Ref +6, Will +6
 DR: 5/good or silver
 defensive_abilities: illusion resistance, protection from good

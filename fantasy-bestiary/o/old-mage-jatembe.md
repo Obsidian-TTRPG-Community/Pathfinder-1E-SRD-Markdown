@@ -23,7 +23,7 @@ senses: arcane sight, darkvision, see invisibility
 AC: 32, touch 19, flat-footed 29 (armor +8, deflection +5, dex +3, insight +1, natural +5)
 HP: 210
 HP_extra: regeneration 1
-HD: 20d6+138
+hit_dice: 20d6+138
 saves: Fort +16, Ref +15, Will +25
 saves_other: +8 vs. mind-affecting
 DR: 10/epic

@@ -22,7 +22,7 @@ perception: +2
 senses: darkvision
 AC: 15, touch 9, flat-footed 15 (armor +6, dex -1)
 HP: 20
-HD: 3d8+3
+hit_dice: 3d8+3
 saves: Fort +5, Ref +1, Will +5
 defensive_abilities: ferocity
 weak: light sensitivity

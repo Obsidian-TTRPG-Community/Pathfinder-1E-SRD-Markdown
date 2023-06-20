@@ -19,7 +19,7 @@ perception: +6
 senses: detect evil, detect good, low-light vision
 AC: 17, touch 17, flat-footed 14 (dex +3, size +4)
 HP: 3
-HD: 1d6
+hit_dice: 1d6
 saves: Fort +0, Ref +5, Will +2
 DR: 2/cold iron
 speed: 15 ft., fly 60 ft. (perfect)

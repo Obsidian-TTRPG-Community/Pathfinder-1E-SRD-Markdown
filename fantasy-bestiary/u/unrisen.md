@@ -20,7 +20,7 @@ senses: darkvision
 aura: awfulness
 AC: 18, touch 9, flat-footed 18 (dex -1, natural +9)
 HP: 52
-HD: 7d8+21
+hit_dice: 7d8+21
 saves: Fort +5, Ref +3, Will +8
 immune: undead traits
 defensive_abilities: meant to live, rise again

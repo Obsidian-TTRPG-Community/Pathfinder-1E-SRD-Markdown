@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 AC: 22, touch 13, flat-footed 19 (armor +9, dex +3)
 HP: 97
 HP_extra: fast healing 5
-HD: 13d6+52
+hit_dice: 13d6+52
 saves: Fort +8, Ref +11, Will +10
 immune: cold
 defensive_abilities: implements of ice

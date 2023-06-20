@@ -20,7 +20,7 @@ perception: +0
 senses: blindsense
 AC: 19, touch 19, flat-footed 18 (dex +1, size +8)
 HP: 51
-HD: 7d8+35
+hit_dice: 7d8+35
 saves: Fort +9, Ref +3, Will +2
 immune: plant traits, weapon damage
 defensive_abilities: swarm traits

@@ -21,7 +21,7 @@ INI: +6
 perception: +16
 AC: 30, touch 17, flat-footed 27 (armor +4, deflection +4, dex +2, dodge +1, natural +9)
 HP: 217
-HD: 20d6+145
+hit_dice: 20d6+145
 saves: Fort +16, Ref +11, Will +18
 saves_other: +4 morale bonus vs. undead spells and spell-like abilities
 immune: cold, nonlethal damage, paralysis, sleep

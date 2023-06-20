@@ -20,7 +20,7 @@ INI: +1
 perception: +3
 AC: 18, touch 11, flat-footed 17 (armor +6, dex +1, shield +1)
 HP: 16
-HD: 3d8+3
+hit_dice: 3d8+3
 saves: Fort +4, Ref +2, Will +5
 speed: 20 ft.
 melee: mwk sickle +3 (1d6)

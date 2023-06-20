@@ -21,7 +21,7 @@ senses: blindsense, darkvision
 AC: 40, touch 8, flat-footed 34 (dex +5, dodge +1, natural +32, size -8)
 HP: 445
 HP_extra: regeneration 20
-HD: 33d10+264
+hit_dice: 33d10+264
 saves: Fort +26, Ref +23, Will +16
 immune: ability damage, aging, bleed, disease, electricity, energy drain, fire, mind-affecting effects, negative levels, paralysis, permanent wounds, petrification, poison, polymorph
 DR: 15/epic

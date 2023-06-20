@@ -19,7 +19,7 @@ perception: +9
 senses: blindsense, darkvision, low-light vision, scent
 AC: 14, touch 11, flat-footed 12 (dex +2, natural +3, size -1)
 HP: 34
-HD: 4d10+12
+hit_dice: 4d10+12
 saves: Fort +7, Ref +6, Will +2
 immune: disease
 speed: 30 ft., burrow 10 ft., climb 20 ft.

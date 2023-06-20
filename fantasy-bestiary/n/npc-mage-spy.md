@@ -22,7 +22,7 @@ perception: +19
 senses: darkvision, low-light vision
 AC: 24, touch 17, flat-footed 20 (armor +4, deflection +2, dex +3, dodge +1, natural +3, size +1)
 HP: 79
-HD: 17d6+17
+hit_dice: 17d6+17
 saves: Fort +10, Ref +12, Will +16
 saves_other: +2 vs. illusions
 immune: detect thoughts, discern lies, alignment detection

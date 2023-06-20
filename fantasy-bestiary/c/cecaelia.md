@@ -20,7 +20,7 @@ perception: +1
 senses: darkvision, tentacle sense
 AC: 18, touch 14, flat-footed 14 (dex +4, natural +4)
 HP: 45
-HD: 6d10+12
+hit_dice: 6d10+12
 saves: Fort +4, Ref +9, Will +6
 speed: 30 ft., swim 40 ft., jet 200 ft.
 melee: mwk spear +11/+6 (1d8+4/×3), 2 tentacles +5 (1d4+1 plus grab)

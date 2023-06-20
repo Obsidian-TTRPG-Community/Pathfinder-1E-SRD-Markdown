@@ -21,7 +21,7 @@ senses: darkvision
 aura: blinding light
 AC: 28, touch 21, flat-footed 24 (deflection +7, dex +3, dodge +1, natural +7)
 HP: 152
-HD: 16d10+64
+hit_dice: 16d10+64
 saves: Fort +14, Ref +10, Will +10
 immune: blindness, fire, poison
 resist: cold 10, sonic 10

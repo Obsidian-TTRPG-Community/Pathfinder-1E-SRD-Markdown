@@ -20,7 +20,7 @@ senses: darkvision
 aura: faithlessness
 AC: 15, touch 12, flat-footed 13 (dex +2, natural +3)
 HP: 16
-HD: 3d8+3
+hit_dice: 3d8+3
 saves: Fort +2, Ref +3, Will +4
 immune: undead traits
 DR: 5/magic or silver

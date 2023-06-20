@@ -20,7 +20,7 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 15, touch 15, flat-footed 12 (dex +1, dodge +2, size +2)
 HP: 5
-HD: 1d10
+hit_dice: 1d10
 saves: Fort +0, Ref +3, Will +0
 immune: construct traits
 weak: vulnerable to electricity

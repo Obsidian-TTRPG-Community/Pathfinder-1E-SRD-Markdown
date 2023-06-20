@@ -20,7 +20,7 @@ perception: +6
 senses: all-around vision, low-light vision, scent, tremorsense
 AC: 22, touch 4, flat-footed 22 (dex -4, natural +18, size -2)
 HP: 126
-HD: 12d8+72
+hit_dice: 12d8+72
 saves: Fort +14, Ref +0, Will +6
 immune: mind-affecting effects
 defensive_abilities: stability, transparency

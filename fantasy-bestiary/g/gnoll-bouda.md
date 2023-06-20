@@ -23,7 +23,7 @@ senses: all-around vision, darkvision
 AC: 19, touch 12, flat-footed 18 (armor +4, deflection +1, dex +1, natural +3)
 HP: 105
 HP_extra: HD 14
-HD: 2d8+12d6+54
+hit_dice: 2d8+12d6+54
 saves: Fort +11, Ref +9, Will +14
 speed: 30 ft.
 melee: +2 dagger +10/+5 (1d4+3/19-20)

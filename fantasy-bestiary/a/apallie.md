@@ -18,7 +18,7 @@ INI: +2
 perception: +5
 AC: 15, touch 13, flat-footed 13 (dex +2, natural +2, size +1)
 HP: 22
-HD: 4d8+4
+hit_dice: 4d8+4
 saves: Fort +2, Ref +5, Will +2
 immune: ooze traits
 defensive_abilities: amorphous

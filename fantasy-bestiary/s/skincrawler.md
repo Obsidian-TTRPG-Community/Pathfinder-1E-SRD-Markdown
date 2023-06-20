@@ -19,7 +19,7 @@ perception: -5
 senses: blindsight
 AC: 11, touch 11, flat-footed 11 (dex -1, size +2)
 HP: 9
-HD: 1d8+5
+hit_dice: 1d8+5
 saves: Fort +5, Ref -1, Will -5
 immune: ooze traits
 speed: 20 ft., climb 20 ft.

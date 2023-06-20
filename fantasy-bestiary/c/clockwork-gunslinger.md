@@ -19,7 +19,7 @@ INI: +7
 senses: darkvision, low-light vision
 AC: 20, touch 15, flat-footed 15 (dex +3, dodge +2, natural +5)
 HP: 69
-HD: 9d10+20
+hit_dice: 9d10+20
 saves: Fort +3, Ref +8, Will +3
 immune: construct traits
 weak: vulnerable to electricity

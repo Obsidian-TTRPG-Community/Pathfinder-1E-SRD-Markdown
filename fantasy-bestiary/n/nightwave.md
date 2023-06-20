@@ -21,7 +21,7 @@ senses: darksense, darkvision, detect magic, low-light vision
 aura: blackest depths, desecrating aura
 AC: 36, touch 5, flat-footed 33 (dex +3, natural +31, size -8)
 HP: 391
-HD: 29d8+261
+hit_dice: 29d8+261
 saves: Fort +18, Ref +16, Will +25
 immune: cold, undead traits
 DR: 15/good and silver

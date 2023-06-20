@@ -21,7 +21,7 @@ senses: darkvision, lifesense
 AC: 19, touch 15, flat-footed 14 (dex +4, dodge +1, natural +4)
 HP: 71
 HP_extra: fast healing 5
-HD: 11d8+22
+hit_dice: 11d8+22
 saves: Fort +6, Ref +9, Will +9
 immune: undead traits
 DR: 5/magic and silver

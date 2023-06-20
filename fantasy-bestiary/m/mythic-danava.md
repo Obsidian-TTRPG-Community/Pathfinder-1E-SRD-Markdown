@@ -20,7 +20,7 @@ perception: +38
 senses: darkvision
 AC: 48, touch 24, flat-footed 35 (deflection +9, dex +12, dodge +1, natural +24, size -8)
 HP: 545
-HD: 26d10+402
+hit_dice: 26d10+402
 saves: Fort +27, Ref +21, Will +24
 saves_other: +8 vs. mind-affecting, second save
 immune: aging, daze, death effects, disease, divinations, stagger, stun

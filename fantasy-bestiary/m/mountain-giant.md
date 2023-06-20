@@ -21,7 +21,7 @@ senses: low-light vision, see in darkness
 aura: frightful presence
 AC: 33, touch 11, flat-footed 28 (armor +4, dex +5, natural +17, shield +1, size -4)
 HP: 297
-HD: 22d8+198
+hit_dice: 22d8+198
 saves: Fort +18, Ref +12, Will +20
 immune: cold, fear, mindaffecting- effects, poison
 defensive_abilities: rock catching

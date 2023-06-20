@@ -21,7 +21,7 @@ perception: +7
 AC: 16, touch 11, flat-footed 15 (armor +4, dex +1, shield +1)
 HP: 15
 HP_extra: HD 3
-HD: 2d6+1d10+3
+hit_dice: 2d6+1d10+3
 saves: Fort +3, Ref +1, Will -1
 speed: 30 ft.
 melee: battleaxe +3 (1d8+1/×3)

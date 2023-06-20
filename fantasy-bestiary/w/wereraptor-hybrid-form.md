@@ -20,7 +20,7 @@ perception: +11
 senses: low-light vision, scent
 AC: 18, touch 13, flat-footed 15 (armor +2, dex +3, natural +3)
 HP: 30
-HD: 3d10+9
+hit_dice: 3d10+9
 saves: Fort +5, Ref +6, Will +3
 DR: 10/silver
 speed: 30 ft., fly 80 ft. (average)

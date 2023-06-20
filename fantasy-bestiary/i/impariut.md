@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 AC: 24, touch 12, flat-footed 22 (dex +2, natural +12)
 HP: 134
 HP_extra: regeneration 5; regeneration weakness chaotic
-HD: 12d10+68
+hit_dice: 12d10+68
 saves: Fort +12, Ref +8, Will +12
 DR: 10/chaotic
 defensive_abilities: constructed

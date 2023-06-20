@@ -20,7 +20,7 @@ perception: +9
 senses: darkvision, low-light vision, scent
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 77
-HD: 6d10+44
+hit_dice: 6d10+44
 saves: Fort +9, Ref +7, Will +3
 DR: 5/epic
 speed: 30 ft., fly 50 ft. (clumsy)

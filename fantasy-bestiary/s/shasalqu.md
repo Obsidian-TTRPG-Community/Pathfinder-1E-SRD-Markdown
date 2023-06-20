@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: trapping cold
 AC: 15, touch 13, flat-footed 13 (dex +2, natural +2, size +1)
 HP: 30
-HD: 4d10+8
+hit_dice: 4d10+8
 saves: Fort +6, Ref +6, Will +2
 immune: fire
 resist: cold 10

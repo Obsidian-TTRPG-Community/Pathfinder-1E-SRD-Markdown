@@ -20,7 +20,7 @@ senses: darkvision, low-light vision, stormsight
 aura: storm aura
 AC: 25, touch 10, flat-footed 21 (dex +3, dodge +1, natural +15, size -4)
 HP: 147
-HD: 14d10+70
+hit_dice: 14d10+70
 saves: Fort +14, Ref +12, Will +9
 immune: electricity, sonic
 speed: 30 ft., fly 120 ft. (good)

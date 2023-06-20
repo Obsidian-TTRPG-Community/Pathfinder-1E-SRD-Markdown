@@ -23,7 +23,7 @@ senses: low-light vision
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 57
 HP_extra: HD 9
-HD: 5d6+4d6+23
+hit_dice: 5d6+4d6+23
 saves: Fort +7, Ref +6, Will +10
 saves_other: +2 vs. enchantments
 immune: sleep

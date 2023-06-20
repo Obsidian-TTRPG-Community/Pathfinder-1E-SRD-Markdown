@@ -20,7 +20,7 @@ senses: darkvision, scent
 aura: unnatural aura
 AC: 15, touch 11, flat-footed 13 (dex +2, natural +4, size -1)
 HP: 26
-HD: 4d8+8
+hit_dice: 4d8+8
 saves: Fort +3, Ref +3, Will +5
 immune: undead traits
 resist: cold 5, electricity 5

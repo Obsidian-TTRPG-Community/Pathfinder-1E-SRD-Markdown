@@ -22,7 +22,7 @@ perception: +1
 senses: darkvision, low-light vision
 AC: 17, touch 13, flat-footed 14 (armor +4, dex +3)
 HP: 13
-HD: 1d10+3
+hit_dice: 1d10+3
 saves: Fort +2, Ref +3, Will -1
 defensive_abilities: negative energy affinity, resist level drain
 speed: 30 ft.

@@ -20,7 +20,7 @@ senses: dragon senses
 aura: frightful presence
 AC: 39, touch 5, flat-footed 39 (dex -1, natural +34, size -4)
 HP: 377
-HD: 26d12+208
+hit_dice: 26d12+208
 saves: Fort +23, Ref +16, Will +24
 immune: paralysis, sleep
 DR: 15/magic

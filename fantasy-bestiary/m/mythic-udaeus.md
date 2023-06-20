@@ -21,7 +21,7 @@ senses: low-light vision
 AC: 22, touch 11, flat-footed 21 (armor +7, dex +1, natural +1, shield +3)
 HP: 38
 HP_extra: fast healing 1
-HD: 4d8+20
+hit_dice: 4d8+20
 saves: Fort +7, Ref +2, Will +2
 resist: fire 30, fire_other see energy resistance below
 speed: 20 ft.

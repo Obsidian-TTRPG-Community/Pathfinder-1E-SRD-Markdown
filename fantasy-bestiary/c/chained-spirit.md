@@ -21,7 +21,7 @@ senses: darkvision, spectral sight, spiritsense
 AC: 30, touch 30, flat-footed 26 (deflection +8, dex +4, profane +8)
 HP: 200
 HP_extra: fast healing 20
-HD: 16d8+128
+hit_dice: 16d8+128
 saves: Fort +13, Ref +11, Will +17
 immune: positive energy, undead traits
 defensive_abilities: incorporeal, spirit anchor

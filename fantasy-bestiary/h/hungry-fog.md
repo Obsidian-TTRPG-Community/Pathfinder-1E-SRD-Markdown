@@ -19,7 +19,7 @@ senses: blindsight
 aura: bewitching brume
 AC: 5, touch 5, flat-footed 5 (dex -3, size -2)
 HP: 59
-HD: 7d8+28
+hit_dice: 7d8+28
 saves: Fort +6, Ref -1, Will -3
 immune: acid, electricity, ooze traits, sonic
 resist: cold 10

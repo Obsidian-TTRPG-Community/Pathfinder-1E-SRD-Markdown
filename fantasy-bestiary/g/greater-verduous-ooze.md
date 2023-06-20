@@ -20,7 +20,7 @@ senses: blindsight, tremorsense
 aura: sleep
 AC: 6, touch 4, flat-footed 6 (dex -5, natural armor +2, size -1)
 HP: 175
-HD: 15d8+54
+hit_dice: 15d8+54
 saves: Fort +13, Ref +0, Will +0
 immune: acid, fire, mind-affecting effects, ooze traits, slashing and piercing damage
 defensive_abilities: split

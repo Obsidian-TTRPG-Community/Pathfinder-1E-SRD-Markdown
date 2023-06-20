@@ -20,7 +20,7 @@ senses: blindsense, darkvision, low-light vision, scent
 AC: 33, touch 13, flat-footed 26 (dex +7, natural +20, size -4)
 HP: 310
 HP_extra: fast healing 10
-HD: 23d10+184
+hit_dice: 23d10+184
 saves: Fort +21, Ref +20, Will +11
 immune: fear, paralysis, poison, sleep
 defensive_abilities: quick recovery, quill defense

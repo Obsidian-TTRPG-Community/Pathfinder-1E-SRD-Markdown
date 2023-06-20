@@ -19,7 +19,7 @@ senses: blindsight, scent
 AC: 8, touch 6, flat-footed 8 (dex -3, natural +2, size -1)
 HP: 47
 HP_extra: regeneration 5; regeneration weakness acid or fire
-HD: 5d8+25
+hit_dice: 5d8+25
 saves: Fort +6, Ref -2, Will -4
 immune: ooze traits
 defensive_abilities: amorphous

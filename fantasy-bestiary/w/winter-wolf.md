@@ -20,7 +20,7 @@ perception: +11
 senses: darkvision, low-light vision, scent
 AC: 17, touch 10, flat-footed 16 (dex +1, natural +7, size -1)
 HP: 57
-HD: 6d10+24
+hit_dice: 6d10+24
 saves: Fort +9, Ref +6, Will +3
 immune: cold
 weak: vulnerability to fire

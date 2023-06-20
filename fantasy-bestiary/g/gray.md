@@ -20,7 +20,7 @@ perception: +8
 senses: darkvision
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 39
-HD: 6d8+12
+hit_dice: 6d8+12
 saves: Fort +4, Ref +4, Will +9
 speed: 20 ft.
 melee: touch +2 (sensory overload)

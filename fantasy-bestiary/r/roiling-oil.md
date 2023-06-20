@@ -19,7 +19,7 @@ perception: -5
 senses: blindsight
 AC: 4, touch 4, flat-footed 4 (dex -5, size -1)
 HP: 103
-HD: 9d8+63
+hit_dice: 9d8+63
 saves: Fort +10, Ref -2, Will -2
 immune: electricity, fire, ooze traits
 DR: 10/slashing

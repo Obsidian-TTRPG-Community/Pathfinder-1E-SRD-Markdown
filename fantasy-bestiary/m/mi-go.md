@@ -19,7 +19,7 @@ perception: +12
 senses: blindsight, low-light vision
 AC: 20, touch 16, flat-footed 14 (dex +5, dodge +1, natural +4)
 HP: 66
-HD: 7d8+35
+hit_dice: 7d8+35
 saves: Fort +10, Ref +7, Will +4
 immune: cold, plant traits
 resist: electricity 10, fire 10

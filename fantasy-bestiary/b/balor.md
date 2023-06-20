@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, true seeing
 aura: flaming body, unholy aura
 AC: 36, touch 20, flat-footed 29 (deflection +4, dex +7, natural +16, size -1)
 HP: 370
-HD: 20d10+260
+hit_dice: 20d10+260
 saves: Fort +29, Ref +17, Will +25
 immune: electricity, fire, poison
 resist: acid 10, cold 10

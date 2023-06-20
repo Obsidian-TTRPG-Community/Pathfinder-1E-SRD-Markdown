@@ -23,7 +23,7 @@ senses: darkvision
 aura: blood rain
 AC: 29, touch 5, flat-footed 26 (dex +3, natural +24, size -8)
 HP: 387
-HD: 25d10+250
+hit_dice: 25d10+250
 saves: Fort +23, Ref +19, Will +10
 immune: ability drain, cold, energy drain, poison
 resist: fire 30

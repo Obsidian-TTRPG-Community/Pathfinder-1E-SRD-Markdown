@@ -21,7 +21,7 @@ senses: darkvision, detect good, detect law, see in darkness, true seeing
 aura: frightful presence, unholy aura
 AC: 45, touch 34, flat-footed 45 (deflection +4, dex +11, natural +11, profane +10, size -1)
 HP: 643
-HD: 33d10+462
+hit_dice: 33d10+462
 saves: Fort +36, Ref +26, Will +31
 immune: ability damage, ability drain, charm and compulsion effects, death effects, electricity, energy drain, fire, maze, petrification, poison
 resist: acid 30, cold 30

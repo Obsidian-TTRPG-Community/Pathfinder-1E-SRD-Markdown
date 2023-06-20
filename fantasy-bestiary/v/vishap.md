@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 aura: frightful presence
 AC: 35, touch 4, flat-footed 33 (dex +2, natural +31, size -8)
 HP: 362
-HD: 25d12+200
+hit_dice: 25d12+200
 saves: Fort +22, Ref +16, Will +16
 immune: poison, paralysis, sleep
 resist: cold 15, electricity 15, fire 15

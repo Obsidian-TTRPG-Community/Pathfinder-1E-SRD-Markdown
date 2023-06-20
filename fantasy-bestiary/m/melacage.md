@@ -21,7 +21,7 @@ senses: darkvision
 aura: life-draining aura
 AC: 18, touch 18, flat-footed 13 (deflection +3, dex +5)
 HP: 52
-HD: 7d8+21
+hit_dice: 7d8+21
 saves: Fort +5, Ref +7, Will +6
 immune: undead traits
 defensive_abilities: incorporeal, rejuvenation

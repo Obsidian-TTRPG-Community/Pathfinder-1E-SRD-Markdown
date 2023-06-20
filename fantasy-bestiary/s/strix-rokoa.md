@@ -22,7 +22,7 @@ perception: +12
 senses: darkvision, low-light vision
 AC: 20, touch 12, flat-footed 19 (armor +7, deflection +1, dex +1, natural +1)
 HP: 78
-HD: 12d8+24
+hit_dice: 12d8+24
 saves: Fort +7, Ref +7, Will +14
 saves_other: +2 bonus vs. illusion spells or effects
 resist: electricity 10

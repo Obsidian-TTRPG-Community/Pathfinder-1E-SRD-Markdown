@@ -19,7 +19,7 @@ perception: +24
 senses: blindsight, scent, tremorsense
 AC: 24, touch 10, flat-footed 22 (dex +1, dodge +1, natural +14, size -2)
 HP: 119
-HD: 14d8+56
+hit_dice: 14d8+56
 saves: Fort +12, Ref +7, Will +7
 immune: acid, plant traits, sight-based effects
 speed: 30 ft., burrow 30 ft.

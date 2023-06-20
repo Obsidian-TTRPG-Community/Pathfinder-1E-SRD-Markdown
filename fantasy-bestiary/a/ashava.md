@@ -22,7 +22,7 @@ aura: primal aura
 AC: 49, touch 41, flat-footed 33 (dex +15, dodge +1, natural +8, sacred +15)
 HP: 676
 HP_extra: regeneration 30; regeneration weakness deific or mythic
-HD: 33d10+495
+hit_dice: 33d10+495
 saves: Fort +26, Ref +33, Will +30
 immune: ability damage, ability drain, acid, charm effects, compulsion effects, death effects, electricity, energy drain, petrification
 resist: cold 30, fire 30

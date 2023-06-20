@@ -20,7 +20,7 @@ perception: +13
 senses: darkvision
 AC: 18, touch 18, flat-footed 15 (deflection +4, dex +3, size +1)
 HP: 27
-HD: 5d10
+hit_dice: 5d10
 saves: Fort +1, Ref +9, Will +7
 immune: cold, electricity, elemental traits
 defensive_abilities: incorporeal, plasma form

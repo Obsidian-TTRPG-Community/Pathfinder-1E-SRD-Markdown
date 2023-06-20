@@ -21,7 +21,7 @@ senses: all-around vision, arcane sight, darkvision, detect scrying, limitless v
 aura: frightful presence
 AC: 30, touch 12, flat-footed 28 (dex +2, insight +4, natural +18, size -4)
 HP: 184
-HD: 13d8+126
+hit_dice: 13d8+126
 saves: Fort +10, Ref +6, Will +9
 immune: blindness, dazzled
 resist: cold 30, fire 30

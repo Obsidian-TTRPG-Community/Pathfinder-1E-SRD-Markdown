@@ -21,7 +21,7 @@ INI: +2
 perception: +0
 AC: 18, touch 17, flat-footed 12 (deflection +1, dex +2, dodge +4, natural +1)
 HP: 76
-HD: 13d8+18
+hit_dice: 13d8+18
 saves: Fort +10, Ref +11, Will +15
 defensive_abilities: auspicious display +3
 speed: 30 ft.

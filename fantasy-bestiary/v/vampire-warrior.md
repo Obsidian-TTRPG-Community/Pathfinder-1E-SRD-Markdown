@@ -23,7 +23,7 @@ senses: blindsight, blindsight_other, darkvision, low-light vision
 AC: 25, touch 15, flat-footed 20 (armor +8, dex +4, dodge +1, natural +2)
 HP: 78
 HP_extra: fast healing 5
-HD: 7d10+35
+hit_dice: 7d10+35
 saves: Fort +9, Ref +7, Will +4
 saves_other: +2 vs. poison
 immune: undead traits

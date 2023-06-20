@@ -22,7 +22,7 @@ perception: +10
 senses: darkvision
 AC: 22, touch 15, flat-footed 18 (armor +5, dex +4, shield +2, size +1)
 HP: 47
-HD: 6d10+10
+hit_dice: 6d10+10
 saves: Fort +6, Ref +9, Will +3
 speed: 30 ft.
 melee: mwk horsechopper +5 (1d8+3/×3)

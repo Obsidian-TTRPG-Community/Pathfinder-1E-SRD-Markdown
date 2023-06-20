@@ -23,7 +23,7 @@ senses: low-light vision
 AC: 21, touch 15, flat-footed 17 (armor +5, dex +3, dodge +1, shield +1, size +1)
 HP: 60
 HP_extra: HD 8
-HD: 5d8+3d8+21
+hit_dice: 5d8+3d8+21
 saves: Fort +6, Ref +9, Will +2
 saves_other: +2 vs. illusions, +2 vs. poison
 defensive_abilities: evasion, poison resistance +2, uncanny dodge

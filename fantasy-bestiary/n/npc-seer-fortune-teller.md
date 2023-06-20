@@ -21,7 +21,7 @@ perception: +5
 AC: 11, touch 11, flat-footed 10 (dex +1)
 HP: 23
 HP_extra: HD 6
-HD: 3d8+3d6
+hit_dice: 3d8+3d6
 saves: Fort +3, Ref +6, Will +8
 saves_other: +4 vs. bardic performance, language-dependent, and sonic
 speed: 30 ft.

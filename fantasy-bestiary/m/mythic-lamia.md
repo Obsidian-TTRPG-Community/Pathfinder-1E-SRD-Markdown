@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 aura: seduction
 AC: 24, touch 14, flat-footed 19 (dex +3, dodge +2, natural +10, size -1)
 HP: 97
-HD: 9d10+48
+hit_dice: 9d10+48
 saves: Fort +7, Ref +9, Will +11
 DR: 5/epic
 speed: 60 ft.

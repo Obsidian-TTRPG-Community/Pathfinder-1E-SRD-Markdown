@@ -21,7 +21,7 @@ senses: blindsight, darkvision, low-light vision
 aura: infrasonic field
 AC: 23, touch 13, flat-footed 19 (dex +4, natural +10, size -1)
 HP: 112
-HD: 15d10+30
+hit_dice: 15d10+30
 saves: Fort +8, Ref +12, Will +10
 immune: construct traits
 defensive_abilities: all-around vision, hardness 10, reactive armor, resilient

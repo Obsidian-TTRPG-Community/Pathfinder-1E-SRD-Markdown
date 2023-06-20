@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, detect chaos, deathwatch
 AC: 17, touch 10, flat-footed 17 (natural +7)
 HP: 45
 HP_extra: regeneration 3; regeneration weakness chaotic
-HD: 6d10+12
+hit_dice: 6d10+12
 saves: Fort +7, Ref +2, Will +8
 defensive_abilities: constructed, parry
 SR: 15

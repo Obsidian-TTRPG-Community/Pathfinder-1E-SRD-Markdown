@@ -19,7 +19,7 @@ perception: +14
 senses: blindsense, low-light vision
 AC: 28, touch 8, flat-footed 28 (natural +20, size -2)
 HP: 184
-HD: 16d8+112
+hit_dice: 16d8+112
 saves: Fort +17, Ref +7, Will +5
 immune: plant traits, poison
 DR: 10/slashing

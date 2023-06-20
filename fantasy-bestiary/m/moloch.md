@@ -22,7 +22,7 @@ aura: fiendish furnace, frightful presence, shield of law
 AC: 47, touch 34, flat-footed 40 (deflection +4, dex +7, natural +13, profane +15, size -2)
 HP: 731
 HP_extra: regeneration 30; regeneration weakness deific or mythic
-HD: 34d10+544
+hit_dice: 34d10+544
 saves: Fort +39, Ref +24, Will +35
 saves_other: +8 vs. mind-affecting effects
 immune: ability damage, ability drain, charm, compulsion, death effects, energy drain, fire, petrification, poison

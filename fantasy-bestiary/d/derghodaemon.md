@@ -21,7 +21,7 @@ senses: all-around vision, darkvision, detect magic, see invisibility
 aura: feeblemind
 AC: 27, touch 14, flat-footed 22 (dex +5, natural +13, size -1)
 HP: 161
-HD: 14d10+84
+hit_dice: 14d10+84
 saves: Fort +15, Ref +14, Will +7
 immune: acid, death effects, disease, poison
 resist: cold 10, electricity 10, fire 10

@@ -21,7 +21,7 @@ senses: blindsense, darkvision, detect law
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 16
 HP_extra: fast healing 2
-HD: 3d10
+hit_dice: 3d10
 saves: Fort +1, Ref +6, Will +2
 immune: acid
 resist: electricity 10, sonic 10

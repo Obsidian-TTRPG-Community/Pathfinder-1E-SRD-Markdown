@@ -20,7 +20,7 @@ perception: +17
 aura: elemental aura, frightful presence
 AC: 17, touch 15, flat-footed 13 (dex +3, dodge +1, natural +2, size +1)
 HP: 150
-HD: 15d8+75
+hit_dice: 15d8+75
 saves: Fort +9, Ref +12, Will +11
 immune: fire, undead traits
 defensive_abilities: channel resistance +4, final embrace

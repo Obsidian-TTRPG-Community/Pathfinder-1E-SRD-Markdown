@@ -21,7 +21,7 @@ aura: incombustible aura
 AC: 14, touch 14, flat-footed 14 (size +4)
 HP: 11
 HP_extra: regeneration 5; regeneration weakness on natural ground
-HD: 2d10
+hit_dice: 2d10
 saves: Fort +0, Ref +0, Will +1
 resist: cold 5, electricity 5
 weak: vulnerability to fire

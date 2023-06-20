@@ -22,7 +22,7 @@ aura: elusive, mental static
 AC: 18, touch 14, flat-footed 14 (dex +3, dodge +1, natural +4)
 HP: 52
 HP_extra: fast healing 5
-HD: 8d10+8
+hit_dice: 8d10+8
 saves: Fort +3, Ref +11, Will +9
 saves_other: +2 vs. enchantments
 immune: curse effects, disease, poison

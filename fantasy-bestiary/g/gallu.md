@@ -22,7 +22,7 @@ aura: cloak of chaos, havoc
 AC: 34, touch 18, flat-footed 30 (armor +8, deflection +4, dex +4, natural +8)
 HP: 332
 HP_extra: fast healing 10
-HD: 19d10+228
+hit_dice: 19d10+228
 saves: Fort +27, Ref +16, Will +21
 immune: bleed, electricity, poison
 resist: acid 10, cold 10, fire 10

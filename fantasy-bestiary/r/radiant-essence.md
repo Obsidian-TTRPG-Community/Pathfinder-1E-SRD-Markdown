@@ -19,7 +19,7 @@ perception: -5
 senses: blindsight, sense evil
 AC: 8, touch 8, flat-footed 8 (dex -1, size -1)
 HP: 187
-HD: 15d8+120
+hit_dice: 15d8+120
 saves: Fort +13, Ref +4, Will +0
 immune: ooze traits
 speed: 30 ft., climb 20 ft., swim 20 ft.

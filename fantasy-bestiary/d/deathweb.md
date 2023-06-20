@@ -20,7 +20,7 @@ senses: darkvision
 aura: infestation
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 71
-HD: 11d8+22
+hit_dice: 11d8+22
 saves: Fort +5, Ref +5, Will +8
 immune: undead traits
 speed: 30 ft., climb 20 ft.

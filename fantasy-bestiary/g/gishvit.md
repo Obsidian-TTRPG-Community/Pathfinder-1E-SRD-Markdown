@@ -20,7 +20,7 @@ perception: +4
 senses: darkvision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 4
-HD: 1d10-1
+hit_dice: 1d10-1
 saves: Fort -1, Ref +4, Will +2
 weak: vulnerability to erase
 speed: 20 ft., climb 20 ft.

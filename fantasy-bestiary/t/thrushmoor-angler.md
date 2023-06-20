@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 AC: 22, touch 11, flat-footed 21 (dex +1, natural +11)
 HP: 105
 HP_extra: fast healing 5
-HD: 10d10+50
+hit_dice: 10d10+50
 saves: Fort +12, Ref +8, Will +7
 resist: acid 10, cold 10
 speed: 30 ft., swim 30 ft.

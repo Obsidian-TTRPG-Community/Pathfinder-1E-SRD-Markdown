@@ -20,7 +20,7 @@ perception: +9
 senses: darkvision, low-light vision, scent
 AC: 25, touch 12, flat-footed 21 (dex +4, natural +13, size -2)
 HP: 147
-HD: 14d10+70
+hit_dice: 14d10+70
 saves: Fort +14, Ref +13, Will +8
 DR: 10/nonmagical weapons
 SR: 27

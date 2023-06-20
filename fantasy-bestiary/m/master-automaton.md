@@ -21,7 +21,7 @@ senses: automaton sense, darkvision, low-light vision, true seeing
 AC: 38, touch 20, flat-footed 34 (dex +3, dodge +1, insight +8, natural +18, size -2)
 HP: 377
 HP_extra: fast healing 20
-HD: 25d10+240
+hit_dice: 25d10+240
 saves: Fort +16, Ref +19, Will +23
 immune: construct traits, electricity
 resist: cold 30, sonic 30

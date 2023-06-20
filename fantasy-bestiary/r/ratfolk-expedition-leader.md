@@ -22,7 +22,7 @@ perception: +14
 senses: low-light vision
 AC: 20, touch 15, flat-footed 16 (armor +4, dex +3, dodge +1, shield +1, size +1)
 HP: 72
-HD: 8d10+24
+hit_dice: 8d10+24
 saves: Fort +9, Ref +10, Will +4
 speed: 30 ft.
 melee: +1 two-bladed sword +9/+4 (1d3+4/19-20), mwk two-bladed sword +9/+4 (1d6+1/19-20)

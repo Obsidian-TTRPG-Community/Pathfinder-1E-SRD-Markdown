@@ -23,7 +23,7 @@ senses: blindsense
 AC: 16, touch 9, flat-footed 15 (armor +4, dex +1, natural +3, rage -2)
 HP: 100
 HP_extra: fast healing 5
-HD: 7d12+49
+hit_dice: 7d12+49
 saves: Fort +11, Ref +3, Will +4
 immune: gaze attacks, radiation, sight-based attacks, visual effects
 DR: 1/-

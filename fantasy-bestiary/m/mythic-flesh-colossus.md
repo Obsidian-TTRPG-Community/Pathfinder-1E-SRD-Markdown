@@ -21,7 +21,7 @@ senses: all-around vision, darkvision, low-light vision
 aura: selective antimagic, unnatural
 AC: 30, touch 6, flat-footed 30 (natural +24, size -4)
 HP: 224
-HD: 16d10+136
+hit_dice: 16d10+136
 saves: Fort +5, Ref +5, Will +5
 immune: electricity, construct traits
 DR: 10/epic

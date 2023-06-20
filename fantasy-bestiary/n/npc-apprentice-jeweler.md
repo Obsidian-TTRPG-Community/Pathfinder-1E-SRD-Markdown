@@ -21,7 +21,7 @@ INI: +2
 perception: +4
 AC: 13, touch 12, flat-footed 11 (armor +1, dex +2)
 HP: 4
-HD: 1d8
+hit_dice: 1d8
 saves: Fort +0, Ref +2, Will +2
 speed: 30 ft.
 melee: dagger -1 (1d4-1/19-20)

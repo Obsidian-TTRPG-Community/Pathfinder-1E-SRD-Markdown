@@ -20,7 +20,7 @@ perception: +13
 senses: low-light vision
 AC: 26, touch 14, flat-footed 24 (armor +4, deflection +4, dex +2, natural +8, size -2)
 HP: 157
-HD: 15d8+90
+hit_dice: 15d8+90
 saves: Fort +15, Ref +9, Will +10
 immune: enchantment and illusion spells
 defensive_abilities: rock catching

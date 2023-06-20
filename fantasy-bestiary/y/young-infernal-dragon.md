@@ -20,7 +20,7 @@ perception: +20
 senses: dragon senses
 AC: 24, touch 9, flat-footed 24 (natural +15, size -1)
 HP: 147
-HD: 14d12+56
+hit_dice: 14d12+56
 saves: Fort +13, Ref +9, Will +14
 saves_other: +3 vs. divination
 immune: fire, hellfire, mind-affecting effects, paralysis, sleep

@@ -21,7 +21,7 @@ INI: +6
 perception: +9
 AC: 16, touch 12, flat-footed 14 (armor +4, dex +2)
 HP: 56
-HD: 7d8+21
+hit_dice: 7d8+21
 saves: Fort +9, Ref +10, Will +2
 saves_other: +4 vs. poison
 weak: addicted

@@ -21,7 +21,7 @@ senses: darkvision
 aura: searing aura
 AC: 17, touch 11, flat-footed 17 (natural +6, size +1)
 HP: 30
-HD: 4d10+8
+hit_dice: 4d10+8
 saves: Fort +6, Ref +4, Will +3
 immune: elemental traits, fire
 DR: 5/magic

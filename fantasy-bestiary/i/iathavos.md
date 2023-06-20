@@ -22,7 +22,7 @@ aura: stench, cloak of chaos
 AC: 37, touch 7, flat-footed 37 (deflection +4, dex -1, insight +2, natural +30, size -8)
 HP: 372
 HP_extra: fast healing 15
-HD: 24d10+240
+hit_dice: 24d10+240
 saves: Fort +28, Ref +15, Will +28
 immune: cold, poison, mind-affecting effects
 resist: acid 30, electricity 10, fire 10

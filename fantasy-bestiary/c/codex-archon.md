@@ -21,7 +21,7 @@ senses: darkvision, detect evil, detect magic, low-light vision
 aura: aura of menace, magic circle against evil
 AC: 20, touch 13, flat-footed 17 (dex +3, natural +7)
 HP: 47
-HD: 5d10+20
+hit_dice: 5d10+20
 saves: Fort +7, Ref +7, Will +5
 saves_other: +4 vs. poison, +2 vs. evil
 immune: electricity, petrification

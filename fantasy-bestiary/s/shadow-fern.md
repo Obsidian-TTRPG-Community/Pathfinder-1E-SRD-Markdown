@@ -19,7 +19,7 @@ senses: low-light vision, see in darkness
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 39
 HP_extra: fast healing 2
-HD: 6d9+12
+hit_dice: 6d9+12
 saves: Fort +7, Ref +3, Will +4
 immune: cold, plant traits
 resist: acid 5, electricity 5, fire 5

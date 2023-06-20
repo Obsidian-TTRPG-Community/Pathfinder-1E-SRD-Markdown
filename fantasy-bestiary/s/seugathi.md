@@ -21,7 +21,7 @@ aura: madness
 AC: 19, touch 14, flat-footed 14 (armor +4, dex +5, natural +1, size -1)
 HP: 67
 HP_extra: fast healing 5
-HD: 9d8+27
+hit_dice: 9d8+27
 saves: Fort +6, Ref +8, Will +9
 immune: mind-affecting effects, poison
 DR: 10/slashing or piercing

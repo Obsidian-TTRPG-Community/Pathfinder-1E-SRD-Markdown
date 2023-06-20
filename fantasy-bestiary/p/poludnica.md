@@ -20,7 +20,7 @@ senses: low-light vision
 aura: sunstroke haze
 AC: 24, touch 20, flat-footed 18 (armor +4, deflection +4, dex +5, dodge +1)
 HP: 119
-HD: 14d6+70
+hit_dice: 14d6+70
 saves: Fort +11, Ref +14, Will +11
 immune: blindness, exhaustion, fatigue, fire
 DR: 10/cold iron

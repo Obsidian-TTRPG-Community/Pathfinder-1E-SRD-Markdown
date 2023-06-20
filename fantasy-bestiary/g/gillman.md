@@ -21,7 +21,7 @@ INI: +1
 perception: +2
 AC: 11, touch 11, flat-footed 10 (dex +1)
 HP: 6
-HD: 1d10+1
+hit_dice: 1d10+1
 saves: Fort +3, Ref +1, Will -1
 saves_other: +2 vs. enchantment
 weak: water dependent

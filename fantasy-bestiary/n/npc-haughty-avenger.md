@@ -23,7 +23,7 @@ senses: low-light vision
 aura: courage
 AC: 18, touch 12, flat-footed 16 (armor +5, dex +2, shield +1)
 HP: 21
-HD: 3d10
+hit_dice: 3d10
 saves: Fort +5, Ref +5, Will +6
 saves_other: +2 vs. enchantments
 speed: 30 ft.

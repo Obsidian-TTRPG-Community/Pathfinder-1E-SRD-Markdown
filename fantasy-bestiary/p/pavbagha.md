@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, scent
 aura: courage
 AC: 16, touch 10, flat-footed 15 (dex +1, natural +6, size -1)
 HP: 37
-HD: 5d10+10
+hit_dice: 5d10+10
 saves: Fort +6, Ref +4, Will +7
 immune: fear
 DR: 5/chaotic

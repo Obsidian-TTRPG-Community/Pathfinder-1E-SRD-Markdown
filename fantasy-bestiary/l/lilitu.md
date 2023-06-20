@@ -21,7 +21,7 @@ senses: darkvision, true seeing
 aura: unholy aura
 AC: 34, touch 24, flat-footed 28 (deflection +4, dex +5, dodge +1, natural +10, profane +4)
 HP: 263
-HD: 17d10+170
+hit_dice: 17d10+170
 saves: Fort +19, Ref +23, Will +20
 immune: electricity, poison
 resist: acid 10, cold 10, fire 10

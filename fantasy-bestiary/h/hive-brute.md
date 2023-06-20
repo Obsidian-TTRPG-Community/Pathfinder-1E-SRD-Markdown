@@ -20,7 +20,7 @@ perception: +14
 senses: blindsense, blindsight, hive mind
 AC: 21, touch 11, flat-footed 19 (dex +2, natural +10, size -1)
 HP: 102
-HD: 12d8+48
+hit_dice: 12d8+48
 saves: Fort +7, Ref +8, Will +11
 immune: acid
 defensive_abilities: corrosive blood (1d6 acid), heat adaptability

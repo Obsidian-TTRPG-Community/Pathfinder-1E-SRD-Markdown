@@ -21,7 +21,7 @@ senses: darkvision, scent
 AC: 21, touch 18, flat-footed 13 (dex +7, dodge +1, natural +3)
 HP: 80
 HP_extra: regeneration 5; regeneration weakness acid or fire
-HD: 7d10+42
+hit_dice: 7d10+42
 saves: Fort +8, Ref +12, Will +8
 defensive_abilities: evasion
 SR: 18

@@ -20,7 +20,7 @@ perception: +8
 senses: darkvision, detect poison, low-light vision
 AC: 17, touch 13, flat-footed 14 (dex +3, natural +3, shield +1)
 HP: 47
-HD: 5d10+20
+hit_dice: 5d10+20
 saves: Fort +5, Ref +7, Will +6
 speed: 30 ft.
 melee: mwk quarterstaff +7 (1d6+2), mwk quarterstaff +7 (1d6+1), slam +2 (1d6+1)

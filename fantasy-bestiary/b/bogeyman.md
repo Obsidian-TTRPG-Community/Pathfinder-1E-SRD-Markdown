@@ -21,7 +21,7 @@ aura: deepest fear
 AC: 23, touch 23, flat-footed 17 (deflection +7, dex +5, dodge +1)
 HP: 93
 HP_extra: other terrible rejuvenation 5
-HD: 17d6+34
+hit_dice: 17d6+34
 saves: Fort +9, Ref +15, Will +13
 DR: 15/cold iron
 SR: 21

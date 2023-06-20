@@ -19,7 +19,7 @@ perception: +33
 senses: darkvision, low-light vision, scent
 AC: 31, touch 13, flat-footed 26 (dex +5, natural +18, size -2)
 HP: 262
-HD: 25d6+175
+hit_dice: 25d6+175
 saves: Fort +15, Ref +19, Will +19
 DR: 15/cold iron and slashing
 speed: 50 ft., other_semicolon feather step ft., climb 20 ft., swim 20 ft.

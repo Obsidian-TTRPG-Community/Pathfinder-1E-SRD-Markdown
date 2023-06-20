@@ -23,7 +23,7 @@ senses: darkvision, low-light vision, scent
 AC: 23, touch 11, flat-footed 21 (dex +2, natural +12, size -1)
 HP: 165
 HP_extra: fast healing 5
-HD: 10d10+110
+hit_dice: 10d10+110
 saves: Fort +16, Ref +9, Will +7
 DR: 5/epic
 SR: 21

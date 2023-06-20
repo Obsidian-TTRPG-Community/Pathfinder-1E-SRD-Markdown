@@ -21,7 +21,7 @@ senses: darkvision
 aura: resonance
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 19
-HD: 3d10+3
+hit_dice: 3d10+3
 saves: Fort +4, Ref +5, Will +2
 immune: elemental traits, fire
 weak: vulnerable to cold

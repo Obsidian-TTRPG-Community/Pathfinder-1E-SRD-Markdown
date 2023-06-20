@@ -19,7 +19,7 @@ perception: +31
 senses: darkvision, scent
 AC: 32, touch 13, flat-footed 27 (armor +5, dex +4, dodge +1, natural +11, shield +3, size -2)
 HP: 241
-HD: 21d10+126
+hit_dice: 21d10+126
 saves: Fort +15, Ref +16, Will +19
 resist: fire 20
 defensive_abilities: death ward

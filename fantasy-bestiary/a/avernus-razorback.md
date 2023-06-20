@@ -20,7 +20,7 @@ perception: +21
 senses: darkvision, low-light vision, scent
 AC: 21, touch 8, flat-footed 21 (dex -1, natural +13, size -1)
 HP: 137
-HD: 11d10+77
+hit_dice: 11d10+77
 saves: Fort +13, Ref +6, Will +6
 immune: disease, fire
 defensive_abilities: infernal ferocity

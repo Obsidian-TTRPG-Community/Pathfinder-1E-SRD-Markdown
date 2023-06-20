@@ -19,7 +19,7 @@ perception: +7
 senses: darkvision, low-light vision, scent, see invisibility
 AC: 16, touch 14, flat-footed 14 (dex +2, natural +2, size +2)
 HP: 19
-HD: 2d12+6
+hit_dice: 2d12+6
 saves: Fort +6, Ref +5, Will +7
 immune: paralysis, sleep
 defensive_abilities: ferocious will

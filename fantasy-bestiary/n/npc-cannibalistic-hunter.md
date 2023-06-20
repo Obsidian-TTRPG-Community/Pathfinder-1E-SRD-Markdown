@@ -21,7 +21,7 @@ INI: +5
 perception: +14
 AC: 21, touch 14, flat-footed 16 (armor +5, dex +5, rage -2, shield +2, size +1)
 HP: 120
-HD: 10d12+50
+hit_dice: 10d12+50
 saves: Fort +13, Ref +10, Will +8
 saves_other: +4 vs. spells and spell-like or supernatural abilities, +2 vs. fear
 immune: nauseated, sickened

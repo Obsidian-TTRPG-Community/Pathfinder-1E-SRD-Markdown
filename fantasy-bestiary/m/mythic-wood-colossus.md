@@ -22,7 +22,7 @@ aura: selective antimagic aura
 AC: 35, touch 5, flat-footed 35 (dex -1, natural +30, size -4)
 HP: 237
 HP_extra: fast healing 20
-HD: 18d10+138
+hit_dice: 18d10+138
 saves: Fort +6, Ref +7, Will +9
 immune: construct traits
 DR: 10/epic

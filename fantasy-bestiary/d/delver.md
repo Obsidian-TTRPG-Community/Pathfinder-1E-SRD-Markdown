@@ -20,7 +20,7 @@ perception: +21
 senses: darkvision, tremorsense
 AC: 23, touch 12, flat-footed 19 (dex +4, natural +11, size -2)
 HP: 138
-HD: 12d8+84
+hit_dice: 12d8+84
 saves: Fort +12, Ref +8, Will +10
 immune: acid
 DR: 5/piercing or slashing

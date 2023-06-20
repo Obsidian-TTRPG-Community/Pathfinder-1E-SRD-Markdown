@@ -22,7 +22,7 @@ aura: toxic breath, unspeakable presence
 AC: 45, touch 27, flat-footed 37 (dex +8, insight +10, natural +18, size -1)
 HP: 645
 HP_extra: fast healing 20
-HD: 30d10+480
+hit_dice: 30d10+480
 saves: Fort +33, Ref +25, Will +22
 immune: ability damage, ability drain, aging, cold, death effects, disease, energy drain, mind-affecting effects, paralysis, petrification, poison
 resist: acid 30, fire 30

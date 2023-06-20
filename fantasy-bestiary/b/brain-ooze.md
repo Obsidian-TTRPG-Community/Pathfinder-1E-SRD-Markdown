@@ -20,7 +20,7 @@ senses: blindsight
 aura: psychic noise
 AC: 23, touch 19, flat-footed 18 (armor +4, dex +4, dodge +1, insight +2, size +2)
 HP: 75
-HD: 10d8+30
+hit_dice: 10d8+30
 saves: Fort +6, Ref +9, Will +6
 immune: ooze traits
 defensive_abilities: evasion, prescience

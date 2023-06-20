@@ -21,7 +21,7 @@ senses: arcane sight, darkvision, mistsight
 AC: 32, touch 14, flat-footed 26 (dex +6, natural +18, size -2)
 HP: 238
 HP_extra: fast healing 5
-HD: 17d10+145
+hit_dice: 17d10+145
 saves: Fort +12, Ref +18, Will +18
 immune: elemental traits
 resist: acid 20, cold 20

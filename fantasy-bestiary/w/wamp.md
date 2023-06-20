@@ -19,7 +19,7 @@ perception: +11
 senses: blindsight, scent
 AC: 19, touch 13, flat-footed 16 (dex +2, dodge +1, natural +6)
 HP: 76
-HD: 8d8+40
+hit_dice: 8d8+40
 saves: Fort +9, Ref +4, Will +6
 saves_other: +4 vs. attacks from undead
 immune: disease, gaze attacks, paralysis, sight-based effects, visual effects and illusions

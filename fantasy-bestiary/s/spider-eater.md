@@ -19,7 +19,7 @@ perception: +15
 senses: darkvision, low-light vision, scent
 AC: 18, touch 12, flat-footed 15 (dex +2, dodge +1, natural +6, size -1)
 HP: 52
-HD: 5d10+25
+hit_dice: 5d10+25
 saves: Fort +9, Ref +6, Will +2
 defensive_abilities: freedom of movement
 speed: 30 ft., fly 60 ft. (good)

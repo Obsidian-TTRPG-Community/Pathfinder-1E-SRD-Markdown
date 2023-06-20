@@ -20,7 +20,7 @@ perception: +23
 senses: blindsight, darkvision
 AC: 22, touch 22, flat-footed 166 (deflection +6, dex +5, dodge +1)
 HP: 168
-HD: 16d10+80
+hit_dice: 16d10+80
 saves: Fort +16, Ref +17, Will +9
 immune: elemental traits
 defensive_abilities: incorporeal

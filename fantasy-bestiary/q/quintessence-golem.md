@@ -22,7 +22,7 @@ aura: soul siphon
 AC: 36, touch 18, flat-footed 26 (dex +10, natural +18, size -2)
 HP: 376
 HP_extra: fast healing 20
-HD: 32d10+200
+hit_dice: 32d10+200
 saves: Fort +10, Ref +20, Will +10
 immune: construct traits, magic
 DR: 15/epic

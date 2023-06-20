@@ -22,7 +22,7 @@ perception: +15
 senses: darkvision
 AC: 17, touch 12, flat-footed 13 (armor +5, dex +4, rage -2)
 HP: 142
-HD: 11d12+65
+hit_dice: 11d12+65
 saves: Fort +14, Ref +9, Will +9
 saves_other: +4 vs. spells and spell-like orsupernatural abilities
 DR: 3/-

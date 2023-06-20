@@ -19,7 +19,7 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 17, touch 12, flat-footed 14 (dex +3, natural +5, size -1)
 HP: 51
-HD: 6d10+18
+hit_dice: 6d10+18
 saves: Fort +8, Ref +8, Will +3
 defensive_abilities: ethereal jaunt
 speed: 40 ft., climb 20 ft.

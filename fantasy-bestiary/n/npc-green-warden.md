@@ -22,7 +22,7 @@ perception: +14
 senses: low-light vision
 AC: 19, touch 15, flat-footed 14 (armor +4, dex +5)
 HP: 51
-HD: 5d10+2d6+2d10
+hit_dice: 5d10+2d6+2d10
 saves: Fort +7, Ref +9, Will +10
 saves_other: +2 vs. enchantments, +1 vs. fear
 immune: sleep

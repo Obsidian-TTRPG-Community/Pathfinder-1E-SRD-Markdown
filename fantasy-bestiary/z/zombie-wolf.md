@@ -20,7 +20,7 @@ INI: +3
 senses: darkvision
 AC: 15, touch 13, flat-footed 12 (dex +3, natural +2)
 HP: 16
-HD: 3d8+3
+hit_dice: 3d8+3
 saves: Fort +1, Ref +4, Will +3
 immune: undead traits
 speed: 60 ft.

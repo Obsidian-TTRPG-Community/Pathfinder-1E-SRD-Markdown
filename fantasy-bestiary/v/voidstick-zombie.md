@@ -21,7 +21,7 @@ aura: sacrilegious aura
 AC: 26, touch 14, flat-footed 26 (natural +12, profane +4)
 HP: 157
 HP_extra: fast healing 3
-HD: 15d8+90
+hit_dice: 15d8+90
 saves: Fort +9, Ref +7, Will +9
 immune: undead traits
 defensive_abilities: channel resistance +4

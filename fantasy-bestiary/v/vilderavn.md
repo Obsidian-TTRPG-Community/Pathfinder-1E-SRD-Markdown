@@ -21,7 +21,7 @@ senses: deathwatch, low-light vision, see in darkness, true seeing
 aura: frightful presence, shatter loyalties
 AC: 34, touch 24, flat-footed 26 (dex +7, dodge +2, insight +5, natural +10)
 HP: 253
-HD: 22d6+176
+hit_dice: 22d6+176
 saves: Fort +17, Ref +21, Will +18
 immune: curses, death effects, energy drain, fear
 DR: 15/cold iron and good

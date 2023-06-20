@@ -23,7 +23,7 @@ senses: darkvision
 AC: 22, touch 13, flat-footed 19 (armor +7, dex +2, dodge +1, natural +2)
 HP: 104
 HP_extra: HD 10
-HD: 7d8+3d10+57
+hit_dice: 7d8+3d10+57
 saves: Fort +13, Ref +8, Will +9
 immune: death effects, disease, fear, level drain
 resist: acid 10

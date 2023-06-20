@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 aura: cacophony
 AC: 26, touch 11, flat-footed 24 (dex +2, natural +15, size -1)
 HP: 184
-HD: 16d10+96
+hit_dice: 16d10+96
 saves: Fort +16, Ref +12, Will +8
 immune: mind-affecting effects
 resist: fire 10, sonic 10

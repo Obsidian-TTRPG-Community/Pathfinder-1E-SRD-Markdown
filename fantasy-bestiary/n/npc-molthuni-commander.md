@@ -22,7 +22,7 @@ perception: +0
 AC: 21, touch 11, flat-footed 20 (armor +9, dex +1, shield +1)
 HP: 60
 HP_extra: HD 7
-HD: 2d8+5d10+19
+hit_dice: 2d8+5d10+19
 saves: Fort +7, Ref +3, Will +5
 speed: 20 ft.
 melee: +1 lance +10/+5 (1d8+4/×3), longsword +9/+4 (1d8+3/19-20)

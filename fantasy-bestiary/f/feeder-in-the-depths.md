@@ -21,7 +21,7 @@ aura: blood feast
 AC: 20, touch 10, flat-footed 18 (dex +2, natural +10, size -2)
 HP: 105
 HP_extra: other blood feast
-HD: 10d10+50
+hit_dice: 10d10+50
 saves: Fort +12, Ref +9, Will +7
 resist: cold 20
 SR: 19

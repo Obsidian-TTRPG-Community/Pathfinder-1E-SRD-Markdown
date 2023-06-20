@@ -20,7 +20,7 @@ perception: +36
 senses: blindsense, darkvision, detect good, detect magic, see invisibility
 AC: 32, touch 17, flat-footed 25 (dex +7, natural +15)
 HP: 262
-HD: 25d10+125
+hit_dice: 25d10+125
 saves: Fort +19, Ref +17, Will +18
 saves_other: +4 vs. divine spells
 immune: acid, poison

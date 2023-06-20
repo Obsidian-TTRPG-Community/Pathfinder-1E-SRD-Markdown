@@ -20,7 +20,7 @@ perception: +16
 senses: darkvision, low-light vision
 AC: 20, touch 17, flat-footed 16 (deflection +4, dex +4, natural +3, size -1)
 HP: 115
-HD: 11d10+55
+hit_dice: 11d10+55
 saves: Fort +12, Ref +15, Will +13
 immune: cold, electricity
 speed: 30 ft., fly 40 ft. (good)

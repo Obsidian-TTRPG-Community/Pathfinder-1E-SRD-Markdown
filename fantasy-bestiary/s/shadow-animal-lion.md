@@ -20,7 +20,7 @@ perception: +12
 senses: darkvision, low-light vision, scent
 AC: 16, touch 14, flat-footed 11 (dex +5, natural +2, size -1)
 HP: 32
-HD: 5d8+10
+hit_dice: 5d8+10
 saves: Fort +6, Ref +9, Will +3
 defensive_abilities: shadow blend
 speed: 50 ft.

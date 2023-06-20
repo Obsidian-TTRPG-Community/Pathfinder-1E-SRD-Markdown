@@ -20,7 +20,7 @@ senses: darkvision, low-light vision, true seeing
 AC: 28, touch 10, flat-footed 26 (dex +2, natural +18, size -2)
 HP: 212
 HP_extra: regeneration 5; regeneration weakness acid
-HD: 17d12+102
+hit_dice: 17d12+102
 saves: Fort +16, Ref +14, Will +15
 immune: fire, paralysis, poison, sleep
 DR: 10/lawful

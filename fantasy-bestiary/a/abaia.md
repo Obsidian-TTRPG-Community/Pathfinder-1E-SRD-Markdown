@@ -20,7 +20,7 @@ perception: +19
 senses: arcane sight, darkvision, low-light vision
 AC: 25, touch 11, flat-footed 22 (dex +3, natural +14, size -2)
 HP: 147
-HD: 14d10+70
+hit_dice: 14d10+70
 saves: Fort +14, Ref +12, Will +8
 SR: 21 (in water only)
 speed: 20 ft., swim 80 ft.

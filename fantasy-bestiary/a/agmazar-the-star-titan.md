@@ -22,7 +22,7 @@ aura: frightful presence, suffocation
 AC: 40, touch 22, flat-footed 35 (deflection +15, dex +5, natural +18, size -8)
 HP: 615
 HP_extra: fast healing 30
-HD: 30d8+480
+hit_dice: 30d8+480
 saves: Fort +25, Ref +15, Will +27
 immune: ability damage, ability drain, cold, death effects, disease, energy drain, fear, undead traits
 resist: acid 30, electricity 30, fire 30, negative energy 30, sonic 30

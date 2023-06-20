@@ -21,7 +21,7 @@ senses: darkvision, see in darkness, true seeing
 aura: hopelessness
 AC: 38, touch 10, flat-footed 34 (armor +13, dex +4, natural +15, size -4)
 HP: 372
-HD: 24d10+240
+hit_dice: 24d10+240
 saves: Fort +18, Ref +22, Will +21
 immune: fire, poison
 resist: acid 10, electricity 10

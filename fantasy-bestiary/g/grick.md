@@ -19,7 +19,7 @@ perception: +12
 senses: darkvision, scent
 AC: 15, touch 12, flat-footed 13 (dex +2, natural +3)
 HP: 27
-HD: 5d8+5
+hit_dice: 5d8+5
 saves: Fort +2, Ref +3, Will +6
 DR: 10/magic
 speed: 30 ft., climb 20 ft.

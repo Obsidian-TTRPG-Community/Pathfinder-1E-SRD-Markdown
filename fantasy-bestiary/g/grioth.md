@@ -19,7 +19,7 @@ perception: +6
 senses: blindsight, see in darkness
 AC: 14, touch 14, flat-footed 10 (dex +4)
 HP: 13
-HD: 2d10+2
+hit_dice: 2d10+2
 saves: Fort +1, Ref +7, Will +6
 immune: cold
 weak: light sensitivity

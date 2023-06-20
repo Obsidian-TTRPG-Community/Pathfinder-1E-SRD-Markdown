@@ -20,7 +20,7 @@ senses: low-light vision
 AC: 15, touch 15, flat-footed 11 (dex +3, dodge +1, size +1)
 HP: 30
 HP_extra: fast healing 2
-HD: 4d8+12
+hit_dice: 4d8+12
 saves: Fort +7, Ref +4, Will +2
 immune: cold, plant traits
 resist: acid 10

@@ -19,7 +19,7 @@ perception: +4
 senses: blindsight, low-light vision, tremorsense
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 19
-HD: 3d8+6
+hit_dice: 3d8+6
 saves: Fort +4, Ref +3, Will +1
 immune: plant traits
 speed: 20 ft.

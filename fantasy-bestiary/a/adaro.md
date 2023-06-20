@@ -20,7 +20,7 @@ perception: +8
 senses: blindsense, darkvision, low-light vision, keen scent
 AC: 15, touch 13, flat-footed 12 (dex +3, natural +2)
 HP: 30
-HD: 4d10+8
+hit_dice: 4d10+8
 saves: Fort +3, Ref +7, Will +5
 speed: 10 ft., swim 50 ft.
 melee: spear +8 (1d8+4/×3 plus poison), bite +2 (1d6+1)

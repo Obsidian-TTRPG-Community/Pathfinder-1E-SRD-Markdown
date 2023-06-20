@@ -20,7 +20,7 @@ perception: +17
 senses: darkvision
 AC: 22, touch 11, flat-footed 20 (armor +6, dex +2, natural +5, size -1)
 HP: 104
-HD: 11d10+44
+hit_dice: 11d10+44
 saves: Fort +13, Ref +7, Will +10
 saves_other: +2 vs. fear and sorrow effects
 resist: cold 10, fire 10

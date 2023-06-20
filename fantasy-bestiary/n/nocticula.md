@@ -22,7 +22,7 @@ aura: seductive presence, unholy aura
 AC: 48, touch 41, flat-footed 35 (deflection +4, dex +13, natural +7, profane +14)
 HP: 774
 HP_extra: regeneration 30; regeneration weakness deific or mythic
-HD: 36d10+576
+hit_dice: 36d10+576
 saves: Fort +32, Ref +37, Will +35
 immune: ability damage and drain, charm and compulsion effects, death effects, electricity, energy drain, fire, petrification, poison
 resist: acid 30, cold 30

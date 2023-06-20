@@ -20,7 +20,7 @@ perception: +6
 senses: darkvision, low-light vision, tremorsense
 AC: 18, touch 12, flat-footed 15 (dex +3, natural +6, size -1)
 HP: 51
-HD: 6d10+18
+hit_dice: 6d10+18
 saves: Fort +8, Ref +8, Will +3
 resist: cold 10
 speed: 30 ft., swim 30 ft.

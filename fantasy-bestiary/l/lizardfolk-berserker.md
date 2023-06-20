@@ -22,7 +22,7 @@ perception: +10
 AC: 19, touch 10, flat-footed 17 (armor +4, dex +2, natural +5, rage -2)
 HP: 66
 HP_extra: HD 6
-HD: 2d8+4d12+26
+hit_dice: 2d8+4d12+26
 saves: Fort +11, Ref +3, Will +4
 defensive_abilities: trap sense +1, uncanny dodge
 speed: 40 ft., swim 15 ft.

@@ -21,7 +21,7 @@ senses: dragon senses, see invisibility
 aura: mental static, frightful presence
 AC: 28, touch 9, flat-footed 27 (dex +1, natural +19, size -2)
 HP: 184
-HD: 16d12+80
+hit_dice: 16d12+80
 saves: Fort +15, Ref +11, Will +17
 saves_other: +4 vs. psychic spells
 immune: paralysis, sleep

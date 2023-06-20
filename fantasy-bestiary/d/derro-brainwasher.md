@@ -23,7 +23,7 @@ senses: darkvision
 AC: 22, touch 16, flat-footed 17 (armor +4, dex +4, dodge +1, natural +2, size +1)
 HP: 39
 HP_extra: HD 5
-HD: 3d8+2d8+17
+hit_dice: 3d8+2d8+17
 saves: Fort +4, Ref +8, Will +10
 SR: 16
 weak: vulnerable to sunlight

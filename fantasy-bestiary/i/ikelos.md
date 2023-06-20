@@ -21,7 +21,7 @@ senses: darkvision
 aura: lethargy
 AC: 18, touch 18, flat-footed 13 (deflection +3, dex +4, dodge +1)
 HP: 67
-HD: 9d10+18
+hit_dice: 9d10+18
 saves: Fort +7, Ref +7, Will +9
 defensive_abilities: dream-phased, incorporeal
 weak: fear dependency

@@ -21,7 +21,7 @@ senses: darkvision, detect evil, low-light vision, see invisibility
 aura: holy aura
 AC: 28, touch 16, flat-footed 26 (deflection +4, dex +1, dodge +1, natural +12)
 HP: 136
-HD: 13d10+65
+hit_dice: 13d10+65
 saves: Fort +17, Ref +11, Will +16
 immune: electricity, petrification
 resist: cold 10, fire 10

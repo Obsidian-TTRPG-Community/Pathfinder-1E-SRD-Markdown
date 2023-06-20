@@ -21,7 +21,7 @@ INI: -1
 perception: +14
 AC: 11, touch 9, flat-footed 11 (armor +2, dex -1)
 HP: 55
-HD: 10d6+20
+hit_dice: 10d6+20
 saves: Fort +6, Ref +4, Will +6
 immune: detect thoughts, discern lies, alignment detection
 speed: 30 ft.

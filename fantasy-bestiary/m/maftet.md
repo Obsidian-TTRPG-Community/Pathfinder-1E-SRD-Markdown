@@ -19,7 +19,7 @@ perception: +13
 senses: darkvision, low-light vision
 AC: 20, touch 13, flat-footed 17 (armor +4, dex +3, natural +3)
 HP: 68
-HD: 8d10+24
+hit_dice: 8d10+24
 saves: Fort +5, Ref +9, Will +8
 speed: 40 ft., fly 60 ft. (poor)
 melee: mwk scimitar +11/+11/+6/+6 (1d6+3/18-20)

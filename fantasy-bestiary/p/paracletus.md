@@ -21,7 +21,7 @@ senses: darkvision
 aura: emotion aura
 AC: 14, touch 13, flat-footed 12 (dex +2, natural +1, size +1)
 HP: 13
-HD: 3d10-3
+hit_dice: 3d10-3
 saves: Fort +4, Ref +3, Will +6
 immune: cold, critical hits, poison
 resist: electricity 10, fire 10

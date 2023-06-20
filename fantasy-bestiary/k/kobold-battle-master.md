@@ -22,7 +22,7 @@ perception: +13
 senses: darkvision
 AC: 23, touch 12, flat-footed 22 (armor +8, dex +1, natural +1, shield +2, size +1)
 HP: 57
-HD: 7d10+14
+hit_dice: 7d10+14
 saves: Fort +7, Ref +4, Will +4
 saves_other: +2 bonus vs. paralysis and sleep
 resist: electricity 5

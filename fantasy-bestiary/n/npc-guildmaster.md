@@ -22,7 +22,7 @@ perception: +18
 senses: darkvision
 AC: 23, touch 16, flat-footed 18 (armor +5, deflection +1, dex +4, dodge +1, natural +1, shield +1)
 HP: 114
-HD: 13d8+52
+hit_dice: 13d8+52
 saves: Fort +7, Ref +13, Will +9
 saves_other: +2 vs. poison, spells, and spell-like abilities
 defensive_abilities: defensive training (+4 dodge bonus to AC vs. giants), improved evasion, improved uncanny dodge, trap sense +4

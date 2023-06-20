@@ -20,7 +20,7 @@ senses: darkvision, scent
 AC: 23, touch 17, flat-footed 16 (dex +6, dodge +1, natural +6)
 HP: 110
 HP_extra: fast healing 10
-HD: 13d8+52
+hit_dice: 13d8+52
 saves: Fort +8, Ref +10, Will +10
 immune: disease, poison, paralysis, sleep, stunning
 DR: 15/-

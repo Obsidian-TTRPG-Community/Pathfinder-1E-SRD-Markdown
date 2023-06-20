@@ -19,7 +19,7 @@ perception: +3
 senses: darkvision, low-light vision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 11
-HD: 2d10
+hit_dice: 2d10
 saves: Fort +0, Ref +4, Will +1
 defensive_abilities: construct traits
 speed: 20 ft., fly 50 ft. (good)

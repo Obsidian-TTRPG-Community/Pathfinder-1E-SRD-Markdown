@@ -20,7 +20,7 @@ perception: +15
 senses: blindsense, darkvision, low-light vision, snow vision
 AC: 26, touch 12, flat-footed 24 (dex +2, natural +14)
 HP: 124
-HD: 9d12+66
+hit_dice: 9d12+66
 saves: Fort +10, Ref +8, Will +7
 immune: cold, dragon traits, paralysis, sleep
 DR: 5/epic

@@ -22,7 +22,7 @@ perception: +11
 senses: darkvision, low-light vision
 AC: 15, touch 10, flat-footed 15 (armor +2, natural +3)
 HP: 32
-HD: 5d8+10
+hit_dice: 5d8+10
 saves: Fort +5, Ref +4, Will +5
 saves_other: +4 vs. bardic performance, language-dependent, and sonic
 speed: 20 ft., swim 30 ft.

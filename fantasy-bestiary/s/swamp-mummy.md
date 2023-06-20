@@ -20,7 +20,7 @@ senses: darkvision
 aura: drowning, unnatural aura
 AC: 17, touch 10, flat-footed 16 (natural +6)
 HP: 52
-HD: 7d8+21 HD
+hit_dice: 7d8+21 HD
 saves: Fort +6, Ref +3, Will +7
 immune: undead traits
 DR: 5/-

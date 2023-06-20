@@ -22,7 +22,7 @@ perception: +8
 senses: darkvision
 AC: 22, touch 10, flat-footed 22 (armor +10, deflection +1, dex -1, natural +2)
 HP: 95
-HD: 13d8+37
+hit_dice: 13d8+37
 saves: Fort +13, Ref +3, Will +13
 DR: 10/adamantine
 speed: 20 ft.

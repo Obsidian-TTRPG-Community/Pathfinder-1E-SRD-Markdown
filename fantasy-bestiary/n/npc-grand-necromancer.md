@@ -22,7 +22,7 @@ perception: +24
 senses: see invisibility
 AC: 23, touch 16, flat-footed 22 (armor +4, deflection +4, dex +1, insight +1, natural +3)
 HP: 170
-HD: 18d6+105
+hit_dice: 18d6+105
 saves: Fort +14, Ref +11, Will +17
 saves_other: +4 vs. mind-affecting
 resist: cold 20, fire 30

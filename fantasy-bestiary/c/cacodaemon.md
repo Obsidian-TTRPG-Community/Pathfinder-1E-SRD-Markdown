@@ -21,7 +21,7 @@ senses: darkvision, detect good, detect magic
 AC: 16, touch 12, flat-footed 16 (natural +4, size +2)
 HP: 19
 HP_extra: fast healing 2
-HD: 3d10+3
+hit_dice: 3d10+3
 saves: Fort +2, Ref +5, Will +4
 immune: acid, death effects, disease, poison
 resist: cold 10, electricity 10, fire 10

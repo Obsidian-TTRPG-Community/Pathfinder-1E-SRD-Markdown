@@ -21,7 +21,7 @@ senses: low-light vision, see in darkness
 aura: frightful presence
 AC: 32, touch 9, flat-footed 31 (armor +4, dex +1, natural +19, size -2)
 HP: 243
-HD: 17d8+167
+hit_dice: 17d8+167
 saves: Fort +12, Ref +6, Will +14
 immune: electricity, fire
 DR: 10/epic

@@ -20,7 +20,7 @@ perception: +4
 senses: darkvision
 AC: 17, touch 11, flat-footed 17 (natural +6, size +1)
 HP: 13
-HD: 2d10+2
+hit_dice: 2d10+2
 saves: Fort +4, Ref +3, Will +0
 immune: elemental traits
 speed: 20 ft., swim 90 ft.

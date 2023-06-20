@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, detect evil
 aura: protective aura
 AC: 18, touch 13, flat-footed 15 (dex +3, natural +5)
 HP: 68
-HD: 8d10+24
+hit_dice: 8d10+24
 saves: Fort +9, Ref +5, Will +8
 saves_other: +4 vs. poison, +4 resistance vs. evil
 immune: acid, cold, petrification

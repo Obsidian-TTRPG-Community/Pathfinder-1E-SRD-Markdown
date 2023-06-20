@@ -20,7 +20,7 @@ senses: all-around vision, darkvision, low-light vision, scent
 aura: frightful presence
 AC: 26, touch 8, flat-footed 26 (natural +18, size -2)
 HP: 178
-HD: 17d10+85
+hit_dice: 17d10+85
 saves: Fort +15, Ref +12, Will +8
 immune: bleed, death effects, disease, fire, poison
 DR: 10/cold iron and magic

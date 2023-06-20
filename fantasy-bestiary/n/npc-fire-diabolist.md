@@ -21,7 +21,7 @@ INI: +4
 perception: +20
 AC: 37, touch 14, flat-footed 37 (armor +11, deflection +4, natural +4, shield +8)
 HP: 153
-HD: 20d8+60
+hit_dice: 20d8+60
 saves: Fort +18, Ref +10, Will +23
 immune: fire
 speed: 30 ft.

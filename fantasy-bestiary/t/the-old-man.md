@@ -21,7 +21,7 @@ senses: blindsight, darkvision, low-light vision
 AC: 37, touch 35, flat-footed 26 (dex +10, dodge +1, monk +4, wis +10, natural +2)
 HP: 178
 HP_extra: regeneration 15; regeneration weakness chaotic
-HD: 17d10+85
+hit_dice: 17d10+85
 saves: Fort +10, Ref +20, Will +20
 immune: disease, poison
 resist: acid 30, cold 30, electricity 30, fire 30, sonic 30

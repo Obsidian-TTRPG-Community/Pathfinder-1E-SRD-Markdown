@@ -22,7 +22,7 @@ aura: primal aura
 AC: 46, touch 34, flat-footed 31 (armor +4, dex +15, insight +10, natural +8, size -1)
 HP: 676
 HP_extra: regeneration 30; regeneration weakness deific or mythic
-HD: 33d10+495
+hit_dice: 33d10+495
 saves: Fort +26, Ref +33, Will +28
 saves_other: +8 vs. mind-affecting effects
 immune: ability damage, ability drain, charm effects, cold, compulsion effects, death effects, electricity, energy drain, petrification

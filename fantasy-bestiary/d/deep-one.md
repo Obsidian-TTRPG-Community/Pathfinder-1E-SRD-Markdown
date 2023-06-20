@@ -20,7 +20,7 @@ perception: +7
 senses: darkvision, low-light vision
 AC: 12, touch 9, flat-footed 12 (dex -1, natural +3)
 HP: 17
-HD: 2d10+6
+hit_dice: 2d10+6
 saves: Fort +5, Ref +2, Will +5
 resist: cold 5
 defensive_abilities: deep dweller, immortal

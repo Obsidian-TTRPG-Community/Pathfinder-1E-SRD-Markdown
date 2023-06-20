@@ -21,7 +21,7 @@ senses: blindsense, darkvision, low-light vision, mistsight
 aura: frightful presence, stench
 AC: 37, touch 10, flat-footed 36 (dex +1, natural +27, size -1)
 HP: 260
-HD: 16d12+156
+hit_dice: 16d12+156
 saves: Fort +16, Ref +11, Will +13
 immune: acid, dragon traits, paralysis, sleep
 DR: 10/epic and magic

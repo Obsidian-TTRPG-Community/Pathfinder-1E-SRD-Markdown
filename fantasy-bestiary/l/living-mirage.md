@@ -18,7 +18,7 @@ INI: +0
 perception: -5
 AC: 6, touch 6, flat-footed 6 (size -4)
 HP: 114
-HD: 12d8+60
+hit_dice: 12d8+60
 saves: Fort +9, Ref +4, Will -1
 immune: sonic, ooze traits
 resist: cold 10, fire 10

@@ -20,7 +20,7 @@ senses: darkvision, see in darkness
 AC: 32, touch 17, flat-footed 24 (dex +8, natural +15, size -1)
 HP: 207
 HP_extra: regeneration 10; regeneration weakness lawful spells and effects
-HD: 18d8+126
+hit_dice: 18d8+126
 saves: Fort +14, Ref +14, Will +18
 immune: cold, fire, sonic
 resist: acid 10, electricity 10

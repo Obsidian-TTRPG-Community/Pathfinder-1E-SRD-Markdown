@@ -22,7 +22,7 @@ perception: +7
 senses: low-light vision, scent
 AC: 12, touch 9, flat-footed 11 (armor +3, dex +1, rage -2)
 HP: 31
-HD: 2d12+13
+hit_dice: 2d12+13
 saves: Fort +7, Ref +1, Will +4
 defensive_abilities: uncanny dodge
 speed: 40 ft.

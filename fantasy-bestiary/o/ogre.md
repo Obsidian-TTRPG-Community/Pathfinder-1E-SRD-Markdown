@@ -20,7 +20,7 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 17, touch 8, flat-footed 17 (armor +4, dex -1, natural +5, size -1)
 HP: 30
-HD: 4d8+12
+hit_dice: 4d8+12
 saves: Fort +6, Ref +0, Will +3
 speed: 30 ft.,  40 ft. base
 melee: greatclub +7 (2d8+7)

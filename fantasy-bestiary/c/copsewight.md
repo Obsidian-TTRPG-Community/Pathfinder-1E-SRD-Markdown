@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 AC: 26, touch 12, flat-footed 26 (natural +14, profane +4, size -2)
 HP: 136
 HP_extra: regeneration 5; regeneration weakness fire or positive energy
-HD: 16d8+64
+hit_dice: 16d8+64
 saves: Fort +9, Ref +7, Will +13
 immune: polymorph, undead traits
 resist: cold 10

@@ -20,7 +20,7 @@ perception: +17
 senses: low-light vision, scent
 AC: 25, touch 9, flat-footed 24 (armor +4, dex +1, natural +12, size -2)
 HP: 168
-HD: 16d8+96
+hit_dice: 16d8+96
 saves: Fort +16, Ref +6, Will +10
 defensive_abilities: rock catching
 speed: 50 ft.

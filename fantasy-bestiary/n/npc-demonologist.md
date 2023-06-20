@@ -22,7 +22,7 @@ perception: +22
 senses: see invisibility
 AC: 27, touch 15, flat-footed 27 (armor +7, deflection +5, natural +5)
 HP: 112
-HD: 10d6+10d6+40
+hit_dice: 10d6+10d6+40
 saves: Fort +14, Ref +13, Will +21
 speed: 30 ft.
 melee: quarterstaff +9/+4 (1d6-1)

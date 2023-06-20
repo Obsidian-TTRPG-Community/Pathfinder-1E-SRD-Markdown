@@ -23,7 +23,7 @@ senses: darkvision, low-light vision
 AC: 22, touch 11, flat-footed 21 (armor +6, deflection +1, dex +1, natural +5, size -1)
 HP: 81
 HP_extra: HD 10
-HD: 4d8+6d10+30
+hit_dice: 4d8+6d10+30
 saves: Fort +13, Ref +10, Will +6
 speed: 30 ft.
 melee: mwk greatsword +18/+13 (3d6+12/19-20)

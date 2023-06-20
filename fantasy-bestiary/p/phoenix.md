@@ -22,7 +22,7 @@ aura: shroud of flame
 AC: 28, touch 14, flat-footed 20 (dex +7, dodge +1, natural +14, size -4)
 HP: 210
 HP_extra: regeneration 10; regeneration weakness cold or evil
-HD: 20d10+100
+hit_dice: 20d10+100
 saves: Fort +17, Ref +19, Will +14
 immune: fire
 resist: 26 True

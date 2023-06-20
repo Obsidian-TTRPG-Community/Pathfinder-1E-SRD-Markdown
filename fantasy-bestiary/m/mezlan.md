@@ -21,7 +21,7 @@ senses: blindsight
 AC: 30, touch 18, flat-footed 22 (dex +7, dodge +1, natural +12)
 HP: 195
 HP_extra: regeneration 5; regeneration weakness acid
-HD: 17d8+119
+hit_dice: 17d8+119
 saves: Fort +12, Ref +14, Will +11
 immune: ooze traits
 SR: 25

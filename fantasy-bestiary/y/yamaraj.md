@@ -22,7 +22,7 @@ aura: fear
 AC: 40, touch 21, flat-footed 27 (armor +4, dex +12, dodge +1, natural +15, size -2)
 HP: 337
 HP_extra: fast healing 10
-HD: 25d10+200
+hit_dice: 25d10+200
 saves: Fort +22, Ref +20, Will +25
 immune: cold, electricity, death effects, disease, poison
 DR: 15/adamantine

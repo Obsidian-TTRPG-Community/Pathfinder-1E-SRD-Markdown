@@ -20,7 +20,7 @@ senses: darkvision
 aura: sobs
 AC: 19, touch 16, flat-footed 14 (dex +4, dodge +1, natural +3, size +1)
 HP: 45
-HD: 6d8+18
+hit_dice: 6d8+18
 saves: Fort +5, Ref +6, Will +8
 immune: undead traits
 speed: 20 ft.

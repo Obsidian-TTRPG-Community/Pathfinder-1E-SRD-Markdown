@@ -21,7 +21,7 @@ senses: astral locating, blindsight, darkvision, low-light vision
 AC: 34, touch 4, flat-footed 32 (dex +2, natural +30, size -8)
 HP: 310
 HP_extra: regeneration 5; regeneration weakness acid and fire
-HD: 20d10+200
+hit_dice: 20d10+200
 saves: Fort +24, Ref +8, Will +16
 immune: cold
 resist: electricity 30, fire 30

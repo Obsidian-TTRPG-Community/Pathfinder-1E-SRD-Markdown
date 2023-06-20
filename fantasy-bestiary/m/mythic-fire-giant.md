@@ -21,7 +21,7 @@ senses: low-light vision
 aura: choking ash
 AC: 29, touch 8, flat-footed 29 (armor +8, dex -1, natural +13, size -1)
 HP: 197
-HD: 15d8+130
+hit_dice: 15d8+130
 saves: Fort +15, Ref +4, Will +9
 immune: fire
 DR: 10/epic

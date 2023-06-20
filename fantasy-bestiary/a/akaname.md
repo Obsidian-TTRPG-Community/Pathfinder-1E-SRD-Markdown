@@ -19,7 +19,7 @@ perception: +6
 senses: darkvision, scent
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 13
-HD: 2d8+4
+hit_dice: 2d8+4
 saves: Fort +2, Ref +2, Will +4
 immune: disease
 weak: light sensitivity

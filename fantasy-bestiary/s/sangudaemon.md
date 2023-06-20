@@ -21,7 +21,7 @@ senses: darkvision, scent
 aura: bleeding aura
 AC: 23, touch 16, flat-footed 17 (dex +5, dodge +1, natural +7)
 HP: 114
-HD: 12d10+48
+hit_dice: 12d10+48
 saves: Fort +12, Ref +13, Will +7
 immune: acid, bleed, death effects, disease, poison
 resist: cold 10, electricity 10, fire 10

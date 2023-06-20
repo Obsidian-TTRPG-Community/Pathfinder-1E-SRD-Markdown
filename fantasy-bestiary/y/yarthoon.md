@@ -21,7 +21,7 @@ senses: low-light vision, mistsight, see in darkness, tremorsense
 AC: 44, touch 12, flat-footed 34 (dex +9, dodge +1, natural +32, size -8)
 HP: 565
 HP_extra: fast healing 30
-HD: 29d10+406
+hit_dice: 29d10+406
 saves: Fort +30, Ref +25, Will +19
 immune: ability damage, ability drain, cold, death effects, disease, energy drain, fear
 resist: acid 30, electricity 30, fire 30, negative energy 30, sonic 30

@@ -19,7 +19,7 @@ perception: +7
 senses: blindsight
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 14
-HD: 4d6
+hit_dice: 4d6
 saves: Fort +1, Ref +6, Will +4
 DR: 2/cold iron
 weak: blind

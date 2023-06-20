@@ -21,7 +21,7 @@ senses: darkvision
 aura: stench
 AC: 19, touch 13, flat-footed 16 (dex +3, natural +6)
 HP: 45
-HD: 6d8+18
+hit_dice: 6d8+18
 saves: Fort +8, Ref +5, Will +6
 speed: 30 ft.
 melee: spear +8 (1d8+6/×3), bite +3 (1d6+2)

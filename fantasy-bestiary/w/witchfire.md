@@ -20,7 +20,7 @@ perception: +16
 senses: darkvision
 AC: 24, touch 24, flat-footed 17 (deflection +7, dex +6, dodge +1)
 HP: 115
-HD: 10d8+70
+hit_dice: 10d8+70
 saves: Fort +10, Ref +11, Will +10
 defensive_abilities: incorporeal, witchflame, Immune fire, undead traits
 speed: fly 50 ft. (perfect)

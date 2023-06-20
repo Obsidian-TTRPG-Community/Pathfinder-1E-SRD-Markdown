@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, scent, true seeing
 AC: 30, touch 12, flat-footed 24 (dex +6, natural +18, size -4)
 HP: 248
 HP_extra: regeneration 10; regeneration weakness cold iron
-HD: 16d12+144
+hit_dice: 16d12+144
 saves: Fort +19, Ref +18, Will +15
 immune: cold, curse effects, mind-affecting effects, paralysis, poison, sleep
 DR: 15/cold iron

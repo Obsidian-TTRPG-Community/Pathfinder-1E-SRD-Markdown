@@ -20,7 +20,7 @@ senses: darkvision
 aura: whispers
 AC: 31, touch 15, flat-footed 26 (dex +4, dodge +1, natural +16)
 HP: 228
-HD: 24d8+120
+hit_dice: 24d8+120
 saves: Fort +13, Ref +12, Will +17
 immune: cold, undead traits
 DR: 10/bludgeoning

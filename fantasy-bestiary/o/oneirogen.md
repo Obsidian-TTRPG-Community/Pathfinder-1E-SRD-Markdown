@@ -21,7 +21,7 @@ senses: darkvision
 aura: obscuring fog, veil of mists
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 25
-HD: 3d10+9
+hit_dice: 3d10+9
 saves: Fort +8, Ref +5, Will +2
 immune: mind-affecting effects
 weak: planar split

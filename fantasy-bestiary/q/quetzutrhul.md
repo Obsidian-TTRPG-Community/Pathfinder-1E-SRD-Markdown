@@ -22,7 +22,7 @@ senses: blindsight, detect magic
 AC: 28, touch 23, flat-footed 16 (dex +11, dodge +1, natural +5, size +1)
 HP: 107
 HP_extra: fast healing 5
-HD: 9d8+63
+hit_dice: 9d8+63
 saves: Fort +9, Ref +14, Will +8
 immune: fire, mind-affecting effects
 resist: cold 20, electricity 20, sonic 20

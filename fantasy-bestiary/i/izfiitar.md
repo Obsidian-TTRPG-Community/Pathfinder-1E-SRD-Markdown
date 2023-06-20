@@ -21,7 +21,7 @@ senses: blindsense, darkvision, detect law, true seeing
 aura: cloak of chaos
 AC: 36, touch 24, flat-footed 26 (dex +10, deflection +4, natural +12)
 HP: 362
-HD: 25d10+225
+hit_dice: 25d10+225
 saves: Fort +27, Ref +22, Will +26
 immune: acid, polymorph effects
 resist: electricity 10, sonic 10

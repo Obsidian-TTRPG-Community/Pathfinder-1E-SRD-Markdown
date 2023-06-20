@@ -21,7 +21,7 @@ INI: +6
 perception: +9
 AC: 14, touch 13, flat-footed 12 (deflection +1, dex +2, natural +1)
 HP: 66
-HD: 12d6+24
+hit_dice: 12d6+24
 saves: Fort +8, Ref +8, Will +11
 saves_other: +2 vs. non-aboleth enchantments and -2 vs. aboleth enchantments
 defensive_abilities: enchantment resistance, unusual anatomy (25%)

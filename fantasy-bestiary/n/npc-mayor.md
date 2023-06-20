@@ -21,7 +21,7 @@ INI: +0
 perception: +2
 AC: 15, touch 10, flat-footed 15 (armor +5)
 HP: 31
-HD: 7d8
+hit_dice: 7d8
 saves: Fort +4, Ref +4, Will +9
 speed: 35 ft.
 melee: mwk rapier +7 (1d6-1/18-20)

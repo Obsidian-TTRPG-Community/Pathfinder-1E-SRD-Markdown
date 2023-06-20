@@ -20,7 +20,7 @@ perception: +30
 senses: darkvision, tremorsense
 AC: 30, touch 6, flat-footed 30 (natural +24, size -4)
 HP: 229
-HD: 17d10+136
+hit_dice: 17d10+136
 saves: Fort +18, Ref +5, Will +12
 immune: electricity, poison
 resist: acid 10, cold 10, fire 10

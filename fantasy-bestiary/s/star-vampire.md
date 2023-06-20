@@ -19,7 +19,7 @@ perception: +18
 senses: darkvision, low-light vision, scent blood
 AC: 19, touch 8, flat-footed 19 (dex -1, natural +11, size -1)
 HP: 67
-HD: 9d8+27
+hit_dice: 9d8+27
 saves: Fort +6, Ref +4, Will +11
 DR: 5/slashing
 defensive_abilities: amorphous, blood healing, partial invisibility

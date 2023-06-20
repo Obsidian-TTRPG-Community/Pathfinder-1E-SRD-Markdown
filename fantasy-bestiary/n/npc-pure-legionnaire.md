@@ -21,7 +21,7 @@ INI: +2
 perception: +15
 AC: 18, touch 13, flat-footed 15 (armor +5, dex +2, dodge +1)
 HP: 64
-HD: 7d10+21
+hit_dice: 7d10+21
 saves: Fort +7, Ref +10, Will +5
 speed: 30 ft.
 melee: +1 scimitar +12/+7 (1d6+4/18-20)

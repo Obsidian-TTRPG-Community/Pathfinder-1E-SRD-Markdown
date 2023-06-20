@@ -22,7 +22,7 @@ aura: cold
 AC: 32, touch 16, flat-footed 26 (dex +6, natural +16)
 HP: 270
 HP_extra: fast healing 10
-HD: 20d8+180
+hit_dice: 20d8+180
 saves: Fort +15, Ref +14, Will +16
 immune: cold, undead traits
 DR: 15/bludgeoning and good

@@ -21,7 +21,7 @@ senses: low-light vision
 aura: frightful presence
 AC: 23, touch 17, flat-footed 15 (dex +7, dodge +1, natural +6, size -1)
 HP: 104
-HD: 11d6+66
+hit_dice: 11d6+66
 saves: Fort +9, Ref +16, Will +10
 immune: disease, poison
 DR: 10/cold iron

@@ -19,7 +19,7 @@ perception: +12
 senses: darkvision, low-light vision, see invisibility
 AC: 23, touch 17, flat-footed 17 (dex +5, dodge +1, natural +6, size +1)
 HP: 59
-HD: 7d10+21
+hit_dice: 7d10+21
 saves: Fort +8, Ref +10, Will +4
 immune: poison
 defensive_abilities: shadow blending

@@ -20,7 +20,7 @@ senses: blindsight, low-light vision
 AC: 37, touch 1, flat-footed 37 (dex -1, natural +36, size -8)
 HP: 418
 HP_extra: fast healing 10
-HD: 31d8+279
+hit_dice: 31d8+279
 saves: Fort +26, Ref +11, Will +19
 immune: plant traits
 resist: acid 30

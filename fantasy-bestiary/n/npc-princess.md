@@ -21,7 +21,7 @@ INI: +1
 perception: +0
 AC: 12, touch 12, flat-footed 10 (dex +1, dodge +1)
 HP: 7
-HD: 2d8-2
+hit_dice: 2d8-2
 saves: Fort -1, Ref +1, Will +3
 speed: 30 ft.
 melee: unarmed strike +0 (1d3-1)

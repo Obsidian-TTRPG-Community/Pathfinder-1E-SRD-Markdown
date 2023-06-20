@@ -22,7 +22,7 @@ perception: -1
 senses: low-light vision
 AC: 17, touch 11, flat-footed 16 (armor +6, dex +1)
 HP: 11
-HD: 1d10+1
+hit_dice: 1d10+1
 saves: Fort +2, Ref +3, Will -1
 resist: acid 5, cold 5, electricity 5, fire 5
 speed: 20 ft.,  30 ft. without armor

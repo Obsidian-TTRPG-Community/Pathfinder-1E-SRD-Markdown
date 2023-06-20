@@ -22,7 +22,7 @@ perception: +8
 senses: low-light vision
 AC: 17, touch 13, flat-footed 14 (armor +4, dex +3)
 HP: 25
-HD: 4d8+4
+hit_dice: 4d8+4
 saves: Fort +2, Ref +7, Will +3
 saves_other: +2 vs. enchantments, +4 vs. bardic performance, language-dependent, and sonic
 speed: 30 ft.

@@ -20,7 +20,7 @@ perception: +1
 senses: low-light vision, tremorsense
 AC: 19, touch 12, flat-footed 16 (dex +3, natural +7, size -1)
 HP: 52
-HD: 7d8+21
+hit_dice: 7d8+21
 saves: Fort +8, Ref +7, Will +3
 immune: mind-affecting effects
 speed: 20 ft., swim 60 ft.

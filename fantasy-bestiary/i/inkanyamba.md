@@ -19,7 +19,7 @@ perception: +16
 senses: darkvision, scent, venomsense
 AC: 28, touch 10, flat-footed 24 (dex +3, dodge +1, natural +18, size -4)
 HP: 178
-HD: 17d10+85
+hit_dice: 17d10+85
 saves: Fort +15, Ref +15, Will +10
 immune: electricity, poison
 DR: 10/magic

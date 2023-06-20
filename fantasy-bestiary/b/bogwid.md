@@ -20,7 +20,7 @@ senses: darkvision
 aura: revolting aura
 AC: 19, touch 14, flat-footed 15 (dex +4, natural +5)
 HP: 47
-HD: 5d8+25
+hit_dice: 5d8+25
 saves: Fort +5, Ref +5, Will +1
 resist: acid 5, cold 5
 speed: 30 ft., climb 20 ft., swim 20 ft.

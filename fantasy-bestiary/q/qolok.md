@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, true seeing
 AC: 31, touch 13, flat-footed 27 (dex +4, natural +18, size -1)
 HP: 243
 HP_extra: fast healing 5
-HD: 18d10+144
+hit_dice: 18d10+144
 saves: Fort +16, Ref +17, Will +17
 saves_other: +8 vs. mind-affecting effects
 immune: death effects, disease, divinations, fear effects, poison

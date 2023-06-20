@@ -21,7 +21,7 @@ aura: prismatic aura
 AC: 34, touch 2, flat-footed 34 (armor +8, natural +24, size -8)
 HP: 341
 HP_extra: fast healing 10
-HD: 22d10+220
+hit_dice: 22d10+220
 saves: Fort +17, Ref +16, Will +22
 immune: blindness, death effects, fire, sonic
 SR: 30

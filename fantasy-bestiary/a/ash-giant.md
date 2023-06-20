@@ -20,7 +20,7 @@ perception: +8
 senses: low-light vision
 AC: 25, touch 11, flat-footed 23 (armor +4, dex +2, natural +10, size -1)
 HP: 147
-HD: 14d8+84
+hit_dice: 14d8+84
 saves: Fort +15, Ref +6, Will +5
 immune: disease, poison
 defensive_abilities: rock catching

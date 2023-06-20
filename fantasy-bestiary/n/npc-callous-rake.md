@@ -21,7 +21,7 @@ INI: +1
 perception: +0
 AC: 20, touch 11, flat-footed 19 (armor +7, dex +1, shield +2)
 HP: 12
-HD: 1d10+2
+hit_dice: 1d10+2
 saves: Fort +3, Ref +1, Will +2
 speed: 20 ft.
 melee: longsword +5 (1d8+3/19-20)

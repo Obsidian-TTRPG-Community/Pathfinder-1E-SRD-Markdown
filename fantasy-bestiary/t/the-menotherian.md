@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, scent
 aura: alluring scent
 AC: 31, touch 14, flat-footed 26 (dex +5, natural +17, size -1)
 HP: 202
-HD: 15d10+120
+hit_dice: 15d10+120
 saves: Fort +17, Ref +16, Will +9
 immune: disease, poison
 resist: electricity 10, fire 10

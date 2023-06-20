@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 aura: Hellspurning aura
 AC: 21, touch 10, flat-footed 21 (natural +8, shield +3)
 HP: 97
-HD: 14d10+20
+hit_dice: 14d10+20
 saves: Fort +9, Ref +9, Will +10
 immune: construct traits
 DR: 5/adamantine and bludgeoning

@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: magic circle against evil
 AC: 21, touch 10, flat-footed 20 (dex +1, natural +11, size -1)
 HP: 94
-HD: 9d10+45
+hit_dice: 9d10+45
 saves: Fort +11, Ref +9, Will +8
 speed: 30 ft., fly 60 ft. (average)
 melee: 2 claws +14 (1d8+6), 2 wings +9 (1d6+3)

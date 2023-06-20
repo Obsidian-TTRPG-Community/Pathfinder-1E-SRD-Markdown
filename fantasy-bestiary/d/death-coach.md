@@ -21,7 +21,7 @@ senses: darkvision, deathwatch, lifesense
 aura: aura of doom
 AC: 27, touch 27, flat-footed 16 (deflection +8, dex +10, dodge +1, size -2)
 HP: 212
-HD: 17d8+136
+hit_dice: 17d8+136
 saves: Fort +13, Ref +15, Will +14
 immune: undead traits
 defensive_abilities: channel resistance +4, incorporeal

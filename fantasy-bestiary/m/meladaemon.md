@@ -21,7 +21,7 @@ senses: darkvision, detect good, detect magic
 aura: consumptive aura
 AC: 25, touch 15, flat-footed 19 (dex +6, natural +10, size -1)
 HP: 147
-HD: 14d10+70
+hit_dice: 14d10+70
 saves: Fort +11, Ref +15, Will +14
 immune: acid, critical hits, death effects, disease, poison, sneak attack
 resist: cold 10, electricity 10, fire 10

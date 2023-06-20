@@ -21,7 +21,7 @@ INI: +8
 perception: +12
 AC: 20, touch 16, flat-footed 15 (armor +4, deflection +1, dex +4, dodge +1)
 HP: 68
-HD: 10d8+20
+hit_dice: 10d8+20
 saves: Fort +4, Ref +11, Will +2
 defensive_abilities: evasion, improved uncanny dodge, trap sense +3
 speed: 30 ft.

@@ -22,7 +22,7 @@ perception: +3
 senses: darkvision
 AC: 21, touch 10, flat-footed 21 (armor +10, natural +1)
 HP: 108
-HD: 11d8+55
+hit_dice: 11d8+55
 saves: Fort +11, Ref +5, Will +13
 saves_other: +2 bonus vs. spells and spell-like abilities
 immune: duergar immunities, paralysis, phantasms, poison

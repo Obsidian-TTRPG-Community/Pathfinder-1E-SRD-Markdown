@@ -22,7 +22,7 @@ aura: desiccation
 AC: 31, touch 19, flat-footed 21 (dex +9, dodge +1, natural +12, size -1)
 HP: 230
 HP_extra: fast healing 10
-HD: 20d8+140
+hit_dice: 20d8+140
 saves: Fort +14, Ref +17, Will +18
 immune: undead traits
 DR: 10/magic and silver

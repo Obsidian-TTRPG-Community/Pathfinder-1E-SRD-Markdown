@@ -20,7 +20,7 @@ perception: +24
 senses: darkvision, deathwatch
 AC: 27, touch 19, flat-footed 24 (armor +8, deflection +6, dex +3)
 HP: 168
-HD: 16d10+80
+hit_dice: 16d10+80
 saves: Fort +10, Ref +13, Will +15
 immune: cold, electricity, poison
 resist: acid 10, fire 10

@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: cockroach cloud
 AC: 19, touch 15, flat-footed 14 (dex +5, natural +4)
 HP: 33
-HD: 6d6+12
+hit_dice: 6d6+12
 saves: Fort +4, Ref +10, Will +6
 immune: mind-affecting effects
 weak: light sensitivity

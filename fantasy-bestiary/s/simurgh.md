@@ -20,7 +20,7 @@ senses: darkvision, detect evil, detect magic, low-light vision
 aura: peace
 AC: 34, touch 10, flat-footed 30 (dex +3, dodge +1, natural +24, size -4)
 HP: 324
-HD: 24d10+192
+hit_dice: 24d10+192
 saves: Fort +22, Ref +17, Will +14
 immune: ability damage, ability drain, disease, fire, negative energy, petrification, poison, sleep
 resist: acid 10, cold 10, electricity 10

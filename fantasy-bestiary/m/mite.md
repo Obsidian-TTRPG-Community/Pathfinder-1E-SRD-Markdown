@@ -19,7 +19,7 @@ perception: +5
 senses: darkvision, low-light vision, scent
 AC: 12, touch 12, flat-footed 11 (dex +1, size +1)
 HP: 3
-HD: 1d6
+hit_dice: 1d6
 saves: Fort +0, Ref +3, Will +3
 DR: 2/cold iron
 weak: light sensitivity

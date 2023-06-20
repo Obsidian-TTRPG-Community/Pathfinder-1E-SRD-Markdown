@@ -20,7 +20,7 @@ perception: +16
 senses: darkvision
 AC: 21, touch 12, flat-footed 19 (armor +4, dex +1, dodge +1, natural +5)
 HP: 90
-HD: 12d8+36
+hit_dice: 12d8+36
 saves: Fort +7, Ref +7, Will +9
 immune: undead traits
 defensive_abilities: troop traits

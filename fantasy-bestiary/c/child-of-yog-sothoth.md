@@ -22,7 +22,7 @@ perception: +7
 senses: all-around vision, low-light vision
 AC: 14, touch 11, flat-footed 13 (dex +1, natural +3)
 HP: 76
-HD: 7d6+49
+hit_dice: 7d6+49
 saves: Fort +7, Ref +3, Will +7
 saves_other: +4 vs. mind-affecting effects
 immune: disease, poison

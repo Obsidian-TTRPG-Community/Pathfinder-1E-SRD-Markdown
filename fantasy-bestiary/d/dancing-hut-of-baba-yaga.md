@@ -20,7 +20,7 @@ aura: frightful presence
 AC: 34, touch 20, flat-footed 22 (dex +12, natural +14, size -2)
 HP: 188
 HP_extra: fast healing 20
-HD: 27d10+40
+hit_dice: 27d10+40
 saves: Fort +9, Ref +21, Will +17
 immune: construct traits, gaze attacks, visual effects and illusions, sight-based attacks
 DR: 15/adamantine

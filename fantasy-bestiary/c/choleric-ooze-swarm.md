@@ -19,7 +19,7 @@ INI: -5
 senses: blindsight
 AC: 7, touch 7, flat-footed 7 (dex -5, size +2)
 HP: 25
-HD: 3d8+12
+hit_dice: 3d8+12
 saves: Fort +5, Ref -4, Will -4
 immune: ooze traits, swarm traits
 resist: acid 5

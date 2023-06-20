@@ -20,7 +20,7 @@ perception: +12
 senses: blindsense, darkvision
 AC: 21, touch 14, flat-footed 17 (dex +3, dodge +1, natural +7)
 HP: 102
-HD: 12d8+48
+hit_dice: 12d8+48
 saves: Fort +8, Ref +9, Will +11
 immune: disease
 weak: light blindness

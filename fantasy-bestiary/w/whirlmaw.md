@@ -19,7 +19,7 @@ perception: +8
 senses: darkvision, keen sight, tremorsense
 AC: 20, touch 16, flat-footed 14 (dex +6, natural +4)
 HP: 102
-HD: 12d8+48
+hit_dice: 12d8+48
 saves: Fort +8, Ref +10, Will +8
 immune: fire
 speed: 10 ft., fly 90 ft. (perfect), burrow 10 ft.

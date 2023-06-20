@@ -20,7 +20,7 @@ perception: +4
 senses: low-light vision, scent
 AC: 23, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 30
-HD: 3d10+9
+hit_dice: 3d10+9
 saves: Fort +8, Ref +2, Will +2
 saves_other: +1 vs. fear
 DR: 10/silver

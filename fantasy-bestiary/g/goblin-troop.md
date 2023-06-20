@@ -20,7 +20,7 @@ perception: +8
 senses: darkvision
 AC: 17, touch 15, flat-footed 13 (armor +2, dex +3, dodge +1, size +1)
 HP: 52
-HD: 8d8+16
+hit_dice: 8d8+16
 saves: Fort +6, Ref +9, Will +4
 defensive_abilities: troop traits
 speed: 30 ft.

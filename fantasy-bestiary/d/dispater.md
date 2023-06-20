@@ -22,7 +22,7 @@ aura: frightful presence, shield of law
 AC: 45, touch 35, flat-footed 35 (deflection +4, dex +9, dodge +1, natural +10, profane +12, size -1)
 HP: 643
 HP_extra: regeneration 30; regeneration weakness deific or mythic
-HD: 33d10+462
+hit_dice: 33d10+462
 saves: Fort +29, Ref +31, Will +34
 saves_other: +8 vs. mind-affecting effects
 immune: ability damage, ability drain, charm, compulsion, death effects, energy drain, fire, petrification, poison

@@ -22,7 +22,7 @@ perception: +11
 senses: darkvision, keen scent, low-light vision
 AC: 20, touch 14, flat-footed 15 (dex +5, natural +6, size -1)
 HP: 68
-HD: 8d10+24
+hit_dice: 8d10+24
 saves: Fort +9, Ref +11, Will +4
 speed: 10 ft., swim 50 ft.
 melee: gore +11 (2d6+4/19-20 plus disease)

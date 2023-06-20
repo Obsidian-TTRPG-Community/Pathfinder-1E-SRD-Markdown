@@ -22,7 +22,7 @@ perception: +9
 AC: 13, touch 12, flat-footed 11 (armor +1, dex +2)
 HP: 13
 HP_extra: HD 3
-HD: 1d8+2d8+
+hit_dice: 1d8+2d8+
 saves: Fort +2, Ref +4, Will +4
 speed: 30 ft.
 melee: mwk dagger +1 (1d4-1/19-20)

@@ -19,7 +19,7 @@ perception: +22
 senses: lifesense, low-light vision
 AC: 27, touch 17, flat-footed 20 (dex +6, dodge +1, natural +10)
 HP: 150
-HD: 20d8+60
+hit_dice: 20d8+60
 saves: Fort +15, Ref +14, Will +11
 immune: plant traits
 DR: 10/bludgeoning

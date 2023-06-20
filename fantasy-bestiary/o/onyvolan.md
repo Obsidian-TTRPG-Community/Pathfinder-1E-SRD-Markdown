@@ -19,7 +19,7 @@ perception: +8
 senses: darkvision
 AC: 14, touch 14, flat-footed 10 (dex +3, dodge +1)
 HP: 30
-HD: 4d10+8
+hit_dice: 4d10+8
 saves: Fort +3, Ref +7, Will +5
 weak: cowardly, easily hampered
 speed: 40 ft.

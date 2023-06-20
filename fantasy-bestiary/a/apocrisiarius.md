@@ -22,7 +22,7 @@ aura: truth
 AC: 19, touch 16, flat-footed 14 (dex +5, dodge +1, natural +3)
 HP: 85
 HP_extra: regeneration 3; regeneration weakness good spells, good weapons, silver weapons
-HD: 9d10+36
+hit_dice: 9d10+36
 saves: Fort +10, Ref +8, Will +6
 immune: cold, poison
 DR: 5/silver or good

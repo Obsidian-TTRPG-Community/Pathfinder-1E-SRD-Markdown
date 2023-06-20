@@ -23,7 +23,7 @@ senses: darkvision, low-light vision, scent
 AC: 22, touch 13, flat-footed 20 (armor +4, dex +2, natural +3, shield +2, size +1)
 HP: 55
 HP_extra: HD 9
-HD: 3d8+6d8+15
+hit_dice: 3d8+6d8+15
 saves: Fort +4, Ref +10, Will +8
 saves_other: +4 vs. bardic performance, language-dependent, and sonic
 speed: 30 ft., climb 30 ft.

@@ -19,7 +19,7 @@ perception: +2
 senses: blindsense
 AC: 16, touch 12, flat-footed 14 (armor +2, dex +1, dodge +1, natural +2)
 HP: 19
-HD: 3d8+6
+hit_dice: 3d8+6
 saves: Fort +5, Ref +2, Will +2
 speed: 30 ft., fly 20 ft. (poor)
 melee: short sword +4 (1d6+2/19-20)

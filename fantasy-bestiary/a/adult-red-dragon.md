@@ -21,7 +21,7 @@ senses: dragon senses, smoke vision
 aura: fire, frightful presence
 AC: 29, touch 8, flat-footed 29 (natural +21, size -2)
 HP: 212
-HD: 17d12+102
+hit_dice: 17d12+102
 saves: Fort +16, Ref +10, Will +15
 immune: fire, paralysis, sleep
 DR: 5/magic

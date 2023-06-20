@@ -23,7 +23,7 @@ senses: low-light vision
 AC: 29, touch 14, flat-footed 25 (armor +6, deflection +1, dex +3, dodge +1, natural +9, size -1)
 HP: 210
 HP_extra: HD 20
-HD: 10d8+10d10+110
+hit_dice: 10d8+10d10+110
 saves: Fort +19, Ref +11, Will +8
 saves_other: +3 vs. fear
 defensive_abilities: bravery +3, ferocity

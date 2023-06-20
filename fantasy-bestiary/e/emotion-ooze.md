@@ -20,7 +20,7 @@ senses: blindsense
 aura: emotion
 AC: 13, touch 13, flat-footed 13 (deflection +6, dex -3)
 HP: 76
-HD: 9d8+36
+hit_dice: 9d8+36
 saves: Fort +13, Ref +6, Will +11
 immune: mind-affecting effects, ooze traits
 defensive_abilities: amorphous

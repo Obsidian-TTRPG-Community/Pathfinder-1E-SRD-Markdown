@@ -19,7 +19,7 @@ perception: +26
 senses: darkvision, diagnose disease, true seeing
 AC: 30, touch 25, flat-footed 26 (dex +4, insight +12, natural +5, size -1)
 HP: 200
-HD: 16d8+128
+hit_dice: 16d8+128
 saves: Fort +13, Ref +11, Will +17
 immune: disease, mind-affecting effects
 resist: cold 10, fire 10

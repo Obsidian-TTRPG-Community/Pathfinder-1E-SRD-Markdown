@@ -20,7 +20,7 @@ senses: darkvision, low-light vision, plantsense
 aura: blight
 AC: 20, touch 12, flat-footed 17 (dex +3, natural +8, size -1)
 HP: 85
-HD: 10d8+40
+hit_dice: 10d8+40
 saves: Fort +11, Ref +6, Will +5
 immune: plant traits
 defensive_abilities: thorny

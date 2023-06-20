@@ -19,7 +19,7 @@ perception: +0
 senses: darkvision
 AC: 19, touch 9, flat-footed 19 (natural +10, size -1)
 HP: 37
-HD: 5d8+15
+hit_dice: 5d8+15
 saves: Fort +7, Ref +1, Will +1
 immune: mind-affecting effects
 defensive_abilities: bristles

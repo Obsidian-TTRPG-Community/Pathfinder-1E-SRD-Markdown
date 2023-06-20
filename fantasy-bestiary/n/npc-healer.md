@@ -21,7 +21,7 @@ INI: +1
 perception: +4
 AC: 16, touch 12, flat-footed 15 (armor +4, dex +1, size +1)
 HP: 34
-HD: 9d6+3
+hit_dice: 9d6+3
 saves: Fort +6, Ref +5, Will +11
 saves_other: +2 vs. fear
 speed: 20 ft.

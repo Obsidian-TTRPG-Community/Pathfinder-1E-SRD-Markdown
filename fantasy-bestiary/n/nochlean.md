@@ -19,7 +19,7 @@ perception: +13
 senses: child-scent, darkvision, low-light vision
 AC: 15, touch 14, flat-footed 11 (dex +4, natural +1)
 HP: 27
-HD: 5d6+10
+hit_dice: 5d6+10
 saves: Fort +3, Ref +8, Will +5
 DR: 5/cold iron
 weak: music susceptibility, vulnerable to sonic

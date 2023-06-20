@@ -20,7 +20,7 @@ senses: low-light vision
 aura: mind drain
 AC: 25, touch 16, flat-footed 20 (armor +4, dex +4, dodge +1, natural +5, size +1)
 HP: 142
-HD: 15d8+75
+hit_dice: 15d8+75
 saves: Fort +15, Ref +11, Will +12
 immune: plant traits
 SR: 22

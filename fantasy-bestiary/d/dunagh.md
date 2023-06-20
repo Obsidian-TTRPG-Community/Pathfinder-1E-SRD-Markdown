@@ -22,7 +22,7 @@ aura: fate
 AC: 16, touch 16, flat-footed 13 (deflection +3, dex +3)
 HP: 37
 HP_extra: fast healing 2
-HD: 5d10+10
+hit_dice: 5d10+10
 saves: Fort +3, Ref +7, Will +7
 immune: bleed, mind-affecting effects, petrification, polymorph
 resist: acid 10, cold 10, electricity 10, fire 10

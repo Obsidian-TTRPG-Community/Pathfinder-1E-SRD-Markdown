@@ -19,7 +19,7 @@ perception: +27
 senses: darkvision, detect secret doors, low-light vision
 AC: 25, touch 15, flat-footed 20 (dex +5, natural +10)
 HP: 133
-HD: 14d10+56
+hit_dice: 14d10+56
 saves: Fort +8, Ref +16, Will +15
 immune: poison, sonic
 resist: acid 10

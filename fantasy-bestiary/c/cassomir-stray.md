@@ -19,7 +19,7 @@ perception: +10
 senses: darkvision
 AC: 17, touch 12, flat-footed 16 (dex +1, natural +5, size +1)
 HP: 42
-HD: 5d8+20
+hit_dice: 5d8+20
 saves: Fort +7, Ref +2, Will +6
 resist: acid 5
 weak: light blindness

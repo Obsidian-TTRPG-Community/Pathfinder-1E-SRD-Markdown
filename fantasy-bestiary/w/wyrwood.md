@@ -21,7 +21,7 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 16, touch 14, flat-footed 13 (armor +2, dex +3, size +1)
 HP: 18
-HD: 1d8+10
+hit_dice: 1d8+10
 saves: Fort +0, Ref +5, Will +1
 immune: construct traits
 speed: 30 ft.

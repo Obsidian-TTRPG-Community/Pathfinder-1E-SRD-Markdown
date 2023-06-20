@@ -20,7 +20,7 @@ senses: darkvision
 aura: piteous moan
 AC: 13, touch 8, flat-footed 13 (dex -2, natural +5)
 HP: 42
-HD: 5d8+20
+hit_dice: 5d8+20
 saves: Fort +7, Ref -1, Will +3
 immune: acid, mind-affecting effects
 speed: 20 ft.

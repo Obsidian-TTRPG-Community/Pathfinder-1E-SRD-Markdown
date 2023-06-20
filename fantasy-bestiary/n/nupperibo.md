@@ -21,7 +21,7 @@ INI: +0
 senses: blindsight, darkvision
 AC: 12, touch 10, flat-footed 12 (natural +2)
 HP: 5
-HD: 1d10
+hit_dice: 1d10
 saves: Fort +2, Ref +2, Will +0
 immune: fire, mind-affecting effects, poison
 resist: acid 10, cold 10

@@ -23,7 +23,7 @@ senses: darkvision, scent
 AC: 25, touch 14, flat-footed 22 (armor +5, deflection +1, dex +2, dodge +1, natural +5, shield +1)
 HP: 90
 HP_extra: HD 11
-HD: 3d8+8d10+33
+hit_dice: 3d8+8d10+33
 saves: Fort +11, Ref +12, Will +7
 speed: 30 ft.
 melee: +1 longsword +14/+9 (1d8+6/19-20), +1 short sword +14 (1d6+3/19-20)

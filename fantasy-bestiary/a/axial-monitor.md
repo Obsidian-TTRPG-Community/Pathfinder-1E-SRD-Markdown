@@ -21,7 +21,7 @@ senses: blindsight, darkvision, true seeing
 AC: 30, touch 12, flat-footed 27 (armor +6, dex +3, natural +12, size -1)
 HP: 210
 HP_extra: regeneration 5; regeneration weakness chaotic or magic
-HD: 20d10+100
+hit_dice: 20d10+100
 saves: Fort +17, Ref +11, Will +18
 immune: disease, electricity, mind-affecting effects
 resist: cold 10, fire 10

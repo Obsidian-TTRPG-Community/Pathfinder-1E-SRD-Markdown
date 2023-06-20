@@ -21,7 +21,7 @@ senses: blindsense, darkvision, low-light vision
 AC: 32, touch 24, flat-footed 24 (dex +7, dodge +1, natural +8, profane +2, size +4)
 HP: 279
 HP_extra: fast healing 10
-HD: 21d10+164
+hit_dice: 21d10+164
 saves: Fort +18, Ref +21, Will +13
 saves_other: second save
 immune: weapon damage

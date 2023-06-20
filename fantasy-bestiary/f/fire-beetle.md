@@ -19,7 +19,7 @@ perception: +0
 senses: low-light vision
 AC: 12, touch 11, flat-footed 12 (natural +1, size +1)
 HP: 4
-HD: 1d8
+hit_dice: 1d8
 saves: Fort +2, Ref +0, Will +0
 immune: mind-affecting effects
 speed: 30 ft., fly 30 ft. (poor)

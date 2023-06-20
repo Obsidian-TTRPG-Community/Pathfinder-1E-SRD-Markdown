@@ -20,7 +20,7 @@ perception: +3
 senses: darkvision, low-light vision, scent
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 19
-HD: 3d10+3
+hit_dice: 3d10+3
 saves: Fort +4, Ref +6, Will +0
 defensive_abilities: wind blessed, wind form
 speed: 30 ft., fly 60 ft. (perfect)

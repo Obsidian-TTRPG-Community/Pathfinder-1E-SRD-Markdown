@@ -19,7 +19,7 @@ perception: +14
 senses: darkvision, low-light vision
 AC: 29, touch 7, flat-footed 29 (dex -1, natural +22, size -2)
 HP: 210
-HD: 20d10+100
+hit_dice: 20d10+100
 saves: Fort +17, Ref +11, Will +7
 immune: acid, mind-affecting effects
 defensive_abilities: selective mind

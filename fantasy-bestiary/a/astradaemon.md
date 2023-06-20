@@ -21,7 +21,7 @@ senses: darkvision, deathwatch, true seeing
 aura: soul siphon
 AC: 29, touch 17, flat-footed 21 (dex +7, dodge +1, natural +12, size -1)
 HP: 212
-HD: 17d10+119
+hit_dice: 17d10+119
 saves: Fort +12, Ref +17, Will +14
 immune: acid, death effects, disease, poison
 resist: cold 10, electricity 10, fire 10

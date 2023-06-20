@@ -20,7 +20,7 @@ perception: +0
 senses: darkvision, lifesense, low-light vision
 AC: 20, touch 14, flat-footed 16 (dex +2, dodge +2, natural +6)
 HP: 64
-HD: 8d10+20
+hit_dice: 8d10+20
 saves: Fort +2, Ref +6, Will +2
 saves_other: +4 vs. enchantments
 immune: construct traits

@@ -20,7 +20,7 @@ perception: +8
 senses: darkvision, sense blood
 AC: 14, touch 14, flat-footed 10 (dex +4)
 HP: 30
-HD: 4d8+12
+hit_dice: 4d8+12
 saves: Fort +4, Ref +5, Will +5
 DR: 5/magic
 defensive_abilities: amorphous

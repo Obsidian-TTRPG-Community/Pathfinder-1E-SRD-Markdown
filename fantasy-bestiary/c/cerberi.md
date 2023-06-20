@@ -20,7 +20,7 @@ perception: +15
 senses: soul scent
 AC: 18, touch 12, flat-footed 16 (dex +2, natural +6)
 HP: 76
-HD: 8d10+32
+hit_dice: 8d10+32
 saves: Fort +10, Ref +8, Will +4
 speed: 40 ft.
 melee: 3 bites +11 (1d6+3 plus cerberus’s jaws)

@@ -24,7 +24,7 @@ aura: cowardice, despair
 AC: 21, touch 10, flat-footed 21 (armor +10, natural +1)
 HP: 122
 HP_extra: HD 12
-HD: 2d8+10d10+46
+hit_dice: 2d8+10d10+46
 saves: Fort +16, Ref +5, Will +12
 immune: disease
 speed: 20 ft.

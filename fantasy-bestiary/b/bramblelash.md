@@ -18,7 +18,7 @@ INI: +2
 senses: scent, tremorsense
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 13
-HD: 3d8
+hit_dice: 3d8
 saves: Fort +3, Ref +3, Will +1
 immune: mind-affecting effects
 resist: electricity 5, fire 5

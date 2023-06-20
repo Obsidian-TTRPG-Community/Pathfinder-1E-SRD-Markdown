@@ -21,7 +21,7 @@ aura: divine antithesis
 AC: 42, touch 32, flat-footed 31 (dex +11, natural +10, profane +12, size -1)
 HP: 485
 HP_extra: fast healing 10
-HD: 26d10+342
+hit_dice: 26d10+342
 saves: Fort +20, Ref +19, Will +20
 immune: construct traits
 resist: acid 30, cold 30, electricity 30, fire 30

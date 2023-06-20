@@ -21,7 +21,7 @@ senses: blindsight
 aura: subsonic hum
 AC: 17, touch 5, flat-footed 17 (dex -5, natural +12)
 HP: 136
-HD: 16d8+64
+hit_dice: 16d8+64
 saves: Fort +9, Ref +0, Will +0
 immune: cold, electricity, ooze traits
 resist: fire 20

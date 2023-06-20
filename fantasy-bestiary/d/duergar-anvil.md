@@ -22,7 +22,7 @@ perception: +7
 senses: darkvision
 AC: 15, touch 15, flat-footed 12 (dex +2, dodge +1, wis +2)
 HP: 18
-HD: 2d8+6
+hit_dice: 2d8+6
 saves: Fort +5, Ref +5, Will +5
 saves_other: +2 vs. spells
 immune: paralysis, phantasms, poison

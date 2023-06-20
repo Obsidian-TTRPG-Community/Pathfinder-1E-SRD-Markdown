@@ -21,7 +21,7 @@ senses: darkvision, trueseeing
 AC: 31, touch 15, flat-footed 27 (dex +3, dodge +1, insight +2, natural +16, size -1; never surprised or flat-footed)
 HP: 225
 HP_extra: fast healing 5
-HD: 18d10+126
+hit_dice: 18d10+126
 saves: Fort +18, Ref +11, Will +19
 immune: confusion, insanity
 resist: acid 30, cold 30, electricity 30, fire 30

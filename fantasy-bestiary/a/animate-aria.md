@@ -19,7 +19,7 @@ senses: blindsight, darkvision, low-light vision
 aura: courageous inspiration
 AC: 23, touch 13, flat-footed 19 (dex +4, natural +10, size -1)
 HP: 107
-HD: 14d10+30
+hit_dice: 14d10+30
 saves: Fort +4, Ref +8, Will +4
 immune: construct traits
 defensive_abilities: amorphous, natural invisibility

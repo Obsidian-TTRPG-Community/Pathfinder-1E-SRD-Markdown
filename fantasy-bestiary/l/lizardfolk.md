@@ -19,7 +19,7 @@ INI: +0
 perception: +1
 AC: 17, touch 10, flat-footed 17 (natural +5, shield +2)
 HP: 11
-HD: 2d8+2
+hit_dice: 2d8+2
 saves: Fort +4, Ref +0, Will +0
 speed: 30 ft., swim 15 ft.
 melee: morningstar +2 (1d8+1), bite +0 (1d4)

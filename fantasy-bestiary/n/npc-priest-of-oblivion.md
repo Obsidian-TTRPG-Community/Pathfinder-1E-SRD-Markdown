@@ -21,7 +21,7 @@ INI: +4
 perception: +21
 AC: 31, touch 14, flat-footed 31 (armor +13, deflection +4, natural +2, shield +2)
 HP: 184
-HD: 19d8+95
+hit_dice: 19d8+95
 saves: Fort +16, Ref +7, Will +18
 speed: 20 ft.
 melee: +4 spiked chain +23/+18/+13 (2d4+10/19-20)

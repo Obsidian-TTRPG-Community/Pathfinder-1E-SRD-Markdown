@@ -19,7 +19,7 @@ perception: +5
 senses: darkvision, tremorsense
 AC: 20, touch 12, flat-footed 17 (dex +3, natural +6, shield +2, size -1)
 HP: 59
-HD: 7d8+28
+hit_dice: 7d8+28
 saves: Fort +6, Ref +5, Will +5
 defensive_abilities: ferocity
 weak: light sensitivity

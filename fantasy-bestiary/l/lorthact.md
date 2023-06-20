@@ -22,7 +22,7 @@ aura: unholy aura
 AC: 45, touch 29, flat-footed 33 (armor +6, deflection +5, dex +11, dodge +1, luck +2, natural +10)
 HP: 560
 HP_extra: regeneration 5; regeneration weakness good weapons or spells
-HD: 32d10+384
+hit_dice: 32d10+384
 saves: Fort +26, Ref +31, Will +30
 immune: fire, poison
 resist: acid 30, cold 30

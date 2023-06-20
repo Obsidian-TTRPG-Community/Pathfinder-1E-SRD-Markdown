@@ -20,7 +20,7 @@ senses: darkvision, low-light vision, scent
 aura: stench
 AC: 24, touch 14, flat-footed 19 (dex +4, dodge +1, natural +10, size -1)
 HP: 136
-HD: 13d10+65
+hit_dice: 13d10+65
 saves: Fort +11, Ref +12, Will +11
 immune: disease
 resist: cold 10

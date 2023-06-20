@@ -20,7 +20,7 @@ perception: +22
 senses: blindsight
 AC: 30, touch 10, flat-footed 28 (dex +1, dodge +1, natural +20, size -2)
 HP: 225
-HD: 18d12+108
+hit_dice: 18d12+108
 saves: Fort +17, Ref +12, Will +12
 immune: acid, dragon traits, gaze attacks, illusions, magic paralysis and sleep, poison, polymorph, visual effects
 DR: 10/good or lawful

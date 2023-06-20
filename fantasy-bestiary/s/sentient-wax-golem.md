@@ -22,7 +22,7 @@ senses: darkvision, low-light vision
 AC: 15, touch 9, flat-footed 15 (dex -1, natural +6)
 HP: 47
 HP_extra: HD 5
-HD: 4d10+1d6+21
+hit_dice: 4d10+1d6+21
 saves: Fort +3, Ref +2, Will +1
 immune: construct traits, magic
 weak: vulnerable to fire

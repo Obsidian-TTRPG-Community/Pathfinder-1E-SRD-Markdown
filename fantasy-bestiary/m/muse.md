@@ -19,7 +19,7 @@ perception: +22
 senses: blindsight, low-light vision
 AC: 32, touch 28, flat-footed 23 (armor +4, deflection +9, dex +8)
 HP: 229
-HD: 17d6+170
+hit_dice: 17d6+170
 saves: Fort +19, Ref +27, Will +21
 immune: sonic
 DR: 15/cold iron

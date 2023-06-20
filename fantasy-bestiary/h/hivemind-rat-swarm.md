@@ -20,7 +20,7 @@ perception: +16
 senses: darkvision, low-light vision, scent, thoughtsense
 AC: 20, touch 20, flat-footed 18 (dex +2, insight +6, size +2)
 HP: 76
-HD: 9d10+27
+hit_dice: 9d10+27
 saves: Fort +8, Ref +10, Will +4
 defensive_abilities: swarm traits
 speed: 15 ft., climb 15 ft., swim 15 ft.

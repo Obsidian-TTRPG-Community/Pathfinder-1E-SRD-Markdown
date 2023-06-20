@@ -22,7 +22,7 @@ senses: darkvision
 AC: 13, touch 12, flat-footed 11 (deflection +1, dex +2, natural +1, size -1)
 HP: 86
 HP_extra: HD 11
-HD: 7d6+4d10+40
+hit_dice: 7d6+4d10+40
 saves: Fort +5, Ref +8, Will +13
 speed: 50 ft.
 melee: quarterstaff +7/+2 (1d6+1), 2 hooves +2 (1d6)

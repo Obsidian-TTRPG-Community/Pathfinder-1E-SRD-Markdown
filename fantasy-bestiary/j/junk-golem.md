@@ -19,7 +19,7 @@ senses: darkvision, low-light vision
 AC: 19, touch 9, flat-footed 19 (dex -1, natural +10)
 HP: 42
 HP_extra: other junk repair
-HD: 4d10+20
+hit_dice: 4d10+20
 saves: Fort +1, Ref +0, Will +1
 immune: construct traits, magic
 DR: 5/adamantine

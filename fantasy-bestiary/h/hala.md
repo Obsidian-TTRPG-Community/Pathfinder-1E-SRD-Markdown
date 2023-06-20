@@ -21,7 +21,7 @@ senses: darkvision
 aura: stormwind aura
 AC: 18, touch 14, flat-footed 14 (dex +4, natural +4)
 HP: 37
-HD: 5d10+10
+hit_dice: 5d10+10
 saves: Fort +6, Ref +8, Will +1
 immune: electricity, poison
 resist: acid 10, cold 10, fire 10

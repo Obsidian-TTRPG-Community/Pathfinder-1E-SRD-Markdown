@@ -22,7 +22,7 @@ perception: +9
 senses: blindsense, darkvision
 AC: 18, touch 13, flat-footed 15 (dex +3, natural +5)
 HP: 40
-HD: 4d10+18
+hit_dice: 4d10+18
 saves: Fort +7, Ref +9, Will +5
 saves_other: +2 vs. ongoing effects
 weak: light blindness

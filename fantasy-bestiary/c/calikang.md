@@ -20,7 +20,7 @@ senses: darkvision, true seeing
 AC: 27, touch 11, flat-footed 25 (dex +2, natural +12, shield +4, size -1)
 HP: 157
 HP_extra: fast healing 5
-HD: 15d10+75
+hit_dice: 15d10+75
 saves: Fort +12, Ref +11, Will +11
 immune: electricity, mind-affecting effects, negative energy
 defensive_abilities: defensive slam, energy absorption, suspend animation

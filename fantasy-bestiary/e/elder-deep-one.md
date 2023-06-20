@@ -22,7 +22,7 @@ aura: cloak of chaos, staggering presence
 AC: 29, touch 11, flat-footed 24 (deflection +4, dex +1, natural +18, size -4)
 HP: 202
 HP_extra: regeneration 10; regeneration weakness fire
-HD: 15d8+135
+hit_dice: 15d8+135
 saves: Fort +18, Ref +16, Will +19
 immune: cold, disease
 resist: acid 10, electricity 10

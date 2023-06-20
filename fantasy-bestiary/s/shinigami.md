@@ -22,7 +22,7 @@ aura: fear aura
 AC: 31, touch 15, flat-footed 25 (dex +5, dodge +1, natural +16, size -1)
 HP: 275
 HP_extra: fast healing 10
-HD: 22d10+154
+hit_dice: 22d10+154
 saves: Fort +20, Ref +12, Will +19
 immune: ability damage, ability drain, cold, death effects, disease, energy drain, negative energy, poison
 resist: acid 10, fire 10

@@ -19,7 +19,7 @@ perception: +4
 senses: darkvision, tremorsense
 AC: 21, touch 7, flat-footed 20 (dex +1, natural +14, size -4)
 HP: 115
-HD: 10d8+70
+hit_dice: 10d8+70
 saves: Fort +14, Ref +4, Will +3
 immune: mind-affecting effects
 defensive_abilities: barbed hairs

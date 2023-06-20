@@ -21,7 +21,7 @@ senses: see in darkness, tremorsense
 aura: insidious whispers
 AC: 30, touch 19, flat-footed 22 (dex +7, dodge +1, natural +11, size +1)
 HP: 200
-HD: 16d10+112
+hit_dice: 16d10+112
 saves: Fort +12, Ref +17, Will +15
 immune: cold
 DR: 10/good

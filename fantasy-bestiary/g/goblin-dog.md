@@ -19,7 +19,7 @@ perception: +1
 senses: low-light vision, scent
 AC: 13, touch 12, flat-footed 11 (dex +2, natural +1)
 HP: 9
-HD: 1d8+5
+hit_dice: 1d8+5
 saves: Fort +4, Ref +4, Will +1
 immune: disease
 speed: 50 ft.

@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, scent
 AC: 29, touch 9, flat-footed 28 (dex +1, natural +20, size -2)
 HP: 207
 HP_extra: regeneration 10; regeneration weakness acid or fire
-HD: 18d8+126
+hit_dice: 18d8+126
 saves: Fort +18, Ref +7, Will +15
 defensive_abilities: rock catching, stubborn
 weak: vulnerable to sonic

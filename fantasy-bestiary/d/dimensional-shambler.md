@@ -20,7 +20,7 @@ perception: +14
 senses: darkvision
 AC: 21, touch 13, flat-footed 18 (dex +3, natural +8)
 HP: 94
-HD: 9d10+45
+hit_dice: 9d10+45
 saves: Fort +11, Ref +8, Will +10
 immune: summoning
 DR: 5/lawful

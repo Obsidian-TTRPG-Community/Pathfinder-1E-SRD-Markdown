@@ -21,7 +21,7 @@ senses: dakrvision, scent
 aura: septic wounds
 AC: 20, touch 14, flat-footed 16 (dex +4, natural +6)
 HP: 85
-HD: 9d10+36
+hit_dice: 9d10+36
 saves: Fort +10, Ref +10, Will +7
 immune: acid, death effects, disease, poison
 resist: cold 10, electricity 10, fire 10

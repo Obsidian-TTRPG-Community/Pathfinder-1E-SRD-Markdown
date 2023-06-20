@@ -23,7 +23,7 @@ senses: darkvision
 aura: courage, faith, justice, resolve, righteousness
 AC: 30, touch 14, flat-footed 30 (armor +14, deflection +4, natural +2)
 HP: 214
-HD: 20d10+100
+hit_dice: 20d10+100
 saves: Fort +23, Ref +14, Will +19
 immune: charm, compulsion, disease, fear, poison
 resist: electricity 30, fire 30

@@ -20,7 +20,7 @@ perception: +22
 senses: all-around vision, darkvision
 AC: 30, touch 6, flat-footed 30 (natural +24, size -4)
 HP: 232
-HD: 15d10+150
+hit_dice: 15d10+150
 saves: Fort +19, Ref +11, Will +9
 immune: death effects, mind-affecting effects, petrification, polymorph
 resist: acid 20, cold 20

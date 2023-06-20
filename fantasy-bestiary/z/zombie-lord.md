@@ -21,7 +21,7 @@ perception: +10
 senses: darkvision
 AC: 18, touch 16, flat-footed 14 (dex +3, dodge +1, wis +2, natural +2)
 HP: 30
-HD: 5d8+8
+hit_dice: 5d8+8
 saves: Fort +3, Ref +6, Will +8
 saves_other: +2 vs. enchantments
 immune: undead traits

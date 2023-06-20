@@ -19,7 +19,7 @@ perception: +9
 senses: tremorsense, scent
 AC: 18, touch 8, flat-footed 18 (dex -1, natural +10, size -1)
 HP: 51
-HD: 6d10+18
+hit_dice: 6d10+18
 saves: Fort +7, Ref +4, Will +6
 weak: light blindness
 speed: 30 ft., burrow 30 ft.

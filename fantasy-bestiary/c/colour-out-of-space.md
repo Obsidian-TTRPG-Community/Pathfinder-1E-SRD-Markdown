@@ -21,7 +21,7 @@ senses: blindsense
 aura: lassitude
 AC: 23, touch 23, flat-footed 14 (deflection +6, dex +8, dodge +1, size -2)
 HP: 126
-HD: 12d8+72
+hit_dice: 12d8+72
 saves: Fort +10, Ref +14, Will +10
 immune: acid, cold, fire, mind-affecting effects, ooze traits, poison, sonic
 defensive_abilities: amorphous, incorporeal

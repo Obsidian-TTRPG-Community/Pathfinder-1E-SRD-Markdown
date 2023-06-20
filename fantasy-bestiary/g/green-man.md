@@ -22,7 +22,7 @@ aura: green caress
 AC: 44, touch 32, flat-footed 33 (dex +10, dodge +1, insight +11, natural +12)
 HP: 595
 HP_extra: regeneration 20; regeneration weakness deific or mythic
-HD: 34d8+442
+hit_dice: 34d8+442
 saves: Fort +32, Ref +23, Will +22
 immune: ability damage, ability drain, daze, electricity, petrification, plant traits, stagger
 DR: 15/epic and slashing

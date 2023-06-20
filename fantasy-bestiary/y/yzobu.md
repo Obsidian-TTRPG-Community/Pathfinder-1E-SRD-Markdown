@@ -20,7 +20,7 @@ senses: low-light vision, scent
 aura: stench
 AC: 13, touch 10, flat-footed 12 (dex +1, natural +3, size -1)
 HP: 13
-HD: 2d8+4
+hit_dice: 2d8+4
 saves: Fort +5, Ref +4, Will +1
 speed: 40 ft.
 melee: gore +3 (1d8+3)

@@ -21,7 +21,7 @@ senses: darkvision, deathwatch
 AC: 17, touch 15, flat-footed 14 (dex +3, natural +2, size +2)
 HP: 19
 HP_extra: regeneration 2; regeneration weakness good weapons and spells, silver weapons
-HD: 3d10+3
+hit_dice: 3d10+3
 saves: Fort +2, Ref +8, Will +4
 immune: cold
 DR: 5/good or silver

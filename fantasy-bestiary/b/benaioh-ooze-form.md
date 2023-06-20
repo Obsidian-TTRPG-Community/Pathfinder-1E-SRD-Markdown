@@ -19,7 +19,7 @@ perception: -4
 senses: blindsense, tremorsense
 AC: 7, touch 7, flat-footed 7 (dex -2, size -1)
 HP: 84
-HD: 8d8+48
+hit_dice: 8d8+48
 saves: Fort +8, Ref +0, Will -2
 immune: disease, ooze traits
 speed: 20 ft., climb 10 ft., swim 10 ft.

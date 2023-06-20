@@ -22,7 +22,7 @@ aura: desecrate
 AC: 30, touch 16, flat-footed 23 (dex +7, natural +14, size -1)
 HP: 230
 HP_extra: other fast healing 5 or 20 (see Devour Soul)
-HD: 20d8+140
+hit_dice: 20d8+140
 saves: Fort +13, Ref +16, Will +18
 immune: cold, electricity, undead traits
 resist: fire 30

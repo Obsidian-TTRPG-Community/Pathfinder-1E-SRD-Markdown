@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: confounding
 AC: 24, touch 10, flat-footed 22 (dex +2, natural +14, size -2)
 HP: 127
-HD: 15d8+60
+hit_dice: 15d8+60
 saves: Fort +12, Ref +9, Will +9
 immune: plant traits
 DR: 10/slashing

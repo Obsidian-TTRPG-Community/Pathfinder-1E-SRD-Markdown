@@ -19,7 +19,7 @@ perception: +5
 senses: low-light vision, scent
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 14
-HD: 2d8+5
+hit_dice: 2d8+5
 saves: Fort +4, Ref +5, Will +1
 defensive_abilities: quill defense
 speed: 40 ft.

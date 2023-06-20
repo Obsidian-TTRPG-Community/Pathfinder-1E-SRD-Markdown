@@ -21,7 +21,7 @@ perception: +10
 AC: 14, touch 10, flat-footed 14 (mage armor +4)
 HP: 61
 HP_extra: HD 12
-HD: 7d8+5d6+12
+hit_dice: 7d8+5d6+12
 saves: Fort +5, Ref +4, Will +12
 defensive_abilities: protective ward 10/day (+2 deflection, 7 rounds), resistance
 speed: 30 ft.

@@ -20,7 +20,7 @@ INI: +1
 perception: +4
 AC: 11, touch 11, flat-footed 10 (dex +1)
 HP: 7
-HD: 2d6
+hit_dice: 2d6
 saves: Fort +0, Ref +1, Will -1
 speed: 30 ft.
 melee: serving tray +1 (1d4)

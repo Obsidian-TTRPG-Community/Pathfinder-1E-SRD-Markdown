@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: stench
 AC: 27, touch 9, flat-footed 26 (dex +1, natural +18, size -2)
 HP: 147
-HD: 14d10+70
+hit_dice: 14d10+70
 saves: Fort +14, Ref +10, Will +9
 DR: 15/slashing
 weak: landbound

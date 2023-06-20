@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, superior optics
 AC: 25, touch 11, flat-footed 23 (dex +2, natural +14, size -1)
 HP: 112
 HP_extra: other force field (55 hp, fast healing 11)
-HD: 15d10+30
+hit_dice: 15d10+30
 saves: Fort +10, Ref +12, Will +10
 immune: construct traits
 defensive_abilities: hardness 10, resilient

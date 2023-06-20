@@ -22,7 +22,7 @@ aura: hopelessness, frightful presence
 AC: 46, touch 21, flat-footed 37 (dex +8, dodge +1, natural +15, profane +14, size -2)
 HP: 610
 HP_extra: regeneration 20; regeneration weakness mythic and epic or good
-HD: 33d10+429
+hit_dice: 33d10+429
 saves: Fort +24, Ref +26, Will +25
 immune: ability damage and drain, charm and compulsion effects, death effects, energy drain, fire, petrification, poison
 resist: acid 30, electricity 30

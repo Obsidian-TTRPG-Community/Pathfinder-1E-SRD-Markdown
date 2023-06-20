@@ -21,7 +21,7 @@ aura: virulence
 AC: 30, touch 14, flat-footed 24 (dex +5, dodge +1, natural +16, size -2)
 HP: 237
 HP_extra: regeneration 5; regeneration weakness cold
-HD: 19d10+133
+hit_dice: 19d10+133
 saves: Fort +18, Ref +16, Will +12
 immune: gaze attacks, mind-affecting effects, paralysis, poison, polymorph, sight-based effects, sleep effects, stunning, visual effects and illusions
 resist: fire 10

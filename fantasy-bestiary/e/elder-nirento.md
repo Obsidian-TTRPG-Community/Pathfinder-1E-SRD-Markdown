@@ -19,7 +19,7 @@ perception: +11
 senses: blindsight, low-light vision
 AC: 20, touch 10, flat-footed 18 (dex +2, natural +10, size -2)
 HP: 76
-HD: 9d8+36
+hit_dice: 9d8+36
 saves: Fort +10, Ref +7, Will +2
 immune: bludgeoning weapons, plant traits, sonic
 DR: 5/slashing

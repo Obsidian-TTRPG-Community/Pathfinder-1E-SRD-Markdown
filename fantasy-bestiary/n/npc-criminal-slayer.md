@@ -21,7 +21,7 @@ perception: +10
 AC: 18, touch 14, flat-footed 18 (armor +4, dex +4)
 HP: 63
 HP_extra: HD 9
-HD: 5d10+4d8+18
+hit_dice: 5d10+4d8+18
 saves: Fort +7, Ref +10, Will +1
 saves_other: +2 vs. poison
 defensive_abilities: uncanny dodge

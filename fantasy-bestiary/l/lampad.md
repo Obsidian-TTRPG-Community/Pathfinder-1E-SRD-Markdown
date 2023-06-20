@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: insane beauty
 AC: 20, touch 20, flat-footed 15 (deflection +5, dex +5)
 HP: 52
-HD: 7d6+28
+hit_dice: 7d6+28
 saves: Fort +6, Ref +10, Will +8
 DR: 5/cold iron
 speed: 30 ft.

@@ -21,7 +21,7 @@ INI: +7
 perception: +7
 AC: 18, touch 14, flat-footed 14 (armor +4, dex +3, dodge +1)
 HP: 20
-HD: 3d8+3
+hit_dice: 3d8+3
 saves: Fort +1, Ref +6, Will +2
 defensive_abilities: evasion, trap sense +1
 speed: 30 ft.

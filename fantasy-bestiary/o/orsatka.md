@@ -20,7 +20,7 @@ perception: +26
 senses: darkvision
 AC: 28, touch 16, flat-footed 22 (dex +6, natural +12)
 HP: 189
-HD: 14d10+112
+hit_dice: 14d10+112
 saves: Fort +17, Ref +15, Will +11
 DR: 15/good and piercing
 SR: 28

@@ -20,7 +20,7 @@ perception: +0
 senses: darkvision, tremorsense
 AC: 21, touch 10, flat-footed 20 (dex +1, natural +11, size -1)
 HP: 104
-HD: 11d8+55
+hit_dice: 11d8+55
 saves: Fort +12, Ref +4, Will +3
 immune: mind-affecting effects
 defensive_abilities: slow regeneration

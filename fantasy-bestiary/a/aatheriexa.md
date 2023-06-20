@@ -20,7 +20,7 @@ senses: all-around vision, darkvision, low-light vision, see invisibility
 aura: unnatural aura
 AC: 21, touch 15, flat-footed 16 (dex +5, natural +6)
 HP: 84
-HD: 13d8+26
+hit_dice: 13d8+26
 saves: Fort +6, Ref +9, Will +8
 immune: cold, disease, poison
 DR: 5/magic

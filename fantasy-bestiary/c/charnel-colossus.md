@@ -19,7 +19,7 @@ perception: +50
 senses: darkvision, see invisibility
 AC: 29, touch 1, flat-footed 29 (dex -1, natural +28, size -8)
 HP: 345
-HD: 30d8+210
+hit_dice: 30d8+210
 saves: Fort +19, Ref +11, Will +32
 immune: critical hits, precision damage, turning, undead traits
 DR: 15/magic and slashing

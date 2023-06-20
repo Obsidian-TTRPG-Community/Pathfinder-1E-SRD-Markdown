@@ -20,7 +20,7 @@ perception: +6
 senses: blindsense, keen scent
 AC: 17, touch 14, flat-footed 15 (dex +2, natural +3, size +2)
 HP: 76
-HD: 9d8+36
+hit_dice: 9d8+36
 saves: Fort +9, Ref +10, Will +4
 defensive_abilities: swarm traits
 speed: swim 40 ft.

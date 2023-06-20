@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: frightful presence
 AC: 22, touch 12, flat-footed 19 (dex +3, natural +10, size -1)
 HP: 114
-HD: 12d10+48
+hit_dice: 12d10+48
 saves: Fort +12, Ref +11, Will +6
 speed: 10 ft., fly 80 ft. (average)
 melee: bite +18 (2d6+6/19-20 plus 2d6 bleed), 2 talons +17 (1d6+6)

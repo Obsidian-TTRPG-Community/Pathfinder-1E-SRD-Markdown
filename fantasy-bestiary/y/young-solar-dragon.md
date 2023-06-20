@@ -20,7 +20,7 @@ perception: +15
 senses: dragon senses, see in darkness
 AC: 21, touch 11, flat-footed 19 (dex +2, natural +10, size -1)
 HP: 115
-HD: 11d12+44
+hit_dice: 11d12+44
 saves: Fort +10, Ref +11, Will +10
 immune: fire, paralysis, sleep
 speed: 50 ft., fly 200 ft. (poor)

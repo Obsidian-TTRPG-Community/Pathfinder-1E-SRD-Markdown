@@ -20,7 +20,7 @@ senses: all-around vision, blindsight, low-light vision, greater arcane sight, t
 AC: 33, touch 21, flat-footed 31 (armor +7, dex +2, insight +10, natural +5, size -1)
 HP: 270
 HP_extra: regeneration 10; regeneration weakness cold iron
-HD: 20d6+200
+hit_dice: 20d6+200
 saves: Fort +18, Ref +18, Will +21
 immune: cold
 resist: acid 30, electricity 30, fire 30

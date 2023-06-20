@@ -21,7 +21,7 @@ senses: darkvision, detect evil, see invisibility
 AC: 23, touch 13, flat-footed 20 (armor +6, dex +3, natural +4)
 HP: 123
 HP_extra: fast healing 5
-HD: 13d10+52
+hit_dice: 13d10+52
 saves: Fort +8, Ref +13, Will +14
 immune: bleed, mind-affecting effects, petrification, polymorph
 resist: acid 10, electricity 10, fire 10

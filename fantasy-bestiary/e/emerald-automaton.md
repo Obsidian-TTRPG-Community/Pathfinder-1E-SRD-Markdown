@@ -19,7 +19,7 @@ senses: darkvision, low-light vision
 aura: electricity
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 47
-HD: 5d10+20
+hit_dice: 5d10+20
 saves: Fort +1, Ref +2, Will +1
 immune: construct traits
 DR: 5/adamantine

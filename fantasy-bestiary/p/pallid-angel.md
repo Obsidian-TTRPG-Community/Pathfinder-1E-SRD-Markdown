@@ -21,7 +21,7 @@ senses: darkvision, detect good, detect magic, low-light vision
 aura: frightful presence
 AC: 25, touch 13, flat-footed 22 (dex +3, natural +12)
 HP: 150
-HD: 12d10+84
+hit_dice: 12d10+84
 saves: Fort +15, Ref +7, Will +11
 saves_other: +4 vs. poison
 immune: acid, cold, death effects, disease, energy drain, mind-affecting effects, petrification

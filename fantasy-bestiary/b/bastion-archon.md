@@ -22,7 +22,7 @@ aura: aura of menace, aura of mending
 AC: 36, touch 14, flat-footed 30 (dex +6, natural +22, size -2)
 HP: 350
 HP_extra: fast healing 5
-HD: 20d10+240
+hit_dice: 20d10+240
 saves: Fort +24, Ref +14, Will +19
 saves_other: +4 vs. poison
 immune: electricity, blindness, petrification

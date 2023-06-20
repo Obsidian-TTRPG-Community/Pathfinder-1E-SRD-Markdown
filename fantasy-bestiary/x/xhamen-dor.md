@@ -22,7 +22,7 @@ aura: unspeakable presence
 AC: 44, touch 26, flat-footed 34 (dex +10, insight +10, natural +18, size -4)
 HP: 602
 HP_extra: fast healing 20
-HD: 28d8+476
+hit_dice: 28d8+476
 saves: Fort +33, Ref +21, Will +20
 immune: ability damage, ability drain, aging, cold, death effects, disease, energy drain, mind-affecting effects, paralysis, petrification, plant traits, poison
 resist: acid 30, fire 30

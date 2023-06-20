@@ -21,7 +21,7 @@ senses: darkvision
 aura: gibber
 AC: 19, touch 17, flat-footed 16 (dex +3, natural +2, size +4)
 HP: 47
-HD: 5d10+20
+hit_dice: 5d10+20
 saves: Fort +7, Ref +9, Will +2
 immune: poison, swarm traits, weapon damage
 resist: fire 10, electricity 10

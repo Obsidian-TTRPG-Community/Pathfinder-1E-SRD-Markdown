@@ -22,7 +22,7 @@ perception: +12
 senses: low-light vision, see invisibility
 AC: 21, touch 12, flat-footed 21 (armor +8, deflection +2, dex -1, natural +1, size +1)
 HP: 134
-HD: 2d10+7d6+4d10+72
+hit_dice: 2d10+7d6+4d10+72
 saves: Fort +15, Ref +6, Will +13
 saves_other: +2 vs. illusions
 DR: 10/adamantine

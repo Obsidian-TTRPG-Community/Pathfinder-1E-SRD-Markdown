@@ -21,7 +21,7 @@ senses: blindsense, darkvision, low-light vision, smoke vision, x-ray vision
 AC: 27, touch 10, flat-footed 26 (dex +1, natural +17, size -1)
 HP: 165
 HP_extra: fast healing 5
-HD: 11d12+94
+hit_dice: 11d12+94
 saves: Fort +11, Ref +8, Will +10
 immune: dragon traits, fire, paralysis, sleep
 DR: 10/epic

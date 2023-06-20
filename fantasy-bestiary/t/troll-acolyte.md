@@ -23,7 +23,7 @@ senses: darkvision, low-light vision, scent
 AC: 17, touch 11, flat-footed 16 (deflection +1, dex +1, natural +6, size -1)
 HP: 92
 HP_extra: regeneration 5; regeneration weakness acid or fire
-HD: 8d8+56
+hit_dice: 8d8+56
 saves: Fort +15, Ref +3, Will +8
 speed: 30 ft.
 melee: bite +9 (1d8+5), 2 claws +10 (1d6+5)

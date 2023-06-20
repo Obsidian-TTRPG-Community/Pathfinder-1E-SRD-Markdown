@@ -21,7 +21,7 @@ aura: frightful presence
 AC: 42, touch 7, flat-footed 37 (dex +5, natural +35, size -8)
 HP: 525
 HP_extra: regeneration 30
-HD: 30d10+360
+hit_dice: 30d10+360
 saves: Fort +29, Ref +24, Will +22
 immune: ability damage, bleed, disease, energy drain, fire, mind-affecting effects, paralysis, permanent wounds, petrification, poison, polymorph, sonic
 DR: 15/epic

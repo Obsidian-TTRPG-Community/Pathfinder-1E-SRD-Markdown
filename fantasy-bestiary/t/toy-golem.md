@@ -22,7 +22,7 @@ senses: darkvision, low-light vision
 AC: 21, touch 11, flat-footed 19 (dex -1, dodge +2, natural +10)
 HP: 53
 HP_extra: other clockwork repair
-HD: 6d10+20
+hit_dice: 6d10+20
 saves: Fort +2, Ref +3, Will +2
 immune: construct traits, magic
 DR: 5/adamantine

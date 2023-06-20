@@ -19,7 +19,7 @@ perception: +8
 senses: blindsense, darkvision, scent
 AC: 16, touch 13, flat-footed 15 (dex +1, natural +3, size +2)
 HP: 11
-HD: 2d8+2
+hit_dice: 2d8+2
 saves: Fort +1, Ref +1, Will +4
 immune: sleep effects
 defensive_abilities: amorphous

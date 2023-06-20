@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, scent
 AC: 15, touch 13, flat-footed 11 (dex +4, natural +2, size -1)
 HP: 30
 HP_extra: regeneration 5; regeneration weakness fire
-HD: 4d8+12
+hit_dice: 4d8+12
 saves: Fort +7, Ref +5, Will +4
 weak: fear of fire, vulnerable to fire
 speed: 30 ft., climb 10 ft.

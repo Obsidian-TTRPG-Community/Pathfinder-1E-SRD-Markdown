@@ -21,7 +21,7 @@ senses: darkvision
 aura: fear
 AC: 20, touch 20, flat-footed 16 (deflection +4, dex +4, size +2)
 HP: 76
-HD: 9d8+36
+hit_dice: 9d8+36
 saves: Fort +7, Ref +7, Will +8
 immune: undead traits
 defensive_abilities: incorporeal

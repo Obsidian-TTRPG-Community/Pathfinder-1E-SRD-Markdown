@@ -19,7 +19,7 @@ INI: +6
 perception: +14
 AC: 22, touch 12, flat-footed 20 (dex +2, natural +10)
 HP: 85
-HD: 9d12+27
+hit_dice: 9d12+27
 saves: Fort +9, Ref +8, Will +8
 immune: acid, paralysis, sleep
 defensive_abilities: uncanny dodge

@@ -18,7 +18,7 @@ INI: +0
 senses: darkvision, tremorsense
 AC: 19, touch 9, flat-footed 19 (natural +10, size -1)
 HP: 60
-HD: 8d8+24
+hit_dice: 8d8+24
 saves: Fort +9, Ref +2, Will +2
 immune: mind-affecting effects
 speed: 30 ft., burrow 10 ft.

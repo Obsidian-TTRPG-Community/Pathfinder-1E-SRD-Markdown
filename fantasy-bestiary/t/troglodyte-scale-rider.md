@@ -24,7 +24,7 @@ aura: stench
 AC: 19, touch 12, flat-footed 17 (armor +1, dex +2, natural +6)
 HP: 69
 HP_extra: HD 7
-HD: 2d8+5d10+33
+hit_dice: 2d8+5d10+33
 saves: Fort +10, Ref +6, Will +2
 speed: 30 ft.
 melee: mwk club +10/+5 (1d6+3), bite +4 (1d4+1), claw +4 (1d4+1)

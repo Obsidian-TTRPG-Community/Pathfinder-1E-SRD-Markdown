@@ -21,7 +21,7 @@ senses: all-around vision, darkvision, low-light vision, scent, tremorsense
 AC: 33, touch 15, flat-footed 26 (dex +7, natural +18, size -2)
 HP: 333
 HP_extra: fast healing 10
-HD: 23d8+230
+hit_dice: 23d8+230
 saves: Fort +19, Ref +14, Will +15
 immune: blindness, charm effects, cold, deafness, ooze traits, sonic
 resist: acid 20, electricity 20, fire 20

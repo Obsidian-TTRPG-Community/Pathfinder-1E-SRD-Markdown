@@ -20,7 +20,7 @@ senses: darkvision, low-light vision, tremorsense
 AC: 20, touch 17, flat-footed 14 (dex +6, natural +3, size +1)
 HP: 85
 HP_extra: fast healing 5
-HD: 10d8+40
+hit_dice: 10d8+40
 saves: Fort +11, Ref +9, Will +8
 immune: plant traits
 speed: 40 ft., burrow 20 ft., climb 20 ft.

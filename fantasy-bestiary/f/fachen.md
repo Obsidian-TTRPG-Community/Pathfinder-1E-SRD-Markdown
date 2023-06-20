@@ -20,7 +20,7 @@ senses: darkvision
 aura: fear
 AC: 18, touch 14, flat-footed 14 (dex +1, dodge +3, natural +4)
 HP: 45
-HD: 7d8+14
+hit_dice: 7d8+14
 saves: Fort +4, Ref +3, Will +8
 speed: 30 ft.
 melee: battleaxe +10 (1d8+5/×3), bite +5 (1d6+2)

@@ -21,7 +21,7 @@ senses: blindsense, darkvision, see invisibility
 aura: hopedrinker
 AC: 34, touch 9, flat-footed 31 (dex +3, natural +25, size -4)
 HP: 379
-HD: 23d10+253
+hit_dice: 23d10+253
 saves: Fort +24, Ref +10, Will +22
 immune: electricity, poison
 resist: acid 20, cold 20, fire 20

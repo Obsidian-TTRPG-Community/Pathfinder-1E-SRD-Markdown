@@ -21,7 +21,7 @@ INI: +1
 perception: +23
 AC: 16, touch 11, flat-footed 15 (armor +5, dex +1)
 HP: 53
-HD: 10d8+5
+hit_dice: 10d8+5
 saves: Fort +6, Ref +9, Will +9
 saves_other: +4 vs. poison
 speed: 30 ft.

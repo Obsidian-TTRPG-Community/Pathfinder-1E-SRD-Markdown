@@ -19,7 +19,7 @@ perception: +14
 senses: blindsense
 AC: 19, touch 13, flat-footed 15 (dex +3, natural +6, size -1)
 HP: 58
-HD: 9d8+18
+hit_dice: 9d8+18
 saves: Fort +5, Ref +6, Will +8
 immune: undead traits
 speed: 20 ft., fly 40 ft. (good)

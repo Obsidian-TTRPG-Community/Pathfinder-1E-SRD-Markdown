@@ -19,7 +19,7 @@ perception: +15
 senses: darkvision, low-light vision, scent, tremorsense
 AC: 24, touch 8, flat-footed 24 (natural +16, size -2)
 HP: 138
-HD: 12d10+72
+hit_dice: 12d10+72
 saves: Fort +14, Ref +10, Will +5
 saves_other: +4 vs. mind-affecting effects
 resist: cold 20

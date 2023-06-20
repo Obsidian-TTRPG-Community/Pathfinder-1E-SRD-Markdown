@@ -19,7 +19,7 @@ INI: +6
 senses: all-around vision, darkvision, low-light vision
 AC: 24, touch 14, flat-footed 20 (dex +2, dodge +2, natural +10)
 HP: 91
-HD: 13d10+20
+hit_dice: 13d10+20
 saves: Fort +4, Ref +8, Will +3
 immune: construct traits
 DR: 10/bludgeoning

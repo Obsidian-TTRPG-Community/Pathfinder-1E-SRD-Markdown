@@ -20,7 +20,7 @@ senses: darkvision
 aura: demanding aura
 AC: 24, touch 14, flat-footed 20 (dex +4, natural +10)
 HP: 119
-HD: 14d8+56
+hit_dice: 14d8+56
 saves: Fort +9, Ref +8, Will +13
 immune: undead traits
 DR: 10/-

@@ -21,7 +21,7 @@ senses: blindsense, tremorsense
 aura: mirage
 AC: 24, touch 12, flat-footed 21 (dex +2, dodge +1, natural +12, size -1)
 HP: 123
-HD: 13d8+65
+hit_dice: 13d8+65
 saves: Fort +15, Ref +8, Will +4
 immune: plant traits
 resist: cold 10

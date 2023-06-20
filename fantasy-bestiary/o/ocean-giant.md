@@ -20,7 +20,7 @@ perception: +24
 senses: low-light vision
 AC: 28, touch 8, flat-footed 28 (natural +20, size -2)
 HP: 218
-HD: 19d8+133
+hit_dice: 19d8+133
 saves: Fort +18, Ref +8, Will +10
 resist: cold 30, electricity 30
 speed: 50 ft., swim 40 ft.

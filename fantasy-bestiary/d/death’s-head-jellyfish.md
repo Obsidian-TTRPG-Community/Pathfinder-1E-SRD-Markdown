@@ -20,7 +20,7 @@ perception: +0
 senses: darkvision
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 15
-HD: 2d8+6
+hit_dice: 2d8+6
 saves: Fort +6, Ref +3, Will +0
 immune: mind-affecting effects
 DR: 5/piercing or slashing

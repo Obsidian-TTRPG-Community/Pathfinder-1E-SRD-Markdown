@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 AC: 16, touch 14, flat-footed 14 (dex +2, natural +2, size +2)
 HP: 22
 HP_extra: fast healing 2
-HD: 3d10+6
+hit_dice: 3d10+6
 saves: Fort +5, Ref +5, Will +2
 immune: poison
 resist: acid 5, electricity 5

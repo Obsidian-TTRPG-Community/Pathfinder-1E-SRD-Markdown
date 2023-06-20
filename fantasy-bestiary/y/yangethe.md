@@ -19,7 +19,7 @@ perception: +19
 senses: blindsense, darkvision
 AC: 23, touch 13, flat-footed 19 (dex +4, natural +10, size -1)
 HP: 115
-HD: 11d8+66
+hit_dice: 11d8+66
 saves: Fort +9, Ref +9, Will +12
 immune: cold, fear, mind-affecting effects
 DR: 10/slashing or piercing

@@ -24,7 +24,7 @@ aura: stench
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 39
 HP_extra: HD 6
-HD: 2d8+4d6+16
+hit_dice: 2d8+4d6+16
 saves: Fort +7, Ref +3, Will +6
 saves_other: +2 vs. poison
 resist: electricity 5

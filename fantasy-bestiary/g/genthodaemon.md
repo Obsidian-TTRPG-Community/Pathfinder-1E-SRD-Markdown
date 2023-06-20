@@ -21,7 +21,7 @@ senses: darkvision
 aura: destruction
 AC: 18, touch 9, flat-footed 18 (natural +9, size -1)
 HP: 51
-HD: 6d10+18
+hit_dice: 6d10+18
 saves: Fort +8, Ref +5, Will +3
 immune: acid, death effects, disease, poison
 resist: cold 10, electricity 10, fire 10

@@ -20,7 +20,7 @@ perception: +18
 senses: blindsense, thoughtsense
 AC: 16, touch 12, flat-footed 16 (deflection +6, dex -4, natural +4)
 HP: 95
-HD: 10d10+40
+hit_dice: 10d10+40
 saves: Fort +13, Ref -1, Will +14
 immune: sensory effects
 defensive_abilities: psychic deflection

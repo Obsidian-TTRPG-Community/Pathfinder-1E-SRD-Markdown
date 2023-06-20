@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, spiritsense
 aura: eerie radiance
 AC: 22, touch 16, flat-footed 16 (dex +5, dodge +1, natural +6)
 HP: 104
-HD: 11d8+55
+hit_dice: 11d8+55
 saves: Fort +11, Ref +8, Will +12
 immune: charm, death effects, disease, fire, poison, spells with the light descriptor
 resist: cold 10, electricity 10

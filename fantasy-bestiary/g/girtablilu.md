@@ -19,7 +19,7 @@ perception: +14
 senses: darkvision, tremorsense
 AC: 22, touch 12, flat-footed 19 (armor +2, dex +2, dodge +1, natural +8, size -1)
 HP: 105
-HD: 10d10+50
+hit_dice: 10d10+50
 saves: Fort +8, Ref +11, Will +9
 speed: 50 ft.
 melee: mwk spear +15/+10 (1d8+7/×3), 2 claws +9 (1d6+2 plus grab), sting +9 (1d6+2 plus poison)

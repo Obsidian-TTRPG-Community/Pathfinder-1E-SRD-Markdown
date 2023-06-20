@@ -19,7 +19,7 @@ perception: +10
 senses: low-light vision, scent
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 22
-HD: 3d8+9
+hit_dice: 3d8+9
 saves: Fort +6, Ref +5, Will +2
 defensive_abilities: ferocity
 speed: 30 ft., burrow 10 ft.

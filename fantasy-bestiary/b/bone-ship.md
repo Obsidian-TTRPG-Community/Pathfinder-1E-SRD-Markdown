@@ -21,7 +21,7 @@ senses: darkvision
 aura: blood wake
 AC: 36, touch 6, flat-footed 32 (dex +3, natural +30, size -8)
 HP: 299
-HD: 26d8+182
+hit_dice: 26d8+182
 saves: Fort +17, Ref +14, Will +20
 immune: undead traits
 defensive_abilities: all-around vision, bound souls, channel resistance +4

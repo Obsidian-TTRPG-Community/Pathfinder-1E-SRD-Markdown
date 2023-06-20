@@ -20,7 +20,7 @@ senses: low-light vision, thoughtsense, tremorsense
 aura: supplication
 AC: 30, touch 14, flat-footed 24 (dex +6, natural +16, size -2)
 HP: 230
-HD: 20d8+140
+hit_dice: 20d8+140
 saves: Fort +19, Ref +12, Will +12
 immune: plant traits
 speed: 10 ft.

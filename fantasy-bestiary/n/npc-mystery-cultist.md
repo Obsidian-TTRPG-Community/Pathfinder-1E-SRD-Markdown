@@ -21,7 +21,7 @@ INI: +2
 perception: +3
 AC: 14, touch 13, flat-footed 11 (armor +1, dex +2, dodge +1)
 HP: 20
-HD: 3d8+3
+hit_dice: 3d8+3
 saves: Fort +3, Ref +3, Will +6
 speed: 30 ft.
 melee: mwk bladed scarf +5 (1d6+1)

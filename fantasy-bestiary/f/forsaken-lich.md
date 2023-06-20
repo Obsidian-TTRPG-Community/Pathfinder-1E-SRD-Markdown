@@ -23,7 +23,7 @@ senses: darkvision
 aura: delusory aura
 AC: 21, touch 11, flat-footed 21 (armor +7, deflection +1, natural +3)
 HP: 97
-HD: 11d8+44
+hit_dice: 11d8+44
 saves: Fort +7, Ref +3, Will +12
 immune: cold, electricity, undead traits
 DR: 15/bludgeoning and magic

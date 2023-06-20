@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 AC: 26, touch 8, flat-footed 26 (dex -1, natural +18, size -1)
 HP: 121
 HP_extra: fast healing 5
-HD: 14d10+44
+hit_dice: 14d10+44
 saves: Fort +4, Ref +3, Will +4
 immune: construct traits, fire, magic
 DR: 10/adamantine and good

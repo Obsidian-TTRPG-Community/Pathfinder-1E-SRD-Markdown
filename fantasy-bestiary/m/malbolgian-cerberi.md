@@ -20,7 +20,7 @@ perception: +23
 senses: darkvision, soul scent
 AC: 26, touch 10, flat-footed 25 (dex +1, natural +16, size -1)
 HP: 161
-HD: 14d10+84
+hit_dice: 14d10+84
 saves: Fort +15, Ref +10, Will +6
 speed: 30 ft.
 melee: 3 bites +20 (1d8+7 plus 1d8 fire plus cerberus's jaws)

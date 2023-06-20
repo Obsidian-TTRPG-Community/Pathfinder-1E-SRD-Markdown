@@ -20,7 +20,7 @@ perception: +12
 senses: darkvision, dreamsight, low-light vision, scent
 AC: 20, touch 15, flat-footed 14 (dex +6, natural +5, size -1)
 HP: 47
-HD: 5d10+20
+hit_dice: 5d10+20
 saves: Fort +8, Ref +10, Will +5
 resist: cold 5, fire 5
 DR: 5/magic

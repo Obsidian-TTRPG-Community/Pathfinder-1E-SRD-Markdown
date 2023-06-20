@@ -19,7 +19,7 @@ perception: +6
 senses: darkvision, scent
 AC: 14, touch 11, flat-footed 13 (dex +1, natural +3)
 HP: 9
-HD: 2d8
+hit_dice: 2d8
 saves: Fort +0, Ref +1, Will +4
 immune: undead traits
 speed: 30 ft., other_semicolon four-footed run ft.

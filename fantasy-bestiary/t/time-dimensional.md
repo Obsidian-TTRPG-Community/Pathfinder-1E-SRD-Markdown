@@ -21,7 +21,7 @@ senses: darkvision
 aura: temporal dilation
 AC: 30, touch 20, flat-footed 24 (dex +5, dodge +1, insight +5, natural +10, size -1)
 HP: 199
-HD: 19d10+95
+hit_dice: 19d10+95
 saves: Fort +13, Ref +18, Will +17
 immune: aging, bleed, critical hits, paralysis, poison, sleep, stunning
 resist: acid 10, cold 10, electricity 10, fire 10, sonic 10

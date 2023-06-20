@@ -24,7 +24,7 @@ aura: flaming body, unholy aura
 AC: 44, touch 17, flat-footed 40 (armor +11, deflection +4, dex +4, natural +16, size -1)
 HP: 542
 HP_extra: HD 25
-HD: 25d10+405
+hit_dice: 25d10+405
 saves: Fort +35, Ref +19, Will +24
 immune: electricity, fire, poison
 resist: acid 10, cold 10

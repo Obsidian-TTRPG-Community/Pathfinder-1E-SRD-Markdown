@@ -20,7 +20,7 @@ perception: +30
 senses: darkvision, discern next of kin, low-light vision, spiritsense, true seeing
 AC: 32, touch 30, flat-footed 22 (dex +10, insight +10, natural +2)
 HP: 275
-HD: 19d10+171
+hit_dice: 19d10+171
 saves: Fort +20, Ref +16, Will +19
 saves_other: +8 vs. mind-affecting effects
 immune: ability damage, ability drain, death effects, disease, energy drain, poison

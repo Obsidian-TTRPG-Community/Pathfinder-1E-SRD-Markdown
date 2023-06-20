@@ -20,7 +20,7 @@ senses: blindsense, darkvision, hive mind, tremorsense
 AC: 32, touch 6, flat-footed 32 (dex -3, natural +26, size -1)
 HP: 276
 HP_extra: fast healing 10
-HD: 24d10+144
+hit_dice: 24d10+144
 saves: Fort +15, Ref +13, Will +20
 resist: sonic 10
 DR: 10/-

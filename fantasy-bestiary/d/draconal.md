@@ -22,7 +22,7 @@ aura: protective aura
 AC: 36, touch 18, flat-footed 33 (dex +2, dodge +1, insight +6, natural +18, size -1)
 HP: 324
 HP_extra: regeneration 10; regeneration weakness evil weapons and spells
-HD: 24d10+192
+hit_dice: 24d10+192
 saves: Fort +22, Ref +16, Will +17
 saves_other: +4 vs. poison, +4 resistance vs. evil
 immune: one energy type (see Celestial Focus), electricity, petrification

@@ -21,7 +21,7 @@ senses: darkvision
 aura: stagnant
 AC: 8, touch 8, flat-footed 6 (dex +1, dodge +1, size -4)
 HP: 162
-HD: 13d10+91
+hit_dice: 13d10+91
 saves: Fort +11, Ref +9, Will +15
 immune: acid, elemental traits
 resist: cold 10, electricity 10, fire 10

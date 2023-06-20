@@ -22,7 +22,7 @@ aura: frightful presence
 AC: 34, touch 13, flat-footed 30 (dex +4, natural +25, size -1)
 HP: 340
 HP_extra: regeneration 10; regeneration weakness unarmed strikes or natural weapons
-HD: 20d10+230
+hit_dice: 20d10+230
 saves: Fort +16, Ref +16, Will +16
 resist: acid 10, cold 10, fire 10
 DR: 10/epic

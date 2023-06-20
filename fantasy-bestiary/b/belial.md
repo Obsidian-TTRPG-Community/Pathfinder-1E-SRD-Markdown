@@ -22,7 +22,7 @@ aura: baleful beauty, shield of law
 AC: 46, touch 35, flat-footed 37 (deflection +4, dex +8, dodge +1, natural +11, profane +12)
 HP: 676
 HP_extra: regeneration 30; regeneration weakness deific or mythic
-HD: 33d10+495
+hit_dice: 33d10+495
 saves: Fort +37, Ref +23, Will +31
 saves_other: +8 vs. mind-affecting effects
 immune: ability damage, ability drain, charm, compulsion, death effects, energy drain, fire, petrification, poison, polymorph effects

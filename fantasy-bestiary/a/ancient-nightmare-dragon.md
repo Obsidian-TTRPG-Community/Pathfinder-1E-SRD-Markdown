@@ -21,7 +21,7 @@ senses: darkvision, dreamsight, low-light vision, see in darkness
 aura: terrifying presence
 AC: 36, touch 7, flat-footed 36 (dex -1, natural +29, size -2)
 HP: 325
-HD: 21d12+189
+hit_dice: 21d12+189
 saves: Fort +21, Ref +11, Will +20
 immune: mind-affecting effects, paralysis, sleep
 DR: 5/magic

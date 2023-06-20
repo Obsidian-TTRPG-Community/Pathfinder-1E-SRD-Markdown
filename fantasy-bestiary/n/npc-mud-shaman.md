@@ -21,7 +21,7 @@ INI: +0
 perception: +13
 AC: 22, touch 10, flat-footed 22 (armor +7, natural +3, shield +2)
 HP: 69
-HD: 9d8+25
+hit_dice: 9d8+25
 saves: Fort +8, Ref +5, Will +11
 saves_other: +4 vs. fey and plant-targeted effects
 immune: poison

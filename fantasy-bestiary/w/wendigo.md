@@ -21,7 +21,7 @@ senses: blindsight, darkvision, low-light vision
 AC: 32, touch 18, flat-footed 23 (dex +9, natural +14, size -1)
 HP: 279
 HP_extra: regeneration 15; regeneration weakness fire
-HD: 18d10+180
+hit_dice: 18d10+180
 saves: Fort +21, Ref +22, Will +11
 immune: cold, fear
 DR: 15/cold iron and magic

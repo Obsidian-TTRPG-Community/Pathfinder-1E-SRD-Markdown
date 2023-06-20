@@ -19,7 +19,7 @@ perception: +11
 senses: darkvision, low-light vision
 AC: 18, touch 16, flat-footed 13 (dex +4, dodge +1, natural +2, size +1)
 HP: 57
-HD: 6d10+24
+hit_dice: 6d10+24
 saves: Fort +9, Ref +9, Will +4
 defensive_abilities: critical hits, flanking, effects that target a specific number of creatures
 speed: 30 ft., climb 15 ft., swim 15 ft.

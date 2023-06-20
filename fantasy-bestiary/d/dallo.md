@@ -19,7 +19,7 @@ perception: +6
 senses: darkvision, low-light vision, scent
 AC: 14, touch 11, flat-footed 14 (natural +3, size +1)
 HP: 13
-HD: 2d8+4
+hit_dice: 2d8+4
 saves: Fort +5, Ref +3, Will +3
 saves_other: +4 vs. ingested poisons
 speed: 20 ft., burrow 10 ft.

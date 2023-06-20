@@ -20,7 +20,7 @@ perception: +22
 senses: darkvision
 AC: 29, touch 15, flat-footed 24 (armor +4, dex +4, dodge +1, natural +10)
 HP: 241
-HD: 21d8+147
+hit_dice: 21d8+147
 saves: Fort +20, Ref +15, Will +10
 immune: poison
 defensive_abilities: troop traits

@@ -20,7 +20,7 @@ perception: +22
 senses: low-light vision
 AC: 26, touch 9, flat-footed 25 (armor +4, dex +1, natural +13, size -2)
 HP: 195
-HD: 17d8+119
+hit_dice: 17d8+119
 saves: Fort +12, Ref +6, Will +14
 speed: 50 ft.,  35 ft. in armor
 melee: mwk greatclub +24/+19/+14 (3d8+19), gore +18 (1d8+6)

@@ -22,7 +22,7 @@ aura: charming
 AC: 32, touch 20, flat-footed 27 (armor +6, deflection +6, dex +4, dodge +1, natural +6, size -1)
 HP: 189
 HP_extra: fast healing 5
-HD: 18d10+90
+hit_dice: 18d10+90
 saves: Fort +17, Ref +21, Will +25
 immune: fire, sonic
 resist: acid 30, electricity 30

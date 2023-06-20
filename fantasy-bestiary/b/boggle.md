@@ -21,7 +21,7 @@ senses: low-light vision
 aura: mindboggle
 AC: 21, touch 18, flat-footed 14 (dex +6, dodge +1, natural +3, size +1)
 HP: 102
-HD: 12d6+60
+hit_dice: 12d6+60
 saves: Fort +9, Ref +14, Will +9
 DR: 10/cold iron
 SR: 19

@@ -22,7 +22,7 @@ perception: +9
 senses: darkvision, low-light vision, magicscent
 AC: 20, touch 16, flat-footed 15 (armor +2, dex +5, natural +2, size +1)
 HP: 46
-HD: 5d8+20
+hit_dice: 5d8+20
 saves: Fort +4, Ref +9, Will +4
 DR: 5/magic
 defensive_abilities: evasion, trap sense +1, uncanny dodge

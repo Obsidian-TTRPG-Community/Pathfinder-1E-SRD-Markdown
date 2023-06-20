@@ -19,7 +19,7 @@ perception: +23
 senses: analyze aura, darkvision
 AC: 25, touch 19, flat-footed 17 (dex +7, dodge +1, natural +6, size +1)
 HP: 123
-HD: 13d8+65
+hit_dice: 13d8+65
 saves: Fort +9, Ref +11, Will +12
 immune: fire, mind-affecting effects
 resist: cold 20, electricity 20, sonic 20

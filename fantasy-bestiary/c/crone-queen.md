@@ -22,7 +22,7 @@ aura: fear aura
 AC: 30, touch 16, flat-footed 24 (armor +4, dex +5, dodge +1, natural +10)
 HP: 209
 HP_extra: fast healing 10
-HD: 22d8+110
+hit_dice: 22d8+110
 saves: Fort +13, Ref +14, Will +18
 immune: cold, undead traits
 DR: 10/cold iron and slashing

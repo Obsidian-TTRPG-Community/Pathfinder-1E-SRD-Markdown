@@ -22,7 +22,7 @@ aura: crew boss
 AC: 24, touch 14, flat-footed 20 (dex +3, dodge +1, natural +10)
 HP: 124
 HP_extra: other force field (65 hp, fast healing 13)
-HD: 16d10+36
+hit_dice: 16d10+36
 saves: Fort +5, Ref +10, Will +2
 immune: construct traits
 defensive_abilities: hardness 10

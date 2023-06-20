@@ -20,7 +20,7 @@ senses: low-light vision
 aura: discordant
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 19
-HD: 3d6+9
+hit_dice: 3d6+9
 saves: Fort +3, Ref +6, Will +2
 DR: 5/cold iron
 SR: 13

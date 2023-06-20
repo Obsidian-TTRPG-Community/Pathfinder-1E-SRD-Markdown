@@ -21,7 +21,7 @@ senses: darkvision
 aura: howl of agony, stench
 AC: 15, touch 11, flat-footed 14 (dex +1, natural +4)
 HP: 32
-HD: 5d8+10
+hit_dice: 5d8+10
 saves: Fort +2, Ref +4, Will +5
 immune: fire, undead traits
 weak: susceptible to water, vulnerable to cold

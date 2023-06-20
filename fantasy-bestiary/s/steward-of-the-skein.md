@@ -22,7 +22,7 @@ aura: fate
 AC: 31, touch 23, flat-footed 27 (deflection +4, dex +3, dodge +1, insight +5, natural +8)
 HP: 199
 HP_extra: fast healing 5
-HD: 19d10+95
+hit_dice: 19d10+95
 saves: Fort +15, Ref +20, Will +22
 immune: death effects, disease, electricity, mental control, poison, possession
 resist: cold 10, fire 10

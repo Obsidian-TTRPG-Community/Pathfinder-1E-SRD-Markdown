@@ -20,7 +20,7 @@ perception: +12
 senses: darkvision, scent
 AC: 17, touch 10, flat-footed 17 (natural +7)
 HP: 34
-HD: 4d8+16
+hit_dice: 4d8+16
 saves: Fort +4, Ref +3, Will +5
 immune: undead traits
 speed: 50 ft., climb 20 ft.
