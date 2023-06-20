@@ -20,7 +20,7 @@ perception: +9
 senses: darkvision, scent
 AC: 20, touch 11, flat-footed 18 (dex +2, natural +9, size -1)
 HP: 47
-HD: 5d10+20
+hit_dice: 5d10+20
 saves: Fort +5, Ref +6, Will +5
 speed: 30 ft., swim 40 ft.
 melee: mwk spear +7 (1d8+3/x3), 2 claws +6 (1d6+2)

@@ -19,7 +19,7 @@ perception: +16
 senses: darkvision, low-light vision, tremorsense
 AC: 29, touch 6, flat-footed 29 (dex -2, natural +23, size -2)
 HP: 218
-HD: 19d10+114
+hit_dice: 19d10+114
 saves: Fort +16, Ref +9, Will +11
 DR: 5/adamantine
 defensive_abilities: ferocity, hardened body

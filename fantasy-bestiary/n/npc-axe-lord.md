@@ -22,7 +22,7 @@ perception: +12
 aura: courage, faith, justice, resolve, righteousness
 AC: 26, touch 11, flat-footed 26 (armor +10, deflection +2, dex -1, natural +1, shield +4)
 HP: 183
-HD: 17d10+85
+hit_dice: 17d10+85
 saves: Fort +16, Ref +7, Will +15
 saves_other: +2 vs. poison, spells, and spell-like abilities
 immune: charm, compulsion, disease, fear, poison

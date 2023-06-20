@@ -19,7 +19,7 @@ perception: +9
 senses: darkvision, low-light vision, scent
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 73
-HD: 7d10+35
+hit_dice: 7d10+35
 saves: Fort +10, Ref +7, Will +5
 resist: energy 10, energy_other see genie-touched abilities
 speed: 60 ft.

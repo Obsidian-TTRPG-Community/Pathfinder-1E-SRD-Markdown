@@ -21,7 +21,7 @@ senses: darkvision
 aura: insolence
 AC: 20, touch 12, flat-footed 18 (armor +6, dex +2, natural +2)
 HP: 51
-HD: 6d10+18
+hit_dice: 6d10+18
 saves: Fort +8, Ref +7, Will +2
 immune: electricity, poison
 resist: acid 10, cold 10, fire 10

@@ -22,7 +22,7 @@ aura: broken ground
 AC: 21, touch 15, flat-footed 16 (dex +4, dodge +1, natural +6)
 HP: 104
 HP_extra: fast healing 5
-HD: 11d8+55
+hit_dice: 11d8+55
 saves: Fort +8, Ref +7, Will +11
 immune: electricity, undead traits
 resist: cold 10

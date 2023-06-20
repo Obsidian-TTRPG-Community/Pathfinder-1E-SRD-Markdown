@@ -20,7 +20,7 @@ perception: +0
 senses: darkvision
 AC: 15, touch 15, flat-footed 14 (dex +1, size +4)
 HP: 54
-HD: 12d8
+hit_dice: 12d8
 saves: Fort +8, Ref +5, Will +4
 immune: swarm traits, weapon damage
 speed: swim 20 ft.

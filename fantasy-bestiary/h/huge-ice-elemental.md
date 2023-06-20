@@ -20,7 +20,7 @@ perception: +13
 senses: darkvision, snow vision
 AC: 20, touch 12, flat-footed 16 (dex +3, dodge +1, natural +8, size -2)
 HP: 95
-HD: 10d10+40
+hit_dice: 10d10+40
 saves: Fort +11, Ref +10, Will +3
 immune: cold, elemental traits
 DR: 5/-

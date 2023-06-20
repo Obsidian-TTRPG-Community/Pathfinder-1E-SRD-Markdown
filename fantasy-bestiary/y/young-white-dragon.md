@@ -20,7 +20,7 @@ perception: +12
 senses: dragon senses, snow vision
 AC: 20, touch 12, flat-footed 18 (dex +2, natural +8)
 HP: 66
-HD: 7d12+21
+hit_dice: 7d12+21
 saves: Fort +8, Ref +7, Will +5
 immune: cold, paralysis, sleep
 weak: vulnerability to fire

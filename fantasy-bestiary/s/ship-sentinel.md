@@ -18,7 +18,7 @@ INI: +9
 senses: darkvision, low-light vision, ship sight
 AC: 20, touch 14, flat-footed 15 (dex +5, natural +6, size -1)
 HP: 68
-HD: 7d10+30
+hit_dice: 7d10+30
 saves: Fort +2, Ref +7, Will +8
 immune: construct traits
 DR: 5/slashing or piercing

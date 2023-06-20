@@ -21,7 +21,7 @@ aura: frightful presence
 AC: 37, touch 19, flat-footed 27 (dex +9, dodge +1, natural +18, size -1)
 HP: 396
 HP_extra: fast healing 15
-HD: 24d10+264
+hit_dice: 24d10+264
 saves: Fort +19, Ref +23, Will +20
 immune: ability damage, ability drain, aging, cold, death effects, disease, energy drain, fear effects, paralysis
 DR: 15/epic and good

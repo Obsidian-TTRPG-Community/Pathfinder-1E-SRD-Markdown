@@ -21,7 +21,7 @@ senses: blindsense, darkvision, arcane sight
 aura: energy channel
 AC: 27, touch 27, flat-footed 18 (deflection +8, dex +8, dodge +1)
 HP: 195
-HD: 17d10+102
+hit_dice: 17d10+102
 saves: Fort +18, Ref +13, Will +17
 saves_other: +2 vs. chaos/evil/good/law
 immune: poison

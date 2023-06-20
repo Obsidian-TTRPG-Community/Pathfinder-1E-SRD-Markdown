@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: blinding light
 AC: 27, touch 17, flat-footed 20 (armor +6, dex +7, natural +4)
 HP: 136
-HD: 16d6+80
+hit_dice: 16d6+80
 saves: Fort +10, Ref +17, Will +15
 immune: cold, poison
 DR: 10/cold iron

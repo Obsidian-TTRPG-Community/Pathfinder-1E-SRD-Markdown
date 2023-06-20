@@ -21,7 +21,7 @@ senses: darkvision, see in darkness
 AC: 17, touch 17, flat-footed 10 (dex +6, dodge +1)
 HP: 76
 HP_extra: fast healing 2
-HD: 8d10+32
+hit_dice: 8d10+32
 saves: Fort +10, Ref +8, Will +8
 immune: cold
 weak: light sensitivity

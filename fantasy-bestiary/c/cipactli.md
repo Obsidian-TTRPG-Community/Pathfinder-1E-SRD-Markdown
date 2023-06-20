@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, scent, tremorsense, true seeing
 AC: 37, touch 13, flat-footed 30 (dex +6, dodge +1, natural +24, size -4)
 HP: 402
 HP_extra: regeneration 20; regeneration weakness special
-HD: 23d10+276
+hit_dice: 23d10+276
 saves: Fort +25, Ref +19, Will +18
 saves_other: +8 vs. mind-affecting effects
 immune: disease, nonlethal damage, poison

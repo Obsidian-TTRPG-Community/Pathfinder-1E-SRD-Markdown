@@ -21,7 +21,7 @@ senses: blindsight, tremorsense
 AC: 33, touch 4, flat-footed 33 (dex -2, natural +29, size -4)
 HP: 301
 HP_extra: regeneration 10; regeneration weakness cold iron
-HD: 14d8+238
+hit_dice: 14d8+238
 saves: Fort +22, Ref +2, Will +15
 immune: cold, sonic, plant traits
 DR: 10/epic

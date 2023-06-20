@@ -19,7 +19,7 @@ perception: -5
 senses: blindsight, tremorsense
 AC: 2, touch 2, flat-footed 2 (size -8)
 HP: 184
-HD: 16d8+112
+hit_dice: 16d8+112
 saves: Fort +12, Ref +5, Will +0
 immune: acid, ooze traits
 resist: electricity 30, fire 30

@@ -20,7 +20,7 @@ perception: +4
 senses: darkvision, tremorsense
 AC: 16, touch 16, flat-footed 14 (dex +2, size +4)
 HP: 26
-HD: 4d8+8
+hit_dice: 4d8+8
 saves: Fort +6, Ref +3, Will +1
 defensive_abilities: swarm traits, Immune weapon damage
 weak: light sensitivity, swarm traits

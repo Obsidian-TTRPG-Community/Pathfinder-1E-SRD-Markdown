@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: putrefying aura
 AC: 17, touch 15, flat-footed 13 (dex +4, natural +2, size +1)
 HP: 60
-HD: 8d6+32
+hit_dice: 8d6+32
 saves: Fort +6, Ref +10, Will +7
 immune: disease, nausea, poison, sickened condition
 DR: 5/cold iron

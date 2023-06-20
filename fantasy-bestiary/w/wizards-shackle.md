@@ -20,7 +20,7 @@ perception: +6
 senses: arcane sight, blindsight
 AC: 12, touch 12, flat-footed 12 (size +2)
 HP: 9
-HD: 2d8
+hit_dice: 2d8
 saves: Fort +0, Ref +0, Will +4
 immune: disease, mind-affecting effects, poison
 defensive_abilities: host buffer

@@ -21,7 +21,7 @@ INI: -1
 perception: +5
 AC: 13, touch 9, flat-footed 13 (armor +4, dex -1)
 HP: 22
-HD: 3d10+6
+hit_dice: 3d10+6
 saves: Fort +3, Ref +0, Will +2
 speed: 30 ft.
 melee: mwk guisarme +7 (2d4+3/×3)

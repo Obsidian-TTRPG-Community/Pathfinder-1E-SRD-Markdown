@@ -22,7 +22,7 @@ aura: frightful presence (30 ft., DC 26),
 AC: 30, touch 20, flat-footed 18 (dex +11, dodge +1, natural +10, size -2)
 HP: 250
 HP_extra: fast healing 10
-HD: 20d8+160
+hit_dice: 20d8+160
 saves: Fort +14, Ref +17, Will +18
 immune: cold, charm effects, confusion and insanity effects
 resist: acid 20, fire 20

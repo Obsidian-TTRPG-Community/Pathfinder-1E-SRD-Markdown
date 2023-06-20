@@ -20,7 +20,7 @@ perception: +0
 senses: darkvision, tremorsense
 AC: 18, touch 14, flat-footed 14 (dex +4, natural +4)
 HP: 19
-HD: 3d8+6
+hit_dice: 3d8+6
 saves: Fort +5, Ref +5, Will +1
 immune: mind-affecting effects
 defensive_abilities: tube armor

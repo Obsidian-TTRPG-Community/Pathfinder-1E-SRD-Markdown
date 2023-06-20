@@ -20,7 +20,7 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 22, touch 10, flat-footed 21 (dex +1, natural +12, size -1)
 HP: 102
-HD: 12d10+36
+hit_dice: 12d10+36
 saves: Fort +11, Ref +11, Will +7
 immune: cold
 defensive_abilities: shell of ice

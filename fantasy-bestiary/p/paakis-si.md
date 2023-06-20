@@ -23,7 +23,7 @@ senses: darkvision, low-light vision, scent
 AC: 16, touch 14, flat-footed 12 (dex +4, natural +2)
 HP: 56
 HP_extra: HD 6
-HD: 3d8+3d10+27
+hit_dice: 3d8+3d10+27
 saves: Fort +8, Ref +10, Will +4
 speed: 40 ft.
 melee: +1 greatclub +13 (1d10+10)

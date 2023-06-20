@@ -20,7 +20,7 @@ senses: blindsight, darkvision, low-light vision
 AC: 18, touch 17, flat-footed 11 (dex +6, dodge +1, natural +1)
 HP: 53
 HP_extra: fast healing 2
-HD: 6d10+20
+hit_dice: 6d10+20
 saves: Fort +2, Ref +8, Will +4
 immune: blindness, gaze attacks, illusions of the pattern subschool, construct traits
 DR: 5/bludgeoning

@@ -19,7 +19,7 @@ perception: +19
 senses: darkvision, low-light vision, scent
 AC: 22, touch 16, flat-footed 16 (dex +6, natural +6)
 HP: 104
-HD: 11d10+44
+hit_dice: 11d10+44
 saves: Fort +7, Ref +13, Will +6
 immune: disease, magic missile
 speed: 20 ft., fly 60 ft. (good)

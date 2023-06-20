@@ -19,7 +19,7 @@ perception: +19
 senses: blindsight, lifesense
 AC: 27, touch 21, flat-footed 21 (deflection +5, dex +6, natural +6)
 HP: 161
-HD: 14d8+98
+hit_dice: 14d8+98
 saves: Fort +11, Ref +15, Will +11
 immune: acid, cold, death effects, energy drain, fear, negative energy, ooze traits
 DR: 10/good

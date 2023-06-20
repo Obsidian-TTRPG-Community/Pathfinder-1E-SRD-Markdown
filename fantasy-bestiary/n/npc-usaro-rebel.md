@@ -23,7 +23,7 @@ senses: darkvision, low-light vision, scent
 AC: 18, touch 14, flat-footed 16 (armor +2, deflection +1, dex +2, natural +2, size +1)
 HP: 64
 HP_extra: HD 8
-HD: 3d8+5d8+29
+hit_dice: 3d8+5d8+29
 saves: Fort +8, Ref +6, Will +8
 saves_other: +4 vs. fey and plant-targeted effects
 speed: 30 ft., climb 30 ft.

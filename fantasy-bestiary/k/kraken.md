@@ -20,7 +20,7 @@ perception: +28
 senses: darkvision, low-light vision
 AC: 32, touch 6, flat-footed 32 (natural +26, size -4)
 HP: 290
-HD: 20d10+180
+hit_dice: 20d10+180
 saves: Fort +21, Ref +12, Will +11
 immune: cold, mind-affecting effects, poison
 speed: 10 ft., swim 40 ft., jet 280 ft.

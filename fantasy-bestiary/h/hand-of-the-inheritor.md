@@ -22,7 +22,7 @@ aura: courage, protective aura
 AC: 32, touch 14, flat-footed 27 (dex +5, natural +14, shield +4, size -1, deflection vs. evil +4)
 HP: 207
 HP_extra: regeneration 10; regeneration weakness evil effects or weapons
-HD: 18d10+108
+hit_dice: 18d10+108
 saves: Fort +17, Ref +16, Will +13
 saves_other: +4 vs. poison, +4 resistance vs. evil
 immune: acid, cold, fear, petrification

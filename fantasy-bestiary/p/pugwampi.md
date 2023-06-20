@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: unluck
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 6
-HD: 1d6+3
+hit_dice: 1d6+3
 saves: Fort +0, Ref +3, Will +4
 DR: 2/cold iron
 SR: 7

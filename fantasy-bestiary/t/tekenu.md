@@ -19,7 +19,7 @@ perception: +6
 senses: lifesense
 AC: 16, touch 16, flat-footed 11 (dex +4, dodge +1, size +1)
 HP: 65
-HD: 10d8+20
+hit_dice: 10d8+20
 saves: Fort +5, Ref +7, Will +7
 immune: undead traits
 DR: 5/-

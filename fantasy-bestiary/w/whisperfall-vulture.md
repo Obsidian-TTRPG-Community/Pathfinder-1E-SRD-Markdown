@@ -19,7 +19,7 @@ perception: +13
 senses: low-light vision
 AC: 14, touch 13, flat-footed 12 (dex +2, natural +1, size +1)
 HP: 13
-HD: 2d8+4
+hit_dice: 2d8+4
 saves: Fort +5, Ref +5, Will +1
 speed: 10 ft., fly 60 ft. (good)
 melee: bite +3 (1d6+1)

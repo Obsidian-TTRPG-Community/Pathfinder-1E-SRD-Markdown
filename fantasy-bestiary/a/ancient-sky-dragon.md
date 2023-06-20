@@ -20,7 +20,7 @@ perception: +39
 senses: cloud sight, dragon senses
 AC: 38, touch 5, flat-footed 38 (dex -1, natural +33, size -4)
 HP: 348
-HD: 24d12+192
+hit_dice: 24d12+192
 saves: Fort +21, Ref +15, Will +23
 immune: electricity, paralysis, sleep
 DR: 15/magic

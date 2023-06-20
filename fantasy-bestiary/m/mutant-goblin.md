@@ -23,7 +23,7 @@ senses: darkvision
 AC: 16, touch 12, flat-footed 13 (dex +3, natural +4, rage -2, size +1)
 HP: 37
 HP_extra: fast healing 1
-HD: 3d12+12
+hit_dice: 3d12+12
 saves: Fort +7, Ref +4, Will +4
 saves_other: +2 vs. magic
 defensive_abilities: trap sense +1, uncanny dodge

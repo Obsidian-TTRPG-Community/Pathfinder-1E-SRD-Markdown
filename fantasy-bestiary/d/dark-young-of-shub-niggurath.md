@@ -20,7 +20,7 @@ senses: darkvision, tremorsense
 aura: frightful presence
 AC: 27, touch 11, flat-footed 24 (dex +3, natural +16, size -2)
 HP: 161
-HD: 14d8+98
+hit_dice: 14d8+98
 saves: Fort +11, Ref +9, Will +13
 immune: acid, electricity, fire, poison
 DR: 15/slashing

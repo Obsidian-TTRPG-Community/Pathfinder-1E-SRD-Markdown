@@ -20,7 +20,7 @@ perception: +2
 senses: darkvision
 AC: 18, touch 16, flat-footed 12 (dex +5, dodge +1, natural +2)
 HP: 85
-HD: 9d10+36
+hit_dice: 9d10+36
 saves: Fort +6, Ref +11, Will +10
 defensive_abilities: troop traits
 weak: light blindness

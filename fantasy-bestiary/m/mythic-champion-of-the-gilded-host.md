@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 aura: blazing courage, selective antimagic
 AC: 32, touch 3, flat-footed 31 (dex +1, natural +29, size -8)
 HP: 273
-HD: 19d10+169
+hit_dice: 19d10+169
 saves: Fort +6, Ref +7, Will +7
 immune: construct traits
 DR: 10/epic

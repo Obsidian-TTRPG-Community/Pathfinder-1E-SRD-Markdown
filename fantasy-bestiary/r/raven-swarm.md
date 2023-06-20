@@ -20,7 +20,7 @@ perception: +11
 senses: low-light vision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 27
-HD: 5d8+5
+hit_dice: 5d8+5
 saves: Fort +5, Ref +8, Will +3
 defensive_abilities: swarm traits
 speed: 10 ft., fly 40 ft. (average)

@@ -19,7 +19,7 @@ perception: +7
 senses: darkvision
 AC: 18, touch 14, flat-footed 15 (dex +3, natural +4, size +1)
 HP: 9
-HD: 2d8
+hit_dice: 2d8
 saves: Fort +0, Ref +3, Will +5
 speed: 5 ft., fly 20 ft. (perfect)
 melee: sting +5 (1d4 plus acid injection)

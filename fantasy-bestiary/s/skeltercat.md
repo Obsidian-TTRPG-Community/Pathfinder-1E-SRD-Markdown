@@ -20,7 +20,7 @@ perception: +5
 senses: darkvision, low-light vision, scent
 AC: 17, touch 15, flat-footed 12 (dex +4, dodge +1, natural +2)
 HP: 37
-HD: 5d10+10
+hit_dice: 5d10+10
 saves: Fort +6, Ref +8, Will +4
 defensive_abilities: mixed mind
 speed: 40 ft.

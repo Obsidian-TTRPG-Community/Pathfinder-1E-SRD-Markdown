@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, tremorsense, x-ray vision
 aura: frightful presence, selective antimagic aura
 AC: 31, touch 7, flat-footed 30 (dex +1, natural +24, size -4)
 HP: 199
-HD: 18d10+100
+hit_dice: 18d10+100
 saves: Fort +6, Ref +9, Will +10
 immune: construct traits
 DR: 10/epic

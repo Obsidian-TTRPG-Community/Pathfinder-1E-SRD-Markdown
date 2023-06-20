@@ -20,7 +20,7 @@ perception: +6
 senses: blindsense, darkvision
 AC: 15, touch 13, flat-footed 12 (dex +3, natural +2)
 HP: 15
-HD: 2d10+4
+hit_dice: 2d10+4
 saves: Fort +4, Ref +6, Will +4
 speed: 30 ft., swim 60 ft.
 melee: 1 spear +4 (1d8+3/×3)

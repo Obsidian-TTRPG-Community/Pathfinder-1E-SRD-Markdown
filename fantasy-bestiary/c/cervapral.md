@@ -20,7 +20,7 @@ perception: +13
 senses: darkvision, enchantment sense, scent
 AC: 18, touch 14, flat-footed 14 (dex +4, natural +4)
 HP: 51
-HD: 6d10+18
+hit_dice: 6d10+18
 saves: Fort +5, Ref +9, Will +7
 saves_other: +4 vs. poison
 immune: electricity, petrification

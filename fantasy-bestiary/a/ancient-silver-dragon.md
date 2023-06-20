@@ -21,7 +21,7 @@ senses: dragon senses, fog vision
 aura: cold, frightful presence
 AC: 38, touch 5, flat-footed 38 (dex -1, natural +33, size -4)
 HP: 337
-HD: 25d12+175
+hit_dice: 25d12+175
 saves: Fort +21, Ref +15, Will +23
 immune: acid, cold, paralysis, sleep
 DR: 15/magic

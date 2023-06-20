@@ -23,7 +23,7 @@ senses: low-light vision
 AC: 32, touch 17, flat-footed 27 (armor +5, deflection +4, dex +4, dodge +1, natural +10, size -2)
 HP: 312
 HP_extra: HD 25
-HD: 15d8+10d8+200
+hit_dice: 15d8+10d8+200
 saves: Fort +26, Ref +16, Will +19
 saves_other: +4 vs. movement effects
 immune: enchantment and illusion spells, petrification

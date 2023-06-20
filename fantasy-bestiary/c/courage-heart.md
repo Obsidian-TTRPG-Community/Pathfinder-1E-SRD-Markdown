@@ -22,7 +22,7 @@ aura: rebellious aura
 AC: 30, touch 13, flat-footed 27 (armor +10, dex +3, natural +7)
 HP: 195
 HP_extra: fast healing 10
-HD: 17d10+102
+hit_dice: 17d10+102
 saves: Fort +18, Ref +18, Will +14
 immune: fear
 resist: acid 20, cold 20, electricity 20, fire 20

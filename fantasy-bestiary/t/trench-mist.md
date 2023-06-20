@@ -21,7 +21,7 @@ senses: darkvision, lifesense
 AC: 12, touch 12, flat-footed 6 (dex +5, dodge +1, size -4)
 HP: 127
 HP_extra: fast healing 5
-HD: 15d8+60
+hit_dice: 15d8+60
 saves: Fort +8, Ref +10, Will +10
 immune: acid, electricity, sonic
 DR: 10/magic

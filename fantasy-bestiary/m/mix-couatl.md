@@ -20,7 +20,7 @@ perception: +20
 senses: darkvision, detect chaos/evil/good/law, see in darkness
 AC: 21, touch 13, flat-footed 17 (dex +4, natural +8, size -1)
 HP: 95
-HD: 10d10+40
+hit_dice: 10d10+40
 saves: Fort +7, Ref +11, Will +12
 speed: 20 ft., fly 60 ft. (good)
 melee: bite +14 (1d8+6 plus grab and poison)

@@ -21,7 +21,7 @@ senses: blindsight, surrogate senses
 AC: 38, touch 6, flat-footed 38 (natural +32, size -4)
 HP: 471
 HP_extra: regeneration 10; regeneration weakness good
-HD: 23d10+345
+hit_dice: 23d10+345
 saves: Fort +28, Ref +9, Will +24
 immune: disease, electricity, mindaffecting effects, poison, sonic
 DR: 15/epic and lawful

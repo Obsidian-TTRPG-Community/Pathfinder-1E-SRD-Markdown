@@ -20,7 +20,7 @@ perception: +20
 senses: darkvision, true seeing
 AC: 24, touch 24, flat-footed 16 (deflection +6, dex +7, dodge +1)
 HP: 152
-HD: 16d10+64
+hit_dice: 16d10+64
 saves: Fort +14, Ref +12, Will +12
 defensive_abilities: incorporeal
 speed: fly 60 ft. (perfect)

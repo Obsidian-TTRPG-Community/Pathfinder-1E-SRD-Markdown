@@ -21,7 +21,7 @@ senses: darkvision 60 ft. true seeing
 aura: cosmic fire
 AC: 41, touch 41, flat-footed 32 (deflection +8, dex +7, dodge +2, size -1, soul armor +15)
 HP: 404
-HD: 24d10+272
+hit_dice: 24d10+272
 saves: Fort +16, Ref +21, Will +23
 saves_other: +2 vs. enchantment
 immune: calling, disease, poison

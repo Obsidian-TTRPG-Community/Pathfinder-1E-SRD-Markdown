@@ -20,7 +20,7 @@ perception: +15
 senses: darkvision, low-light vision, scent
 AC: 19, touch 19, flat-footed 13 (deflection +3, dex +6)
 HP: 85
-HD: 10d8+4
+hit_dice: 10d8+4
 saves: Fort +6, Ref +11, Will +9
 immune: cold, undead traits
 DR: 10/silver

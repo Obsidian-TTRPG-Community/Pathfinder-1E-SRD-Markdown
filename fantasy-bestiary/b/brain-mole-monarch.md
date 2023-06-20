@@ -19,7 +19,7 @@ perception: +8
 senses: darkvision, low-light vision, scent, second sight, tremorsense
 AC: 16, touch 14, flat-footed 14 (dex +2, natural +2, size +2)
 HP: 45
-HD: 6d10+12
+hit_dice: 6d10+12
 saves: Fort +7, Ref +7, Will +7
 defensive_abilities: shrouded mind
 speed: 10 ft., fly 20 ft. (perfect), burrow 20 ft.

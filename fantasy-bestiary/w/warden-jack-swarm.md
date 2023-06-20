@@ -19,7 +19,7 @@ INI: +2
 senses: darkvision, low-light vision, tremorsense
 AC: 21, touch 20, flat-footed 19 (dex +2, natural +1, size +8)
 HP: 27
-HD: 5d10
+hit_dice: 5d10
 saves: Fort +1, Ref +3, Will +1
 immune: construct traits, weapon damage, swarm traits
 speed: 40 ft.

@@ -20,7 +20,7 @@ perception: +22
 AC: 22, touch 13, flat-footed 20 (armor +9, dex +2, profane +1)
 HP: 114
 HP_extra: fast healing 5
-HD: 12d8+60
+hit_dice: 12d8+60
 saves: Fort +10, Ref +6, Will +14
 defensive_abilities: judgment of protection, troop traits
 speed: 20 ft.

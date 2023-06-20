@@ -22,7 +22,7 @@ perception: +2
 senses: darkvision
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 8
-HD: 1d6+2
+hit_dice: 1d6+2
 saves: Fort +1, Ref +3, Will +1
 saves_other: +2 vs. shadow spells
 speed: 20 ft.

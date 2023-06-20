@@ -20,7 +20,7 @@ perception: +17
 senses: darkvision, low-light vision, scent
 AC: 21, touch 21, flat-footed 14 (deflection +4, dex +6, dodge +1)
 HP: 110
-HD: 13d10+39
+hit_dice: 13d10+39
 saves: Fort +11, Ref +14, Will +7
 DR: 10/cold iron
 defensive_abilities: incorporeal

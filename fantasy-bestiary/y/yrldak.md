@@ -22,7 +22,7 @@ senses: low-light vision, true seeing
 AC: 24, touch 15, flat-footed 23 (armor +6, dex +1, insight +5, natural +3, size -1)
 HP: 138
 HP_extra: regeneration 5; regeneration weakness cold iron
-HD: 12d6+96
+hit_dice: 12d6+96
 saves: Fort +14, Ref +11, Will +14
 immune: cold
 resist: acid 15, electricity 15, fire 15

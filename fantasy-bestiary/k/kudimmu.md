@@ -20,7 +20,7 @@ senses: low-light vision, tremorsense
 AC: 31, touch 15, flat-footed 25 (dex +6, natural +16, size -1)
 HP: 252
 HP_extra: fast healing 15
-HD: 24d8+144
+hit_dice: 24d8+144
 saves: Fort +20, Ref +14, Will +15
 immune: death effects, energy drain, negative energy, plant traits
 resist: cold 10, fire 10

@@ -18,7 +18,7 @@ INI: +1
 senses: blindsense
 AC: 15, touch 12, flat-footed 14 (dex +1, natural +3, size +1)
 HP: 34
-HD: 4d8+16
+hit_dice: 4d8+16
 saves: Fort +8, Ref +2, Will +1
 immune: mind-affecting effects
 speed: 20 ft.

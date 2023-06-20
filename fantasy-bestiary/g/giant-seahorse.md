@@ -20,7 +20,7 @@ perception: +11
 senses: low-light vision
 AC: 15, touch 11, flat-footed 13 (armor +4, dex +2, size -1)
 HP: 30
-HD: 4d8+12
+hit_dice: 4d8+12
 saves: Fort +7, Ref +6, Will +2
 defensive_abilities: anchor
 speed: swim 30 ft.

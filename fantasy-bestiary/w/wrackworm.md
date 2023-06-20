@@ -21,7 +21,7 @@ senses: blindsight, darkvision
 AC: 37, touch 7, flat-footed 32 (dex +5, natural +30, size -8)
 HP: 362
 HP_extra: fast healing 20
-HD: 25d10+225
+hit_dice: 25d10+225
 saves: Fort +19, Ref +21, Will +21
 immune: ability damage, ability drain, acid, disease, mind-affecting effects, poison
 DR: 15/adamantine and lawful

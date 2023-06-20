@@ -22,7 +22,7 @@ perception: +0
 senses: darkvision
 AC: 24, touch 11, flat-footed 24 (armor +9, deflection +1, natural +1, shield +3)
 HP: 141
-HD: 13d10+65
+hit_dice: 13d10+65
 saves: Fort +13, Ref +6, Will +8
 defensive_abilities: greater resolve, honorable stand 1/day, resolve 7/day
 speed: 20 ft.

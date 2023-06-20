@@ -20,7 +20,7 @@ senses: blindsight, darkvision
 aura: impossible form
 AC: 29, touch 11, flat-footed 26 (dex +3, natural +18, size -2)
 HP: 231
-HD: 22d8+132
+hit_dice: 22d8+132
 saves: Fort +14, Ref +10, Will +17
 saves_other: +6 vs. illusion
 DR: 10/magic

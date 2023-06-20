@@ -23,7 +23,7 @@ senses: low-light vision
 AC: 25, touch 8, flat-footed 23 (armor +4, dex +2, natural +13, rage -2, size -2)
 HP: 368
 HP_extra: HD 23
-HD: 17d8+6d12+253
+hit_dice: 17d8+6d12+253
 saves: Fort +21, Ref +11, Will +19
 defensive_abilities: improved uncanny dodge, trap sense +2
 speed: 60 ft.

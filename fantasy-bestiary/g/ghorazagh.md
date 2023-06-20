@@ -19,7 +19,7 @@ perception: +21
 senses: bloodsense, darkvision
 AC: 26, touch 12, flat-footed 23 (dex +3, natural +14, size -1)
 HP: 187
-HD: 15d8+120
+hit_dice: 15d8+120
 saves: Fort +15, Ref +10, Will +12
 weak: vulnerable to sonic
 speed: 40 ft., fly 40 ft. (perfect), climb 40 ft.

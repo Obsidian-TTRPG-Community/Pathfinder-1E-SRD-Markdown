@@ -20,7 +20,7 @@ perception: +36
 senses: blindsense, detect law
 AC: 37, touch 23, flat-footed 31 (deflection +8, dex +6, natural +14, size -1)
 HP: 364
-HD: 27d8+243
+hit_dice: 27d8+243
 saves: Fort +18, Ref +23, Will +21
 immune: aging effects, cold, disease, mind-affecting effects, petrification, poison
 resist: fire 30

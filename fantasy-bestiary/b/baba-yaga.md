@@ -23,7 +23,7 @@ senses: arcane sight, darkvision, see invisibility
 AC: 51, touch 31, flat-footed 46 (armor +13, deflection +5, dex +5, insight +11, natural +7)
 HP: 782
 HP_extra: regeneration 20
-HD: 20d6+710
+hit_dice: 20d6+710
 saves: Fort +30, Ref +27, Will +35
 immune: ability damage and drain, charm and compulsion effects, death effects, disease, energy drain, petrification, poison, all forms of madness
 DR: 10/epic and good

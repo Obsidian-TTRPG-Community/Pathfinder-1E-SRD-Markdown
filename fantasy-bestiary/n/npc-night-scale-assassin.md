@@ -23,7 +23,7 @@ senses: low-light vision
 AC: 17, touch 13, flat-footed 14 (armor +4, dex +3)
 HP: 34
 HP_extra: HD 6
-HD: 5d8+1d4+6
+hit_dice: 5d8+1d4+6
 saves: Fort +2, Ref +7, Will +1
 saves_other: +2 vs. enchantments
 defensive_abilities: evasion, trap sense +1, uncanny dodge

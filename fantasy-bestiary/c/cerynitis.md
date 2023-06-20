@@ -20,7 +20,7 @@ senses: darkvision, low-light vision, scent, see invisibility
 AC: 25, touch 24, flat-footed 14 (dex +10, dodge +1, natural +1, sacred +4, size -1)
 HP: 76
 HP_extra: fast healing 5
-HD: 9d10+27
+hit_dice: 9d10+27
 saves: Fort +9, Ref +16, Will +8
 defensive_abilities: freedom, sacred grace, uncanny dodge, unearthly speed
 speed: 180 ft.

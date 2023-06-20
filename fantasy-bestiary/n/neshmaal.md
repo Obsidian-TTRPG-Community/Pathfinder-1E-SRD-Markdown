@@ -21,7 +21,7 @@ senses: darkvision
 aura: alien dread
 AC: 24, touch 24, flat-footed 16 (deflection +7, dex +7, dodge +1, size -1)
 HP: 149
-HD: 13d10+78
+hit_dice: 13d10+78
 saves: Fort +14, Ref +11, Will +12
 immune: cold
 resist: electricity 10, fire 10

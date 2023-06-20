@@ -22,7 +22,7 @@ aura: cloak of chaos
 AC: 44, touch 32, flat-footed 31 (armor +12, deflection +9, dex +12, dodge +1)
 HP: 546
 HP_extra: regeneration 15; regeneration weakness lawful
-HD: 28d10+392
+hit_dice: 28d10+392
 saves: Fort +34, Ref +27, Will +31
 immune: cold, death effects, mind-affecting effects, poison
 resist: acid 30, electricity 30, fire 30

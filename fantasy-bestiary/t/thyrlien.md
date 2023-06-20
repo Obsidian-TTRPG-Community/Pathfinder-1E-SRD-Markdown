@@ -21,7 +21,7 @@ senses: darkvision, detect evil, detect magic, low-light vision
 AC: 16, touch 13, flat-footed 14 (dex +2, natural +3, size +1)
 HP: 39
 HP_extra: fast healing 1; fast healing weakness see below
-HD: 6d10+6
+hit_dice: 6d10+6
 saves: Fort +3, Ref +7, Will +7
 saves_other: +4 vs. poison
 immune: electricity, petrification

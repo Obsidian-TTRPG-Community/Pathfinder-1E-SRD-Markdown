@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 AC: 22, touch 13, flat-footed 18 (dex +3, dodge +1, natural +9, size -1)
 HP: 67
 HP_extra: fast healing 5
-HD: 9d8+27
+hit_dice: 9d8+27
 saves: Fort +8, Ref +9, Will +12
 saves_other: +4 vs. mind-affecting effects
 resist: cold 10, electricity 10

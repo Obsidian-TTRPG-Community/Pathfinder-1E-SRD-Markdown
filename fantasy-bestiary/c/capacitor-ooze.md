@@ -20,7 +20,7 @@ senses: blindsight
 aura: osmotic drain
 AC: 5, touch 5, flat-footed 5 (dex -5)
 HP: 195
-HD: 17d8+119
+hit_dice: 17d8+119
 saves: Fort +12, Ref +0, Will +0
 immune: electricity, ooze traits
 defensive_abilities: electrified

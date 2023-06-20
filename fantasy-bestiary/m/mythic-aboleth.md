@@ -21,7 +21,7 @@ senses: darkvision
 aura: mucus cloud
 AC: 23, touch 9, flat-footed 22 (dex +1, natural +14, size -2)
 HP: 118
-HD: 9d8+78
+hit_dice: 9d8+78
 saves: Fort +9, Ref +6, Will +11
 DR: 5/epic
 speed: 10 ft., swim 60 ft.

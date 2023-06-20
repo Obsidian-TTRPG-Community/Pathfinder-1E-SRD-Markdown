@@ -19,7 +19,7 @@ perception: +1
 senses: low-light vision, blood sense
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 4
-HD: 1d8
+hit_dice: 1d8
 saves: Fort +2, Ref +1, Will +1
 immune: plant traits
 speed: 15 ft., climb 15 ft.

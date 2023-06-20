@@ -20,7 +20,7 @@ perception: +9
 senses: darkvision
 AC: 21, touch 16, flat-footed 17 (dex +3, dodge +1, wis +3, natural +5, size -1)
 HP: 35
-HD: 3d8+18
+hit_dice: 3d8+18
 saves: Fort +8, Ref +6, Will +6
 saves_other: +2 vs. enchantments, +4 vs. mind-affecting
 DR: 10/silver

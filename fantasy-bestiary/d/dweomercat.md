@@ -19,7 +19,7 @@ perception: +16
 senses: darkvision, scent
 AC: 23, touch 17, flat-footed 16 (dex +6, dodge +1, natural +6)
 HP: 85
-HD: 10d10+30
+hit_dice: 10d10+30
 saves: Fort +10, Ref +13, Will +6
 DR: 5/magic
 SR: 19

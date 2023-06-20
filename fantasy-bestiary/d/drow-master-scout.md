@@ -22,7 +22,7 @@ perception: +14
 senses: darkvision
 AC: 19, touch 15, flat-footed 15 (armor +4, deflection +1, dex +4)
 HP: 55
-HD: 8d8+16
+hit_dice: 8d8+16
 saves: Fort +3, Ref +10, Will +3
 saves_other: +2 vs. enchantment
 immune: sleep

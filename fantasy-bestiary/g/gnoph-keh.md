@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, snow vision
 aura: cold
 AC: 25, touch 10, flat-footed 24 (dex +1, natural +15, size -1)
 HP: 147
-HD: 14d10+70
+hit_dice: 14d10+70
 saves: Fort +14, Ref +12, Will +11
 immune: cold
 weak: heat susceptible, vulnerable to fire

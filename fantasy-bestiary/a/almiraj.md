@@ -19,7 +19,7 @@ perception: +4
 senses: darkvision, low-light vision, scent
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 13
-HD: 2d10+2
+hit_dice: 2d10+2
 saves: Fort +4, Ref +5, Will +0
 saves_other: -2 vs. witch hexes
 speed: 30 ft., burrow 10 ft.

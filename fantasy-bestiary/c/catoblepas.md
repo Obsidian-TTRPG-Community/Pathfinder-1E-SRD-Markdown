@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: stench
 AC: 27, touch 8, flat-footed 27 (dex -1, natural +19, size -1)
 HP: 161
-HD: 14d10+84
+hit_dice: 14d10+84
 saves: Fort +15, Ref +8, Will +8
 SR: 23
 speed: 40 ft., swim 20 ft.

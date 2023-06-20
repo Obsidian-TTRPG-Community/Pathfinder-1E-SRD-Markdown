@@ -23,7 +23,7 @@ senses: darkvision, scent
 AC: 22, touch 15, flat-footed 20 (dex +2, monk +1, wis +3, natural +7, size -1)
 HP: 93
 HP_extra: HD 11
-HD: 6d10+5d8+38
+hit_dice: 6d10+5d8+38
 saves: Fort +11, Ref +11, Will +12
 saves_other: +2 vs. enchantments
 immune: cold, disease

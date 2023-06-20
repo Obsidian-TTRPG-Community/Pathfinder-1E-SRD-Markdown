@@ -20,7 +20,7 @@ senses: darkvision
 aura: jabber
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 9
-HD: 2d8
+hit_dice: 2d8
 saves: Fort +0, Ref +4, Will +4
 speed: 10 ft., fly 60 ft. (good)
 melee: bite +1 (1d3-2)

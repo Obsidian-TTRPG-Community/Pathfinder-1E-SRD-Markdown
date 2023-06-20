@@ -19,7 +19,7 @@ INI: +2
 senses: blindsense, blingsight, hibe mind
 AC: 20, touch 20, flat-footed 18 (dex +2, size +8)
 HP: 52
-HD: 7d8+21
+hit_dice: 7d8+21
 saves: Fort +5, Ref +4, Will +5
 immune: acid, mind-affecting effects, weapon damage
 defensive_abilities: corrosive blood (1d4), heat adaptability, swarm traits

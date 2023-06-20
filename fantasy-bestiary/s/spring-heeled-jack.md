@@ -19,7 +19,7 @@ perception: +7
 senses: low-light vision
 AC: 16, touch 16, flat-footed 11 (dex +5, size +1)
 HP: 26
-HD: 4d6+12
+hit_dice: 4d6+12
 saves: Fort +3, Ref +9, Will +4
 speed: 40 ft.
 melee: mwk dagger +9 (1d3+2/19-20)

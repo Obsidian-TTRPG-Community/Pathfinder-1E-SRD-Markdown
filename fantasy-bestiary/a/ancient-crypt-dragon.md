@@ -21,7 +21,7 @@ senses: dragon senses
 aura: frightful presence
 AC: 40, touch 5, flat-footed 40 (dex -1, natural +35, size -4)
 HP: 406
-HD: 28d12+224
+hit_dice: 28d12+224
 saves: Fort +24, Ref +17, Will +25
 DR: 15/adamantine
 defensive_abilities: grave endurance

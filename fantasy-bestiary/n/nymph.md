@@ -20,7 +20,7 @@ senses: low-light vision
 aura: blinding beauty
 AC: 23, touch 23, flat-footed 17 (deflection +7, dex +5, dodge +1)
 HP: 60
-HD: 8d6+32
+hit_dice: 8d6+32
 saves: Fort +13, Ref +18, Will +16
 DR: 10/cold iron
 speed: 30 ft., swim 20 ft.

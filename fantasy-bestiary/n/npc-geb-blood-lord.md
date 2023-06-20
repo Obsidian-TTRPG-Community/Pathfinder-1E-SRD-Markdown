@@ -24,7 +24,7 @@ aura: fear aura
 AC: 20, touch 15, flat-footed 17 (deflection +2, dex +2, dodge +1, natural +5)
 HP: 161
 HP_extra: HD 17
-HD: 13d6+4d8+98
+hit_dice: 13d6+4d8+98
 saves: Fort +10, Ref +9, Will +14
 immune: cold, electricity, undead traits
 DR: 15/bludgeoning and magic

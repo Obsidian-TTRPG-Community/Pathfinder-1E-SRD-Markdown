@@ -21,7 +21,7 @@ INI: +7
 perception: +13
 AC: 24, touch 17, flat-footed 20 (armor +7, deflection +3, dex +3, dodge +1)
 HP: 137
-HD: 19d8+48
+hit_dice: 19d8+48
 saves: Fort +13, Ref +17, Will +14
 saves_other: +4 vs. bardic performance, language-dependent, and sonic
 defensive_abilities: misdirection

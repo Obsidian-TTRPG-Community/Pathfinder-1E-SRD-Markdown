@@ -20,7 +20,7 @@ perception: +14
 senses: darkvision, scent
 AC: 35, touch 21, flat-footed 29 (dex +5, dodge +1, insight +5, natural +14)
 HP: 165
-HD: 10d10+110
+hit_dice: 10d10+110
 saves: Fort +9, Ref +12, Will +8
 DR: 15/epic and good and piercing
 defensive_abilities: telepathic dodge

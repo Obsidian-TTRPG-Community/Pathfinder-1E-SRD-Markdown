@@ -19,7 +19,7 @@ perception: +12
 senses: darkvision, scent metals
 AC: 18, touch 13, flat-footed 15 (dex +3, natural +5)
 HP: 27
-HD: 5d8+5
+hit_dice: 5d8+5
 saves: Fort +2, Ref +4, Will +5
 speed: 40 ft., climb 10 ft.
 melee: bite +6 (1d3), antennae +6 touch (rust)

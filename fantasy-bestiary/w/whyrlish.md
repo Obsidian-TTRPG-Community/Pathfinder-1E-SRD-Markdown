@@ -20,7 +20,7 @@ perception: +19
 senses: darkvision, low-light vision
 AC: 31, touch 16, flat-footed 23 (dex +7, dodge +1, natural +15, size -2)
 HP: 210
-HD: 20d8+120
+hit_dice: 20d8+120
 saves: Fort +12, Ref +15, Will +18
 immune: ability drain, death effects, electricity, energy drain, fear, negative energy effects
 defensive_abilities: all-around vision, amorphous

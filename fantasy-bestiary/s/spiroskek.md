@@ -19,7 +19,7 @@ perception: +12
 senses: darkvision, low-light vision, tremorsense
 AC: 19, touch 15, flat-footed 14 (dex +4, dodge +1, natural +4)
 HP: 68
-HD: 8d10+24
+hit_dice: 8d10+24
 saves: Fort +9, Ref +10, Will +5
 immune: disease, poison
 defensive_abilities: wheel barbs

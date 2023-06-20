@@ -19,7 +19,7 @@ perception: +1
 senses: low-light vision, scent
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 5
-HD: 1d8+1
+hit_dice: 1d8+1
 saves: Fort +3, Ref +4, Will +1
 immune: scorpion venom
 speed: 30 ft., burrow 5 ft.

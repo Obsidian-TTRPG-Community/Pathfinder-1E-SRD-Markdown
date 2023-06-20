@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 AC: 20, touch 10, flat-footed 19 (dex +1, natural +10, size -1)
 HP: 95
 HP_extra: fast healing 2
-HD: 10d10+40
+hit_dice: 10d10+40
 saves: Fort +7, Ref +8, Will +9
 immune: acid, daze, death effects, disease, exhaustion, fatigue, nonlethal damage, paralysis, poison, sleep, stun
 resist: cold 10, electricity 10, fire 10

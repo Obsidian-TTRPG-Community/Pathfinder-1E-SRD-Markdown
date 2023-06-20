@@ -19,7 +19,7 @@ perception: +4
 senses: darkvision, sin-scent
 AC: 14, touch 12, flat-footed 13 (dex +1, natural +2, size +1)
 HP: 13
-HD: 2d8+4
+hit_dice: 2d8+4
 saves: Fort +2, Ref +3, Will +3
 immune: mind-affecting effects
 SR: 12

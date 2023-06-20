@@ -19,7 +19,7 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 16
-HD: 3d10
+hit_dice: 3d10
 saves: Fort +3, Ref +5, Will +1
 defensive_abilities: drift
 speed: 30 ft., fly 20 ft. (clumsy)

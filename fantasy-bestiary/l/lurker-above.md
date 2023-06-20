@@ -19,7 +19,7 @@ perception: +5
 senses: blindsense, darkvision, scent
 AC: 19, touch 9, flat-footed 18 (dex +1, natural +10, size -2)
 HP: 85
-HD: 10d8+40
+hit_dice: 10d8+40
 saves: Fort +7, Ref +4, Will +9
 resist: cold 10, fire 10
 DR: 10/piercing or slashing

@@ -22,7 +22,7 @@ perception: +6
 senses: low-light vision
 AC: 12, touch 8, flat-footed 12 (armor +4, rage -2)
 HP: 16
-HD: 1d12+4
+hit_dice: 1d12+4
 saves: Fort +5, Ref +2, Will +4
 weak: light sensitivity
 speed: 40 ft.

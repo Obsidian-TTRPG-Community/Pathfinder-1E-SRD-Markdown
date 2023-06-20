@@ -20,7 +20,7 @@ perception: +8
 senses: darkvision
 AC: 15, touch 15, flat-footed 13 (deflection +1, dex +2, size +2)
 HP: 22
-HD: 4d8+4
+hit_dice: 4d8+4
 saves: Fort +2, Ref +5, Will +5
 defensive_abilities: amorphous
 SR: 13

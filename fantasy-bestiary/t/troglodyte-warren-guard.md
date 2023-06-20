@@ -24,7 +24,7 @@ aura: stench
 AC: 19, touch 11, flat-footed 18 (armor +2, dex +1, natural +8, rage -2)
 HP: 124
 HP_extra: HD 10
-HD: 2d8+8d12+58
+hit_dice: 2d8+8d12+58
 saves: Fort +15, Ref +4, Will +8
 DR: 1/-
 defensive_abilities: improved savage grapple

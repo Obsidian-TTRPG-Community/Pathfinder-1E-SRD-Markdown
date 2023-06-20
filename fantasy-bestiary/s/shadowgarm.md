@@ -20,7 +20,7 @@ perception: +6
 senses: darkvision, low-light vision, scent
 AC: 14, touch 12, flat-footed 12 (armor +2, dex +2)
 HP: 19
-HD: 3d8+6
+hit_dice: 3d8+6
 saves: Fort +3, Ref +5, Will +5
 defensive_abilities: feather fall, shadow blend
 SR: 7

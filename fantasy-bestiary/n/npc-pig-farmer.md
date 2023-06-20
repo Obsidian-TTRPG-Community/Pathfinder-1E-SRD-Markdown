@@ -21,7 +21,7 @@ INI: -1
 perception: +0
 AC: 9, touch 9, flat-footed 9 (dex -1)
 HP: 9
-HD: 2d6+2
+hit_dice: 2d6+2
 saves: Fort +1, Ref -1, Will +0
 speed: 30 ft.
 melee: scythe -2 (2d4+1/×4)

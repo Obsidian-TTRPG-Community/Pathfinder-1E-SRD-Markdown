@@ -19,7 +19,7 @@ perception: +14
 senses: darkvision, low-light vision, see alignment
 AC: 20, touch 20, flat-footed 14 (deflection +6, dex +5, dodge +1, size -2)
 HP: 98
-HD: 9d10+49
+hit_dice: 9d10+49
 saves: Fort +3, Ref +8, Will +8
 immune: construct traits
 defensive_abilities: gaseous

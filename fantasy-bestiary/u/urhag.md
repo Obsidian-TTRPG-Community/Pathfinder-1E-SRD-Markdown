@@ -19,7 +19,7 @@ perception: +10
 senses: blindsense, see in darkness
 AC: 15, touch 11, flat-footed 14 (dex +1, natural +4)
 HP: 30
-HD: 4d8+12
+hit_dice: 4d8+12
 saves: Fort +4, Ref +2, Will +7
 immune: disease
 defensive_abilities: all-around vision

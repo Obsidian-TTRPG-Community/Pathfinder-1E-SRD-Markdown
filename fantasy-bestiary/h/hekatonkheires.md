@@ -21,7 +21,7 @@ senses: all-around vision, darkvision, true seeing
 AC: 42, touch 4, flat-footed 40 (armor +8, dex +2, natural +30, size -8)
 HP: 516
 HP_extra: regeneration 10; regeneration weakness epic
-HD: 24d10+384
+hit_dice: 24d10+384
 saves: Fort +30, Ref +12, Will +18
 immune: aging, death effects, disease, mind-affecting effects
 DR: 20/epic and lawful

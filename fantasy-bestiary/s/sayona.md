@@ -20,7 +20,7 @@ senses: darkvision, lifesense
 AC: 26, touch 16, flat-footed 20 (dex +5, dodge +1, natural +10)
 HP: 161
 HP_extra: fast healing 5; fast healing weakness see living form
-HD: 17d8+85
+hit_dice: 17d8+85
 saves: Fort +10, Ref +12, Will +13
 immune: undead traits
 resist: cold 30

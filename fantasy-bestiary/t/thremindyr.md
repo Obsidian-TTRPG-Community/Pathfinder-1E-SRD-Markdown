@@ -21,7 +21,7 @@ senses: darkvision, sense protection
 aura: cold aura
 AC: 23, touch 17, flat-footed 16 (dex +7, natural +6)
 HP: 104
-HD: 11d10+44
+hit_dice: 11d10+44
 saves: Fort +12, Ref +12, Will +9
 immune: cold, elemental traits
 DR: 10/magic

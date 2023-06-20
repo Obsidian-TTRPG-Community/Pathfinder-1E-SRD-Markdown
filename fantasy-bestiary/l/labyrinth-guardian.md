@@ -24,7 +24,7 @@ aura: sacrilegious aura
 AC: 29, touch 10, flat-footed 28 (armor +10, dex +1, natural +9, size -1)
 HP: 60
 HP_extra: HD 7
-HD: 6d8+1d10+28
+hit_dice: 6d8+1d10+28
 saves: Fort +4, Ref +8, Will +9
 immune: undead traits
 DR: 10/magic

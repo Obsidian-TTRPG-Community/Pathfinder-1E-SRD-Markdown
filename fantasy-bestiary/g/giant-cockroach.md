@@ -19,7 +19,7 @@ perception: +4
 senses: darkvision, tremorsense
 AC: 14, touch 12, flat-footed 13 (dex +1, natural +2, size +1)
 HP: 8
-HD: 1d8+4
+hit_dice: 1d8+4
 saves: Fort +6, Ref +1, Will +0
 weak: light sensitivity
 speed: 30 ft., fly 40 ft. (poor), climb 30 ft.

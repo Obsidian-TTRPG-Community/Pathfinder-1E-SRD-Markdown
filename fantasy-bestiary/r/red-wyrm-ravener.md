@@ -21,7 +21,7 @@ senses: blindsense, darkvision, smoke vision
 aura: cowering fear, fire, frightful presence
 AC: 45, touch 9, flat-footed 45 (deflection +4, dex -1, natural +36, size -4)
 HP: 337
-HD: 27d8+216
+hit_dice: 27d8+216
 saves: Fort +23, Ref +14, Will +23
 immune: fire, undead traits
 DR: 20/good

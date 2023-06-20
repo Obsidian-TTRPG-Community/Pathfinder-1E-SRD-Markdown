@@ -19,7 +19,7 @@ perception: +15
 senses: blindsight, darkvision, low-light vision
 AC: 17, touch 17, flat-footed 11 (dex +5, dodge +1, size +1)
 HP: 45
-HD: 10d6+10
+hit_dice: 10d6+10
 saves: Fort +4, Ref +12, Will +9
 DR: 10/cold iron
 defensive_abilities: invisibility

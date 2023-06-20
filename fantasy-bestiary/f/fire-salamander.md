@@ -19,7 +19,7 @@ perception: -1
 senses: low-light vision, scent
 AC: 16, touch 16, flat-footed 14 (dex +2, size +4)
 HP: 3
-HD: 1d8-1
+hit_dice: 1d8-1
 saves: Fort +1, Ref +4, Will -1
 defensive_abilities: skin secretions
 speed: 10 ft., swim 20 ft.

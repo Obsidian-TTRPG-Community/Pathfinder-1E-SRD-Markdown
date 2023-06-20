@@ -19,7 +19,7 @@ perception: +8
 senses: low-light vision, scent
 AC: 14, touch 10, flat-footed 13 (dex +1, natural +4, size -1)
 HP: 22
-HD: 3d8+9
+hit_dice: 3d8+9
 saves: Fort +6, Ref +6, Will +0
 defensive_abilities: poison skin
 speed: 30 ft., swim 15 ft.

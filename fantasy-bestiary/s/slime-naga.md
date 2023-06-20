@@ -19,7 +19,7 @@ perception: +16
 senses: darkvision
 AC: 24, touch 14, flat-footed 19 (dex +4, dodge +1, natural +10, size -1)
 HP: 115
-HD: 11d8+66
+hit_dice: 11d8+66
 saves: Fort +9, Ref +9, Will +11
 resist: acid 10
 speed: 40 ft., swim 20 ft.

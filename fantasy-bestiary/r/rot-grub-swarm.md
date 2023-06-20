@@ -19,7 +19,7 @@ INI: +2
 senses: blindsense
 AC: 20, touch 20, flat-footed 18 (dex +2, size +8)
 HP: 85
-HD: 10d8+40
+hit_dice: 10d8+40
 saves: Fort +11, Ref +5, Will +3
 immune: mind-affecting effects, weapon damage
 defensive_abilities: swarm traits

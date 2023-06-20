@@ -22,7 +22,7 @@ perception: +3
 senses: low-light vision
 AC: 20, touch 11, flat-footed 19 (armor +7, dex +1, shield +2)
 HP: 90
-HD: 9d10+36
+hit_dice: 9d10+36
 saves: Fort +8, Ref +4, Will +4
 immune: plant traits
 defensive_abilities: bravery +2

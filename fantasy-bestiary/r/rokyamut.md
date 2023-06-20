@@ -22,7 +22,7 @@ aura: shield of law, unrelenting geometry
 AC: 34, touch 10, flat-footed 34 (deflection +4, natural +24, size -4)
 HP: 350
 HP_extra: regeneration 10; regeneration weakness chaotic
-HD: 20d10+240
+hit_dice: 20d10+240
 saves: Fort +21, Ref +6, Will +18
 immune: electricity, fire
 resist: sonic 30

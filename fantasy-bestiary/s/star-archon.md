@@ -22,7 +22,7 @@ aura: aura of courage, aura of menace, magic circle against evil
 AC: 34, touch 11, flat-footed 32 (armor +9, dex +1, dodge +1, natural +12, shield +2, size -1)
 HP: 294
 HP_extra: regeneration 10; regeneration weakness evil weapons and effects
-HD: 19d10+190
+hit_dice: 19d10+190
 saves: Fort +21, Ref +17, Will +15
 saves_other: +4 vs. poison
 immune: electricity, fire, charm, compulsion, fear, petrification

@@ -20,7 +20,7 @@ perception: +18
 senses: darkvision, sandsight, tremorsense
 AC: 34, touch 25, flat-footed 27 (dex +6, dodge +1, natural +9, size +8)
 HP: 147
-HD: 14d10+70
+hit_dice: 14d10+70
 saves: Fort +9, Ref +15, Will +12
 immune: elemental traits, weapon damage
 defensive_abilities: swarm traits, DR 10/-

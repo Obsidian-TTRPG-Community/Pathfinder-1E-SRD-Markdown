@@ -20,7 +20,7 @@ perception: +24
 senses: darkvision, low-light vision, targeting array
 AC: 26, touch 6, flat-footed 26 (natural +20, size -4)
 HP: 245
-HD: 20d10+60 plus 75 hp force field
+hit_dice: 20d10+60 plus 75 hp force field
 saves: Fort +6, Ref +6, Will +7
 immune: construct traits
 resist: cold 20, electricity 20, fire 20

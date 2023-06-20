@@ -20,7 +20,7 @@ perception: +13
 senses: darkvision
 AC: 22, touch 12, flat-footed 20 (armor +6, dex +2, natural +4)
 HP: 90
-HD: 12d8+36
+hit_dice: 12d8+36
 saves: Fort +11, Ref +6, Will +6
 saves_other: +4 vs. mind-affecting effects
 defensive_abilities: death gasp, mortic ferocity, negative energy affinity

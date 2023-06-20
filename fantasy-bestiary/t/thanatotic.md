@@ -20,7 +20,7 @@ perception: +31
 senses: darkvision, true seeing
 AC: 38, touch 2, flat-footed 38 (armor +12, natural +24, size -8)
 HP: 471
-HD: 23d10+345
+hit_dice: 23d10+345
 saves: Fort +22, Ref +15, Will +20
 saves_other: +8 resistance vs. mind-affecting
 immune: aging, death effects, disease

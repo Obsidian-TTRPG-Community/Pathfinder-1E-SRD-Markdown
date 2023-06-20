@@ -18,7 +18,7 @@ INI: +2
 senses: blindsight, darkvision
 AC: 16, touch 16, flat-footed 14 (dex +2, size +4)
 HP: 1
-HD: 1d8-3
+hit_dice: 1d8-3
 saves: Fort -1, Ref +2, Will +2
 immune: acid
 DR: 1/piercing or slashing

@@ -19,7 +19,7 @@ perception: +15
 senses: darkvision, detect good, detect law, detect magic
 AC: 20, touch 12, flat-footed 17 (dex +2, dodge +1, natural +8, size -1)
 HP: 76
-HD: 9d8+36
+hit_dice: 9d8+36
 saves: Fort +7, Ref +5, Will +9
 immune: sleep
 SR: 18

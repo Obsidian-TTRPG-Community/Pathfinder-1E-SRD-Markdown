@@ -20,7 +20,7 @@ senses: blindsense, darkvision, low-light vision, scent
 AC: 35, touch 0, flat-footed 35 (dex -2, natural +35, size -8)
 HP: 337
 HP_extra: regeneration 15; regeneration weakness electricity
-HD: 25d10+200
+hit_dice: 25d10+200
 saves: Fort +22, Ref +12, Will +12
 immune: acid, curse effects, disease, mind-affecting effects, paralysis, poison, sonic
 resist: cold 20, fire 20

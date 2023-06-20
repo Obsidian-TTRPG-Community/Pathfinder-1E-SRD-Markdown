@@ -22,7 +22,7 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 5
-HD: 1d10
+hit_dice: 1d10
 saves: Fort +2, Ref +2, Will +0
 saves_other: +2 vs. illusions
 speed: 30 ft., fly 60 ft. (average)

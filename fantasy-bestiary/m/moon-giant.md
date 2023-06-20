@@ -21,7 +21,7 @@ senses: low-light vision, true seeing
 aura: lunar
 AC: 32, touch 12, flat-footed 28 (dex +4, natural +20, size -2)
 HP: 220
-HD: 21d8+126
+hit_dice: 21d8+126
 saves: Fort +15, Ref +13, Will +18
 resist: cold 30, fire 30
 defensive_abilities: improved rock catching

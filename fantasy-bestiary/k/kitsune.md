@@ -22,7 +22,7 @@ perception: +3
 senses: low-light vision
 AC: 13, touch 13, flat-footed 10 (dex +2, dodge +1)
 HP: 5
-HD: 1d6-1
+hit_dice: 1d6-1
 saves: Fort -1, Ref +2, Will +4
 speed: 30 ft.
 melee: bite -1 (1d4-1), mwk quarterstaff -5 (1d6-1)

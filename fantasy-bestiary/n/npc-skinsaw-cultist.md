@@ -21,7 +21,7 @@ INI: +2
 perception: +3
 AC: 15, touch 12, flat-footed 13 (armor +3, dex +2)
 HP: 20
-HD: 3d8+3
+hit_dice: 3d8+3
 saves: Fort +4, Ref +3, Will +6
 speed: 30 ft.
 melee: mwk war razor +5 (1d4/19-20)

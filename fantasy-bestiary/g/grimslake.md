@@ -21,7 +21,7 @@ senses: darkvision, tremorsense
 AC: 19, touch 10, flat-footed 18 (dex +1, natural +9, size -1)
 HP: 68
 HP_extra: fast healing 5
-HD: 8d8+32
+hit_dice: 8d8+32
 saves: Fort +6, Ref +5, Will +10
 immune: disease
 resist: acid 10, fire 10

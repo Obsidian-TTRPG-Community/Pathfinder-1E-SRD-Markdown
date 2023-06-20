@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 AC: 16, touch 16, flat-footed 14 (dex +2, size +4)
 HP: 5
 HP_extra: fast healing 1
-HD: 1d12-1
+hit_dice: 1d12-1
 saves: Fort +1, Ref +4, Will +3
 immune: fire, paralysis, sleep
 weak: heart of flame, vulnerable to cold

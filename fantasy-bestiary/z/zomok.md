@@ -20,7 +20,7 @@ perception: +26
 senses: darkvision, low-light vision, tremorsense
 AC: 33, touch 6, flat-footed 33 (natural +27, size -4)
 HP: 246
-HD: 17d8+170
+hit_dice: 17d8+170
 saves: Fort +20, Ref +7, Will +13
 immune: sonic, plant traits
 weak: vulnerable to fire

@@ -21,7 +21,7 @@ senses: darkvision
 aura: frightful presence, shroud of flame, smoke cloud
 AC: 32, touch 19, flat-footed 21 (dex +9, dodge +2, natural +13, size -2)
 HP: 202
-HD: 16d10+114
+hit_dice: 16d10+114
 saves: Fort +14, Ref +19, Will +8
 immune: elemental traits, fire
 DR: 10/-

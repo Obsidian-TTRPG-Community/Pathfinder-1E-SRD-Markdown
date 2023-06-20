@@ -22,7 +22,7 @@ perception: +17
 senses: darkvision, low-light vision
 AC: 20, touch 13, flat-footed 16 (dex +4, natural +7, size -1)
 HP: 47
-HD: 5d10+20
+hit_dice: 5d10+20
 saves: Fort +8, Ref +8, Will +5
 immune: poison
 resist: acid 10, cold 10, electricity 10, fire 10

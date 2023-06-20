@@ -19,7 +19,7 @@ senses: darkvision, low-light vision
 aura: magnetic field
 AC: 24, touch 8, flat-footed 24 (dex -1, natural +16, size -1)
 HP: 101
-HD: 13d10+30
+hit_dice: 13d10+30
 saves: Fort +4, Ref +3, Will +5
 immune: construct traits, magic
 DR: 10/adamantine

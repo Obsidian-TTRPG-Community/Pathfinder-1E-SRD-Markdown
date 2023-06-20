@@ -20,7 +20,7 @@ perception: +22
 senses: dragon senses
 AC: 25, touch 9, flat-footed 25 (natural +14, shield +2, size -1)
 HP: 161
-HD: 14d12+70
+hit_dice: 14d12+70
 saves: Fort +14, Ref +9, Will +14
 immune: disease, fear, paralysis, poison, sleep
 defensive_abilities: parapet wings

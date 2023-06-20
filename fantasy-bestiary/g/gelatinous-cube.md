@@ -18,7 +18,7 @@ INI: -5
 senses: blindsight
 AC: 4, touch 4, flat-footed 4 (dex -5, size -1)
 HP: 50
-HD: 4d8+32
+hit_dice: 4d8+32
 saves: Fort +9, Ref -4, Will -4
 immune: electricity, ooze traits
 speed: 15 ft.

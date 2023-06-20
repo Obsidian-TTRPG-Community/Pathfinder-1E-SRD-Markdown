@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 30
 HP_extra: other fiery regeneration
-HD: 4d12+4
+hit_dice: 4d12+4
 saves: Fort +5, Ref +6, Will +3
 immune: dragon traits, fire, paralysis, sleep
 weak: vulnerable to cold

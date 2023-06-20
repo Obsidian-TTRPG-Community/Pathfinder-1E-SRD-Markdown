@@ -21,7 +21,7 @@ senses: darkvision
 AC: 20, touch 15, flat-footed 17 (deflection +2, dex +2, dodge +1, natural +5)
 HP: 76
 HP_extra: fast healing 5
-HD: 9d10+27
+hit_dice: 9d10+27
 saves: Fort +9, Ref +5, Will +12
 immune: cold, critical hits, poison
 resist: electricity 10, fire 10

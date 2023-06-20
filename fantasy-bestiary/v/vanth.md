@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, spiritsense
 aura: fear
 AC: 20, touch 13, flat-footed 17 (dex +3, natural +7)
 HP: 76
-HD: 9d10+27
+hit_dice: 9d10+27
 saves: Fort +11, Ref +6, Will +10
 immune: death effects, disease, poison
 resist: cold 10, electricity 10

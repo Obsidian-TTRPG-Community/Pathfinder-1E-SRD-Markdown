@@ -22,7 +22,7 @@ perception: +3
 senses: darkvision
 AC: 17, touch 12, flat-footed 15 (armor +5, dex +2)
 HP: 8
-HD: 1d8
+hit_dice: 1d8
 saves: Fort +1, Ref +3, Will +5
 resist: cold 5
 speed: 30 ft., other_semicolon 20 ft. in armor, swim 30 ft. ft.

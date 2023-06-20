@@ -20,7 +20,7 @@ senses: greensight, low-light vision, tremorsense
 AC: 34, touch 12, flat-footed 24 (dex +10, natural +22, size -8)
 HP: 325
 HP_extra: fast healing 20
-HD: 26d8+208
+hit_dice: 26d8+208
 saves: Fort +23, Ref +18, Will +17
 immune: plant traits
 DR: 20/slashing

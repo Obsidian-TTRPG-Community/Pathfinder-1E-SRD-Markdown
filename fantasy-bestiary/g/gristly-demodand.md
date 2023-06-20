@@ -21,7 +21,7 @@ senses: darkvision, detect good, detect magic, see invisibility
 AC: 32, touch 16, flat-footed 26 (armor +1, dex +6, natural +15)
 HP: 264
 HP_extra: fast healing 10
-HD: 23d10+138
+hit_dice: 23d10+138
 saves: Fort +19, Ref +15, Will +15
 saves_other: +4 vs. divine spells
 immune: acid, poison

@@ -22,7 +22,7 @@ aura: aura of luck
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 30
 HP_extra: fast healing 3
-HD: 4d10+8
+hit_dice: 4d10+8
 saves: Fort +6, Ref +4, Will +7
 immune: bleed, mind-affecting effects, petrification, polymorph
 resist: acid 10, electricity 10, fire 10

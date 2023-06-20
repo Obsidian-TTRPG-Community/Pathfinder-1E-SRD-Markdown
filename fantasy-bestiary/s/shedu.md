@@ -20,7 +20,7 @@ senses: darkvision, detect chaos, detect evil, low-light vision, true seeing
 AC: 24, touch 16, flat-footed 23 (dex +1, insight +6, natural +8, size -1)
 HP: 115
 HP_extra: fast healing 5
-HD: 11d10+55
+hit_dice: 11d10+55
 saves: Fort +12, Ref +14, Will +11
 resist: electricity 10, fire 10
 DR: 10/evil

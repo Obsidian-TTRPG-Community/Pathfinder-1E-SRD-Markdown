@@ -21,7 +21,7 @@ senses: low-light vision
 aura: beguiling aura
 AC: 25, touch 25, flat-footed 15 (deflection +5, dex +9, dodge +1)
 HP: 126
-HD: 12d6+84
+hit_dice: 12d6+84
 saves: Fort +11, Ref +17, Will +14
 immune: cold, poison
 DR: 10/cold iron

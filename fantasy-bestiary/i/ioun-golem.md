@@ -19,7 +19,7 @@ senses: darkvision, low-light vision
 aura: ioun attraction
 AC: 33, touch 18, flat-footed 24 (dex +9, natural +15, size -1)
 HP: 156
-HD: 23d10+30
+hit_dice: 23d10+30
 saves: Fort +7, Ref +16, Will +7
 immune: construct traits, magic
 DR: 15/adamantine

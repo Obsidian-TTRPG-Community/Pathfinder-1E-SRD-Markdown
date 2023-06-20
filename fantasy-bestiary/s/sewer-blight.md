@@ -22,7 +22,7 @@ aura: stench
 AC: 30, touch 18, flat-footed 22 (dex +8, natural +12)
 HP: 229
 HP_extra: fast healing 10
-HD: 17d8+153
+hit_dice: 17d8+153
 saves: Fort +16, Ref +15, Will +13
 immune: acid, ooze traits
 defensive_abilities: acidic spray, rejuvenation

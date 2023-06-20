@@ -20,7 +20,7 @@ perception: +7
 senses: darkvision
 AC: 17, touch 14, flat-footed 13 (dex +3, dodge +1, natural +3)
 HP: 30
-HD: 4d10+8
+hit_dice: 4d10+8
 saves: Fort +6, Ref +7, Will +1
 immune: elemental traits, fire
 weak: vulnerability to cold

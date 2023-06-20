@@ -20,7 +20,7 @@ perception: +10
 senses: low-light vision
 AC: 21, touch 17, flat-footed 18 (dex +3, natural +4, size +4)
 HP: 97
-HD: 13d8+39
+hit_dice: 13d8+39
 saves: Fort +11, Ref +7, Will +4
 immune: weapon damage, plant traits
 defensive_abilities: swarm traits

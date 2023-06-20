@@ -23,7 +23,7 @@ senses: darkvision
 AC: 33, touch 25, flat-footed 27 (armor +8, deflection +8, dex +5, dodge +1, insight +1)
 HP: 274
 HP_extra: HD 22
-HD: 7d10+15d8+169
+hit_dice: 7d10+15d8+169
 saves: Fort +17, Ref +16, Will +19
 saves_other: +4 vs. blindness and charm
 immune: cold, electricity, poison

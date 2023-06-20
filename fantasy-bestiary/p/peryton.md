@@ -19,7 +19,7 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 17, touch 13, flat-footed 14 (dex +3, natural +4)
 HP: 42
-HD: 5d10+15
+hit_dice: 5d10+15
 saves: Fort +7, Ref +7, Will +3
 DR: 5/magic
 speed: 30 ft., fly 60 ft. (good)

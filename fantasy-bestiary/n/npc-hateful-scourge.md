@@ -22,7 +22,7 @@ perception: +25
 senses: low-light vision
 AC: 28, touch 14, flat-footed 27 (armor +10, deflection +2, dex +1, insight +1, shield +4)
 HP: 158
-HD: 17d8+78
+hit_dice: 17d8+78
 saves: Fort +16, Ref +9, Will +20
 saves_other: +2 vs. enchantments, +4 vs. fey and plant-targeted effects
 immune: poison

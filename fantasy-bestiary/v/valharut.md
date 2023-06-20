@@ -22,7 +22,7 @@ aura: inviolate aura
 AC: 25, touch 16, flat-footed 19 (dex +6, natural +9)
 HP: 138
 HP_extra: regeneration 5; regeneration weakness chaotic
-HD: 12d10+72
+hit_dice: 12d10+72
 saves: Fort +14, Ref +10, Will +13
 immune: transmutation effects
 DR: 10/chaotic

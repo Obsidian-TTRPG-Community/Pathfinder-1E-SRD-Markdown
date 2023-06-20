@@ -21,7 +21,7 @@ senses: blindsight, darkvision
 AC: 34, touch 30, flat-footed 24 (deflection +10, dex +10, natural +4)
 HP: 341
 HP_extra: regeneration 15; regeneration weakness earth; see earthbane
-HD: 22d10+220
+hit_dice: 22d10+220
 saves: Fort +23, Ref +23, Will +17
 immune: daze, electricity, elemental traits
 resist: cold 30, fire 30

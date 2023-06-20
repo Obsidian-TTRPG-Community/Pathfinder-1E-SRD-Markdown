@@ -20,7 +20,7 @@ senses: darkvision, lifesense
 aura: fear
 AC: 27, touch 12, flat-footed 24 (dex +3, natural +15, size -1)
 HP: 127
-HD: 17d8+51
+hit_dice: 17d8+51
 saves: Fort +8, Ref +10, Will +12
 immune: undead traits
 DR: 5/magic

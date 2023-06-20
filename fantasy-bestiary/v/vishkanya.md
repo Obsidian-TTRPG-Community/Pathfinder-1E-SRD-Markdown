@@ -22,7 +22,7 @@ perception: +6
 senses: low-light vision
 AC: 13, touch 13, flat-footed 10 (dex +3)
 HP: 11
-HD: 1d8+3
+hit_dice: 1d8+3
 saves: Fort +2, Ref +5, Will +0
 saves_other: +1 vs. poison
 speed: 30 ft.

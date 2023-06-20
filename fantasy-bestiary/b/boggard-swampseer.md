@@ -22,7 +22,7 @@ perception: +12
 senses: darkvision, low-light vision
 AC: 17, touch 11, flat-footed 16 (armor +3, dex +1, natural +3)
 HP: 41
-HD: 6d8+15
+hit_dice: 6d8+15
 saves: Fort +8, Ref +4, Will +7
 speed: 20 ft., swim 30 ft.
 melee: mwk club +8 (1d6+3), tongue +1 touch (sticky tongue)

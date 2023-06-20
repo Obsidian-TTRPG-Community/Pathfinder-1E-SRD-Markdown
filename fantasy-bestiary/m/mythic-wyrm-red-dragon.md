@@ -22,7 +22,7 @@ aura: fire, frightful presence
 AC: 50, touch 4, flat-footed 50 (dex -2, natural +46, size -4)
 HP: 518
 HP_extra: fast healing 5
-HD: 27d12+343
+hit_dice: 27d12+343
 saves: Fort +24, Ref +13, Will +22
 immune: dragon traits, fire, paralysis, sleep
 DR: 20/epic and magic

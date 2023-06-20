@@ -20,7 +20,7 @@ perception: +12
 senses: blindsense, blindsight
 AC: 15, touch 13, flat-footed 13 (dex +2, natural +2, size +1)
 HP: 26
-HD: 4d8+8
+hit_dice: 4d8+8
 saves: Fort +2, Ref +3, Will +6
 immune: undead traits
 resist: fire 10

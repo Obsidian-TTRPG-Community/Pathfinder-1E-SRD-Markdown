@@ -20,7 +20,7 @@ perception: +4
 senses: see in darkness
 AC: 15, touch 15, flat-footed 11 (dex +4, size +1)
 HP: 13
-HD: 2d8+4
+hit_dice: 2d8+4
 saves: Fort +2, Ref +7, Will +0
 weak: light blindness
 speed: 30 ft.

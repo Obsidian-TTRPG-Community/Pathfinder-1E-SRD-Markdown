@@ -20,7 +20,7 @@ perception: +10
 senses: darkvision, low-light vision, tremorsense
 AC: 22, touch 11, flat-footed 20 (armor +11, dex +2, size -1)
 HP: 105
-HD: 10d10+50
+hit_dice: 10d10+50
 saves: Fort +11, Ref +9, Will +5
 immune: fire
 DR: 5/adamantine

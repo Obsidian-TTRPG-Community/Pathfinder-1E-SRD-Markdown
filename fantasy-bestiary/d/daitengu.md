@@ -20,7 +20,7 @@ perception: +21
 senses: darkvision, true seeing
 AC: 26, touch 24, flat-footed 21 (dex +5, monk +3, natural +2, wis +6)
 HP: 126
-HD: 12d10+60
+hit_dice: 12d10+60
 saves: Fort +9, Ref +13, Will +14
 immune: disease, mind-affecting effects
 defensive_abilities: evasion

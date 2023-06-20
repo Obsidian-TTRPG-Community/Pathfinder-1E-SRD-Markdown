@@ -21,7 +21,7 @@ perception: +6
 aura: courage, justice, resolve
 AC: 22, touch 9, flat-footed 22 (armor +9, dex -1, shield +4)
 HP: 92
-HD: 12d10+26
+hit_dice: 12d10+26
 saves: Fort +15, Ref +8, Will +13
 immune: charm, disease, fear
 DR: 5/magic

@@ -19,7 +19,7 @@ perception: +11
 senses: darkvision
 AC: 19, touch 10, flat-footed 18 (dex +1, natural +9, size -1)
 HP: 59
-HD: 7d8+28
+hit_dice: 7d8+28
 saves: Fort +5, Ref +3, Will +6
 immune: undead traits
 resist: electricity 10

@@ -20,7 +20,7 @@ perception: +4
 senses: darkvision
 AC: 18, touch 18, flat-footed 18 (size +8)
 HP: 22
-HD: 4d8+4
+hit_dice: 4d8+4
 saves: Fort +5, Ref +1, Will +1
 saves_other: +4 vs. disease and paralysis
 immune: mind-affecting effects, weapon damage

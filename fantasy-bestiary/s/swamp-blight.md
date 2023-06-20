@@ -22,7 +22,7 @@ aura: mosquitoes
 AC: 32, touch 20, flat-footed 22 (dex +10, natural +12)
 HP: 275
 HP_extra: fast healing 15
-HD: 19d8+190
+hit_dice: 19d8+190
 saves: Fort +18, Ref +18, Will +14
 immune: acid, ooze traits
 defensive_abilities: rejuvenation

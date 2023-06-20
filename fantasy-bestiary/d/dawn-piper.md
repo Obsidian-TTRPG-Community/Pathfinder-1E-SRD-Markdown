@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 aura: terrible beauty
 AC: 18, touch 15, flat-footed 13 (dex +4, dodge +1, natural +3)
 HP: 45
-HD: 7d6+21
+hit_dice: 7d6+21
 saves: Fort +5, Ref +9, Will +7
 DR: 5/cold iron
 SR: 16

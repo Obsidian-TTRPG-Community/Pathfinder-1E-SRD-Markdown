@@ -21,7 +21,7 @@ senses: darkvision
 aura: babble
 AC: 14, touch 14, flat-footed 13 (deflection +3, dex +1)
 HP: 30
-HD: 4d8+12
+hit_dice: 4d8+12
 saves: Fort +4, Ref +4, Will +4
 immune: undead traits
 defensive_abilities: channel resistance +2, incorporeal

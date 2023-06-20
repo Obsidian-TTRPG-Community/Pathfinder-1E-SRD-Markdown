@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 AC: 16, touch 15, flat-footed 13 (dex +3, natural +1, size +2)
 HP: 18
 HP_extra: fast healing 2
-HD: 4d6+4
+hit_dice: 4d6+4
 saves: Fort +2, Ref +7, Will +5
 DR: 5/cold iron or silver
 SR: 13

@@ -21,7 +21,7 @@ senses: low-light vision
 aura: solar
 AC: 31, touch 11, flat-footed 28 (armor +5, dex +3, natural +15, size -2)
 HP: 241
-HD: 23d8+138
+hit_dice: 23d8+138
 saves: Fort +19, Ref +12, Will +14
 immune: blind, dazzled, fire
 resist: cold 30, electricity 30

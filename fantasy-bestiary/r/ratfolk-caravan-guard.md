@@ -22,7 +22,7 @@ perception: +11
 senses: low-light vision
 AC: 17, touch 14, flat-footed 14 (armor +3, dex +3, size +1)
 HP: 30
-HD: 4d10+4
+hit_dice: 4d10+4
 saves: Fort +5, Ref +7, Will +3
 speed: 30 ft.
 melee: mwk scimitar +7 (1d4+1/18-20)

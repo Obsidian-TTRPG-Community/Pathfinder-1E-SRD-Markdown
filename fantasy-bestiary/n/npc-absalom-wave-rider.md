@@ -22,7 +22,7 @@ perception: +6
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 21
 HP_extra: HD 4
-HD: 2d8+2d6+2
+hit_dice: 2d8+2d6+2
 saves: Fort +1, Ref +6, Will +3
 saves_other: +2 vs. enchantment
 defensive_abilities: enchantment resistance, evasion

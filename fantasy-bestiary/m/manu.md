@@ -21,7 +21,7 @@ senses: darkvision
 aura: unity
 AC: 27, touch 27, flat-footed 22 (deflection +3, dex +4, dodge +1, soul armor +9)
 HP: 161
-HD: 17d10+68
+hit_dice: 17d10+68
 saves: Fort +9, Ref +14, Will +15
 saves_other: +2 vs. enchantment
 immune: calling, disease, poison

@@ -20,7 +20,7 @@ perception: +17
 senses: low-light vision, scent
 AC: 21, touch 8, flat-footed 21 (natural +13, dex -1, size -1)
 HP: 67
-HD: 9d8+27
+hit_dice: 9d8+27
 saves: Fort +10, Ref +5, Will +5
 immune: undead traits
 resist: cold 10

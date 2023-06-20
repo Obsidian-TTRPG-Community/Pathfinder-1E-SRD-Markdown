@@ -18,7 +18,7 @@ INI: +1
 senses: low-light vision, tremorsense
 AC: 20, touch 10, flat-footed 19 (dex +1, natural +10, size -1)
 HP: 78
-HD: 12d8+24
+hit_dice: 12d8+24
 saves: Fort +10, Ref +5, Will +5
 immune: plant traits
 resist: acid 10

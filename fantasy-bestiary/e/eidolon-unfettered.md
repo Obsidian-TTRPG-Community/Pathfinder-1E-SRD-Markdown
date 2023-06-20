@@ -20,7 +20,7 @@ perception: +13
 senses: darkvision
 AC: 26, touch 14, flat-footed 22 (dex +4, natural +12)
 HP: 85
-HD: 10d10+30
+hit_dice: 10d10+30
 saves: Fort +7, Ref +11, Will +9
 defensive_abilities: improved evasion
 speed: 20 ft., fly 40 ft. (good), climb 20 ft.

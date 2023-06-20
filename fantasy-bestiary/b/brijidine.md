@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, tremorsense
 aura: flaming body, holy aura
 AC: 32, touch 19, flat-footed 27 (deflection +4, dex +5, natural +13)
 HP: 256
-HD: 19d10+152
+hit_dice: 19d10+152
 saves: Fort +22, Ref +15, Will +21
 immune: electricity, fire, petrification
 resist: cold 10

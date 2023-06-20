@@ -22,7 +22,7 @@ perception: +3
 senses: darkvision
 AC: 14, touch 11, flat-footed 13 (armor +2, dex +1, shield +1)
 HP: 12
-HD: 1d8+4
+hit_dice: 1d8+4
 saves: Fort +3, Ref +3, Will +1
 saves_other: +2 vs. polymorph effects
 resist: acid 5, electricity 5, sonic 5
@@ -59,7 +59,7 @@ special_abilities:
   - name: 7-14: Quibble (Su)
     desc: For most ganzis, the influence of chaos is relatively subtle and manifests as an ability to infect others with entropy and unexpected luck (be it good luck or bad). Once per day as an immediate action, a ganzi can twist probability and alter the luck of a single creature within 20 feet, forcing it to reroll a single d20 roll it has just made. The target must take the second result, even if it is worse. A ganzi can use this ability after the target has rolled but must use it before the GM declares whether the roll was a success or failure. Unwilling creatures can resist a ganzi’s quibble with a successful Will save (DC = 10 + half the ganzi’s level + the ganzi’s Charisma modifier). This is a curse effect.
   - name: 15-18: Spell-Like Ability (Sp)
-    desc: Ganzis whose chaotic influences rise from regions other than the Maelstrom or its inhabitants often manifest an oddity that duplicates the effects of a specific spell. Such ganzis gain one of the following spelllike abilities, usable once per day at a caster level equal to the ganzi’s HD: alter self, blur, detect thoughts, hideous laughter, minor image, shatter, or spider climb.
+    desc: Ganzis whose chaotic influences rise from regions other than the Maelstrom or its inhabitants often manifest an oddity that duplicates the effects of a specific spell. Such ganzis gain one of the following spelllike abilities, usable once per day at a caster level equal to the ganzi’s hit_dice: alter self, blur, detect thoughts, hideous laughter, minor image, shatter, or spider climb.
   - name: 19-20: Weaponplay (Ex)
     desc: Ganzis with lineages that link to the valkyries manifest their heritage in their skill in combat. Such ganzis are always proficient with all simple and martial weapons, and they can qualify for feats normally available only to fighters (such as Weapon Specialization) even if they don’t have any fighter class levels.
 known_spells:

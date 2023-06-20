@@ -19,7 +19,7 @@ perception: +9
 senses: low-light vision, tremorsense
 AC: 24, touch 16, flat-footed 17 (dex +7, natural +8, size -1)
 HP: 133
-HD: 14d8+70
+hit_dice: 14d8+70
 saves: Fort +13, Ref +11, Will +5
 immune: plant traits
 speed: 30 ft., climb 30 ft.

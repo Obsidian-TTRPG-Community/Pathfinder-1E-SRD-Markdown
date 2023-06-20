@@ -21,7 +21,7 @@ INI: +2
 perception: +5
 AC: 16, touch 12, flat-footed 14 (armor +4, dex +2)
 HP: 14
-HD: 2d8+1
+hit_dice: 2d8+1
 saves: Fort +1, Ref +5, Will +4
 saves_other: +4 vs. bardic performance, language-dependent, and sonic
 speed: 30 ft.

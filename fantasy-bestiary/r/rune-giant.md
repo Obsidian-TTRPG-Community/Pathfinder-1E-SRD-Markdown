@@ -20,7 +20,7 @@ perception: +29
 senses: low-light vision
 AC: 30, touch 6, flat-footed 30 (armor +9, natural +15, size -4)
 HP: 270
-HD: 20d8+180
+hit_dice: 20d8+180
 saves: Fort +15, Ref +6, Will +20
 immune: cold, electricity, fire
 speed: 35 ft.,  50 ft. without armor, other_semicolon air walk ft.

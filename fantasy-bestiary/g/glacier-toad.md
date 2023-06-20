@@ -21,7 +21,7 @@ senses: low-light vision, scent
 aura: bitter cold
 AC: 19, touch 10, flat-footed 18 (dex +1, natural +9, size -1)
 HP: 73
-HD: 7d10+35
+hit_dice: 7d10+35
 saves: Fort +10, Ref +8, Will +3
 immune: cold
 weak: vulnerable to fire

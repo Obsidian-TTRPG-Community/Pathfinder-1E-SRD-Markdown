@@ -21,7 +21,7 @@ senses: darkvision, detect good, detect magic
 aura: aura of doom
 AC: 17, touch 14, flat-footed 14 (dex +3, natural +3, size +1)
 HP: 39
-HD: 6d10+6
+hit_dice: 6d10+6
 saves: Fort +6, Ref +5, Will +6
 immune: acid, death effects, disease, poison
 resist: cold 10, electricity 10, fire 10

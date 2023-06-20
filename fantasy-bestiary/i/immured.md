@@ -20,7 +20,7 @@ senses: darkvision
 aura: breathlessness
 AC: 16, touch 10, flat-footed 16 (natural +6)
 HP: 26
-HD: 4d8+8
+hit_dice: 4d8+8
 saves: Fort +3, Ref +1, Will +5
 immune: undead traits
 weak: bound

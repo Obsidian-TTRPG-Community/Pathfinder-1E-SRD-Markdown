@@ -20,7 +20,7 @@ perception: +13
 senses: darkvision
 AC: 18, touch 10, flat-footed 16 (dex +2, natural +8, size -2)
 HP: 76
-HD: 9d8+36
+hit_dice: 9d8+36
 saves: Fort +9, Ref +5, Will +7
 weak: vulnerability to acid
 speed: 30 ft., swim 40 ft.

@@ -20,7 +20,7 @@ senses: darkvision, greensight, low-light vision, see invisibility
 AC: 33, touch 19, flat-footed 23 (dex +9, dodge +1, natural +14, size -1)
 HP: 312
 HP_extra: regeneration 10; regeneration weakness cold
-HD: 25d8+200
+hit_dice: 25d8+200
 saves: Fort +22, Ref +17, Will +17
 immune: fire, plant traits
 resist: electricity 30

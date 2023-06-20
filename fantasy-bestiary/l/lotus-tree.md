@@ -21,7 +21,7 @@ aura: hallucination
 AC: 39, touch 12, flat-footed 33 (dex +6, natural +27, size -4)
 HP: 356
 HP_extra: fast healing 15
-HD: 23d8+253
+hit_dice: 23d8+253
 saves: Fort +23, Ref +15, Will +19
 immune: daze, plant traits
 resist: cold 30, electricity 30, fire 30

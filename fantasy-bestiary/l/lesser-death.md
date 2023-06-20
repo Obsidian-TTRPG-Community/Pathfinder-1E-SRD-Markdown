@@ -21,7 +21,7 @@ senses: darkvision, see invisibility, status sight
 aura: misfortune, unnatural aura
 AC: 31, touch 21, flat-footed 20 (dex +10, dodge +1, natural +10)
 HP: 276
-HD: 24d8+168
+hit_dice: 24d8+168
 saves: Fort +17, Ref +19, Will +20
 immune: undead traits
 defensive_abilities: channel resistance +4

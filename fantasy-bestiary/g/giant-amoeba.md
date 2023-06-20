@@ -20,7 +20,7 @@ perception: -5
 senses: blindsight
 AC: 6, touch 6, flat-footed 6 (dex -5, size +1)
 HP: 15
-HD: 2d8+6
+hit_dice: 2d8+6
 saves: Fort +3, Ref -5, Will -5
 defensive_abilities: ooze traits
 speed: 10 ft., climb 10 ft., swim 20 ft.

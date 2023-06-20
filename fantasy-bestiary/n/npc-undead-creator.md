@@ -22,7 +22,7 @@ perception: +4
 senses: darkvision, see invisibility
 AC: 16, touch 11, flat-footed 15 (armor +4, dex +1, natural +1)
 HP: 100
-HD: 11d6+59
+hit_dice: 11d6+59
 saves: Fort +10, Ref +6, Will +10
 resist: fire 30
 speed: 30 ft.

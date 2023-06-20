@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, tremorsense
 AC: 29, touch 13, flat-footed 22 (dex +7, natural +16, size -4)
 HP: 207
 HP_extra: fast healing 20
-HD: 18d10+108
+hit_dice: 18d10+108
 saves: Fort +17, Ref +18, Will +12
 defensive_abilities: collapse
 speed: 10 ft., swim 120 ft.

@@ -21,7 +21,7 @@ senses: darkvision
 aura: stench
 AC: 23, touch 13, flat-footed 20 (armor +4, dex +2, dodge +1, natural +6)
 HP: 93
-HD: 11d8+44
+hit_dice: 11d8+44
 saves: Fort +6, Ref +7, Will +9
 immune: undead traits
 resist: fire 10

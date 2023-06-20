@@ -20,7 +20,7 @@ senses: darkvision, low-light vision, tremorsense
 aura: preserving mists
 AC: 28, touch 12, flat-footed 24 (dex +4, natural +16, size -2)
 HP: 178
-HD: 17d8+102
+hit_dice: 17d8+102
 saves: Fort +16, Ref +11, Will +6
 immune: plant traits
 resist: acid 10, electricity 10

@@ -22,7 +22,7 @@ senses: darkvision, tremorsense
 AC: 30, touch 12, flat-footed 27 (armor +8, dex +2, dodge +1, natural +10, size -1)
 HP: 240
 HP_extra: HD 20
-HD: 10d8+10d10+140
+hit_dice: 10d8+10d10+140
 saves: Fort +19, Ref +14, Will +21
 saves_other: +2 vs. gaze attacks and figment and pattern illusions
 immune: blinding and dazzling effects

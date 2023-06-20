@@ -20,7 +20,7 @@ perception: +11
 senses: darkvision
 AC: 20, touch 13, flat-footed 17 (armor +6, dex +2, dodge +1, natural +1)
 HP: 39
-HD: 6d10+6
+hit_dice: 6d10+6
 saves: Fort +6, Ref +7, Will +4
 resist: fire 10
 speed: 30 ft., fly 20 ft. (perfect), other_semicolon 20 ft., fly 15 ft. (perfect) in chainmail ft.

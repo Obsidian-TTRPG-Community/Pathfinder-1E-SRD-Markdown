@@ -19,7 +19,7 @@ perception: +1
 senses: darkvision, low-light vision
 AC: 11, touch 11, flat-footed 11 (dex -1, size +2)
 HP: 5
-HD: 1d8+1
+hit_dice: 1d8+1
 saves: Fort +3, Ref -1, Will +1
 saves_other: +2 vs. spells and spell-like abilities
 immune: plant traits

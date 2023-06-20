@@ -20,7 +20,7 @@ perception: +8
 senses: darkvision, low-light vision
 AC: 14, touch 10, flat-footed 14 (natural +4)
 HP: 28
-HD: 3d8+15
+hit_dice: 3d8+15
 saves: Fort +8, Ref +5, Will +4
 DR: 2/-
 defensive_abilities: quills

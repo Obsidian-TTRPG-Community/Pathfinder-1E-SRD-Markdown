@@ -21,7 +21,7 @@ senses: darkvision, scent
 aura: misfortune
 AC: 27, touch 13, flat-footed 23 (dex +4, natural +14, size -1)
 HP: 150
-HD: 12d10+84
+hit_dice: 12d10+84
 saves: Fort +15, Ref +10, Will +11
 immune: cold, poison, mind-affecting effects
 resist: acid 10, electricity 10, fire 10

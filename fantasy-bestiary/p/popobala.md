@@ -22,7 +22,7 @@ aura: frightful presence, stench
 AC: 29, touch 17, flat-footed 22 (dex +6, dodge +1, natural +12)
 HP: 225
 HP_extra: fast healing 10; fast healing weakness see harvester of sorrow
-HD: 18d10+126
+hit_dice: 18d10+126
 saves: Fort +12, Ref +17, Will +14
 immune: disease, nausea, poison, sickened, stunning
 DR: 10/magic

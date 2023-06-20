@@ -20,7 +20,7 @@ perception: +26
 senses: darkvision, detect evil, detect magic, keen senses, scent, see invisibility
 AC: 23, touch 13, flat-footed 20 (dex +2, dodge +1, natural +10)
 HP: 114
-HD: 12d10+48
+hit_dice: 12d10+48
 saves: Fort +12, Ref +10, Will +9
 immune: fear
 DR: 10/evil

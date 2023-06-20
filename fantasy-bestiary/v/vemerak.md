@@ -20,7 +20,7 @@ senses: darkvision, tremorsense
 aura: spore cloud
 AC: 29, touch 11, flat-footed 26 (dex +3, natural +18, size -2)
 HP: 195
-HD: 17d8+119
+hit_dice: 17d8+119
 saves: Fort +13, Ref +8, Will +13
 immune: acid, electricity, disease, mind-affecting, poison
 resist: sonic 20

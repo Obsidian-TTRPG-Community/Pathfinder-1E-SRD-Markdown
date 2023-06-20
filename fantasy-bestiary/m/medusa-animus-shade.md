@@ -21,7 +21,7 @@ senses: darkvision
 aura: mental static
 AC: 16, touch 16, flat-footed 14 (deflection +4, dex +2)
 HP: 76
-HD: 8d10+32
+hit_dice: 8d10+32
 saves: Fort +6, Ref +8, Will +7
 immune: undead traits
 defensive_abilities: all-around vision, channel resistance +4, incorporeal, mental schism

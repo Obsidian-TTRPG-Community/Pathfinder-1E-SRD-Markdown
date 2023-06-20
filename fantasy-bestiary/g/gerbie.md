@@ -20,7 +20,7 @@ senses: low-light vision
 aura: friendship
 AC: 17, touch 15, flat-footed 13 (dex +3, dodge +1, natural +2, size +1)
 HP: 38
-HD: 7d6+14
+hit_dice: 7d6+14
 saves: Fort +3, Ref +8, Will +8
 DR: 10/cold iron
 SR: 15

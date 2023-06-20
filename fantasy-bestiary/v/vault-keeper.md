@@ -21,7 +21,7 @@ senses: darkvision, tremorsense
 AC: 28, touch 19, flat-footed 19 (dex +8, dodge +1, natural +9)
 HP: 200
 HP_extra: fast healing 5
-HD: 16d10+112
+hit_dice: 16d10+112
 saves: Fort +12, Ref +18, Will +14
 immune: elemental traits
 DR: 10/adamantine and bludgeoning

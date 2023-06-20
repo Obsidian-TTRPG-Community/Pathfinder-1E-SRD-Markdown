@@ -21,7 +21,7 @@ senses: darkvision, discern lies, low-light vision, see in darkness, true seeing
 AC: 46, touch 24, flat-footed 32 (dex +13, dodge +1, natural +22, profane +8, size -8)
 HP: 610
 HP_extra: regeneration 30; regeneration weakness deific or mythic
-HD: 33d10+429
+hit_dice: 33d10+429
 saves: Fort +31, Ref +24, Will +23
 immune: charm effects, cold, compulsion effects, fear effects, nonlethal damage, pain, petrification, poison
 resist: acid 30, electricity 30

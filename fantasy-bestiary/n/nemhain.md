@@ -21,7 +21,7 @@ senses: darkvision
 AC: 26, touch 26, flat-footed 17 (deflection +7, dex +8, dodge +1)
 HP: 225
 HP_extra: other profane regeneration 5 (electricity or good)
-HD: 18d8+144
+hit_dice: 18d8+144
 saves: Fort +13, Ref +16, Will +20
 immune: cold, undead traits
 resist: acid 10, fire 10

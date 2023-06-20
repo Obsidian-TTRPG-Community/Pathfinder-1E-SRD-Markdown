@@ -21,7 +21,7 @@ senses: blindsight, tremorsense
 aura: hypnotic lure
 AC: 15, touch 3, flat-footed 15 (dex -5, natural +12, size -2)
 HP: 119
-HD: 14d8+56
+hit_dice: 14d8+56
 saves: Fort +8, Ref -1, Will -1
 immune: acid, cold, ooze traits
 resist: electricity 20, fire 20

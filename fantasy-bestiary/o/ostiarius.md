@@ -21,7 +21,7 @@ senses: darkvision
 AC: 18, touch 12, flat-footed 16 (dex +2, natural +2, shield +4)
 HP: 52
 HP_extra: regeneration 2; regeneration weakness good weapons and spells
-HD: 7d10+14
+hit_dice: 7d10+14
 saves: Fort +7, Ref +4, Will +11
 immune: cold, magic missile
 speed: 30 ft.

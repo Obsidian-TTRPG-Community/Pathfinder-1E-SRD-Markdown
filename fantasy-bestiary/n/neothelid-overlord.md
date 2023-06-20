@@ -20,7 +20,7 @@ senses: blindsight, trace teleport
 aura: madness
 AC: 34, touch 6, flat-footed 34 (natural +28, size -4)
 HP: 400
-HD: 32d8+256
+hit_dice: 32d8+256
 saves: Fort +20, Ref +12, Will +24
 saves_other: +4 vs. psychic spells
 DR: 15/cold iron

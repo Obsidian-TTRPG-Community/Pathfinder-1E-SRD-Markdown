@@ -23,7 +23,7 @@ senses: blindsight, blindsight_other, darkvision
 AC: 25, touch 22, flat-footed 18 (dex +6, dodge +1, natural +3, monk +1, wis +4)
 HP: 51
 HP_extra: fast healing 5
-HD: 5d8++25
+hit_dice: 5d8++25
 saves: Fort +8, Ref +11, Will +9
 saves_other: +2 vs. enchantment
 immune: disease, spell completion and spell trigger effects, undead traits

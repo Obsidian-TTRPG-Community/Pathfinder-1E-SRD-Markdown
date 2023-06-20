@@ -20,7 +20,7 @@ perception: +14
 senses: darkvision, low-light vision
 AC: 28, touch 11, flat-footed 26 (armor +5, dex +2, natural +12, size -1)
 HP: 218
-HD: 19d8+133
+hit_dice: 19d8+133
 saves: Fort +18, Ref +8, Will +7
 defensive_abilities: rock catching, shadow cloak
 speed: 30 ft.

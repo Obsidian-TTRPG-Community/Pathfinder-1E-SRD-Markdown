@@ -20,7 +20,7 @@ perception: +18
 senses: tremorsense
 AC: 22, touch 8, flat-footed 22 (natural +14, size -2)
 HP: 100
-HD: 11d10+40
+hit_dice: 11d10+40
 saves: Fort +5, Ref +5, Will +5
 immune: gaze attacks, visual effects and illusions, sight-based attacks, construct traits
 DR: 5/adamantine and good

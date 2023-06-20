@@ -20,7 +20,7 @@ senses: all-around vision, low-light vision, tremorsense
 AC: 25, touch 17, flat-footed 18 (dex +7, natural +8)
 HP: 138
 HP_extra: fast healing 5
-HD: 12d8+84
+hit_dice: 12d8+84
 saves: Fort +13, Ref +11, Will +9
 immune: blindness, cold, deafness, disease, infestation, mind-affecting effects, ooze traits, sonic
 resist: acid 10, electricity 10, fire 10

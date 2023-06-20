@@ -20,7 +20,7 @@ perception: +8
 senses: darkvision, scent
 AC: 17, touch 11, flat-footed 16 (armor +2, dex +1, natural +3, shield +1)
 HP: 16
-HD: 3d8+3
+hit_dice: 3d8+3
 saves: Fort +2, Ref +4, Will +1
 speed: 30 ft.
 melee: morningstar +5 (1d8+3)

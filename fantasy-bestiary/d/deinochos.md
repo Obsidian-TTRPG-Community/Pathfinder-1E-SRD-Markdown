@@ -20,7 +20,7 @@ perception: +10
 senses: blindsense, dark vision, detect chaos, detect evil, scent
 AC: 18, touch 11, flat-footed 18 (natural +7, size +1)
 HP: 51
-HD: 6d10+18
+hit_dice: 6d10+18
 saves: Fort +8, Ref +4, Will +6
 immune: cold, mind-affecting effects, poison
 resist: acid 10, electricity 10, fire 10

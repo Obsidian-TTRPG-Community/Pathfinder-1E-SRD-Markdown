@@ -21,7 +21,7 @@ aura: hemophile
 AC: 19, touch 18, flat-footed 15 (armor +1, dex +4, profane +4)
 HP: 102
 HP_extra: fast healing 5
-HD: 12d8+48
+hit_dice: 12d8+48
 saves: Fort +12, Ref +12, Will +13
 immune: undead traits
 DR: 10/good and piercing

@@ -23,7 +23,7 @@ aura: blinding beauty (30 ft., DC 24),
 AC: 29, touch 28, flat-footed 21 (deflection +10, dex +7, dodge +1, natural +1)
 HP: 152
 HP_extra: HD 16
-HD: 8d6+8d8+88
+hit_dice: 8d6+8d8+88
 saves: Fort +18, Ref +25, Will +27
 saves_other: +2 vs. death effects, disease, mind-affecting effects, poison, sleep effects, and stunning
 DR: 10/cold iron

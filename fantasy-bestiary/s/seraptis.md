@@ -22,7 +22,7 @@ aura: gaze of despair, unholy aura
 AC: 30, touch 20, flat-footed 24 (deflection +4, dex +6, natural +10)
 HP: 217
 HP_extra: other blood healing
-HD: 15d10+135
+hit_dice: 15d10+135
 saves: Fort +22, Ref +15, Will +17
 immune: bleed, electricity, poison
 resist: acid 10, cold 10, fire 10

@@ -21,7 +21,7 @@ senses: darkvision
 aura: mental disarmament, mucus cloud
 AC: 17, touch 15, flat-footed 13 (dex +3, dodge +1, natural +2, size +1)
 HP: 37
-HD: 5d8+15
+hit_dice: 5d8+15
 saves: Fort +3, Ref +4, Will +7
 immune: mind-affecting effects
 SR: 15

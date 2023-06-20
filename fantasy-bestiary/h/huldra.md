@@ -20,7 +20,7 @@ senses: darkvision, detect snares and pits, low-light vision, scent
 AC: 17, touch 14, flat-footed 13 (dex +3, dodge +1, natural +3)
 HP: 38
 HP_extra: regeneration 3; regeneration weakness acid or fire
-HD: 7d6+14
+hit_dice: 7d6+14
 saves: Fort +4, Ref +8, Will +7
 immune: charm effects, compulsion effects
 resist: cold 10

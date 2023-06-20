@@ -23,7 +23,7 @@ senses: low-light vision
 AC: 27, touch 12, flat-footed 25 (armor +5, deflection +1, dex +2, natural +10, size -1)
 HP: 170
 HP_extra: HD 16
-HD: 14d8+2d10+96
+hit_dice: 14d8+2d10+96
 saves: Fort +18, Ref +9, Will +9
 immune: cold
 defensive_abilities: rock catching

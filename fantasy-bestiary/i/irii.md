@@ -22,7 +22,7 @@ aura: aura of fate
 AC: 34, touch 26, flat-footed 25 (dex +8, dodge +1, insight +7, natural +8)
 HP: 333
 HP_extra: fast healing 10
-HD: 23d10+207
+hit_dice: 23d10+207
 saves: Fort +16, Ref +22, Will +18
 immune: disease, paralysis, slow, stun
 DR: 15/chaos or lawful

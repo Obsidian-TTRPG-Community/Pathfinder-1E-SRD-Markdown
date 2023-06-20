@@ -19,7 +19,7 @@ perception: +6
 senses: darkvision, tremorsense, tremorsense_other
 AC: 16, touch 13, flat-footed 13 (dex +2, dodge +1, natural +3)
 HP: 15
-HD: 2d10+4
+hit_dice: 2d10+4
 saves: Fort +2, Ref +5, Will +4
 speed: 30 ft., water stride 50 ft.
 melee: spear +4 (1d8+3/x3), bite -1 (1d6+1)

@@ -20,7 +20,7 @@ senses: all-around vision, blindsense, low-light vision
 aura: unsettling drone
 AC: 25, touch 7, flat-footed 25 (dex -1, natural +18, size -2)
 HP: 149
-HD: 13d8+91
+hit_dice: 13d8+91
 saves: Fort +14, Ref +5, Will +5
 immune: plant traits, poison
 speed: 10 ft.

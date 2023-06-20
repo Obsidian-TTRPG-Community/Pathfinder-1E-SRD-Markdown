@@ -20,7 +20,7 @@ senses: blindsight
 aura: magnetic pulse
 AC: 6, touch 6, flat-footed 6 (size -4)
 HP: 241
-HD: 21d8+147
+hit_dice: 21d8+147
 saves: Fort +14, Ref +7, Will +2
 immune: acid, electricity, fire, bludgeoning and piercing damage, ooze traits
 resist: cold 30

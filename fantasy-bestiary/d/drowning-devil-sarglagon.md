@@ -21,7 +21,7 @@ senses: darkvision, see in darkness, see invisibility
 aura: heavy aura
 AC: 21, touch 17, flat-footed 13 (dex +7, dodge +1, natural +4, size -1)
 HP: 103
-HD: 9d10+54
+hit_dice: 9d10+54
 saves: Fort +12, Ref +10, Will +11
 immune: fire, poison
 resist: acid 10, cold 10

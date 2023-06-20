@@ -21,7 +21,7 @@ senses: darkvision
 aura: unnatural aura
 AC: 18, touch 12, flat-footed 17 (dex +1, natural +6, size +1)
 HP: 42
-HD: 5d8+20
+hit_dice: 5d8+20
 saves: Fort +5, Ref +2, Will +6
 speed: 30 ft., swim 20 ft.
 melee: 2 claws +9 (1d3+4 plus grab)

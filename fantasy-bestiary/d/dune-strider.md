@@ -22,7 +22,7 @@ senses: darkvision, tremorsense
 AC: 25, touch 14, flat-footed 20 (armor +3, dex +4, dodge +1, natural +8, size -1)
 HP: 152
 HP_extra: HD 13
-HD: 10d10+3d10+81
+hit_dice: 10d10+3d10+81
 saves: Fort +12, Ref +14, Will +12
 speed: 50 ft.
 melee: mwk falchion +17/+12/+7 (2d4+6/18-20), 2 claws +11 (1d6+2 plus grab), sting +11 (1d6+2 plus poison)

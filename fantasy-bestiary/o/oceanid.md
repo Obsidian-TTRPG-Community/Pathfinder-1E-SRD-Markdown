@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, tremorsense, tremorsense_other
 AC: 21, touch 15, flat-footed 16 (dex +4, dodge +1, natural +6)
 HP: 76
 HP_extra: fast healing 10; fast healing weakness in salt water only
-HD: 9d6+45
+hit_dice: 9d6+45
 saves: Fort +8, Ref +10, Will +10
 immune: acid
 resist: cold 30

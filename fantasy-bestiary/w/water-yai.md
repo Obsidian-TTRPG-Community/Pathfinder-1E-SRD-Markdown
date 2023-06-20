@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 AC: 32, touch 11, flat-footed 29 (armor +6, dex +3, natural +15, size -2)
 HP: 297
 HP_extra: regeneration 10; regeneration weakness fire or good spells
-HD: 22d10+176
+hit_dice: 22d10+176
 saves: Fort +21, Ref +10, Will +18
 immune: acid
 defensive_abilities: freedom of movement

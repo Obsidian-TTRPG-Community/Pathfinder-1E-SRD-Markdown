@@ -20,7 +20,7 @@ perception: +14
 senses: low-light vision, detect evil, detect good
 AC: 18, touch 18, flat-footed 14 (dex +3, dodge +1, size +4)
 HP: 45
-HD: 10d6+10
+hit_dice: 10d6+10
 saves: Fort +4, Ref +10, Will +7
 immune: weapon damage
 DR: 2/cold iron

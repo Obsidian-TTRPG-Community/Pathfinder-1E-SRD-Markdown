@@ -20,7 +20,7 @@ senses: blindsight, low-light vision, scent
 aura: honesty
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 16
-HD: 3d10
+hit_dice: 3d10
 saves: Fort +3, Ref +5, Will +3
 immune: gaze attacks, visual effects and illusions, attacks that rely on sight
 speed: 20 ft., fly 50 ft. (average)

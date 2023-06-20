@@ -21,7 +21,7 @@ senses: darkvision, see in darkness
 aura: risk
 AC: 17, touch 12, flat-footed 16 (dex +1, luck +1, natural +5)
 HP: 42
-HD: 5d10+15
+hit_dice: 5d10+15
 saves: Fort +4, Ref +5, Will +6
 immune: fire, poison
 resist: acid 10, cold 10

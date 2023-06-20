@@ -20,7 +20,7 @@ senses: darkvision, low-light vision, oaksight
 aura: fear aura
 AC: 19, touch 7, flat-footed 19 (dex -1, natural +12, size -2)
 HP: 95
-HD: 10d8+50
+hit_dice: 10d8+50
 saves: Fort +12, Ref +2, Will +5
 immune: electricity, fire, plant traits
 defensive_abilities: spell absorption

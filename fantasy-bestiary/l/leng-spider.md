@@ -21,7 +21,7 @@ senses: arcane sight, darkvision, low-light vision, tremorsense
 AC: 29, touch 17, flat-footed 20 (dex +9, natural +12, size -2)
 HP: 202
 HP_extra: fast healing 10
-HD: 15d10+120
+hit_dice: 15d10+120
 saves: Fort +17, Ref +18, Will +10
 immune: cold, confusion and insanity effects, poison, sonic
 SR: 25

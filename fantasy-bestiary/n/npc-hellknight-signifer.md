@@ -22,7 +22,7 @@ perception: +2
 AC: 17, touch 10, flat-footed 17 (armor +7)
 HP: 46
 HP_extra: HD 8
-HD: 6d6+2d8+14
+hit_dice: 6d6+2d8+14
 saves: Fort +4, Ref +4, Will +9
 saves_other: +2 vs. visual effects, +2 vs. poison
 resist: fire 5

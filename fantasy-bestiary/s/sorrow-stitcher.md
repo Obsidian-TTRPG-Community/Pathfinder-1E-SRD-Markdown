@@ -19,7 +19,7 @@ perception: +17
 senses: low-light vision
 AC: 22, touch 16, flat-footed 16 (dex +5, dodge +1, natural +6)
 HP: 90
-HD: 12d6+48
+hit_dice: 12d6+48
 saves: Fort +8, Ref +13, Will +10
 DR: 5/cold iron and piercing
 speed: 30 ft.

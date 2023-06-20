@@ -22,7 +22,7 @@ senses: darkvision, tremorsense
 AC: 24, touch 10, flat-footed 21 (armor +5, dex +3, natural +9, rage -2, size -1)
 HP: 171
 HP_extra: HD 11
-HD: 10d10+1d12+110
+hit_dice: 10d10+1d12+110
 saves: Fort +15, Ref +11, Will +13
 speed: 45 ft.
 melee: +1 greatclub +20/+15/+10 (1d10+14), 2 claws +15 (1d8+5 plus grab), sting +15 (1d6+5 plus poison)

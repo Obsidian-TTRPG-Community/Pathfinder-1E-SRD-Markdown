@@ -19,7 +19,7 @@ perception: +10
 senses: low-light vision
 AC: 17, touch 14, flat-footed 13 (dex +3, dodge +1, natural +3)
 HP: 38
-HD: 7d6+14
+hit_dice: 7d6+14
 saves: Fort +4, Ref +8, Will +7
 immune: poison
 speed: 30 ft., burrow 20 ft.

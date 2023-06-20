@@ -19,7 +19,7 @@ senses: low-light vision
 aura: incorrigible charm
 AC: 20, touch 16, flat-footed 14 (dex +5, dodge +1, natural +4)
 HP: 83
-HD: 9d6+52
+hit_dice: 9d6+52
 saves: Fort +6, Ref +11, Will +9
 DR: 10/cold iron
 speed: 40 ft.

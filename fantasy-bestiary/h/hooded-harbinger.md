@@ -20,7 +20,7 @@ senses: darkvision, see invisibility
 aura: profane reek, unnatural aura
 AC: 27, touch 17, flat-footed 23 (dex +4, natural +10, profane +3)
 HP: 161
-HD: 17d8+85
+hit_dice: 17d8+85
 saves: Fort +12, Ref +11, Will +13
 immune: death effects, mind-affecting effects, poison
 resist: cold 10

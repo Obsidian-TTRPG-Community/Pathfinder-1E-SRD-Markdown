@@ -20,7 +20,7 @@ perception: +5
 senses: darkvision
 AC: 20, touch 10, flat-footed 18 (dex +2, natural +10, size -2)
 HP: 84
-HD: 8d8+48
+hit_dice: 8d8+48
 saves: Fort +12, Ref +4, Will +3
 immune: mind-affecting effects
 speed: 30 ft., swim 60 ft.

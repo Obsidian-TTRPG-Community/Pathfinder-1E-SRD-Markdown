@@ -19,7 +19,7 @@ senses: darkvision, low-light vision
 aura: magnetism
 AC: 18, touch 8, flat-footed 18 (dex -1, natural +10, size -1)
 HP: 140
-HD: 20d10+30
+hit_dice: 20d10+30
 saves: Fort +6, Ref +5, Will +1
 immune: construct traits
 defensive_abilities: hardness 20, magnetism

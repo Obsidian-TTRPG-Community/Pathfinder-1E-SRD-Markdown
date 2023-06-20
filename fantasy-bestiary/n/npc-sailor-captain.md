@@ -21,7 +21,7 @@ perception: +10
 AC: 25, touch 11, flat-footed 24 (armor +10, dex +1, natural +1, shield +3)
 HP: 89
 HP_extra: HD 12
-HD: 3d8+9d10+26
+hit_dice: 3d8+9d10+26
 saves: Fort +11, Ref +5, Will +8
 saves_other: +2 vs. fear
 defensive_abilities: bravery +2

@@ -21,7 +21,7 @@ senses: darkvision, see invisibility, true seeing
 aura: frightful presence, protective aura, quell the profane
 AC: 40, touch 22, flat-footed 27 (dex +13, natural +18, size -1)
 HP: 472
-HD: 27d10+324
+hit_dice: 27d10+324
 saves: Fort +27, Ref +22, Will +21
 saves_other: +4 vs. poison
 immune: electricity, petrification

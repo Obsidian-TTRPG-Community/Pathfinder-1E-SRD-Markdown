@@ -20,7 +20,7 @@ perception: +22
 aura: frightful presence
 AC: 29, touch 10, flat-footed 28 (dex +1, natural +19, size -1)
 HP: 172
-HD: 15d12+75
+hit_dice: 15d12+75
 saves: Fort +14, Ref +10, Will +13
 immune: acid, paralysis, sleep
 DR: 5/magic

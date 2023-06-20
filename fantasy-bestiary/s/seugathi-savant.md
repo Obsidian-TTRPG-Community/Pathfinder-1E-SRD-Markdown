@@ -21,7 +21,7 @@ aura: madness
 AC: 23, touch 15, flat-footed 16 (dex +6, dodge +1, natural +8, size -2)
 HP: 142
 HP_extra: fast healing 5
-HD: 15d8+75
+hit_dice: 15d8+75
 saves: Fort +12, Ref +11, Will +13
 saves_other: +4 vs. psychic spells
 immune: mind-affecting effects, poison

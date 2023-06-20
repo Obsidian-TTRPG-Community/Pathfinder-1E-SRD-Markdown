@@ -22,7 +22,7 @@ aura: radiance
 AC: 38, touch 38, flat-footed 31 (dex +6, dodge +1, natural +25, size -4)
 HP: 406
 HP_extra: regeneration 20; regeneration weakness evil spells or effects
-HD: 28d12+224
+hit_dice: 28d12+224
 saves: Fort +24, Ref +22, Will +23
 immune: ability damage, ability drain, blindness, dazzled, energy drain, fire, mind-affecting effects, negative energy, paralysis, sleep
 resist: acid 20, cold 20, electricity 20

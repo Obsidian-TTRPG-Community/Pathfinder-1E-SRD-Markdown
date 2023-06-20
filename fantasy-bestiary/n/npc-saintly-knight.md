@@ -23,7 +23,7 @@ senses: darkvision
 aura: courage, resolve
 AC: 21, touch 9, flat-footed 21 (armor +10, dex -1, shield +2)
 HP: 72
-HD: 9d10+18
+hit_dice: 9d10+18
 saves: Fort +10, Ref +5, Will +12
 immune: charm, disease, fear
 resist: fire 10

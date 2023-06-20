@@ -19,7 +19,7 @@ perception: +12
 senses: tremorsense
 AC: 27, touch 9, flat-footed 26 (dex +1, natural +18, size -2)
 HP: 178
-HD: 17d8+102
+hit_dice: 17d8+102
 saves: Fort +15, Ref +8, Will +8
 immune: plant traits
 DR: 10/magic slashing or bludgeoning

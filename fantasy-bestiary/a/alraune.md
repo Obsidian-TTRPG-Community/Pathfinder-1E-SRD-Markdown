@@ -20,7 +20,7 @@ senses: low-light vision
 aura: calming fragrance
 AC: 27, touch 10, flat-footed 26 (dex +1, natural +17, size -1)
 HP: 199
-HD: 19d8+114
+hit_dice: 19d8+114
 saves: Fort +17, Ref +9, Will +11
 immune: plant traits
 SR: 24

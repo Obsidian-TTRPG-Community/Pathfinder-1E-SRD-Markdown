@@ -19,7 +19,7 @@ perception: +0
 senses: tremorsense
 AC: 9, touch 9, flat-footed 9 (dex -1)
 HP: 5
-HD: 1d8+1
+hit_dice: 1d8+1
 saves: Fort +3, Ref -1, Will +0
 immune: gaze attacks, mind-affecting effects, sight-based attacks, visual effects
 defensive_abilities: protective mucus

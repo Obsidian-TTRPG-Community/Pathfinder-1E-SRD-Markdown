@@ -22,7 +22,7 @@ aura: corruption, unholy aura
 AC: 42, touch 22, flat-footed 32 (deflection +4, dex +10, natural +20, size -2)
 HP: 574
 HP_extra: regeneration 15; regeneration weakness good
-HD: 28d10+420
+hit_dice: 28d10+420
 saves: Fort +34, Ref +23, Will +27
 immune: death effects, disease, electricity, mind-affecting effects, poison
 resist: acid 30, cold 30, fire 30

@@ -22,7 +22,7 @@ aura: frightful presence, unholy aura
 AC: 46, touch 31, flat-footed 39 (deflection +4, dex +7, natural +15, profane +12, size -2)
 HP: 676
 HP_extra: regeneration 30; regeneration weakness deific or mythic
-HD: 33d10+495
+hit_dice: 33d10+495
 saves: Fort +37, Ref +24, Will +33
 immune: ability damage, ability drain, charm effects, compulsion effects, cold, death effects, electricity, energy drain, petrification, poison
 resist: acid 30, fire 30

@@ -20,7 +20,7 @@ senses: low-light vision, true seeing
 AC: 37, touch 30, flat-footed 26 (deflection +9, dex +9, dodge +2, natural +7)
 HP: 333
 HP_extra: other sustaining joy
-HD: 23d6+253
+hit_dice: 23d6+253
 saves: Fort +18, Ref +23, Will +21
 immune: sonic
 DR: 15/cold iron and magic

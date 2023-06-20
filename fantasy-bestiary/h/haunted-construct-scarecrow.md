@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: unholy beacon
 AC: 17, touch 11, flat-footed 17 (deflection +1, natural +6)
 HP: 47
-HD: 5d10+20
+hit_dice: 5d10+20
 saves: Fort +1, Ref +3, Will +3
 immune: cold, construct traits
 defensive_abilities: channel resistance +4

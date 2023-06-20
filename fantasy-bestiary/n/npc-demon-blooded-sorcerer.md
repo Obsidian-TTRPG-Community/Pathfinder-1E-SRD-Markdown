@@ -22,7 +22,7 @@ perception: +10
 senses: darkvision
 AC: 22, touch 13, flat-footed 19 (armor +5, dex +2, dodge +1, natural +4)
 HP: 152
-HD: 18d6+87
+hit_dice: 18d6+87
 saves: Fort +11, Ref +9, Will +13
 saves_other: +4 vs. poison
 resist: electricity 10

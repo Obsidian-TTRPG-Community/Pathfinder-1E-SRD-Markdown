@@ -21,7 +21,7 @@ senses: darkvision, detect animals or plants, detect evil, low-light vision, tre
 aura: holy aura
 AC: 36, touch 21, flat-footed 28 (deflection +4, dex +8, natural +15, size -1)
 HP: 372
-HD: 24d10+240
+hit_dice: 24d10+240
 saves: Fort +28, Ref +20, Will +26
 immune: electricity, petrification
 resist: cold 10, fire 10

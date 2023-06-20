@@ -23,7 +23,7 @@ senses: darkvision, low-light vision
 AC: 13, touch 10, flat-footed 13 (deflection +1, dex -1, natural +3)
 HP: 59
 HP_extra: HD 7
-HD: 3d8+4d6+32
+hit_dice: 3d8+4d6+32
 saves: Fort +8, Ref +2, Will +5
 saves_other: +2 vs. poison
 resist: electricity 5

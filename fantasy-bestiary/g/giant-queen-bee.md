@@ -19,7 +19,7 @@ perception: +1
 senses: darkvision
 AC: 17, touch 9, flat-footed 17 (natural +8, size -1)
 HP: 59
-HD: 7d8+28
+hit_dice: 7d8+28
 saves: Fort +9, Ref +2, Will +3
 immune: mind-affecting effects
 weak: vulnerable to smoke

@@ -20,7 +20,7 @@ perception: +31
 senses: darkvision, hear heartbeat
 AC: 26, touch 26, flat-footed 14 (deflection +4, dex +11, dodge +1)
 HP: 161
-HD: 19d8+76
+hit_dice: 19d8+76
 saves: Fort +10, Ref +19, Will +18
 immune: undead traits
 defensive_abilities: incorporeal

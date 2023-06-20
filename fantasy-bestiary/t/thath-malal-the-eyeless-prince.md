@@ -21,7 +21,7 @@ perception: +22
 senses: blindsight, trace teleport
 AC: 28, touch 8, flat-footed 28 (natural +20, size -2)
 HP: 178
-HD: 17d8+102
+hit_dice: 17d8+102
 saves: Fort +13, Ref +5, Will +14
 DR: 10/cold iron
 SR: 24

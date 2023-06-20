@@ -19,7 +19,7 @@ perception: +15
 senses: darkvision
 AC: 20, touch 15, flat-footed 15 (dex +4, dodge +1, natural +5)
 HP: 94
-HD: 9d10+45
+hit_dice: 9d10+45
 saves: Fort +8, Ref +10, Will +9
 saves_other: +4 vs. mind-affecting effects
 immune: calm emotions

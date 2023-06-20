@@ -21,7 +21,7 @@ senses: darkvision
 AC: 21, touch 15, flat-footed 16 (dex +4, dodge +1, natural +6)
 HP: 85
 HP_extra: regeneration 5; regeneration weakness chaotic or magic
-HD: 10d10+30
+hit_dice: 10d10+30
 saves: Fort +6, Ref +11, Will +14
 immune: disease, electricity, mind-affecting effects
 resist: cold 10, fire 10

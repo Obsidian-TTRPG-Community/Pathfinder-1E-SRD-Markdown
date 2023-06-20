@@ -20,7 +20,7 @@ senses: darkvision, scent, taste fear
 aura: frightful presence
 AC: 21, touch 15, flat-footed 15 (dex +4, dodge +1, natural +6)
 HP: 75
-HD: 10d8+30
+hit_dice: 10d8+30
 saves: Fort +7, Ref +7, Will +9
 defensive_abilities: alien anatomy
 speed: 40 ft.

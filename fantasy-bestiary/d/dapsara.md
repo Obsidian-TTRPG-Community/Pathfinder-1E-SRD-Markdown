@@ -20,7 +20,7 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 16, touch 12, flat-footed 14 (dex +2, natural +4)
 HP: 32
-HD: 5d10+5
+hit_dice: 5d10+5
 saves: Fort +2, Ref +6, Will +8
 saves_other: +4 vs. poison
 immune: petrification

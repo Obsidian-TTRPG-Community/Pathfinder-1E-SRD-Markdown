@@ -21,7 +21,7 @@ aura: tendrils
 AC: 22, touch 22, flat-footed 13 (deflection +5, dex +9, size -2)
 HP: 126
 HP_extra: fast healing 10
-HD: 12d8+72
+hit_dice: 12d8+72
 saves: Fort +10, Ref +13, Will +5
 immune: acid, aging effects, ooze traits, piercing damage
 resist: electricity 10

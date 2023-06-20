@@ -20,7 +20,7 @@ perception: +20
 senses: darkvision
 AC: 30, touch 16, flat-footed 22 (dex +6, dodge +2, natural +14, size -2)
 HP: 202
-HD: 16d10+114
+hit_dice: 16d10+114
 saves: Fort +14, Ref +18, Will +6
 immune: elemental traits
 DR: 10/-

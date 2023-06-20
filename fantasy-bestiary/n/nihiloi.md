@@ -22,7 +22,7 @@ aura: tendrils
 AC: 23, touch 18, flat-footed 15 (dex +7, dodge +1, natural +5)
 HP: 135
 HP_extra: fast healing 5; fast healing weakness only in shadows
-HD: 10d10+80
+hit_dice: 10d10+80
 saves: Fort +11, Ref +16, Will +12
 immune: cold
 defensive_abilities: malleable

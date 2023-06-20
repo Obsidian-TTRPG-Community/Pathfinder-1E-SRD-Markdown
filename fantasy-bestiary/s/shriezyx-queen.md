@@ -20,7 +20,7 @@ senses: darkvision, tremorsense
 AC: 20, touch 12, flat-footed 17 (dex +3, natural +8, size -1)
 HP: 104
 HP_extra: regeneration 5; regeneration weakness fire
-HD: 11d8+55
+hit_dice: 11d8+55
 saves: Fort +9, Ref +6, Will +10
 immune: mind-affecting effects
 defensive_abilities: ferocity

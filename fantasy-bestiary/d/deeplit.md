@@ -20,7 +20,7 @@ senses: darkvision
 aura: palelight
 AC: 19, touch 12, flat-footed 17 (armor +4, dex +2, natural +3)
 HP: 52
-HD: 7d8+21
+hit_dice: 7d8+21
 saves: Fort +5, Ref +4, Will +8
 immune: blindness, undead traits
 weak: pattern susceptibility

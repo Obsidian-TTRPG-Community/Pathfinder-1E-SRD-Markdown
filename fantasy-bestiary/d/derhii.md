@@ -19,7 +19,7 @@ perception: +14
 senses: darkvision, scent
 AC: 18, touch 12, flat-footed 15 (dex +3, natural +6, size -1)
 HP: 59
-HD: 7d10+21
+hit_dice: 7d10+21
 saves: Fort +5, Ref +8, Will +8
 speed: 30 ft., fly 60 ft. (poor), climb 30 ft.
 melee: mwk falchion +12/+7 (2d6+7/18-20)

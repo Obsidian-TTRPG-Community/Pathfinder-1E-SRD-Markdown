@@ -21,7 +21,7 @@ senses: blindsight, low-light vision, see in darkness
 aura: whispers
 AC: 35, touch 35, flat-footed 24 (deflection +9, dex +10, dodge +1, insight +6, size -1)
 HP: 363
-HD: 22d6+286
+hit_dice: 22d6+286
 saves: Fort +20, Ref +23, Will +21
 immune: cold, disease, mind-affecting effects, poison, sonic
 DR: 15/cold iron

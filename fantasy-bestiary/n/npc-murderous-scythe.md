@@ -22,7 +22,7 @@ perception: +24
 senses: low-light vision
 AC: 26, touch 12, flat-footed 26 (armor +12, deflection +2, natural +2)
 HP: 144
-HD: 4d8+6d10+7d8+57
+hit_dice: 4d8+6d10+7d8+57
 saves: Fort +15, Ref +8, Will +11
 saves_other: +2 vs. enchantments, +2 vs. fear, +3 vs. poison, +4 vs. fey and plant-targeted effects
 defensive_abilities: bravery +2, improved uncanny dodge

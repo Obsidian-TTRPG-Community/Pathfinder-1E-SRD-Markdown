@@ -20,7 +20,7 @@ senses: darkvision, detect secret doors, low-light vision, true seeing
 AC: 33, touch 8, flat-footed 33 (natural +25, size -2)
 HP: 312
 HP_extra: fast healing 10
-HD: 25d10+175
+hit_dice: 25d10+175
 saves: Fort +15, Ref +14, Will +21
 immune: poison, sonic
 resist: acid 20

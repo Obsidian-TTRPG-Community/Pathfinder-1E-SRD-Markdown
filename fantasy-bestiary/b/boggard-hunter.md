@@ -23,7 +23,7 @@ senses: darkvision, low-light vision
 AC: 18, touch 11, flat-footed 17 (armor +4, dex +1, natural +3)
 HP: 53
 HP_extra: HD 6
-HD: 3d8+3d10+24
+hit_dice: 3d8+3d10+24
 saves: Fort +10, Ref +6, Will +4
 speed: 20 ft., swim 30 ft.
 melee: morningstar +9 (1d8+4), tongue +4 touch (sticky tongue)

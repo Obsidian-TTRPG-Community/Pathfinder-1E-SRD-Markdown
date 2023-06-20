@@ -20,7 +20,7 @@ perception: +0
 senses: darkvision
 AC: 20, touch 20, flat-footed 18 (dex +2, size +8)
 HP: 18
-HD: 4d8
+hit_dice: 4d8
 saves: Fort +4, Ref +3, Will +1
 immune: mind-affecting effects
 defensive_abilities: swarm traits

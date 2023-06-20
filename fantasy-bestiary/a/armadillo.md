@@ -19,7 +19,7 @@ perception: +8
 senses: scent
 AC: 16, touch 14, flat-footed 14 (dex +2, natural +2, size +2)
 HP: 4
-HD: 1d8
+hit_dice: 1d8
 saves: Fort +2, Ref +4, Will +1
 defensive_abilities: protective ball
 speed: 30 ft., burrow 5 ft.

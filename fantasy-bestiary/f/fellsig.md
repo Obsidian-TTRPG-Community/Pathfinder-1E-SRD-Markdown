@@ -20,7 +20,7 @@ perception: +9
 senses: darkvision, tremorsense
 AC: 15, touch 10, flat-footed 15 (natural +5)
 HP: 27
-HD: 5d8+5
+hit_dice: 5d8+5
 saves: Fort +2, Ref +1, Will +5
 immune: fire, undead traits
 defensive_abilities: molten heart

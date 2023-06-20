@@ -21,7 +21,7 @@ senses: blindsight, darkvision, low-light vision, true seeing
 aura: protective aura
 AC: 32, touch 14, flat-footed 27 (dex +4, dodge +1, natural +18, size -1)
 HP: 270
-HD: 20d10+160
+hit_dice: 20d10+160
 saves: Fort +20, Ref +12, Will +16
 saves_other: +4 vs. evil
 immune: acid, cold, petrification, poison

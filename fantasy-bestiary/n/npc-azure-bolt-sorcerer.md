@@ -22,7 +22,7 @@ perception: +11
 senses: see invisibility
 AC: 22, touch 15, flat-footed 19 (armor +4, deflection +2, dex +2, dodge +1, natural +3)
 HP: 141
-HD: 13d6+93
+hit_dice: 13d6+93
 saves: Fort +10, Ref +10, Will +9
 resist: electricity 10
 speed: 30 ft., fly 60 ft. (good)

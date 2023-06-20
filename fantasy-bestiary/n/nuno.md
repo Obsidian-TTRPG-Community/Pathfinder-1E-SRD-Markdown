@@ -19,7 +19,7 @@ perception: +6
 senses: tremorsense
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 3
-HD: 1d6
+hit_dice: 1d6
 saves: Fort +0, Ref +4, Will +4
 DR: 2/cold iron
 defensive_abilities: ant affinity

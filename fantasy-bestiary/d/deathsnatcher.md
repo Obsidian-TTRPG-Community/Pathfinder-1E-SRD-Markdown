@@ -20,7 +20,7 @@ senses: deathwatch, scent, see in darkness
 AC: 33, touch 21, flat-footed 27 (deflection +5, dex +5, dodge +1, natural +12)
 HP: 313
 HP_extra: regeneration 10; regeneration weakness positive energy
-HD: 19d10+209
+hit_dice: 19d10+209
 saves: Fort +19, Ref +16, Will +18
 immune: death effects
 resist: cold 30, fire 30

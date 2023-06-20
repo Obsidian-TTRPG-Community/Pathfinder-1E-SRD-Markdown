@@ -20,7 +20,7 @@ perception: +0
 senses: blindsight
 AC: 18, touch 18, flat-footed 14 (dex +4, size +4)
 HP: 39
-HD: 6d8+12
+hit_dice: 6d8+12
 saves: Fort +7, Ref +6, Will +2
 immune: mind-affecting effects, swarm traits, weapon damage
 weak: susceptible to salt (see giant leech)

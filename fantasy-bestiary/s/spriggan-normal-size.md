@@ -20,7 +20,7 @@ perception: +7
 senses: low-light vision
 AC: 17, touch 15, flat-footed 13 (armor +2, dex +4, size +1)
 HP: 22
-HD: 4d8+4
+hit_dice: 4d8+4
 saves: Fort +5, Ref +5, Will +1
 speed: 20 ft.
 melee: mwk morningstar +5 (1d6-1)

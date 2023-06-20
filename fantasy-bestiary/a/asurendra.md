@@ -22,7 +22,7 @@ aura: dimensional lock, elusive
 AC: 35, touch 25, flat-footed 26 (deflection +5, dex +8, dodge +1, insight +3, natural +10, size -2)
 HP: 385
 HP_extra: regeneration 10; regeneration weakness good weapons, good spells
-HD: 22d10+264
+hit_dice: 22d10+264
 saves: Fort +25, Ref +17, Will +20
 saves_other: +2 vs. enchantment spells
 immune: curse effects, disease, flanking, poison, polymorph

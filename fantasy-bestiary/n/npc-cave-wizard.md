@@ -21,7 +21,7 @@ INI: +3
 perception: +12
 AC: 15, touch 10, flat-footed 15 (armor +4, deflection +1, dex -1, natural +1)
 HP: 92
-HD: 9d6+58
+hit_dice: 9d6+58
 saves: Fort +8, Ref +2, Will +9
 saves_other: +2 vs. poison, spells, and spell-like abilities
 immune: fire (108 points)

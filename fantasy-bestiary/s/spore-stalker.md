@@ -19,7 +19,7 @@ perception: +14
 senses: darkvision, low-light vision
 AC: 20, touch 13, flat-footed 17 (dex +3, natural +7)
 HP: 85
-HD: 9d8+45
+hit_dice: 9d8+45
 saves: Fort +11, Ref +6, Will +5
 immune: plant traits
 defensive_abilities: reactive escape

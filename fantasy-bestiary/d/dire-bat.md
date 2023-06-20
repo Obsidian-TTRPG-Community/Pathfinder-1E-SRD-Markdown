@@ -19,7 +19,7 @@ perception: +12
 senses: blindsense
 AC: 14, touch 11, flat-footed 12 (dex +2, natural +3, size -1)
 HP: 22
-HD: 4d8+4
+hit_dice: 4d8+4
 saves: Fort +5, Ref +6, Will +3
 speed: 20 ft., fly 40 ft. (good)
 melee: bite +5 (1d8+4)

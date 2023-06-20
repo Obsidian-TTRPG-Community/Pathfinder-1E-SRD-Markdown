@@ -21,7 +21,7 @@ perception: +7
 senses: darkvision, low-light vision
 AC: 17, touch 12, flat-footed 15 (armor +5, dex +2)
 HP: 10
-HD: 1d8+2
+hit_dice: 1d8+2
 saves: Fort +3, Ref +2, Will +5
 immune: paralysis, sleep
 speed: 30 ft., fly 30 ft. (clumsy) (20 ft., fly 20 ft. [clumsy] in armor), fly_other clumsy) (20 ft., fly 20 ft. [clumsy] in armor ft.

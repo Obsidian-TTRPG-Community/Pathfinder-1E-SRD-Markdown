@@ -22,7 +22,7 @@ perception: +11
 senses: low-light vision, scent
 AC: 15, touch 13, flat-footed 12 (armor +2, dex +3)
 HP: 27
-HD: 3d10+6
+hit_dice: 3d10+6
 saves: Fort +4, Ref +6, Will +3
 speed: 30 ft.
 melee: mwk shortspear +6 (1d6+2)

@@ -21,7 +21,7 @@ senses: all-around vision, low-light vision, see invisibility
 AC: 21, touch 12, flat-footed 19 (dex +2, natural +9)
 HP: 67
 HP_extra: regeneration 5; regeneration weakness acid
-HD: 9d8+27
+hit_dice: 9d8+27
 saves: Fort +9, Ref +7, Will +5
 immune: plant traits, poison
 resist: electricity 10, fire 10

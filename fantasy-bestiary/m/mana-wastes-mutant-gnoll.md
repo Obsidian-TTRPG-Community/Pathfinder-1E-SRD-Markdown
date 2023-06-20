@@ -23,7 +23,7 @@ senses: darkvision
 AC: 19, touch 12, flat-footed 17 (armor +4, dex +2, natural +3)
 HP: 32
 HP_extra: HD 4
-HD: 2d8+2d10+12
+hit_dice: 2d8+2d10+12
 saves: Fort +9, Ref +2, Will +4
 saves_other: +1 vs. fear, +4 vs. mind-affecting effects
 immune: disease, poison

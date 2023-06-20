@@ -21,7 +21,7 @@ senses: darkvision, true seeing
 aura: frightful presence, unholy aura
 AC: 35, touch 14, flat-footed 33 (armor +8, deflection +4, dex +2, natural +13, size -2)
 HP: 297
-HD: 18d10+198
+hit_dice: 18d10+198
 saves: Fort +26, Ref +12, Will +22
 immune: electricity, fire, poison
 resist: acid 10, cold 10

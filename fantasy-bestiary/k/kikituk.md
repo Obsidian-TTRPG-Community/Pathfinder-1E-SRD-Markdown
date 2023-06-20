@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: frightful presence
 AC: 28, touch 14, flat-footed 26 (dex +2, natural +14, profane +4, size -2)
 HP: 170
-HD: 20d10+60
+hit_dice: 20d10+60
 saves: Fort +12, Ref +14, Will +14
 immune: acid, construct traits
 speed: 40 ft., swim 60 ft.

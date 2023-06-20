@@ -19,7 +19,7 @@ perception: +29
 senses: darkvision, true seeing
 AC: 29, touch 17, flat-footed 22 (dex +7, natural +12)
 HP: 210
-HD: 20d8+120
+hit_dice: 20d8+120
 saves: Fort +12, Ref +15, Will +18
 defensive_abilities: amorphous, darkvision adaptation
 speed: 20 ft., fly 60 ft. (perfect)

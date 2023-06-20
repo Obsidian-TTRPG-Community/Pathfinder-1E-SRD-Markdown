@@ -22,7 +22,7 @@ aura: frightful presence
 AC: 41, touch 3, flat-footed 40 (armor +14, dex +1, natural +24, size -8, deflection vs. divine +4)
 HP: 413
 HP_extra: regeneration 15; regeneration weakness good artifacts, effects, and spells
-HD: 18d10+314
+hit_dice: 18d10+314
 saves: Fort +24, Ref +9, Will +18
 saves_other: +8 vs. mind-affecting, +4 vs. divine
 immune: aging, death effects, disease

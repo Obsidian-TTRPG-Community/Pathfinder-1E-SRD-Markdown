@@ -20,7 +20,7 @@ perception: +22
 senses: blindsense, darkvision
 AC: 27, touch 15, flat-footed 22 (dex +4, dodge +1, natural +12)
 HP: 152
-HD: 16d8+80
+hit_dice: 16d8+80
 saves: Fort +10, Ref +9, Will +15
 saves_other: +9 vs. mind-affecting effects
 immune: sonic

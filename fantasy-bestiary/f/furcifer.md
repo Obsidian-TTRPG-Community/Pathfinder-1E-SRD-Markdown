@@ -20,7 +20,7 @@ senses: blindsense, darkvision, low-light vision
 aura: deleriant aura
 AC: 27, touch 13, flat-footed 22 (dex +5, natural +14, size -2)
 HP: 171
-HD: 18d10+72
+hit_dice: 18d10+72
 saves: Fort +15, Ref +16, Will +12
 immune: illusions
 defensive_abilities: all-around vision, displacement, evasion, uncanny dodge

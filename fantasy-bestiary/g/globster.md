@@ -20,7 +20,7 @@ perception: -5
 aura: stench
 AC: 16, touch 4, flat-footed 16 (dex -5, natural +12, size -1)
 HP: 57
-HD: 6d8+30
+hit_dice: 6d8+30
 saves: Fort +7, Ref -3, Will -3
 immune: acid, bludgeoning and piercing damage, ooze traits
 resist: cold 10, electricity 10

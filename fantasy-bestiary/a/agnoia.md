@@ -21,7 +21,7 @@ senses: darkvision, detect magic, detect thoughts
 aura: ignorance
 AC: 29, touch 17, flat-footed 25 (deflection +4, dex +4, natural +12, size -1)
 HP: 200
-HD: 16d10+112
+hit_dice: 16d10+112
 saves: Fort +14, Ref +14, Will +18
 immune: cold, critical hits, poison
 resist: electricity 10, fire 10

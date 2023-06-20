@@ -22,7 +22,7 @@ perception: +10
 senses: see invisibility
 AC: 21, touch 13, flat-footed 18 (armor +6, dex +2, dodge +1, shield +2)
 HP: 78
-HD: 13d8+16
+hit_dice: 13d8+16
 saves: Fort +5, Ref +10, Will +8
 saves_other: +4 vs. bardic performance, language-dependent, and sonic
 speed: 30 ft.

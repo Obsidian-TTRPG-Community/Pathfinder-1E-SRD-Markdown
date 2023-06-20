@@ -20,7 +20,7 @@ perception: +2
 senses: darkvision
 AC: 17, touch 13, flat-footed 14 (dex +3, natural +4)
 HP: 42
-HD: 5d8+20
+hit_dice: 5d8+20
 saves: Fort +5, Ref +4, Will +6
 DR: 5/piercing or slashing
 speed: 30 ft.

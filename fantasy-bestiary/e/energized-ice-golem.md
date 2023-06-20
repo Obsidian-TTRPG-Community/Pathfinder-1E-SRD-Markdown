@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: caustic mist
 AC: 21, touch 10, flat-footed 21 (natural +11)
 HP: 73
-HD: 6d10+40
+hit_dice: 6d10+40
 saves: Fort +2, Ref +2, Will +2
 immune: cold, construct traits, magic
 DR: 5/adamantine

@@ -20,7 +20,7 @@ perception: +8
 senses: blindsense, low-light vision
 AC: 12, touch 11, flat-footed 11 (dex +1, natural +1)
 HP: 13
-HD: 2d8+4
+hit_dice: 2d8+4
 saves: Fort +5, Ref +4, Will +1
 speed: swim 40 ft.
 melee: sting +1 (1d4 plus poison)

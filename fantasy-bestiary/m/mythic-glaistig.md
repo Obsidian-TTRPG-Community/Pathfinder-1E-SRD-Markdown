@@ -22,7 +22,7 @@ aura: reveler’s rapture
 AC: 40, touch 32, flat-footed 28 (deflection +10, dex +12, natural +8)
 HP: 422
 HP_extra: regeneration 30; regeneration weakness air; see airbane
-HD: 25d6+335
+hit_dice: 25d6+335
 saves: Fort +18, Ref +26, Will +23
 saves_other: second save
 immune: daze, mind-affecting effects, stagger, stun

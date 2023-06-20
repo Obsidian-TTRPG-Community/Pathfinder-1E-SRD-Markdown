@@ -19,7 +19,7 @@ perception: +19
 senses: darkvision, detect thoughts
 AC: 22, touch 15, flat-footed 16 (dex +5, dodge +1, natural +7, size -1)
 HP: 85
-HD: 10d8+40
+hit_dice: 10d8+40
 saves: Fort +7, Ref +10, Will +9
 immune: poison
 defensive_abilities: guarded thoughts

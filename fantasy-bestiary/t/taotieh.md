@@ -18,7 +18,7 @@ INI: +2
 senses: darkvision, low-light vision
 AC: 28, touch 11, flat-footed 26 (dex +2, natural +17, size -1)
 HP: 107
-HD: 14d10+30
+hit_dice: 14d10+30
 saves: Fort +4, Ref +6, Will +6
 immune: construct traits
 resist: acid 10, cold 10, electricity 10, fire 10

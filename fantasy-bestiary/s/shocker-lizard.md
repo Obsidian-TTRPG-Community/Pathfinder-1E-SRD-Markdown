@@ -19,7 +19,7 @@ perception: +8
 senses: darkvision, electricity sense, low-light vision
 AC: 16, touch 13, flat-footed 14 (dex +2, natural +3, size +1)
 HP: 19
-HD: 3d10+3
+hit_dice: 3d10+3
 saves: Fort +4, Ref +5, Will +2
 immune: electricity
 speed: 40 ft., climb 20 ft., swim 20 ft.

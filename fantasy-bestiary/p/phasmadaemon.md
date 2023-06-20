@@ -21,7 +21,7 @@ senses: darkvision, deathwatch, true seeing
 aura: frightful presence
 AC: 32, touch 17, flat-footed 24 (dex +7, dodge +1, natural +15, size -1)
 HP: 264
-HD: 23d10+138
+hit_dice: 23d10+138
 saves: Fort +19, Ref +14, Will +19
 immune: acid, death effects, disease, fear, poison
 resist: cold 10, electricity 10, fire 10

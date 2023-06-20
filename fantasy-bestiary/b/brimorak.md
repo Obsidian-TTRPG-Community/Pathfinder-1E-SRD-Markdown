@@ -21,7 +21,7 @@ senses: darkvision
 aura: smoke breath
 AC: 18, touch 14, flat-footed 15 (dex +3, natural +4, size +1)
 HP: 57
-HD: 6d10+24
+hit_dice: 6d10+24
 saves: Fort +9, Ref +8, Will +3
 immune: electricity, fire
 resist: acid 10, cold 10

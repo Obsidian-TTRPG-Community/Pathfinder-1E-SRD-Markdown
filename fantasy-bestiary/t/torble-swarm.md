@@ -20,7 +20,7 @@ perception: +8
 senses: blindsight, darkvision
 AC: 15, touch 15, flat-footed 12 (dex +2, dodge +1, size +2)
 HP: 13
-HD: 3d8
+hit_dice: 3d8
 saves: Fort +3, Ref +3, Will +3
 immune: acid, swarm traits, weapon damage
 weak: ooze-vermin hybrid

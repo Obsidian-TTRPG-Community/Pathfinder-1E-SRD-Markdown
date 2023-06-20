@@ -20,7 +20,7 @@ perception: +3
 senses: blindsight
 AC: 14, touch 14, flat-footed 10 (dex +3, dodge +1)
 HP: 22
-HD: 3d8+9
+hit_dice: 3d8+9
 saves: Fort +4, Ref +4, Will +1
 immune: acid, mind-affecting effects, ooze traits
 DR: 5/bludgeoning

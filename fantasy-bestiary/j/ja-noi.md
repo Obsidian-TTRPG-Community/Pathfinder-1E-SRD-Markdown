@@ -21,7 +21,7 @@ senses: darkvision
 AC: 18, touch 12, flat-footed 16 (armor +2, dex +2, natural +4)
 HP: 57
 HP_extra: regeneration 3; regeneration weakness acid or fire
-HD: 6d10+24
+hit_dice: 6d10+24
 saves: Fort +9, Ref +7, Will +3
 speed: 30 ft.
 melee: mwk tetsubo +11/+6 (1d10+6/x4)

@@ -22,7 +22,7 @@ aura: unholy aura
 AC: 40, touch 17, flat-footed 36 (deflection +4, dex +4, natural +23, size -1)
 HP: 344
 HP_extra: fast healing 5
-HD: 16d10+256
+hit_dice: 16d10+256
 saves: Fort +25, Ref +18, Will +13
 immune: cold, fire, electricity, poison
 resist: acid 10

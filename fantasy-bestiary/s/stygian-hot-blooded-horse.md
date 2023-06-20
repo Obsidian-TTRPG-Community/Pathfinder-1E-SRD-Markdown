@@ -19,7 +19,7 @@ perception: +5
 senses: low-light vision, scent
 AC: 14, touch 11, flat-footed 12 (dex +2, natural +3, size -1)
 HP: 22
-HD: 3d8+9
+hit_dice: 3d8+9
 saves: Fort +6, Ref +5, Will +2
 defensive_abilities: shifting trot
 speed: 50 ft.

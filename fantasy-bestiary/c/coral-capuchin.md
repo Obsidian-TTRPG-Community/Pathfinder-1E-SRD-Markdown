@@ -20,7 +20,7 @@ perception: +1
 senses: darkvision 60 f t., low-light vision
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 13
-HD: 2d10+2
+hit_dice: 2d10+2
 saves: Fort +4, Ref +6, Will +1
 weak: moisture dependency
 speed: 30 ft., fly 40 ft. (good), climb 30 ft., swim 30 ft.

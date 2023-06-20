@@ -21,7 +21,7 @@ aura: static aura
 AC: 30, touch 18, flat-footed 21 (dex +8, dodge +1, natural +12, size -1)
 HP: 212
 HP_extra: regeneration 5; regeneration weakness acid
-HD: 17d10+119
+hit_dice: 17d10+119
 saves: Fort +12, Ref +18, Will +12
 immune: disease, electricity, poison
 resist: cold 10, fire 10

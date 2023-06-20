@@ -20,7 +20,7 @@ senses: all-around vision, blindsense, darkvision
 AC: 27, touch 12, flat-footed 24 (dex +3, natural +15, size -1)
 HP: 180
 HP_extra: fast healing 5
-HD: 19d8+95
+hit_dice: 19d8+95
 saves: Fort +13, Ref +9, Will +19
 resist: acid 10, cold 10, fire 10
 DR: 10/magic

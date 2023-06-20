@@ -18,7 +18,7 @@ INI: +0
 senses: darkvision
 AC: 17, touch 9, flat-footed 17 (natural +8, size -1)
 HP: 26
-HD: 4d8+8
+hit_dice: 4d8+8
 saves: Fort +6, Ref +1, Will +1
 immune: acid, mind-affecting effects
 weak: light sensitivity

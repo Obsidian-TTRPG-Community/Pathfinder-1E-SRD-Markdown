@@ -22,7 +22,7 @@ aura: hypnotic coils
 AC: 38, touch 11, flat-footed 29 (dex +8, dodge +1, natural +27, size -8)
 HP: 396
 HP_extra: regeneration 50; regeneration weakness mythic weapons or spells
-HD: 24d10+264
+hit_dice: 24d10+264
 saves: Fort +25, Ref +22, Will +18
 immune: acid, aging, mind-affecting effects, negative energy, paralysis
 DR: 15/magic and slashing

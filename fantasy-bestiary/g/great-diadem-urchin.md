@@ -21,7 +21,7 @@ senses: all-around vision, low-light vision, scent, tremorsense
 AC: 20, touch 6, flat-footed 20 (dex -4, natural +14)
 HP: 57
 HP_extra: regeneration 3; regeneration weakness fire, acid
-HD: 6d8+30
+hit_dice: 6d8+30
 saves: Fort +10, Ref -2, Will +3
 immune: mind-affecting effects
 defensive_abilities: stability

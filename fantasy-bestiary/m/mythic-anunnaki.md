@@ -21,7 +21,7 @@ senses: darkvision, lifesense, true seeing
 AC: 35, touch 22, flat-footed 30 (deflection +8, dex +5, natural +13, size -1)
 HP: 320
 HP_extra: regeneration 10; regeneration weakness epic weapons
-HD: 20d10+210
+hit_dice: 20d10+210
 saves: Fort +15, Ref +17, Will +20
 saves_other: +8 vs. mind-affecting effects
 immune: poison

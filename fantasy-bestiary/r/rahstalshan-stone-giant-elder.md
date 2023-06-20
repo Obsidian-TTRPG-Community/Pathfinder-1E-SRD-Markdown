@@ -23,7 +23,7 @@ senses: darkvision, low-light vision, tremorsense
 AC: 29, touch 15, flat-footed 24 (armor +2, deflection +1, dex +4, dodge +1, natural +12, size -1)
 HP: 226
 HP_extra: HD 22
-HD: 12d8+10d6+137
+hit_dice: 12d8+10d6+137
 saves: Fort +19, Ref +13, Will +17
 defensive_abilities: improved rock catching
 speed: 40 ft.

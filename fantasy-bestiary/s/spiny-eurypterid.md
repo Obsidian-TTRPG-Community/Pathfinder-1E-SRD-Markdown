@@ -20,7 +20,7 @@ perception: +1
 senses: low-light vision, tremorsense
 AC: 22, touch 7, flat-footed 22 (dex -1, natural +15, size -2)
 HP: 114
-HD: 12d8+60
+hit_dice: 12d8+60
 saves: Fort +13, Ref +3, Will +5
 immune: mind-affecting effects
 defensive_abilities: spiny carapace

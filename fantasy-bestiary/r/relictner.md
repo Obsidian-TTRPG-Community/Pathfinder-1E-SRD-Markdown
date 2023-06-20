@@ -21,7 +21,7 @@ senses: darkvision, ruin sense
 aura: weathering aura
 AC: 26, touch 13, flat-footed 23 (armor +3, dex +2, dodge +10 natural +1)
 HP: 162
-HD: 17d8+85
+hit_dice: 17d8+85
 saves: Fort +14, Ref +9, Will +10
 saves_other: +10 vs. environmental effects and traps within bonded ruin
 immune: curses

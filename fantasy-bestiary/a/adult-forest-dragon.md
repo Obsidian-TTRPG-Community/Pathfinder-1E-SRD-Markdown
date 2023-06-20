@@ -21,7 +21,7 @@ senses: dragon senses, tremorsense
 aura: frightful presence
 AC: 30, touch 8, flat-footed 30 (natural +22, size -2)
 HP: 229
-HD: 17d12+119
+hit_dice: 17d12+119
 saves: Fort +16, Ref +10, Will +15
 immune: paralysis, poison, sleep
 DR: 2/adamantine

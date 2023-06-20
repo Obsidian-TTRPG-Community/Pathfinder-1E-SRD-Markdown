@@ -21,7 +21,7 @@ INI: +2
 perception: +21
 AC: 26, touch 22, flat-footed 23 (armor +4, deflection +2, dex +2, dodge +1, monk +4, wis +3)
 HP: 91
-HD: 16d8+16
+hit_dice: 16d8+16
 saves: Fort +14, Ref +15, Will +16
 saves_other: +2 vs. enchantments
 immune: disease, poison

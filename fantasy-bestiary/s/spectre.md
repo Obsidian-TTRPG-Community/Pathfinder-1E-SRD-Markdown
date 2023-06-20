@@ -21,7 +21,7 @@ senses: darkvision
 aura: unnatural aura
 AC: 15, touch 15, flat-footed 12 (deflection +2, dex +3)
 HP: 52
-HD: 8d8+16
+hit_dice: 8d8+16
 saves: Fort +4, Ref +5, Will +9
 defensive_abilities: incorporeal, channel resistance +2
 weak: resurrection vulnerability, sunlight powerlessness

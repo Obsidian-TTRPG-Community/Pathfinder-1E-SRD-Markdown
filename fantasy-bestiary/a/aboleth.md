@@ -21,7 +21,7 @@ senses: darkvision
 aura: mucus cloud
 AC: 20, touch 9, flat-footed 19 (dex +1, natural +11, size -2)
 HP: 84
-HD: 8d8+48
+hit_dice: 8d8+48
 saves: Fort +8, Ref +5, Will +11
 speed: 10 ft., swim 60 ft.
 melee: 4 tentacles +10 (1d6+5 plus slime)

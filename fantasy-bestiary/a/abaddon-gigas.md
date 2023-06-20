@@ -20,7 +20,7 @@ perception: +30
 senses: darkvision, low-light vision
 AC: 33, touch 9, flat-footed 30 (armor +11, dex +3, natural +13, size -4)
 HP: 241
-HD: 21d8+147
+hit_dice: 21d8+147
 saves: Fort +19, Ref +11, Will +15
 immune: acid, death effects
 resist: cold 10, electricity 10, fire 10, sonic 10

@@ -19,7 +19,7 @@ perception: +8
 senses: low-light vision, scent
 AC: 17, touch 17, flat-footed 14 (dex +3, size +4)
 HP: 3
-HD: 1d8-1
+hit_dice: 1d8-1
 saves: Fort +1, Ref +5, Will +2
 saves_other: +2 vs. Intelligence and Wisdom damage
 speed: 20 ft., burrow 5 ft.

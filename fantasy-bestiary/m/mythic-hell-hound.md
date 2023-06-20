@@ -20,7 +20,7 @@ perception: +8
 senses: darkvision, scent
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 47
-HD: 5d10+20
+hit_dice: 5d10+20
 saves: Fort +6, Ref +5, Will +1
 immune: fire
 DR: 5/epic

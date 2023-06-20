@@ -22,7 +22,7 @@ aura: fire aura
 AC: 32, touch 14, flat-footed 27 (dex +5, natural +18, size -1)
 HP: 290
 HP_extra: regeneration 15; regeneration weakness cold
-HD: 20d8+200
+hit_dice: 20d8+200
 saves: Fort +16, Ref +11, Will +13
 immune: fire, undead traits
 DR: 15/good

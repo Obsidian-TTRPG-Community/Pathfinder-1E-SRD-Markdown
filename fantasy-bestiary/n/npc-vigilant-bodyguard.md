@@ -21,7 +21,7 @@ INI: +5
 perception: +10
 AC: 20, touch 16, flat-footed 18 (armor +4, dex +1, dodge +1, wis +4)
 HP: 20
-HD: 3d8+3
+hit_dice: 3d8+3
 saves: Fort +4, Ref +4, Will +7
 saves_other: +2 vs. enchantments
 defensive_abilities: evasion

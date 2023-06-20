@@ -22,7 +22,7 @@ perception: +29
 senses: low-light vision, snowcaster
 AC: 28, touch 10, flat-footed 28 (armor +7, deflection +1, natural +11, size -1)
 HP: 262
-HD: 24d8+154
+hit_dice: 24d8+154
 saves: Fort +22, Ref +10, Will +18
 immune: cold, dazzled
 defensive_abilities: rock catching

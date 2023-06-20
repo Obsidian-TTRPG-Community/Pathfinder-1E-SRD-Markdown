@@ -21,7 +21,7 @@ INI: +0
 perception: +24
 AC: 14, touch 12, flat-footed 14 (deflection +2, natural +2)
 HP: 109
-HD: 15d6+55
+hit_dice: 15d6+55
 saves: Fort +10, Ref +8, Will +15
 defensive_abilities: protective ward
 speed: 30 ft.

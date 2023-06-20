@@ -19,7 +19,7 @@ perception: +19
 senses: darkvision, low-light vision
 AC: 27, touch 17, flat-footed 23 (dex +4, natural +10, size -1)
 HP: 175
-HD: 14d12+84
+hit_dice: 14d12+84
 saves: Fort +15, Ref +13, Will +11
 immune: paralysis, sleep
 speed: 50 ft., other_semicolon fly 60 ft. (good) ft.

@@ -21,7 +21,7 @@ senses: darkvision, , detect chaos/evil/good/law
 aura: resplendence
 AC: 31, touch 14, flat-footed 25 (dex +5, dodge +1, natural +17, size -2)
 HP: 250
-HD: 20d10+140
+hit_dice: 20d10+140
 saves: Fort +13, Ref +19, Will +21
 immune: acid, disease, poison
 resist: cold 15, electricity 15, fire 15

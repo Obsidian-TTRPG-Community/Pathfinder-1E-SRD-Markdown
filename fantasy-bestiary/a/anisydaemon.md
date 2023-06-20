@@ -21,7 +21,7 @@ senses: arcane sight, blindsight, detect good
 aura: worry
 AC: 28, touch 13, flat-footed 24 (natural +15, dex +4, size -1)
 HP: 172
-HD: 15d10+90
+hit_dice: 15d10+90
 saves: Fort +15, Ref +11, Will +14
 immune: acid, death effects, disease, poison
 resist: cold 10, electricity 10, fire 10

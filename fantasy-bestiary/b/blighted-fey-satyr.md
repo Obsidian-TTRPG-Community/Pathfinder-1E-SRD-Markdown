@@ -19,7 +19,7 @@ perception: +20
 senses: darkvision, low-light vision
 AC: 20, touch 13, flat-footed 17 (dex +2, dodge +1, natural +7)
 HP: 68
-HD: 8d6+40
+hit_dice: 8d6+40
 saves: Fort +6, Ref +8, Will +8
 immune: disease, paralysis, poison, polymorph
 resist: cold 10, electricity 10

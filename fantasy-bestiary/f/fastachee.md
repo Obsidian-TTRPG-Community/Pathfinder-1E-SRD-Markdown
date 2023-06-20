@@ -19,7 +19,7 @@ perception: +27
 senses: low-light vision, plant projection
 AC: 26, touch 18, flat-footed 20 (dex +6, natural +8, size +2)
 HP: 153
-HD: 18d6+90
+hit_dice: 18d6+90
 saves: Fort +12, Ref +17, Will +17
 DR: 10/cold iron
 speed: 30 ft.

@@ -19,7 +19,7 @@ INI: +2
 senses: tremorsense
 AC: 20, touch 20, flat-footed 18 (dex +2, size +8)
 HP: 45
-HD: 7d8+14
+hit_dice: 7d8+14
 saves: Fort +7, Ref +4, Will +3
 immune: acid, mind-affecting effects, weapon damage
 defensive_abilities: swarm traits

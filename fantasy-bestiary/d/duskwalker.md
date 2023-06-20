@@ -22,7 +22,7 @@ perception: +6
 senses: darkvision
 AC: 15, touch 13, flat-footed 12 (armor +2, dex +3)
 HP: 12
-HD: 1d10+2
+hit_dice: 1d10+2
 saves: Fort +3, Ref +5, Will +2
 saves_other: +2 vs. negative energy and death effects
 defensive_abilities: ward against corruption

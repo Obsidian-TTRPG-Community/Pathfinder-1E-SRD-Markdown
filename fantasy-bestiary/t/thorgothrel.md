@@ -19,7 +19,7 @@ perception: +11
 senses: blindsight
 AC: 21, touch 9, flat-footed 21 (natural +12, size -1)
 HP: 100
-HD: 8d8+24 plus 40 hp force field
+hit_dice: 8d8+24 plus 40 hp force field
 saves: Fort +7, Ref +4, Will +7
 immune: cold, electricity, mind-affecting effects, ooze traits
 resist: acid 10

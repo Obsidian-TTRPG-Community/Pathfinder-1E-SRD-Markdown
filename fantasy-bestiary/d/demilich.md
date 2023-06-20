@@ -19,7 +19,7 @@ perception: +27
 senses: darkvision, true seeing
 AC: 25, touch 21, flat-footed 21 (dex +3, dodge +1, natural +4, profane +5, size +2)
 HP: 142
-HD: 15d8+75
+hit_dice: 15d8+75
 saves: Fort +15, Ref +15, Will +21
 immune: acid, cold, electricity, magic, polymorph, undead traits
 DR: 20/-

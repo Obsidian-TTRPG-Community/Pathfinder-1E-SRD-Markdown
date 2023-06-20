@@ -22,7 +22,7 @@ perception: +15
 senses: see invisibility
 AC: 22, touch 15, flat-footed 19 (armor +4, deflection +2, dex +2, dodge +1, natural +3)
 HP: 125
-HD: 15d6+70
+hit_dice: 15d6+70
 saves: Fort +11, Ref +10, Will +12
 immune: fire (120 points)
 resist: electricity 30

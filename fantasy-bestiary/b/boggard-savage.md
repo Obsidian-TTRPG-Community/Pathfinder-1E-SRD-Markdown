@@ -23,7 +23,7 @@ senses: darkvision, low-light vision
 AC: 15, touch 8, flat-footed 15 (armor +4, natural +3, rage -2)
 HP: 61
 HP_extra: HD 5
-HD: 3d8+2d12+30
+hit_dice: 3d8+2d12+30
 saves: Fort +12, Ref +3, Will +4
 defensive_abilities: uncanny dodge
 speed: 30 ft., swim 30 ft.

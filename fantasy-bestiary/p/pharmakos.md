@@ -20,7 +20,7 @@ perception: +9
 senses: darkvision, see invisibility, tremorsense
 AC: 30, touch 5, flat-footed 30 (dex -1, natural +25, size -4)
 HP: 232
-HD: 16d8+160
+hit_dice: 16d8+160
 saves: Fort +15, Ref +6, Will +10
 immune: acid, death effects, mind-affecting effects, pain, paralysis, poison
 resist: cold 10

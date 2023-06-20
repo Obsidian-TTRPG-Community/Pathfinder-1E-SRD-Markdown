@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 aura: petrification
 AC: 17, touch 16, flat-footed 12 (dex +3, dodge +2, natural +1, size +1)
 HP: 43
-HD: 6d10+10
+hit_dice: 6d10+10
 saves: Fort +5, Ref +8, Will +3
 DR: 5/epic
 defensive_abilities: stone plumage

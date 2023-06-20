@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 aura: fear aura
 AC: 32, touch 20, flat-footed 30 (deflection +9, dex +2, natural +12, size -1)
 HP: 378
-HD: 28d8+252
+hit_dice: 28d8+252
 saves: Fort +18, Ref +11, Will +20
 immune: undead traits
 DR: 15/cold iron and good

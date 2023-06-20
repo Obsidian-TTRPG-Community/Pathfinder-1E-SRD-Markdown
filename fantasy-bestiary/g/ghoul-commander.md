@@ -23,7 +23,7 @@ aura: cowardice
 AC: 21, touch 13, flat-footed 18 (armor +6, dex +3, natural +2)
 HP: 99
 HP_extra: HD 9
-HD: 2d8+7d10+52
+hit_dice: 2d8+7d10+52
 saves: Fort +13, Ref +9, Will +15
 immune: disease, undead traits
 defensive_abilities: channel resistance +2

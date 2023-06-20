@@ -20,7 +20,7 @@ perception: +37
 senses: darkvision, true seeing
 AC: 41, touch 25, flat-footed 29 (dex +12, insight +11, natural +16, size -8)
 HP: 495
-HD: 22d8+396
+hit_dice: 22d8+396
 saves: Fort +25, Ref +19, Will +25
 saves_other: +4 vs. psychic spells and effects
 immune: cold, disease, poison

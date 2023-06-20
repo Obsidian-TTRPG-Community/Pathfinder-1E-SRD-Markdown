@@ -20,7 +20,7 @@ perception: +22
 senses: darkvision, detect chaos, detect evil, detect good, detect law, detect magic, low-light vision, spirit-sense
 AC: 25, touch 15, flat-footed 20 (dex +4, dodge +1, natural +10)
 HP: 115
-HD: 10d10+60
+hit_dice: 10d10+60
 saves: Fort +9, Ref +11, Will +14
 immune: acid, charm, cold, death effects, disease, fear, poison, sleep
 resist: electricity 10

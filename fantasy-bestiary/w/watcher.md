@@ -20,7 +20,7 @@ senses: blindsight, see in darkness, true seeing
 AC: 41, touch 26, flat-footed 32 (dex +8, dodge +1, wis +11, natural +15, size -4)
 HP: 429
 HP_extra: regeneration 15; regeneration weakness chaotic spells and effects
-HD: 26d10+286
+hit_dice: 26d10+286
 saves: Fort +19, Ref +23, Will +27
 immune: blindness, daze, divination effects, force effects, mind-affecting effects
 DR: 15/chaotic

@@ -20,7 +20,7 @@ perception: +0
 senses: all-around vision, darkvision
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 9
-HD: 1d8+5
+hit_dice: 1d8+5
 saves: Fort +4, Ref +1, Will +0
 immune: mind-affecting effects
 defensive_abilities: amorphous

@@ -21,7 +21,7 @@ senses: darkvision
 AC: 30, touch 12, flat-footed 27 (dex +2, dodge +1, natural +18, size -1)
 HP: 207
 HP_extra: fast healing 7
-HD: 18d10+108
+hit_dice: 18d10+108
 saves: Fort +17, Ref +15, Will +12
 immune: bleed, mind-affecting effects, petrification, polymorph effects
 resist: acid 10, electricity 10, fire 10

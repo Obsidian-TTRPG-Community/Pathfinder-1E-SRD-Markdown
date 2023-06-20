@@ -19,7 +19,7 @@ perception: +30
 senses: low-light vision
 AC: 26, touch 1, flat-footed 25 (dex -5, natural +25, size -4)
 HP: 230
-HD: 20d8+140
+hit_dice: 20d8+140
 saves: Fort +19, Ref +1, Will +11
 immune: plant traits, sonic
 resist: cold 20

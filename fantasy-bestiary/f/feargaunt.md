@@ -21,7 +21,7 @@ senses: darkvision
 aura: nightmare
 AC: 23, touch 23, flat-footed 17 (deflection +7, dex +5, dodge +1, size -1)
 HP: 102
-HD: 12d10+36
+hit_dice: 12d10+36
 saves: Fort +7, Ref +13, Will +11
 defensive_abilities: incorporeal
 speed: fly 40 ft. (perfect)

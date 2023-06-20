@@ -21,7 +21,7 @@ senses: blindsense, darkvision
 AC: 25, touch 12, flat-footed 22 (dex +3, natural +13, size -1)
 HP: 123
 HP_extra: fast healing 5
-HD: 13d10+52
+hit_dice: 13d10+52
 saves: Fort +12, Ref +7, Will +14
 immune: acid, polymorph
 resist: electricity 10, sonic 10

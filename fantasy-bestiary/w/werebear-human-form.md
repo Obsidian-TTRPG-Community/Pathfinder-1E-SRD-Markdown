@@ -22,7 +22,7 @@ perception: +8
 senses: low-light vision, scent
 AC: 16, touch 12, flat-footed 14 (armor +4, dex +2)
 HP: 34
-HD: 4d10+8
+hit_dice: 4d10+8
 saves: Fort +5, Ref +6, Will +2
 speed: 30 ft.
 melee: mwk battleaxe +9 (1d8+4/×3)

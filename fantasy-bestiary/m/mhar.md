@@ -22,7 +22,7 @@ aura: cloak of ash, unspeakable presence
 AC: 43, touch 13, flat-footed 42 (dex +1, insight +10, natural +30, size -8)
 HP: 592
 HP_extra: regeneration 20; regeneration weakness electricity, see below
-HD: 32d8+448
+hit_dice: 32d8+448
 saves: Fort +24, Ref +13, Will +28
 immune: ability damage, ability drain, aging, cold, death effects, disease, energy drain, fire, mind-affecting effects, paralysis, petrification, plane shift
 resist: acid 30, electricity 30, sonic 10

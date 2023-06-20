@@ -22,7 +22,7 @@ perception: +6
 AC: 17, touch 10, flat-footed 15 (armor +2, dex +2, natural +5, rage -2)
 HP: 33
 HP_extra: HD 3
-HD: 2d8+1d12+12
+hit_dice: 2d8+1d12+12
 saves: Fort +9, Ref +2, Will +3
 speed: 40 ft., swim 15 ft.
 melee: mwk morningstar +8 (1d8+5), bite +5 (1d6+2)

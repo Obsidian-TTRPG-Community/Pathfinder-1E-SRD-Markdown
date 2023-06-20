@@ -22,7 +22,7 @@ aura: aura of menace
 AC: 33, touch 14, flat-footed 29 (armor +9, dex +3, dodge +1, natural +10, deflection vs. evil +2)
 HP: 263
 HP_extra: regeneration 10; regeneration weakness evil weapons and effects
-HD: 17d10+170
+hit_dice: 17d10+170
 saves: Fort +20, Ref +8, Will +16
 saves_other: +4 vs. poison
 immune: electricity, fear, petrification

@@ -20,7 +20,7 @@ INI: +0
 perception: +10
 AC: 11, touch 10, flat-footed 11 (armor +1)
 HP: 38
-HD: 7d8+7
+hit_dice: 7d8+7
 saves: Fort +7, Ref +3, Will +10
 saves_other: +4 vs. fey and plant-targeted effects
 defensive_abilities: resist nature’s lure

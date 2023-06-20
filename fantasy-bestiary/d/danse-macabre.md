@@ -21,7 +21,7 @@ senses: darkvision, lifesense
 aura: dance of death
 AC: 29, touch 29, flat-footed 19 (deflection +10, dex +9, dodge +1, size -1)
 HP: 203
-HD: 14d8+140
+hit_dice: 14d8+140
 saves: Fort +14, Ref +13, Will +17
 immune: cold, undead traits
 defensive_abilities: incorporeal, deathless; channel resistance +4

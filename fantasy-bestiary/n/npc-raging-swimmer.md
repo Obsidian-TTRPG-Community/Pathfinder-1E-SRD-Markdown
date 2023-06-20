@@ -22,7 +22,7 @@ perception: +19
 senses: low-light vision, scent
 AC: 14, touch 10, flat-footed 12 (armor +4, dex +2, rage -2)
 HP: 109
-HD: 9d12+45
+hit_dice: 9d12+45
 saves: Fort +11, Ref +6, Will +6
 saves_other: +4 vs. spells and spell-like and supernatural abilities, +2 vs. enchantments
 immune: sleep

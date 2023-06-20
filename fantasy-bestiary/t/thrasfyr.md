@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, see invisibility
 AC: 32, touch 9, flat-footed 31 (dex +1, natural +23, size -2)
 HP: 279
 HP_extra: regeneration 15; regeneration weakness acid or cold
-HD: 18d10+180
+hit_dice: 18d10+180
 saves: Fort +21, Ref +14, Will +15
 immune: fire, sonic
 resist: electricity 30

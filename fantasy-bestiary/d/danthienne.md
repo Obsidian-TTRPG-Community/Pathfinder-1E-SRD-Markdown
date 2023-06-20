@@ -19,7 +19,7 @@ perception: -1
 senses: low-light vision
 AC: 19, touch 17, flat-footed 14 (dex +4, dodge +1, natural +2, size +2)
 HP: 59
-HD: 7d6+35
+hit_dice: 7d6+35
 saves: Fort +7, Ref +9, Will +6
 DR: 5/cold iron
 SR: 16

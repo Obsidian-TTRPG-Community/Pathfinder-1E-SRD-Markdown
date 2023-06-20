@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 AC: 19, touch 13, flat-footed 16 (dex +2, dodge +1, natural +6)
 HP: 66
 HP_extra: regeneration 5; regeneration weakness electricity or good spells
-HD: 7d10+28
+hit_dice: 7d10+28
 saves: Fort +6, Ref +7, Will +6
 immune: cold
 SR: 17

@@ -21,7 +21,7 @@ senses: darkvision, detect magic
 aura: nondetection
 AC: 23, touch 15, flat-footed 21 (deflection +4, dex +1, dodge +1, natural +8, size -1)
 HP: 115
-HD: 11d10+55
+hit_dice: 11d10+55
 saves: Fort +8, Ref +8, Will +11
 saves_other: +2 vs. illusion
 resist: cold 10, sonic 10

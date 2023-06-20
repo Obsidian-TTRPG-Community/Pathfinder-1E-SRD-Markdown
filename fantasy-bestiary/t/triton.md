@@ -20,7 +20,7 @@ perception: +7
 senses: darkvision, low-light vision
 AC: 14, touch 10, flat-footed 14 (natural +4)
 HP: 19
-HD: 3d10+3
+hit_dice: 3d10+3
 saves: Fort +4, Ref +1, Will +4
 speed: 5 ft., swim 40 ft.
 melee: mwk trident +5 (1d8+1)

@@ -20,7 +20,7 @@ perception: +8
 senses: darkvision, tremorsense
 AC: 17, touch 12, flat-footed 16 (dex +1, natural +5, size +1)
 HP: 38
-HD: 4d10+16
+hit_dice: 4d10+16
 saves: Fort +8, Ref +5, Will +2
 immune: elemental traits
 speed: 30 ft., other_semicolon structural Mobility ft.

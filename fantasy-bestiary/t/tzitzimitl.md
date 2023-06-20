@@ -20,7 +20,7 @@ senses: arcane sight, darkvision, true seeing
 AC: 35, touch 11, flat-footed 30 (dex +5, natural +24, size -4)
 HP: 319
 HP_extra: fast healing 15
-HD: 22d8+220
+hit_dice: 22d8+220
 saves: Fort +17, Ref +14, Will +19
 immune: cold, electricity, undead traits
 resist: fire 15

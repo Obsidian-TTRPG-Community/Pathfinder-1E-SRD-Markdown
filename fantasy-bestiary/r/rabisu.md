@@ -19,7 +19,7 @@ perception: +22
 senses: low-light vision, scent, see in darkness
 AC: 25, touch 18, flat-footed 17 (dex +8, dodge +1, natural +7)
 HP: 147
-HD: 14d6+98
+hit_dice: 14d6+98
 saves: Fort +11, Ref +16, Will +14
 immune: fire, bleed, fear
 resist: cold 10, electricity 10

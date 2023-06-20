@@ -20,7 +20,7 @@ INI: +1
 perception: +8
 AC: 26, touch 11, flat-footed 25 (armor +11, dex +1, shield +4)
 HP: 70
-HD: 9d8+30
+hit_dice: 9d8+30
 saves: Fort +9, Ref +5, Will +11
 speed: 20 ft.
 melee: +1 merciful morningstar +9/+4 (1d8+3 plus 1d6 nonlethal)

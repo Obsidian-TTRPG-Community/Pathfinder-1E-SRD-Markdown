@@ -23,7 +23,7 @@ senses: darkvision, scent
 AC: 18, touch 13, flat-footed 15 (dex +2, dodge +1, natural +5)
 HP: 97
 HP_extra: HD 13
-HD: 3d8+10d6+49
+hit_dice: 3d8+10d6+49
 saves: Fort +8, Ref +11, Will +9
 resist: fire 20
 speed: 30 ft.

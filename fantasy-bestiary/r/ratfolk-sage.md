@@ -22,7 +22,7 @@ perception: +4
 senses: darkvision
 AC: 17, touch 13, flat-footed 15 (armor +4, dex +2, size +1)
 HP: 48
-HD: 7d6+21
+hit_dice: 7d6+21
 saves: Fort +6, Ref +5, Will +8
 speed: 20 ft., climb 20 ft.
 melee: mwk quarterstaff +3 (1d4-2)

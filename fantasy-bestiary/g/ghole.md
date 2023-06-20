@@ -19,7 +19,7 @@ perception: +22
 senses: darkvision, scent sickness
 AC: 26, touch 14, flat-footed 22 (dex +4, natural +12)
 HP: 168
-HD: 16d10+80
+hit_dice: 16d10+80
 saves: Fort +12, Ref +14, Will +13
 immune: disease
 speed: 40 ft., burrow 10 ft.

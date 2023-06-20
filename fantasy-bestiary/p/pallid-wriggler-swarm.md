@@ -20,7 +20,7 @@ perception: +11
 senses: blindsense, scent
 AC: 16, touch 16, flat-footed 14 (dex +2, size +4)
 HP: 13
-HD: 3d8
+hit_dice: 3d8
 saves: Fort +3, Ref +3, Will +5
 immune: weapon damage
 defensive_abilities: swarm traits

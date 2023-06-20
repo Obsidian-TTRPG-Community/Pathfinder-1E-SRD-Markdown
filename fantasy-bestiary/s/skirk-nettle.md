@@ -20,7 +20,7 @@ perception: +12
 senses: blindsight
 AC: 20, touch 12, flat-footed 17 (dex +3, natural +8, size -1)
 HP: 68
-HD: 8d10+24
+hit_dice: 8d10+24
 saves: Fort +9, Ref +11, Will +3
 speed: 10 ft., fly 30 ft. (perfect)
 melee: 3 bites +11 (1d6+4 plus poison)

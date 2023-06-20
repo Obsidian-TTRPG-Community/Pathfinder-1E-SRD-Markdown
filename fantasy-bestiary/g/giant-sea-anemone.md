@@ -20,7 +20,7 @@ perception: +0
 senses: blindsight
 AC: 14, touch 11, flat-footed 12 (dex +2, natural +3, size -1)
 HP: 34
-HD: 4d8+16
+hit_dice: 4d8+16
 saves: Fort +8, Ref +3, Will +1
 immune: gaze attacks, mind-affecting effects, poison, vision-based effects
 defensive_abilities: amorphous

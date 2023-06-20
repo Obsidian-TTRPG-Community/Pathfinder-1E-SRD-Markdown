@@ -20,7 +20,7 @@ perception: +8
 senses: low-light vision, tremorsense
 AC: 25, touch 13, flat-footed 21 (dex +4, natural +12, size -1)
 HP: 120
-HD: 16d8+48
+hit_dice: 16d8+48
 saves: Fort +13, Ref +9, Will +3
 immune: plant traits
 defensive_abilities: camouflage

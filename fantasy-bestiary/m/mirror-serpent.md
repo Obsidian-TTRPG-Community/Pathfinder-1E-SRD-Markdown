@@ -20,7 +20,7 @@ perception: +8
 senses: darkvision, low-light vision
 AC: 18, touch 12, flat-footed 15 (dex +3, natural +6, size -1)
 HP: 57
-HD: 6d10+24
+hit_dice: 6d10+24
 saves: Fort +9, Ref +8, Will +4
 resist: cold 5, electricity 5
 DR: 5/magic

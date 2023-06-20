@@ -21,7 +21,7 @@ senses: darkvision, detect good, detect magic
 aura: weeping
 AC: 15, touch 13, flat-footed 12 (dex +3, natural +2)
 HP: 30
-HD: 4d10+8
+hit_dice: 4d10+8
 saves: Fort +6, Ref +4, Will +5
 immune: acid, cold, death effects, disease, poison
 resist: electricity 10, fire 10

@@ -21,7 +21,7 @@ senses: blindsense, darkvision, low-light vision
 aura: frightful presence
 AC: 39, touch 9, flat-footed 38 (dex +1, natural +30, size -2)
 HP: 295
-HD: 18d12+178
+hit_dice: 18d12+178
 saves: Fort +17, Ref +12, Will +14
 immune: dragon traits, electricity, fire, paralysis, sleep
 DR: 10/epic and magic

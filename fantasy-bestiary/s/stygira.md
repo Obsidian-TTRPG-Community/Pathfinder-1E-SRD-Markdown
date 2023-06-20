@@ -19,7 +19,7 @@ perception: +23
 senses: blindsight, blindsight_other, scent, true seeing with gem eye
 AC: 19, touch 13, flat-footed 16 (dex +3, natural +6)
 HP: 76
-HD: 8d10+32
+hit_dice: 8d10+32
 saves: Fort +6, Ref +9, Will +14
 immune: gaze attacks, paralysis, petrification
 DR: 10/adamantine

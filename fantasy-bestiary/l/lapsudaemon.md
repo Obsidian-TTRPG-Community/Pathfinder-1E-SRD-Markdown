@@ -21,7 +21,7 @@ senses: blindsense, darkvision
 aura: frightful presence
 AC: 29, touch 24, flat-footed 18 (deflection +3, dex +10, dodge +1, natural +5)
 HP: 199
-HD: 19d10+95
+hit_dice: 19d10+95
 saves: Fort +11, Ref +21, Will +15
 immune: acid, bludgeoning, death effects, disease, poison
 resist: cold 10, electricity 10, fire 10

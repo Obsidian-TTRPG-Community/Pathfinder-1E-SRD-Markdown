@@ -20,7 +20,7 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 22
-HD: 3d10+6
+hit_dice: 3d10+6
 saves: Fort +5, Ref +6, Will +3
 speed: 20 ft., fly 20 ft. (clumsy), swim 30 ft.
 melee: bite +5 (1d4+1), sting +5 (1d4+1 plus 1 bleed and jagged sting)

@@ -22,7 +22,7 @@ aura: chaos, gibber
 AC: 22, touch 13, flat-footed 18 (dex +3, dodge +1, natural +9, size -1)
 HP: 114
 HP_extra: fast healing 2
-HD: 12d10+48
+hit_dice: 12d10+48
 saves: Fort +8, Ref +11, Will +10
 immune: acid, poison
 resist: electricity 10, fire 10

@@ -22,7 +22,7 @@ perception: +10
 senses: blindsense, darkvision
 AC: 23, touch 12, flat-footed 21 (armor +4, dex +2, natural +7)
 HP: 61
-HD: 6d10+28
+hit_dice: 6d10+28
 saves: Fort +8, Ref +10, Will +6
 weak: light blindness
 speed: 30 ft., swim 60 ft.

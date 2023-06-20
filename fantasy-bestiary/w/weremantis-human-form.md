@@ -22,7 +22,7 @@ perception: +8
 senses: darkvision
 AC: 15, touch 15, flat-footed 12 (dex +2, dodge +1, wis +2)
 HP: 29
-HD: 3d8+12
+hit_dice: 3d8+12
 saves: Fort +6, Ref +5, Will +5
 saves_other: +2 vs. enchantments, +4 vs. mind-affecting
 defensive_abilities: evasion, insect mind

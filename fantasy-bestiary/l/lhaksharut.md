@@ -22,7 +22,7 @@ aura: shield of law
 AC: 36, touch 18, flat-footed 35 (deflection +4, dex +1, insight +5, natural +18, size -2)
 HP: 337
 HP_extra: regeneration 10; regeneration weakness chaotic
-HD: 22d10+216
+hit_dice: 22d10+216
 saves: Fort +25, Ref +12, Will +22
 immune: energy spells
 DR: 15/chaotic

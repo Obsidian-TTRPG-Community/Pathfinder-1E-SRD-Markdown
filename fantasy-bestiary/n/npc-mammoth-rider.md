@@ -22,7 +22,7 @@ perception: +3
 AC: 20, touch 12, flat-footed 18 (armor +6, dex +1, dodge +1, shield +2)
 HP: 112
 HP_extra: HD 15
-HD: 3d12+6d8+6d12+21
+hit_dice: 3d12+6d8+6d12+21
 saves: Fort +16, Ref +10, Will +13
 saves_other: +2 vs. arcane spells, +4 vs. fey and plant-targeted effects
 defensive_abilities: mistrust of magic, uncanny dodge

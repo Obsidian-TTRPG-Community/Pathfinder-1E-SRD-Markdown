@@ -22,7 +22,7 @@ perception: +9
 senses: darkvision, low-light vision
 AC: 20, touch 9, flat-footed 20 (armor +6, dex -1, natural +4, shield +1)
 HP: 120
-HD: 13d8+62
+hit_dice: 13d8+62
 saves: Fort +14, Ref +6, Will +14
 resist: cold 10
 speed: 15 ft., swim 30 ft.

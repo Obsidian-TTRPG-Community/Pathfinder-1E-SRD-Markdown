@@ -20,7 +20,7 @@ senses: scent magic
 aura: discordant field
 AC: 26, touch 26, flat-footed 17 (deflection +8, dex +8, dodge +1, size -1)
 HP: 161
-HD: 14d8+98
+hit_dice: 14d8+98
 saves: Fort +13, Ref +12, Will +9
 immune: fire, force, ooze traits
 defensive_abilities: deflective shield, spell healing

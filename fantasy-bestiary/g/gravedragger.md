@@ -22,7 +22,7 @@ aura: frightful presence, unluck
 AC: 29, touch 17, flat-footed 25 (dex +4, luck +4, natural +12, size -1)
 HP: 195
 HP_extra: fast healing 5
-HD: 17d10+102
+hit_dice: 17d10+102
 saves: Fort +15, Ref +18, Will +17
 immune: fear
 resist: cold 30, fire 30

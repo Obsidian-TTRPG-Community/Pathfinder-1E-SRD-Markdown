@@ -20,7 +20,7 @@ perception: +28
 senses: blindsight, darkvision, low-light vision
 AC: 35, touch 9, flat-footed 34 (dex +1, natural +26, size -2)
 HP: 283
-HD: 21d12+147
+hit_dice: 21d12+147
 saves: Fort +21, Ref +15, Will +17
 saves_other: +4 vs. psychic spells
 immune: acid, electricity, paralysis, sleep

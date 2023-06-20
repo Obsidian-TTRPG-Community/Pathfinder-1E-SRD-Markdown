@@ -21,7 +21,7 @@ INI: +1
 perception: +2
 AC: 14, touch 12, flat-footed 13 (deflection +1, dex +1, natural +2)
 HP: 68
-HD: 11d6+27
+hit_dice: 11d6+27
 saves: Fort +8, Ref +7, Will +14
 defensive_abilities: blessed warding
 speed: 30 ft.

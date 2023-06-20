@@ -21,7 +21,7 @@ senses: darkvision, tremorsense
 aura: resonance
 AC: 14, touch 13, flat-footed 13 (dex +1, natural +1, size +2)
 HP: 25
-HD: 3d10+9
+hit_dice: 3d10+9
 saves: Fort +5, Ref +4, Will +2
 immune: elemental traits
 DR: 1/-

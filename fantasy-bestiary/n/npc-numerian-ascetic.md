@@ -22,7 +22,7 @@ perception: +16
 senses: darkvision, low-light vision
 AC: 24, touch 23, flat-footed 19 (armor +1, deflection +2, dex +4, dodge +1, monk +3, wis +3)
 HP: 94
-HD: 14d8+28
+hit_dice: 14d8+28
 saves: Fort +10, Ref +13, Will +12
 saves_other: +2 vs. enchantments
 immune: disease, emotion-based effects, exhaustion, fatigue, fear, poison, sleep

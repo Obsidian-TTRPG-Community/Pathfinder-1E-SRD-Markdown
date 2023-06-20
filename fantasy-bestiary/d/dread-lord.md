@@ -24,7 +24,7 @@ aura: fear aura
 AC: 23, touch 12, flat-footed 22 (armor +10, deflection +1, dex +1, natural +1)
 HP: 131
 HP_extra: fast healing 10
-HD: 11d10+66
+hit_dice: 11d10+66
 saves: Fort +14, Ref +9, Will +9
 DR: 5/good or silver
 weak: landlocked

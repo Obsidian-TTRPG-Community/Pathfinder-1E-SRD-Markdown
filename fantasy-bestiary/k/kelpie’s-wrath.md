@@ -21,7 +21,7 @@ senses: darkvision, tremorsense, keen scent
 AC: 30, touch 6, flat-footed 30 (deflection +5, dex -1, natural +24, size -8)
 HP: 297
 HP_extra: fast healing 10
-HD: 18d10+198
+hit_dice: 18d10+198
 saves: Fort +22, Ref +5, Will +13
 resist: acid 30, cold 30, electricity 30, fire 10
 DR: 10/lawful

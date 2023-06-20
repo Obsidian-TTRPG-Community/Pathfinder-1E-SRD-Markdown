@@ -21,7 +21,7 @@ perception: +4
 aura: courage
 AC: 20, touch 13, flat-footed 17 (armor +7, dex +3)
 HP: 51
-HD: 7d10+13
+hit_dice: 7d10+13
 saves: Fort +8, Ref +7, Will +6
 immune: disease, fear
 defensive_abilities: divine grace +2

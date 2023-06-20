@@ -19,7 +19,7 @@ perception: +12
 senses: blindsight, darkvision, low-light vision, scent
 AC: 20, touch 16, flat-footed 13 (dex +7, natural +4, size -1)
 HP: 85
-HD: 9d10+36
+hit_dice: 9d10+36
 saves: Fort +10, Ref +13, Will +5
 DR: 10/cold iron or magic
 speed: 40 ft., swim 15 ft.

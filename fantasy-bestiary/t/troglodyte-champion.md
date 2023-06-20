@@ -24,7 +24,7 @@ aura: stench
 AC: 23, touch 11, flat-footed 22 (armor +6, dex +1, natural +6)
 HP: 82
 HP_extra: HD 8
-HD: 2d8+6d10+40
+hit_dice: 2d8+6d10+40
 saves: Fort +13, Ref +4, Will +4
 defensive_abilities: bravery +2
 speed: 30 ft.

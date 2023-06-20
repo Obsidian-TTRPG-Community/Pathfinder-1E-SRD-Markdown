@@ -19,7 +19,7 @@ perception: +9
 senses: darkvision, low-light vision
 AC: 17, touch 13, flat-footed 14 (armor +4, dex +3)
 HP: 42
-HD: 5d10+15
+hit_dice: 5d10+15
 saves: Fort +4, Ref +7, Will +5
 immune: poison, sonic
 speed: 30 ft., fly 60 ft. (good)

@@ -20,7 +20,7 @@ senses: darkvision
 aura: nightfall
 AC: 28, touch 16, flat-footed 22 (dex +6, natural +12)
 HP: 195
-HD: 17d10+102
+hit_dice: 17d10+102
 saves: Fort +11, Ref +16, Will +13
 immune: sleep
 DR: 5/cold iron

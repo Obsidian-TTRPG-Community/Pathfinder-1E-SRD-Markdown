@@ -19,7 +19,7 @@ INI: -1
 senses: darkvision
 AC: 13, touch 13, flat-footed 13 (dex -1, size +4)
 HP: 9
-HD: 2d8
+hit_dice: 2d8
 saves: Fort +3, Ref -1, Will +1
 immune: mind-affecting effects, weapon damage
 defensive_abilities: sickening crunch, swarm traits

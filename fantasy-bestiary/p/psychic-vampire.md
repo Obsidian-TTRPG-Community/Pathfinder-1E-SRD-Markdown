@@ -23,7 +23,7 @@ senses: darkvision, thoughtsense
 AC: 22, touch 14, flat-footed 18 (armor +4, dex +3, dodge +1, natural +4)
 HP: 85
 HP_extra: fast healing 5
-HD: 7d10+42
+hit_dice: 7d10+42
 saves: Fort +10, Ref +9, Will +7
 immune: undead traits
 resist: cold 10, fire 10

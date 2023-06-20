@@ -19,7 +19,7 @@ perception: +15
 senses: hear heartbeat, low-light vision
 AC: 21, touch 18, flat-footed 14 (dex +6, dodge +1, natural +3, size +1)
 HP: 82
-HD: 11d6+44
+hit_dice: 11d6+44
 saves: Fort +7, Ref +13, Will +8
 DR: 5/cold iron
 speed: 30 ft.

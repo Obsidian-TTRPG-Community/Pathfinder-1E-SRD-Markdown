@@ -19,7 +19,7 @@ perception: +27
 senses: darkvision, low-light vision, true seeing
 AC: 29, touch 7, flat-footed 28 (dex +1, natural +22, size -4)
 HP: 241
-HD: 21d10+126
+hit_dice: 21d10+126
 saves: Fort +18, Ref +15, Will +19
 immune: petrification
 defensive_abilities: enciphered mind, DR 15/adamantine and magic

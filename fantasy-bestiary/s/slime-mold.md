@@ -17,7 +17,7 @@ type: ooze
 INI: -1
 AC: 8, touch 8, flat-footed 8 (dex -1, size -1)
 HP: 28
-HD: 3d8+15
+hit_dice: 3d8+15
 saves: Fort +6, Ref +0, Will -4
 immune: ooze traits
 resist: fire 10

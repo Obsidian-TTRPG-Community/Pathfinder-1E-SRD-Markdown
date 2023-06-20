@@ -21,7 +21,7 @@ senses: darkvision, deathwatch
 AC: 24, touch 13, flat-footed 21 (armor +7, dex +3, shield +4)
 HP: 123
 HP_extra: fast healing 5
-HD: 13d10+52
+hit_dice: 13d10+52
 saves: Fort +12, Ref +11, Will +8
 immune: cold, disease, fear, poison
 resist: acid 10, electricity 10, fire 10

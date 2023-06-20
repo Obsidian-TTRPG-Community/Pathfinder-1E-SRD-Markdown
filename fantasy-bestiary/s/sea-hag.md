@@ -21,7 +21,7 @@ senses: darkvision
 aura: horrific appearance
 AC: 16, touch 13, flat-footed 13 (dex +3, natural +3)
 HP: 38
-HD: 4d10+16
+hit_dice: 4d10+16
 saves: Fort +5, Ref +7, Will +5
 SR: 15
 speed: 30 ft., swim 40 ft.

@@ -20,7 +20,7 @@ perception: +31
 senses: darkvision, detect scrying, low-light vision, see invisibility
 AC: 32, touch 15, flat-footed 26 (dex +5, dodge +1, natural +17, size -1)
 HP: 283
-HD: 21d10+168
+hit_dice: 21d10+168
 saves: Fort +20, Ref +14, Will +19
 saves_other: +4 vs. poison
 immune: electricity, petrification

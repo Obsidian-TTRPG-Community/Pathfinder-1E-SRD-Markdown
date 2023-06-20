@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 aura: revelation
 AC: 17, touch 15, flat-footed 13 (dex +4, natural +2, size +1)
 HP: 37
-HD: 5d10+10
+hit_dice: 5d10+10
 saves: Fort +3, Ref +8, Will +6
 immune: poison
 DR: 5/good

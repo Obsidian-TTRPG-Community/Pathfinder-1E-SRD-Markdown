@@ -24,7 +24,7 @@ aura: cowardice
 AC: 24, touch 10, flat-footed 24 (armor +9, deflection +1, natural +5, size -1)
 HP: 107
 HP_extra: HD 11
-HD: 4d8+7d10+51
+hit_dice: 4d8+7d10+51
 saves: Fort +16, Ref +6, Will +10
 immune: disease
 speed: 30 ft.

@@ -21,7 +21,7 @@ senses: darkvision, detect evil, low-light vision
 aura: aura of menace
 AC: 23, touch 11, flat-footed 22 (armor +9, dex +1, natural +3, deflection vs. evil +2)
 HP: 76
-HD: 8d10+32
+hit_dice: 8d10+32
 saves: Fort +10, Ref +3, Will +8
 saves_other: +4 vs. poison, +2 vs. evil
 immune: electricity, petrification

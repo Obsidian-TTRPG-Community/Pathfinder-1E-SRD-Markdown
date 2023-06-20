@@ -21,7 +21,7 @@ senses: blindsight
 AC: 29, touch 10, flat-footed 25 (dex +4, natural +19, size -4)
 HP: 218
 HP_extra: regeneration 15; regeneration weakness electricity
-HD: 19d8+133
+hit_dice: 19d8+133
 saves: Fort +17, Ref +10, Will +10
 immune: gaze attacks, mind-affecting effects, sonic, visual effects
 resist: cold 10, electricity 10

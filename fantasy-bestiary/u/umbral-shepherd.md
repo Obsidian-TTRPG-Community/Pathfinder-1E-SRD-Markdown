@@ -20,7 +20,7 @@ perception: +10
 senses: darkvision
 AC: 14, touch 14, flat-footed 12 (deflection +2, dex +2)
 HP: 39
-HD: 6d10+6
+hit_dice: 6d10+6
 saves: Fort +3, Ref +9, Will +8
 defensive_abilities: incorporeal
 weak: light sensitivity, planebound

@@ -21,7 +21,7 @@ senses: darkvision
 aura: mucus cloud
 AC: 30, touch 15, flat-footed 24 (armor +4, dex +6, natural +11, size -1)
 HP: 200
-HD: 16d8+128
+hit_dice: 16d8+128
 saves: Fort +13, Ref +13, Will +14
 immune: electricity, mind-affecting effects
 resist: cold 20

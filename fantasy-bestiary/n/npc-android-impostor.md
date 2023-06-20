@@ -22,7 +22,7 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 16, touch 10, flat-footed 16 (armor +6)
 HP: 55
-HD: 6d10+18
+hit_dice: 6d10+18
 saves: Fort +8, Ref +3, Will +4
 immune: disease, emotion-based effects, exhaustion, fatigue, fear, sleep
 defensive_abilities: bravery +2, constructed

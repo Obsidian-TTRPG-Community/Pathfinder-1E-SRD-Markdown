@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, see invisibility
 AC: 18, touch 14, flat-footed 14 (armor +2, dex +4, natural +2)
 HP: 57
 HP_extra: regeneration 2; regeneration weakness fire or acid
-HD: 6d10+24
+hit_dice: 6d10+24
 saves: Fort +9, Ref +9, Will +4
 saves_other: -2 vs. illusion (pattern) spells
 SR: 16

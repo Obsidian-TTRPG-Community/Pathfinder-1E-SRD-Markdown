@@ -20,7 +20,7 @@ perception: +19
 senses: disease scent
 AC: 17, touch 13, flat-footed 15 (dex +2, natural +4, size +1)
 HP: 66
-HD: 12d6+24
+hit_dice: 12d6+24
 saves: Fort +5, Ref +10, Will +8
 resist: acid 5, fire 5
 DR: 5/cold iron

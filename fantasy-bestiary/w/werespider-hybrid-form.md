@@ -20,7 +20,7 @@ perception: +7
 senses: darkvision, tremorsense
 AC: 19, touch 14, flat-footed 15 (armor +3, dex +4, natural +2)
 HP: 20
-HD: 2d8+8
+hit_dice: 2d8+8
 saves: Fort +3, Ref +7, Will +4
 saves_other: +4 vs. mind-affecting effects
 DR: 10/silver

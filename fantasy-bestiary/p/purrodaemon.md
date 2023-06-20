@@ -21,7 +21,7 @@ senses: darkvision, true seeing
 aura: fear, unholy aura
 AC: 35, touch 19, flat-footed 29 (deflection +4, dex +6, natural +16, size -1)
 HP: 294
-HD: 19d10+190
+hit_dice: 19d10+190
 saves: Fort +25, Ref +21, Will +14
 immune: acid, death effects, disease, poison
 resist: cold 10, electricity 10, fire 10

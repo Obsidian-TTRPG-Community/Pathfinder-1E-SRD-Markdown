@@ -22,7 +22,7 @@ perception: +6
 senses: darkvision
 AC: 20, touch 11, flat-footed 19 (armor +7, dex +1, natural +2)
 HP: 32
-HD: 4d8+11
+hit_dice: 4d8+11
 saves: Fort +6, Ref +2, Will +5
 saves_other: +4 vs. fey and plant-targeted effects
 defensive_abilities: orc ferocity

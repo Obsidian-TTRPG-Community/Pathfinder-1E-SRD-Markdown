@@ -22,7 +22,7 @@ aura: malfunctioning
 AC: 29, touch 15, flat-footed 23 (dex +6, natural +14, size -1)
 HP: 187
 HP_extra: regeneration 10; regeneration weakness chaotic
-HD: 15d10+105
+hit_dice: 15d10+105
 saves: Fort +14, Ref +11, Will +14
 defensive_abilities: all-around vision, constructed
 SR: 25

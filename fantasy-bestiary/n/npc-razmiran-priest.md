@@ -22,7 +22,7 @@ perception: +10
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 61
 HP_extra: HD 10
-HD: 6d6+4d8+20
+hit_dice: 6d6+4d8+20
 saves: Fort +6, Ref +6, Will +8
 speed: 30 ft.
 melee: mwk heavy mace +6/+1 (1d8-1)

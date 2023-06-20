@@ -21,7 +21,7 @@ senses: darkvision, true seeing
 AC: 37, touch 5, flat-footed 34 (armor +9, dex +3, natural +23, size -8)
 HP: 409
 HP_extra: regeneration 15; regeneration weakness evil
-HD: 21d10+294
+hit_dice: 21d10+294
 saves: Fort +21, Ref +15, Will +21
 saves_other: +8 resistance vs. mind-affecting
 immune: aging, death effects, disease

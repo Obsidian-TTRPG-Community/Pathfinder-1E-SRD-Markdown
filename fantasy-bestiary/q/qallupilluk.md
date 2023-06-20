@@ -21,7 +21,7 @@ senses: darkvision
 aura: cloying scent
 AC: 19, touch 12, flat-footed 17 (dex +2, natural +7)
 HP: 76
-HD: 8d10+32
+hit_dice: 8d10+32
 saves: Fort +6, Ref +10, Will +8
 resist: cold 10, fire 10
 DR: 5/cold iron

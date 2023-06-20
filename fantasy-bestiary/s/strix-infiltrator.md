@@ -22,7 +22,7 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 17, touch 13, flat-footed 14 (armor +4, dex +3)
 HP: 22
-HD: 4d8+4
+hit_dice: 4d8+4
 saves: Fort +1, Ref +7, Will +3
 saves_other: +2 bonus vs. poison, +2 bonus vs. illusion spells or effects
 defensive_abilities: trap sense +1

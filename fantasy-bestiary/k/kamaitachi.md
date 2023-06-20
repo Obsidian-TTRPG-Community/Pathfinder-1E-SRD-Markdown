@@ -20,7 +20,7 @@ perception: +24
 senses: blindsight, low-light vision, scent
 AC: 29, touch 25, flat-footed 20 (deflection +6, dex +8, dodge +1, natural +4)
 HP: 175
-HD: 14d6+126
+hit_dice: 14d6+126
 saves: Fort +13, Ref +17, Will +16
 DR: 10/cold iron
 defensive_abilities: dust devil

@@ -22,7 +22,7 @@ senses: darkvision, tremorsense
 AC: 28, touch 15, flat-footed 22 (armor +3, dex +5, dodge +1, natural +10, size -1)
 HP: 189
 HP_extra: HD 18
-HD: 8d8+10d10+98
+hit_dice: 8d8+10d10+98
 saves: Fort +10, Ref +21, Will +12
 defensive_abilities: evasion, trap sense +2
 speed: 50 ft.

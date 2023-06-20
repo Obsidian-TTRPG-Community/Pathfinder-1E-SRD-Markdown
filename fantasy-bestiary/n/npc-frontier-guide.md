@@ -20,7 +20,7 @@ INI: +2
 perception: +14
 AC: 17, touch 12, flat-footed 15 (armor +5, dex +2)
 HP: 40
-HD: 9d8
+hit_dice: 9d8
 saves: Fort +3, Ref +5, Will +8
 speed: 30 ft.
 melee: mwk shortspear +7/+2 (1d6)

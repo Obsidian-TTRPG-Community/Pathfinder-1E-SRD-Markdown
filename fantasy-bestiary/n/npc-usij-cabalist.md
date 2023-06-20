@@ -21,7 +21,7 @@ INI: +1
 perception: +4
 AC: 16, touch 11, flat-footed 15 (armor +5, dex +1)
 HP: 31
-HD: 5d8+5
+hit_dice: 5d8+5
 saves: Fort +6, Ref +3, Will +8
 speed: 30 ft.
 melee: mwk scorpion whip +4 (1d4-1)

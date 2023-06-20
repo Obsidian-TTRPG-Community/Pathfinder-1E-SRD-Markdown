@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 aura: deadly fumes, selective antimagic aura
 AC: 39, touch 1, flat-footed 39 (dex -1, natural +38, size -8)
 HP: 309
-HD: 23d10+183
+hit_dice: 23d10+183
 saves: Fort +9, Ref +6, Will +7
 immune: construct traits, fire absorption
 DR: 10/epic

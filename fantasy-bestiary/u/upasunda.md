@@ -22,7 +22,7 @@ aura: elusive
 AC: 24, touch 21, flat-footed 16 (dex +7, dodge +1, insight +3, natural +3)
 HP: 114
 HP_extra: regeneration 5; regeneration weakness good weapons, good spells
-HD: 12d10+48
+hit_dice: 12d10+48
 saves: Fort +12, Ref +11, Will +15
 immune: curse effects, disease, flanking, poison
 resist: acid 10, electricity 10

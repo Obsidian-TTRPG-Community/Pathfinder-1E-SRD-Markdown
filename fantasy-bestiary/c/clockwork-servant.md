@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 AC: 16, touch 14, flat-footed 12 (dex +2, dodge +2, natural +2)
 HP: 31
 HP_extra: fast healing 2
-HD: 2d10+20
+hit_dice: 2d10+20
 saves: Fort +0, Ref +4, Will +0
 immune: construct traits
 weak: vulnerable to electricity

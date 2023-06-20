@@ -20,7 +20,7 @@ perception: +15
 senses: blindsense, darkvision, detect law
 AC: 20, touch 12, flat-footed 17 (dex +3, natural +8, size -1)
 HP: 94
-HD: 9d10+45
+hit_dice: 9d10+45
 saves: Fort +11, Ref +11, Will +6
 immune: acid, polymorph
 resist: electricity 10, sonic 10

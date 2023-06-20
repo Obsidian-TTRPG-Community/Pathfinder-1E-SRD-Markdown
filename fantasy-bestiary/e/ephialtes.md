@@ -22,7 +22,7 @@ aura: frightful presence
 AC: 30, touch 10, flat-footed 28 (armor +8, dex +2, natural +12, size -2)
 HP: 243
 HP_extra: regeneration 5; regeneration weakness good weapons and spells, silver weapons
-HD: 18d10+144
+hit_dice: 18d10+144
 saves: Fort +14, Ref +13, Will +14
 immune: cold, fear, poison
 resist: acid 10, fire 10

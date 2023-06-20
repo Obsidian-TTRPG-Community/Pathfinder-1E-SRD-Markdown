@@ -19,7 +19,7 @@ INI: +2
 senses: darkvision, scent, tremorsense
 AC: 20, touch 20, flat-footed 18 (dex +2, size +8)
 HP: 75
-HD: 10d8+30
+hit_dice: 10d8+30
 saves: Fort +10, Ref +5, Will +4
 immune: disease, mind-affecting effects, visual effects, weapon damage
 resist: acid 5

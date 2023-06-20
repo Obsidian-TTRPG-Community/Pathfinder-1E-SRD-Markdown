@@ -20,7 +20,7 @@ perception: +29
 senses: detect chaos/evil/good/law, darkvision, thoughtsense
 AC: 29, touch 14, flat-footed 24 (dex +5, natural +15, size -1)
 HP: 157
-HD: 15d10+75
+hit_dice: 15d10+75
 saves: Fort +14, Ref +10, Will +16
 immune: electricity, fire
 SR: 23

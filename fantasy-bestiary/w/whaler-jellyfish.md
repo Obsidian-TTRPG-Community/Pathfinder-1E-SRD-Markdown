@@ -20,7 +20,7 @@ perception: +7
 senses: blindsight
 AC: 32, touch 8, flat-footed 26 (dex +6, natural +24, size -8)
 HP: 270
-HD: 20d8+180
+hit_dice: 20d8+180
 saves: Fort +21, Ref +12, Will +13
 immune: mind-affecting effects
 DR: 20/piercing or slashing

@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, see invisibility, sense kaiju
 AC: 47, touch 7, flat-footed 42 (dex +5, natural +40, size -8)
 HP: 697
 HP_extra: fast healing 30
-HD: 34d10+510
+hit_dice: 34d10+510
 saves: Fort +34, Ref +24, Will +23
 immune: ability damage, ability drain, death effects, disease, energy drain, fire, fear
 resist: acid 30, cold 30, electricity 30, negative energy 30, sonic 30

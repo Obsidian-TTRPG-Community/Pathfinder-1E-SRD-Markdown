@@ -19,7 +19,7 @@ perception: +10
 senses: darkvision, tremorsense
 AC: 14, touch 9, flat-footed 14 (natural +5, size -1)
 HP: 22
-HD: 3d8+9
+hit_dice: 3d8+9
 saves: Fort +4, Ref +1, Will +5
 resist: fire 5
 defensive_abilities: carapace

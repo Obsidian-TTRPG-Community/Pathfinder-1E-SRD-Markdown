@@ -19,7 +19,7 @@ perception: -2
 senses: low-light vision
 AC: 12, touch 12, flat-footed 11 (dex +1, size +1)
 HP: 4
-HD: 1d8
+hit_dice: 1d8
 saves: Fort +2, Ref +3, Will -2
 speed: 20 ft., fly 40 ft. (clumsy), other_semicolon drift ft.
 melee: 2 talons +2 (1d3-2)

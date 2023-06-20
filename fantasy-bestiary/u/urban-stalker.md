@@ -22,7 +22,7 @@ perception: +7
 AC: 20, touch 14, flat-footed 17 (armor +4, dex +3, natural +2, size +1)
 HP: 81
 HP_extra: HD 7
-HD: 3d8+4d10+46
+hit_dice: 3d8+4d10+46
 saves: Fort +11, Ref +8, Will +6
 SR: 18
 weak: vulnerable to sunlight

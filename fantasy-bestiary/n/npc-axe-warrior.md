@@ -22,7 +22,7 @@ perception: +6
 senses: darkvision
 AC: 15, touch 9, flat-footed 14 (armor +6, dex +1, rage -2)
 HP: 40
-HD: 3d12+15
+hit_dice: 3d12+15
 saves: Fort +7, Ref +2, Will +3
 defensive_abilities: orc ferocity, trap sense +1, uncanny dodge
 speed: 30 ft.

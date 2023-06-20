@@ -19,7 +19,7 @@ perception: +10
 senses: darkvision, detect evil, detect good, low-light vision, scent
 AC: 17, touch 11, flat-footed 15 (dex +2, natural +6, size -1)
 HP: 42
-HD: 5d10+15
+hit_dice: 5d10+15
 saves: Fort +7, Ref +6, Will +6
 immune: disease, poison
 resist: fire 5

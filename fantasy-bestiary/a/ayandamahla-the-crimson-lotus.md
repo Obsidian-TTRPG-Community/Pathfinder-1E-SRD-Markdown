@@ -23,7 +23,7 @@ senses: darkvision, detect good
 AC: 41, touch 21, flat-footed 35 (armor +9, deflection +5, dex +5, dodge +1, natural +10, shield +1)
 HP: 490
 HP_extra: HD 28
-HD: 8d10+20d8+356
+hit_dice: 8d10+20d8+356
 saves: Fort +24, Ref +28, Will +26
 saves_other: +4 vs. bardic performance, language-dependent, and sonic
 immune: electricity, fire, poison

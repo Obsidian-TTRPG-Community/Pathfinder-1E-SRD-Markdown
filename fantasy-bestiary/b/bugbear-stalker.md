@@ -23,7 +23,7 @@ senses: darkvision, scent
 AC: 20, touch 13, flat-footed 17 (armor +4, dex +3, natural +3)
 HP: 41
 HP_extra: HD 6
-HD: 3d8+3d10+12
+hit_dice: 3d8+3d10+12
 saves: Fort +6, Ref +9, Will +4
 speed: 30 ft.
 melee: mwk scimitar +9 (1d6+3/18-20)

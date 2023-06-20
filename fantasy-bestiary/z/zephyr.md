@@ -20,7 +20,7 @@ perception: +24
 senses: low-light vision, wind senses
 AC: 27, touch 19, flat-footed 17 (dex +9, dodge +1, natural +8, size -1)
 HP: 168
-HD: 16d6+112
+hit_dice: 16d6+112
 saves: Fort +11, Ref +19, Will +15
 immune: electricity
 resist: cold 10, sonic 10

@@ -20,7 +20,7 @@ senses: thoughtsense
 aura: brain static, mental static
 AC: 19, touch 19, flat-footed 14 (dex +4, dodge +1, insight +2, size +2)
 HP: 85
-HD: 10d8+40
+hit_dice: 10d8+40
 saves: Fort +9, Ref +9, Will +11
 immune: ooze traits
 defensive_abilities: evasion, prescience

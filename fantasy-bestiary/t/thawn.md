@@ -20,7 +20,7 @@ perception: +1
 senses: low-light vision
 AC: 14, touch 8, flat-footed 14 (dex -1, natural +6, size -1)
 HP: 19
-HD: 3d8+6
+hit_dice: 3d8+6
 saves: Fort +7, Ref +0, Will +2
 weak: repulsive
 speed: 30 ft.

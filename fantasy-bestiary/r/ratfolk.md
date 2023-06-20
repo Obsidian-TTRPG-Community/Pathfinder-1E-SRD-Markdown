@@ -22,7 +22,7 @@ perception: +9
 senses: darkvision
 AC: 15, touch 13, flat-footed 13 (armor +2, dex +2, size +1)
 HP: 4
-HD: 1d8
+hit_dice: 1d8
 saves: Fort +0, Ref +2, Will +2
 speed: 20 ft.
 melee: dagger -1 (1d3-2/19-20)

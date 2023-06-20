@@ -22,7 +22,7 @@ aura: frightful presence
 AC: 38, touch 21, flat-footed 27 (dex +10, dodge +1, natural +17)
 HP: 317
 HP_extra: fast healing 5
-HD: 19d10+213
+hit_dice: 19d10+213
 saves: Fort +13, Ref +21, Will +17
 immune: elemental traits
 DR: 10/adamantine, bludgeoning, and epic

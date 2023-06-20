@@ -18,7 +18,7 @@ INI: +1
 senses: tremorsense
 AC: 17, touch 10, flat-footed 16 (dex +1, natural +7, size -1)
 HP: 52
-HD: 7d8+21
+hit_dice: 7d8+21
 saves: Fort +8, Ref +3, Will +2
 immune: plant traits
 resist: electricity 10, fire 10

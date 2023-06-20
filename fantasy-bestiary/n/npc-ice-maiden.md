@@ -22,7 +22,7 @@ perception: +20
 senses: blindsense, low-light vision
 AC: 32, touch 18, flat-footed 28 (armor +4, deflection +3, dex +3, dodge +1, insight +1, natural +10)
 HP: 222
-HD: 10d6+10d12+120
+hit_dice: 10d6+10d12+120
 saves: Fort +18, Ref +12, Will +17
 saves_other: +2 vs. enchantments
 speed: 30 ft., fly 90 ft. (average)

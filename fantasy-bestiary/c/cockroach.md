@@ -19,7 +19,7 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 16, touch 16, flat-footed 14 (dex +2, size +4)
 HP: 6
-HD: 1d8+2
+hit_dice: 1d8+2
 saves: Fort +4, Ref +2, Will +0
 immune: mind-affecting effects
 weak: light sensitivity

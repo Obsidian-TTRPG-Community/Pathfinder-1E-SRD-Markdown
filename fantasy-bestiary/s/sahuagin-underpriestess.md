@@ -23,7 +23,7 @@ senses: blindsense, darkvision
 AC: 19, touch 10, flat-footed 19 (armor +4, natural +5)
 HP: 57
 HP_extra: HD 6
-HD: 2d10+4d8+28
+hit_dice: 2d10+4d8+28
 saves: Fort +7, Ref +4, Will +11
 saves_other: +2 vs. good
 weak: light blindness

@@ -21,7 +21,7 @@ senses: blindsense, darkvision, detect law
 aura: maddening whispers
 AC: 30, touch 15, flat-footed 24 (dex +6, natural +15, size -1)
 HP: 212
-HD: 17d10+119
+hit_dice: 17d10+119
 saves: Fort +17, Ref +13, Will +16
 immune: acid, polymorph
 resist: electricity 10, sonic 10

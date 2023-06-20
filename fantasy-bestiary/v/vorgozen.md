@@ -22,7 +22,7 @@ aura: polluted magic
 AC: 47, touch 13, flat-footed 36 (dex +10, dodge +1, natural +34, size -8)
 HP: 717
 HP_extra: fast healing 30
-HD: 35d8+560
+hit_dice: 35d8+560
 saves: Fort +27, Ref +23, Will +24
 immune: ability damage, ability drain, acid, death effects, disease, energy drain, fear, poison, ooze traits
 resist: acid 30, cold 30, electricity 30, fire 30, sonic 30, negative energy 30

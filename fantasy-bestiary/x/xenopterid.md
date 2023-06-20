@@ -19,7 +19,7 @@ perception: +1
 senses: darkvision, lifesense
 AC: 21, touch 13, flat-footed 18 (dex +3, natural +8)
 HP: 93
-HD: 11d8+44
+hit_dice: 11d8+44
 saves: Fort +11, Ref +6, Will +4
 immune: mind-affecting effects
 defensive_abilities: ferocity

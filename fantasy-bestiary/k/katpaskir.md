@@ -21,7 +21,7 @@ senses: darkvision, see invisibility
 aura: distance distortion
 AC: 31, touch 15, flat-footed 26 (dex +5, natural +16)
 HP: 304
-HD: 21d10+189
+hit_dice: 21d10+189
 saves: Fort +16, Ref +17, Will +17
 immune: electricity, poison
 resist: acid 10, cold 10, fire 10

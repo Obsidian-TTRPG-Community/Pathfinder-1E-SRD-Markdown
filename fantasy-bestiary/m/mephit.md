@@ -21,7 +21,7 @@ senses: darkvision
 AC: 17, touch 14, flat-footed 14 (dex +2, dodge +1, natural +3, size +1)
 HP: 19
 HP_extra: fast healing 2
-HD: 3d10+3
+hit_dice: 3d10+3
 saves: Fort +2, Ref +5, Will +3
 DR: 5/magic
 speed: 30 ft., fly 40 ft. (average)

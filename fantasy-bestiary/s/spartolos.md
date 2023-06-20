@@ -19,7 +19,7 @@ perception: +13
 senses: darkvision
 AC: 21, touch 12, flat-footed 19 (armor +6, dex +2, natural +2, shield +1)
 HP: 76
-HD: 8d8+40
+hit_dice: 8d8+40
 saves: Fort +6, Ref +4, Will +8
 immune: cold, undead traits
 DR: 10/bludgeoning

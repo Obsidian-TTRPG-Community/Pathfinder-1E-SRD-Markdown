@@ -20,7 +20,7 @@ senses: blindsight
 aura: captivating artistry
 AC: 18, touch 18, flat-footed 12 (deflection +2, dex +5, dodge +1)
 HP: 39
-HD: 6d8+12
+hit_dice: 6d8+12
 saves: Fort +4, Ref +7, Will +6
 immune: bleed, disease, paralysis, poison, stunning
 defensive_abilities: amorphous

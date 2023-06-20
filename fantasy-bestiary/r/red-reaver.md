@@ -19,7 +19,7 @@ perception: +8
 senses: darkvision, low-light vision
 AC: 29, touch 7, flat-footed 29 (dex -2, natural +22, size -1)
 HP: 184
-HD: 16d10+96
+hit_dice: 16d10+96
 saves: Fort +16, Ref +8, Will +8
 immune: sleep
 weak: distracted by beauty

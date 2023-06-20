@@ -21,7 +21,7 @@ aura: banelight
 AC: 27, touch 21, flat-footed 16 (dex +11, natural +6)
 HP: 168
 HP_extra: fast healing 10
-HD: 16d6+112
+hit_dice: 16d6+112
 saves: Fort +14, Ref +21, Will +16
 immune: magic
 DR: 10/cold iron

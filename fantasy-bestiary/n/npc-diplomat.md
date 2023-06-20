@@ -22,7 +22,7 @@ perception: +12
 senses: low-light vision
 AC: 11, touch 11, flat-footed 10 (dex +1)
 HP: 28
-HD: 8d8-8
+hit_dice: 8d8-8
 saves: Fort +2, Ref +4, Will +9
 speed: 30 ft.
 melee: mwk rapier +6/+1 (1d6-1/18-20)

@@ -21,7 +21,7 @@ senses: blindsight
 AC: 14, touch 14, flat-footed 10 (dex +4)
 HP: 73
 HP_extra: fast healing 2
-HD: 7d8+42
+hit_dice: 7d8+42
 saves: Fort +8, Ref +6, Will +4
 immune: ooze traits
 speed: 30 ft.

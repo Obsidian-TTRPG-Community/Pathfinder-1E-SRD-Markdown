@@ -20,7 +20,7 @@ senses: low-light vision, tremorsense
 aura: fear
 AC: 11, touch 8, flat-footed 11 (dex -2, natural +3)
 HP: 11
-HD: 2d8+2
+hit_dice: 2d8+2
 saves: Fort +4, Ref -2, Will +2
 immune: plant traits
 resist: fire 15

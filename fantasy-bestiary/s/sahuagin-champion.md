@@ -23,7 +23,7 @@ senses: blindsense, darkvision
 AC: 23, touch 11, flat-footed 20 (armor +3, dex +3, natural +7, rage -2, shield +2)
 HP: 123
 HP_extra: HD 9
-HD: 2d10+7d12+61
+hit_dice: 2d10+7d12+61
 saves: Fort +14, Ref +10, Will +10
 DR: 1/-
 defensive_abilities: improved uncanny dodge, trap sense +2

@@ -23,7 +23,7 @@ senses: darkvision
 AC: 16, touch 12, flat-footed 14 (armor +3, dex +2, shield +1)
 HP: 25
 HP_extra: HD 3
-HD: 2d8+1d10+6
+hit_dice: 2d8+1d10+6
 saves: Fort +7, Ref +2, Will +5
 speed: 30 ft.
 melee: bastard sword +4 (1d10+2/19-20)

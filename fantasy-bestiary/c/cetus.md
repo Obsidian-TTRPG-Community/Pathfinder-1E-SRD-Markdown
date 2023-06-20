@@ -22,7 +22,7 @@ aura: mariner’s misfortune
 AC: 28, touch 16, flat-footed 22 (deflection +8, dex +5, dodge +1, natural +12, size -8)
 HP: 184
 HP_extra: regeneration 10; regeneration weakness petrification
-HD: 16d12+80
+hit_dice: 16d12+80
 saves: Fort +17, Ref +15, Will +14
 saves_other: -4 vs. petrification
 immune: paralysis, sleep

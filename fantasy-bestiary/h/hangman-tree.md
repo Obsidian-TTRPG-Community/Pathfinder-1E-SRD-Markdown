@@ -19,7 +19,7 @@ perception: +11
 senses: blindsight
 AC: 20, touch 7, flat-footed 20 (dex -1, natural +13, size -2)
 HP: 84
-HD: 8d8+48
+hit_dice: 8d8+48
 saves: Fort +12, Ref +3, Will +5
 immune: plant traits
 SR: 18

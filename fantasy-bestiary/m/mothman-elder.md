@@ -20,7 +20,7 @@ senses: darkvision, see invisibility
 aura: warp elements
 AC: 26, touch 14, flat-footed 21 (dex +5, natural +12, size -1)
 HP: 142
-HD: 15d10+60
+hit_dice: 15d10+60
 saves: Fort +9, Ref +14, Will +16
 resist: cold 20, fire 20
 DR: 10/magic

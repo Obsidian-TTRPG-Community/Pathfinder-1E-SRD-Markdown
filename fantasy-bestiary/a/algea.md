@@ -21,7 +21,7 @@ senses: darkvision, greater arcane sight, low-light vision, spiritsense
 aura: grief
 AC: 24, touch 24, flat-footed 14 (dex +10, size +4)
 HP: 149
-HD: 13d10+78
+hit_dice: 13d10+78
 saves: Fort +12, Ref +20, Will +16
 immune: death effects, disease, poison, weapon damage
 resist: acid 10, cold 10, electricity 10, fire 10, sonic 10

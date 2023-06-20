@@ -20,7 +20,7 @@ perception: +0
 senses: blindsight, scent
 AC: 11, touch 11, flat-footed 10 (dex +1)
 HP: 19
-HD: 3d8+6
+hit_dice: 3d8+6
 saves: Fort +5, Ref +2, Will +1
 immune: mind-affecting effects
 weak: susceptible to salt

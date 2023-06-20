@@ -19,7 +19,7 @@ perception: +21
 senses: darkvision, low-light vision, scent
 AC: 23, touch 11, flat-footed 20 (dex +2, dodge +1, natural +12, size -2)
 HP: 126
-HD: 12d10+60
+hit_dice: 12d10+60
 saves: Fort +13, Ref +10, Will +12
 immune: electricity, sonic
 DR: 5/magic

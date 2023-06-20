@@ -21,7 +21,7 @@ senses: darkvision
 aura: resonance
 AC: 16, touch 16, flat-footed 12 (dex +4, size +2)
 HP: 19
-HD: 3d10+3
+hit_dice: 3d10+3
 saves: Fort +4, Ref +7, Will +2
 immune: elemental traits
 speed: fly 100 ft. (perfect)

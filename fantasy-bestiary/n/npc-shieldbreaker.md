@@ -21,7 +21,7 @@ INI: +3
 perception: +12
 AC: 24, touch 14, flat-footed 20 (armor +10, dex +3, dodge +1)
 HP: 134
-HD: 12d10+64
+hit_dice: 12d10+64
 saves: Fort +14, Ref +8, Will +7
 saves_other: +2 vs. poison, spells, and spell-like abilities
 defensive_abilities: bravery +3, defensive training (+4 dodge bonus to AC vs. giants)

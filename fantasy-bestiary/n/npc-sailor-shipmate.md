@@ -21,7 +21,7 @@ perception: +4
 AC: 15, touch 12, flat-footed 13 (armor +3, dex +1, dodge +1)
 HP: 11
 HP_extra: HD 2
-HD: 1d8+1d10+2
+hit_dice: 1d8+1d10+2
 saves: Fort +3, Ref +1, Will +2
 speed: 30 ft.
 melee: scimitar +2 (1d6+1/18-20)

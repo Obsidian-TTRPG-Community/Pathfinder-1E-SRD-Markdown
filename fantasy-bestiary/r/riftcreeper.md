@@ -21,7 +21,7 @@ senses: blindsight, tremorsense
 AC: 30, touch 14, flat-footed 22 (dex +8, natural +16, size -4)
 HP: 217
 HP_extra: fast healing 10
-HD: 15d8+150
+hit_dice: 15d8+150
 saves: Fort +15, Ref +13, Will +8
 immune: ability damage, ability drain, acid, exhaustion, fatigue, ooze traits
 defensive_abilities: adaptive defenses

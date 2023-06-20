@@ -20,7 +20,7 @@ senses: blindsight, tremorsense
 aura: molten form
 AC: 20, touch 6, flat-footed 20 (dex -2, natural +14, size -2)
 HP: 126
-HD: 12d8+72
+hit_dice: 12d8+72
 saves: Fort +10, Ref +2, Will -1
 immune: acid, electricity, fire, ooze traits
 DR: 5/magic

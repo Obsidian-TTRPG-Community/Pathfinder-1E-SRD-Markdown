@@ -22,7 +22,7 @@ perception: +18
 senses: low-light vision
 AC: 24, touch 15, flat-footed 21 (armor +6, deflection +1, dex +2, dodge +1, natural +3, size +1)
 HP: 116
-HD: 11d10+51
+hit_dice: 11d10+51
 saves: Fort +12, Ref +10, Will +6
 saves_other: +2 vs. illusions
 immune: poison

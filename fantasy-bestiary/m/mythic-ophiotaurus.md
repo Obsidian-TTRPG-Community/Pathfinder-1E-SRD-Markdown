@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, scent
 AC: 36, touch 10, flat-footed 32 (dex +4, natural +26, size -4)
 HP: 302
 HP_extra: regeneration 10; regeneration weakness cursed weapons
-HD: 16d10+214
+hit_dice: 16d10+214
 saves: Fort +19, Ref +14, Will +15
 saves_other: +8 vs. mind-affecting effects
 immune: divination, fear

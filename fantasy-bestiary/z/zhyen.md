@@ -20,7 +20,7 @@ perception: +6
 senses: darkvision
 AC: 17, touch 14, flat-footed 15 (dex +2, natural +3, size +2)
 HP: 9
-HD: 2d8
+hit_dice: 2d8
 saves: Fort +0, Ref +4, Will +4
 resist: acid 5, cold 5, electricity 5, fire 5
 speed: 10 ft., fly 30 ft. (perfect), swim 30 ft., swim_other if a water zhyen ft.

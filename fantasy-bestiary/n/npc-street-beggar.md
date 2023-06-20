@@ -21,7 +21,7 @@ perception: +6
 AC: 13, touch 13, flat-footed 10 (dex +3)
 HP: 13
 HP_extra: HD 2
-HD: 1d8+1d6+5
+hit_dice: 1d8+1d6+5
 saves: Fort +2, Ref +5, Will +1
 speed: 30 ft.
 melee: club +1 (1d6+1)

@@ -20,7 +20,7 @@ perception: +11
 senses: darkvision
 AC: 19, touch 9, flat-footed 19 (natural +10, size -1)
 HP: 76
-HD: 8d10+32
+hit_dice: 8d10+32
 saves: Fort +6, Ref +6, Will +6
 speed: 30 ft., other_semicolon sideways scuttle ft., swim 40 ft.
 melee: claw +13 (1d10+9/19-20 plus grab), slam +13 (1d6+6)

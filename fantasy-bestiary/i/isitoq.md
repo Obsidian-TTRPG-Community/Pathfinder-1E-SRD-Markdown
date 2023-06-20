@@ -19,7 +19,7 @@ perception: +7
 senses: darkvision
 AC: 15, touch 15, flat-footed 14 (dex +1, size +4)
 HP: 9
-HD: 2d8
+hit_dice: 2d8
 saves: Fort +0, Ref +1, Will +5
 immune: undead traits
 speed: 5 ft., fly 60 ft. (perfect)

@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 AC: 17, touch 17, flat-footed 14 (deflection +2, dex +3, size +2)
 HP: 39
 HP_extra: regeneration 1; regeneration weakness in statua
-HD: 6d10+6
+hit_dice: 6d10+6
 saves: Fort +3, Ref +7, Will +4
 speed: 0 ft., fly 30 ft. (perfect)
 special_attacks: suggestion

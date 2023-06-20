@@ -24,7 +24,7 @@ aura: stench
 AC: 21, touch 11, flat-footed 21 (armor +4, natural +9, rage -2)
 HP: 100
 HP_extra: HD 10
-HD: 8d8+2d12+46
+hit_dice: 8d8+2d12+46
 saves: Fort +14, Ref +4, Will +10
 saves_other: +2 vs. abilities of aberrations and oozes
 resist: fire 10

@@ -23,7 +23,7 @@ senses: darkvision, low-light vision
 AC: 14, touch 7, flat-footed 14 (armor +4, dex -1, natural +3, rage -2)
 HP: 86
 HP_extra: HD 7
-HD: 3d8+4d12+42
+hit_dice: 3d8+4d12+42
 saves: Fort +13, Ref +3, Will +5
 saves_other: +3 vs. magic
 defensive_abilities: uncanny dodge, trap sense +1

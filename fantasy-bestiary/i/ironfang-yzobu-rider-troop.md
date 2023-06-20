@@ -21,7 +21,7 @@ senses: darkvision
 aura: stench
 AC: 32, touch 11, flat-footed 31 (armor +10, dex +1, natural +8, shield +3)
 HP: 300
-HD: 24d8+192
+hit_dice: 24d8+192
 saves: Fort +22, Ref +15, Will +10
 immune: fear
 defensive_abilities: troop traits

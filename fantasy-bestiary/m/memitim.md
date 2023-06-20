@@ -21,7 +21,7 @@ senses: darkvision, detect evil, detect good, low-light vision, spiritsense, tru
 aura: terminal aura
 AC: 32, touch 19, flat-footed 23 (dex +9, natural +13)
 HP: 216
-HD: 16d10+128
+hit_dice: 16d10+128
 saves: Fort +13, Ref +19, Will +15
 immune: acid, death effects, disease
 resist: cold 10, electricity 10

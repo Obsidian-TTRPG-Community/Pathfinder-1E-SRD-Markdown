@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 AC: 21, touch 15, flat-footed 15 (dex +6, natural +6, size -1)
 HP: 85
 HP_extra: fast healing 5
-HD: 10d10+30
+hit_dice: 10d10+30
 saves: Fort +5, Ref +9, Will +4
 immune: electricity, construct traits
 speed: 30 ft., fly 30 ft. (good)

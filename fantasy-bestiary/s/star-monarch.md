@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: dreamwarden
 AC: 22, touch 15, flat-footed 15 (dex +6, dodge +1, natural +7, size -2)
 HP: 114
-HD: 12d10+48
+hit_dice: 12d10+48
 saves: Fort +12, Ref +14, Will +9
 immune: cold
 DR: 5/silver

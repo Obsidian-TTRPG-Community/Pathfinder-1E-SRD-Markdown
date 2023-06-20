@@ -18,7 +18,7 @@ INI: -1
 senses: darkvision
 AC: 9, touch 9, flat-footed 9 (dex -1)
 HP: 7
-HD: 1d8+3
+hit_dice: 1d8+3
 saves: Fort +5, Ref -1, Will -3
 immune: disease, mind-affecting effects
 speed: 10 ft., burrow 5 ft.

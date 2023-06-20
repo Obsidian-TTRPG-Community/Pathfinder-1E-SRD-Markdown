@@ -20,7 +20,7 @@ senses: darkvision, detect good, see invisibility
 aura: desecration
 AC: 24, touch 19, flat-footed 20 (dex +4, natural +5, profane +5)
 HP: 138
-HD: 12d8+84
+hit_dice: 12d8+84
 saves: Fort +11, Ref +10, Will +11
 immune: undead traits
 DR: 10/good

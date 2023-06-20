@@ -21,7 +21,7 @@ senses: darkvision, detect poison, low-light vision
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 68
 HP_extra: fast healing 5
-HD: 8d10+24
+hit_dice: 8d10+24
 saves: Fort +9, Ref +8, Will +7
 DR: 5/magic
 SR: 17

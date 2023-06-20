@@ -22,7 +22,7 @@ perception: +7
 senses: darkvision, scent, telepathic senses
 AC: 14, touch 14, flat-footed 13 (dex +1, wis +3)
 HP: 7
-HD: 1d6+1
+hit_dice: 1d6+1
 saves: Fort +0, Ref +1, Will +5
 saves_other: -2 vs. disease and inhaled poison
 immune: ingested poisons

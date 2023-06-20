@@ -20,7 +20,7 @@ perception: +28
 senses: darkvision, low-light vision
 AC: 25, touch 25, flat-footed 14 (dex +3, dodge +8, size +4)
 HP: 170
-HD: 20d10+60
+hit_dice: 20d10+60
 saves: Fort +16, Ref +15, Will +9
 immune: electricity, weapon damage
 defensive_abilities: swarm traits

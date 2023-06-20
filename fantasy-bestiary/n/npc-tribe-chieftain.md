@@ -20,7 +20,7 @@ INI: +1
 perception: +2
 AC: 15, touch 11, flat-footed 14 (armor +4, dex +1)
 HP: 102
-HD: 12d10+36
+hit_dice: 12d10+36
 saves: Fort +9, Ref +5, Will +3
 speed: 20 ft.
 melee: +1 human bane greatsword +17/+12/+7 (2d6+7/17-20)

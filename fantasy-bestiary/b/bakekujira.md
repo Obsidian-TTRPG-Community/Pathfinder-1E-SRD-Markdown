@@ -21,7 +21,7 @@ senses: darkvision
 aura: undead parasites
 AC: 32, touch 2, flat-footed 32 (natural +30, size -8)
 HP: 262
-HD: 25d8+150
+hit_dice: 25d8+150
 saves: Fort +14, Ref +10, Will +14
 immune: undead traits
 DR: 15/bludgeoning

@@ -18,7 +18,7 @@ INI: +3
 senses: blindsight, low-light vision
 AC: 13, touch 13, flat-footed 10 (dex +3)
 HP: 19
-HD: 3d8+6
+hit_dice: 3d8+6
 saves: Fort +5, Ref +4, Will +2
 immune: plant traits
 speed: 10 ft.

@@ -20,7 +20,7 @@ perception: +13
 senses: low-light vision
 AC: 17, touch 9, flat-footed 16 (armor +8, dex +1, size -2)
 HP: 63
-HD: 6d8+36
+hit_dice: 6d8+36
 saves: Fort +10, Ref +6, Will +3
 defensive_abilities: anchor (see giant seahorse)
 speed: swim 40 ft.

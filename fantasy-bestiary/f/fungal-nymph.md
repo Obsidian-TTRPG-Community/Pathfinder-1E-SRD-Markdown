@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 aura: blinding beauty
 AC: 23, touch 21, flat-footed 19 (deflection +7, dex +4, natural +2)
 HP: 84
-HD: 8d8+48
+hit_dice: 8d8+48
 saves: Fort +15, Ref +17, Will +16
 immune: disease, plant traits
 DR: 10/cold iron

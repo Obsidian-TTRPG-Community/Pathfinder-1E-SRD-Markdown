@@ -20,7 +20,7 @@ perception: +37
 senses: greensight, low-light vision, mistsight, scent, see in darkness
 AC: 34, touch 26, flat-footed 26 (deflection +8, dex +7, dodge +1, natural +8)
 HP: 325
-HD: 26d6+234
+hit_dice: 26d6+234
 saves: Fort +19, Ref +22, Will +23
 immune: cold
 resist: electricity 10, fire 10

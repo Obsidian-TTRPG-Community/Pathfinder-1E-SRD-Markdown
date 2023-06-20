@@ -21,7 +21,7 @@ INI: +6
 perception: +0
 AC: 25, touch 16, flat-footed 19 (armor +7, dex +6, natural +2)
 HP: 98
-HD: 11d10+33
+hit_dice: 11d10+33
 saves: Fort +10, Ref +10, Will +6
 saves_other: +3 vs. fear
 defensive_abilities: bravery +3

@@ -21,7 +21,7 @@ senses: darkvision, low-light vision
 AC: 24, touch 16, flat-footed 18 (armor +4, dex +5, dodge +1, natural +4)
 HP: 104
 HP_extra: fast healing 10
-HD: 11d10+44
+hit_dice: 11d10+44
 saves: Fort +11, Ref +8, Will +11
 saves_other: +2 vs. divine
 immune: death attacks, disease, energy drain, poison

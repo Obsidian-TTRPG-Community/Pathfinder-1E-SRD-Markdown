@@ -20,7 +20,7 @@ senses: darkvision, detect scrying, low-light vision, scent, see in darkness
 AC: 29, touch 11, flat-footed 24 (dex +5, natural +18, size -4)
 HP: 202
 HP_extra: fast healing 10
-HD: 15d10+120
+hit_dice: 15d10+120
 saves: Fort +17, Ref +14, Will +11
 immune: acid, cold
 DR: 10/magic and slashing

@@ -18,7 +18,7 @@ INI: -2
 senses: tremorsense
 AC: 24, touch 6, flat-footed 24 (dex -2, natural +18, size -2)
 HP: 142
-HD: 15d8+75
+hit_dice: 15d8+75
 saves: Fort +14, Ref +3, Will +5
 immune: acid, mind-affecting effects
 DR: 15/piercing

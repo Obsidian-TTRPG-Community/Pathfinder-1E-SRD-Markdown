@@ -22,7 +22,7 @@ aura: frightful presence, locusts, unholy aura
 AC: 48, touch 38, flat-footed 39 (deflection +4, dex +9, natural +10, profane +16, size -1)
 HP: 752
 HP_extra: other regeneration (deific or mythic)
-HD: 35d10+560
+hit_dice: 35d10+560
 saves: Fort +31, Ref +32, Will +35
 immune: ability damage, ability drain, charm effects, compulsion effects, cold, death effects, electricity, energy drain, petrification, poison
 resist: acid 30, cold 30, fire 30

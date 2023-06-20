@@ -22,7 +22,7 @@ perception: +2
 senses: low-light vision
 AC: 13, touch 13, flat-footed 11 (dex +1, dodge +1, size +1)
 HP: 14
-HD: 2d6+5
+hit_dice: 2d6+5
 saves: Fort +2, Ref +1, Will +2
 saves_other: +2 vs. illusions
 defensive_abilities: defensive training (+4 dodge bonus to AC vs. giants)

@@ -21,7 +21,7 @@ senses: darkvision, scent, tremorsense, true seeing
 aura: fear aura
 AC: 34, touch 14, flat-footed 28 (dex +6, natural +20, size -2)
 HP: 290
-HD: 20d10+180
+hit_dice: 20d10+180
 saves: Fort +21, Ref +20, Will +13
 immune: disease, exhaustion, fatigue, fire, poison
 resist: acid 10, cold 10, electricity 10

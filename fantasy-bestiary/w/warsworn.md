@@ -20,7 +20,7 @@ senses: darkvision
 aura: frightful presence
 AC: 29, touch 9, flat-footed 26 (dex +3, natural +20, size -4)
 HP: 207
-HD: 18d8+126
+hit_dice: 18d8+126
 saves: Fort +13, Ref +9, Will +17
 immune: undead traits
 DR: 10/bludgeoning and magic

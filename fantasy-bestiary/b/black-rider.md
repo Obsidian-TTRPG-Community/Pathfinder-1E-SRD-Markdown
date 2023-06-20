@@ -20,7 +20,7 @@ senses: darkvision, low-light vision
 aura: icy aura
 AC: 29, touch 15, flat-footed 24 (armor +9, dex +5, natural +5)
 HP: 171
-HD: 18d6+108
+hit_dice: 18d6+108
 saves: Fort +12, Ref +16, Will +15
 immune: cold, poison
 DR: 10/cold iron

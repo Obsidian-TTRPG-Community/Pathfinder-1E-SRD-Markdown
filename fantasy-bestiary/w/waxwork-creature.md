@@ -19,7 +19,7 @@ senses: darkvision, low-light vision
 AC: 13, touch 11, flat-footed 12 (dex +1, natural +2)
 HP: 25
 HP_extra: other waxen regeneration 5 (fire)
-HD: 1d10+20
+hit_dice: 1d10+20
 saves: Fort +0, Ref +1, Will +0
 immune: cold, construct traits
 weak: vulnerable to fire

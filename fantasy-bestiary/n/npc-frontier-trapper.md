@@ -20,7 +20,7 @@ INI: +2
 perception: +7
 AC: 17, touch 13, flat-footed 14 (armor +3, dex +2, dodge +1, shield +1)
 HP: 30
-HD: 4d10+8
+hit_dice: 4d10+8
 saves: Fort +5, Ref +6, Will +2
 speed: 30 ft.
 melee: mwk battleaxe +7 (1d8+2/×3)

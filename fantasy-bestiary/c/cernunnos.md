@@ -22,7 +22,7 @@ aura: primal
 AC: 48, touch 22, flat-footed 35 (dex +12, dodge +1, natural +26, size -1)
 HP: 663
 HP_extra: regeneration 10; regeneration weakness evil artifacts, effects, and spells
-HD: 34d10+476
+hit_dice: 34d10+476
 saves: Fort +25, Ref +31, Will +25
 immune: ability damage, ability drain, charm effects, compulsion effects, death effects, electricity, energy drain, petrification
 resist: cold 30, fire 30

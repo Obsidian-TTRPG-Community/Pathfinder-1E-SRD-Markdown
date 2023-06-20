@@ -18,7 +18,7 @@ INI: +0
 senses: darkvision, low-light vision
 AC: 16, touch 10, flat-footed 16 (natural +6)
 HP: 47
-HD: 5d10+20
+hit_dice: 5d10+20
 saves: Fort +1, Ref +1, Will +1
 immune: cold, construct traits
 weak: vulnerability to fire

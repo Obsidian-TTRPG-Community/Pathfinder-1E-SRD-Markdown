@@ -21,7 +21,7 @@ senses: darkvision
 aura: unnatural aura
 AC: 20, touch 20, flat-footed 14 (deflection +4, dex +6)
 HP: 76
-HD: 9d8+36
+hit_dice: 9d8+36
 saves: Fort +7, Ref +11, Will +8
 immune: undead traits
 defensive_abilities: channel resistance +2, incorporeal

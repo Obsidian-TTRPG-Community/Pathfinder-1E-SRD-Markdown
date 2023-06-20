@@ -19,7 +19,7 @@ perception: +5
 senses: darkvision, tremorsense
 AC: 24, touch 7, flat-footed 23 (dex +1, natural +17, size -4)
 HP: 142
-HD: 15d8+75
+hit_dice: 15d8+75
 saves: Fort +14, Ref +6, Will +6
 immune: mind-affecting effects
 defensive_abilities: ferocity

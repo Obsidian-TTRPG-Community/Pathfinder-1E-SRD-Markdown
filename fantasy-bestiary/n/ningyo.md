@@ -19,7 +19,7 @@ INI: +1
 perception: +2
 AC: 13, touch 12, flat-footed 12 (dex +1, natural +1, size +1)
 HP: 13
-HD: 2d10+2
+hit_dice: 2d10+2
 saves: Fort +1, Ref +4, Will +5
 speed: 20 ft., swim 40 ft.
 melee: 2 claws +2 (1d3-1), bite +2 (1d4-1)

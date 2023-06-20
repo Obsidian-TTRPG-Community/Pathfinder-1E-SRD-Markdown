@@ -20,7 +20,7 @@ perception: +1
 senses: low-light vision
 AC: 15, touch 14, flat-footed 12 (dex +3, natural +1, size +1)
 HP: 13
-HD: 2d8+4
+hit_dice: 2d8+4
 saves: Fort +5, Ref +6, Will +1
 defensive_abilities: ink cloud
 speed: 20 ft., swim 30 ft., jet 200 ft.

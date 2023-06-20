@@ -21,7 +21,7 @@ aura: fascinating aura, stench
 AC: 24, touch 9, flat-footed 17 (dex +7, natural +15, size -8)
 HP: 266
 HP_extra: fast healing 20
-HD: 28d8+140
+hit_dice: 28d8+140
 saves: Fort +21, Ref +16, Will +16
 immune: plant traits
 DR: 20/magic and slashing

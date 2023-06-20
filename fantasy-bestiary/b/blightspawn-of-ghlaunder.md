@@ -21,7 +21,7 @@ aura: stagnation
 AC: 18, touch 14, flat-footed 14 (dex +4, natural +4)
 HP: 52
 HP_extra: fast healing 3
-HD: 7d8+21
+hit_dice: 7d8+21
 saves: Fort +5, Ref +8, Will +8
 immune: acid, cold, poison
 DR: 5/magic

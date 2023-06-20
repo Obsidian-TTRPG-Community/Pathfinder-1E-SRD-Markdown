@@ -20,7 +20,7 @@ senses: low-light vision
 aura: stymie channeling
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 14
-HD: 2d6+7
+hit_dice: 2d6+7
 saves: Fort +2, Ref +5, Will +4
 saves_other: +4 vs. divine magic
 DR: 5/cold iron

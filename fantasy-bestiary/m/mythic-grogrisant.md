@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, scent
 aura: blazing mane
 AC: 33, touch 33, flat-footed 31 (dex +2, natural +23, size -2)
 HP: 285
-HD: 18d10+186
+hit_dice: 18d10+186
 saves: Fort +20, Ref +13, Will +14
 immune: disease, fire, light effects, poison
 resist: acid 10, electricity 10

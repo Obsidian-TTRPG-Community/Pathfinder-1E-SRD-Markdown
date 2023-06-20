@@ -20,7 +20,7 @@ senses: blindsense, darkvision
 AC: 19, touch 9, flat-footed 19 (natural +10, size -1)
 HP: 104
 HP_extra: regeneration 2; regeneration weakness acid
-HD: 11d8+55
+hit_dice: 11d8+55
 saves: Fort +8, Ref +5, Will +13
 defensive_abilities: amorphous, lulling thoughts
 weak: ley line dependency

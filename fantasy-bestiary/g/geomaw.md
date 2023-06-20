@@ -19,7 +19,7 @@ perception: +13
 senses: darkvision, tremorsense
 AC: 19, touch 7, flat-footed 19 (dex -2, natural +12, size -1)
 HP: 95
-HD: 10d8+50
+hit_dice: 10d8+50
 saves: Fort +10, Ref +3, Will +7
 weak: blind, blood gorger
 speed: 10 ft., burrow 20 ft.

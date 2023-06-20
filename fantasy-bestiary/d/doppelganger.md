@@ -20,7 +20,7 @@ perception: +9
 senses: darkvision
 AC: 16, touch 12, flat-footed 14 (dex +1, dodge +1, natural +4)
 HP: 26
-HD: 4d10+4
+hit_dice: 4d10+4
 saves: Fort +4, Ref +5, Will +6
 immune: charm, sleep
 speed: 30 ft.

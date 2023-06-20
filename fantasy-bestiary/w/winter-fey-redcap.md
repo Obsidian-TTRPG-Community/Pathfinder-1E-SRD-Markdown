@@ -21,7 +21,7 @@ senses: low-light vision
 AC: 22, touch 15, flat-footed 18 (armor +2, dex +4, natural +5, size +1)
 HP: 68
 HP_extra: fast healing 3; fast healing weakness when in contact with snow or ice
-HD: 8d6+40
+hit_dice: 8d6+40
 saves: Fort +7, Ref +10, Will +7
 immune: cold
 DR: 10/cold iron

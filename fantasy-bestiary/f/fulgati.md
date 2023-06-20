@@ -22,7 +22,7 @@ aura: calamity
 AC: 32, touch 5, flat-footed 29 (dex +3, natural +27, size -8)
 HP: 312
 HP_extra: regeneration 10; regeneration weakness artifacts, epic, or mythic
-HD: 25d10+175
+hit_dice: 25d10+175
 saves: Fort +21, Ref +11, Will +20
 immune: cold, death effects, disease, electricity, poison
 resist: fire 15, sonic 15

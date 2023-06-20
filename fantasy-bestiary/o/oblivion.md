@@ -21,7 +21,7 @@ aura: dubiety
 AC: 36, touch 15, flat-footed 23 (dex +13, natural +21, size -8)
 HP: 377
 HP_extra: regeneration 15; regeneration weakness positive energy or inspiration
-HD: 26d8+260
+hit_dice: 26d8+260
 saves: Fort +20, Ref +23, Will +19
 immune: annihilation, banishment, electricity, ooze traits
 resist: fire 30

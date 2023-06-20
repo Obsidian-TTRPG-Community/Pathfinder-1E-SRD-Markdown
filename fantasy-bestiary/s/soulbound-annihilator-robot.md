@@ -21,7 +21,7 @@ senses: darkvision, low-light vision, tremorsense
 AC: 32, touch 10, flat-footed 29 (deflection +1, dex +2, dodge +1, natural +22, size -4)
 HP: 190
 HP_extra: other force field (80 hp, fast healing 16)
-HD: 20d10+80
+hit_dice: 20d10+80
 saves: Fort +8, Ref +8, Will +5
 immune: cold, construct traits
 resist: electricity 30, fire 30

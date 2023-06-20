@@ -19,7 +19,7 @@ perception: +18
 senses: blindsense, darkvision, hive mind
 AC: 27, touch 16, flat-footed 22 (deflection +2, dex +4, dodge +1, natural +11, size -1)
 HP: 126
-HD: 12d10+60
+hit_dice: 12d10+60
 saves: Fort +11, Ref +14, Will +13
 resist: sonic 10
 speed: 50 ft.

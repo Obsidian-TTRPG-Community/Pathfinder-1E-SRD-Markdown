@@ -19,7 +19,7 @@ perception: +21
 senses: darkvision, low-light vision
 AC: 27, touch 13, flat-footed 22 (dex +5, natural +14, size -2)
 HP: 161
-HD: 17d8+85
+hit_dice: 17d8+85
 saves: Fort +10, Ref +10, Will +15
 defensive_abilities: spell siphon
 SR: 23

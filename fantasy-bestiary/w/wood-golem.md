@@ -18,7 +18,7 @@ INI: +3
 senses: darkvision, low-light vision
 AC: 19, touch 13, flat-footed 16 (dex +3, natural +6)
 HP: 64
-HD: 8d10+20
+hit_dice: 8d10+20
 saves: Fort +2, Ref +5, Will +5
 immune: construct traits, magic
 DR: 5/adamantine

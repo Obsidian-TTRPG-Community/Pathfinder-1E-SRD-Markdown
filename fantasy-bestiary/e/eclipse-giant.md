@@ -20,7 +20,7 @@ perception: +41
 senses: low-light vision, see in darkness
 AC: 32, touch 6, flat-footed 32 (natural +26, size -4)
 HP: 312
-HD: 25d8+200
+hit_dice: 25d8+200
 saves: Fort +16, Ref +15, Will +21
 immune: death effects
 defensive_abilities: rock catching

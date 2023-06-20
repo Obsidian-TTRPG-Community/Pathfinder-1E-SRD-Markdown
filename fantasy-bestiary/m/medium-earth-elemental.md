@@ -20,7 +20,7 @@ perception: +7
 senses: darkvision, tremorsense
 AC: 18, touch 9, flat-footed 18 (dex -1, natural +9)
 HP: 34
-HD: 4d10+12
+hit_dice: 4d10+12
 saves: Fort +7, Ref +0, Will +4
 immune: elemental traits
 speed: 20 ft., burrow 20 ft., other ['earth glide'] ft.

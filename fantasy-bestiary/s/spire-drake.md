@@ -19,7 +19,7 @@ perception: +11
 senses: darkvision, low-light vision
 AC: 20, touch 10, flat-footed 19 (dex +1, natural +10, size -1)
 HP: 84
-HD: 8d12+32
+hit_dice: 8d12+32
 saves: Fort +10, Ref +7, Will +6
 immune: curses, energy drain, negative energy, paralysis, sleep
 speed: 30 ft., fly 60 ft. (average), climb 30 ft.

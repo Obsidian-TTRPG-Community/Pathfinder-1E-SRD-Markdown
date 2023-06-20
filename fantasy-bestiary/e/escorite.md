@@ -20,7 +20,7 @@ senses: low-light vision, see in darkness
 aura: inevitability
 AC: 21, touch 14, flat-footed 16 (dex +4, dodge +1, natural +7, size -1)
 HP: 97
-HD: 13d6+52
+hit_dice: 13d6+52
 saves: Fort +8, Ref +12, Will +11
 resist: acid 10, cold 10, fire 10
 DR: 10/cold iron

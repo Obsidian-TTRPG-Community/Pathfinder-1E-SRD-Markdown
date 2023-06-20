@@ -20,7 +20,7 @@ perception: +2
 senses: darkvision
 AC: 15, touch 14, flat-footed 12 (dex +3, natural +1, size +1)
 HP: 19
-HD: 3d10+3
+hit_dice: 3d10+3
 saves: Fort +4, Ref +6, Will +5
 resist: acid 5, cold 5
 weak: head bowl

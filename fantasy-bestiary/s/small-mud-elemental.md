@@ -20,7 +20,7 @@ perception: +5
 senses: darkvision, tremorsense
 AC: 16, touch 10, flat-footed 16 (dex -1, natural +6, size +1)
 HP: 13
-HD: 2d10+2
+hit_dice: 2d10+2
 saves: Fort +4, Ref +2, Will +0
 immune: acid, elemental traits
 speed: 20 ft., other_semicolon earth glide ft., burrow 10 ft., swim 30 ft.

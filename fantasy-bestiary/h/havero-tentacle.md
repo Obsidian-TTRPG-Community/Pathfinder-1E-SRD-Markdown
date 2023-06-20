@@ -18,7 +18,7 @@ INI: +1
 senses: blindsense
 AC: 19, touch 10, flat-footed 18 (dex +1, natural +9, size -1)
 HP: 66
-HD: 7d8+35
+hit_dice: 7d8+35
 saves: Fort +7, Ref +3, Will +10
 immune: cold, mind-affecting effects, poison, vision-based effects
 resist: acid 10, fire 10

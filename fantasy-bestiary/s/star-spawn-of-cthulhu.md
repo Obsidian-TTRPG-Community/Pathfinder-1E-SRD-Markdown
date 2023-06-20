@@ -21,7 +21,7 @@ aura: frightful presence
 AC: 36, touch 9, flat-footed 35 (dex +1, natural +27, size -2)
 HP: 362
 HP_extra: regeneration 15; regeneration weakness fire
-HD: 25d8+250
+hit_dice: 25d8+250
 saves: Fort +18, Ref +9, Will +25
 saves_other: +8 vs. divination and mind-affecting
 immune: cold, disease, poison

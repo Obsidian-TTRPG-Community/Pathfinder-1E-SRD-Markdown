@@ -19,7 +19,7 @@ perception: +17
 senses: blindsight, darkvision, thoughtsense
 AC: 16, touch 16, flat-footed 15 (deflection +5, dex +1)
 HP: 40
-HD: 9d10-9
+hit_dice: 9d10-9
 saves: Fort +4, Ref +7, Will +9
 defensive_abilities: psychic buffer
 speed: fly 40 ft. (perfect)

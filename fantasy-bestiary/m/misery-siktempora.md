@@ -21,7 +21,7 @@ senses: darkvision
 AC: 27, touch 19, flat-footed 22 (dex +4, dodge +1, insight +5, natural +8, size -1)
 HP: 168
 HP_extra: fast healing 10
-HD: 16d10+80
+hit_dice: 16d10+80
 saves: Fort +10, Ref +16, Will +15
 immune: disease, mind-affecting effects, pain effects, poison
 defensive_abilities: evasion, temporal sense

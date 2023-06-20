@@ -20,7 +20,7 @@ perception: +13
 senses: darkvision
 AC: 19, touch 9, flat-footed 19 (natural +10, size -1)
 HP: 76
-HD: 8d10+32
+hit_dice: 8d10+32
 saves: Fort +10, Ref +4, Will +8
 immune: waters of the River Styx
 defensive_abilities: all-around vision

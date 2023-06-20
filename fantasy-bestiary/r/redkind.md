@@ -20,7 +20,7 @@ senses: low-light vision
 aura: twisted shadows
 AC: 17, touch 15, flat-footed 13 (dex +4, natural +2, size +1)
 HP: 16
-HD: 3d6+6
+hit_dice: 3d6+6
 saves: Fort +3, Ref +7, Will +2
 weak: situational blindness
 speed: 30 ft.

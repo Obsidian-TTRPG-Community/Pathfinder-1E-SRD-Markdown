@@ -21,7 +21,7 @@ senses: dragon senses, see in darkness
 aura: alien presence
 AC: 28, touch 9, flat-footed 27 (dex +1, natural +19, size -2)
 HP: 212
-HD: 17d12+102
+hit_dice: 17d12+102
 saves: Fort +15, Ref +13, Will +15
 immune: fire, paralysis, sleep
 DR: 5/magic

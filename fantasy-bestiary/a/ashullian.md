@@ -20,7 +20,7 @@ perception: +16
 senses: blindsight, scent
 AC: 26, touch 16, flat-footed 19 (dex +7, natural +10, size -1)
 HP: 137
-HD: 11d10+77
+hit_dice: 11d10+77
 saves: Fort +9, Ref +14, Will +11
 resist: cold 30
 defensive_abilities: gaze attacks, illusions, visual effects, and other attack forms that rely on sight

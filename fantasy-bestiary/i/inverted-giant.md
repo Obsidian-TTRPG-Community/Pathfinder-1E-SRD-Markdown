@@ -22,7 +22,7 @@ aura: fear aura
 AC: 25, touch 10, flat-footed 23 (dex +2, natural +15, size -2)
 HP: 152
 HP_extra: fast healing 4
-HD: 16d8+80
+hit_dice: 16d8+80
 saves: Fort +15, Ref +7, Will +7
 resist: cold 10, electricity 10, fire 10
 defensive_abilities: rock catching

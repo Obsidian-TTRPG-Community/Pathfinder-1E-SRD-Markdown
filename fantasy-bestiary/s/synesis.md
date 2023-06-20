@@ -21,7 +21,7 @@ senses: darkvision
 aura: cognitive aura
 AC: 17, touch 13, flat-footed 15 (deflection +1, dex +2, natural +4)
 HP: 39
-HD: 6d10+6
+hit_dice: 6d10+6
 saves: Fort +6, Ref +4, Will +7
 immune: cold, critical hits, poison
 resist: electricity 10, fire 10

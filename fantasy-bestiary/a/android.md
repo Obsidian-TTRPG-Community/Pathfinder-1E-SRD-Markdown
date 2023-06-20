@@ -22,7 +22,7 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 15, touch 13, flat-footed 12 (armor +2, dex +3)
 HP: 11
-HD: 1d8+3
+hit_dice: 1d8+3
 saves: Fort +2, Ref +5, Will +0
 saves_other: +4 vs. mind-affecting, paralysis, poison, and stun
 immune: disease, emotion, exhaustion, fatigue, fear, sleep

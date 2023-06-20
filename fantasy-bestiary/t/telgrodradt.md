@@ -19,7 +19,7 @@ perception: +10
 senses: darkvision
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 67
-HD: 9d8+27
+hit_dice: 9d8+27
 saves: Fort +6, Ref +5, Will +7
 defensive_abilities: negative energy affinity
 speed: 30 ft., burrow 10 ft.

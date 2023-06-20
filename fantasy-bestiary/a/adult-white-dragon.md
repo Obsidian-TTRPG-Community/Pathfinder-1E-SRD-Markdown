@@ -21,7 +21,7 @@ senses: dragon senses, snow vision
 aura: cold, frightful presence
 AC: 27, touch 10, flat-footed 26 (dex +1, natural +17, size -1)
 HP: 149
-HD: 13d12+65
+hit_dice: 13d12+65
 saves: Fort +13, Ref +9, Will +10
 immune: cold, paralysis, sleep
 DR: 5/magic

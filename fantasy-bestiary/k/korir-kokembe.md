@@ -20,7 +20,7 @@ senses: darkvision, low-light vision, scent
 aura: frightful presence
 AC: 24, touch 10, flat-footed 22 (dex +2, natural +14, size -2)
 HP: 136
-HD: 13d12+52
+hit_dice: 13d12+52
 saves: Fort +12, Ref +12, Will +10
 immune: disease, dragon traits, magic paralysis and sleep
 speed: 40 ft., fly 80 ft. (good), climb 40 ft., swim 40 ft.
